@@ -1,0 +1,45 @@
+Title: July 26th, 2018
+
+----
+
+Text: Checked in at The Skiff
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5b59aa7cbb8d36002cca1677
+
+----
+
+Longitude: -0.13849854469299
+
+----
+
+Latitude: 50.829164274926
+
+----
+
+Temperature: 
+
+----
+
+Weather Icon: 
+
+----
+
+Date: 2018-07-26 12:03
+
+----
+
+Redirect: https://calumryan.com/note/1800
+
+----
+
+UID: 1800

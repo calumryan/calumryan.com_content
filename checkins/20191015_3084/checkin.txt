@@ -1,0 +1,45 @@
+Title: October 15th, 2019
+
+----
+
+Text: Checked in at Brewhouse Yard
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5da5c272e4ce630008fa872c
+
+----
+
+Longitude: -0.10156297568078
+
+----
+
+Latitude: 51.523949309239
+
+----
+
+Temperature: 16°C
+
+----
+
+Weather Icon: partly-cloudy-day
+
+----
+
+Date: 2019-10-15 13:58
+
+----
+
+Redirect: https://calumryan.com/note/3084
+
+----
+
+UID: 3084

@@ -1,0 +1,45 @@
+Title: November 2nd, 2018
+
+----
+
+Text: Checked in at Exbar
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5bdcb3fef62e09002c50cafc
+
+----
+
+Longitude: 13.440439
+
+----
+
+Latitude: 52.499102
+
+----
+
+Temperature: 7°C
+
+----
+
+Weather Icon: cloudy
+
+----
+
+Date: 2018-11-02 20:30
+
+----
+
+Redirect: https://calumryan.com/note/2093
+
+----
+
+UID: 2093

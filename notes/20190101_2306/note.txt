@@ -1,0 +1,41 @@
+Title: January 1st, 2019
+
+----
+
+Text: Happy New Year from that funny small island next to Europe 🎉Here's my end of 2018 review and hopes for 2019 post https://calumryan.com/blog/end-of-year-review-2018/
+
+----
+
+Permalink: 
+
+----
+
+Tags: indieweb, review, blogging, 2018
+
+----
+
+Latitude: 51.2054684
+
+----
+
+Longitude: 0.2751596
+
+----
+
+Temperature: 7°C
+
+----
+
+Weather Icon: partly-cloudy-night
+
+----
+
+Date: 2019-01-01 00:43
+
+----
+
+Redirect: https://calumryan.com/note/2306
+
+----
+
+UID: 2306

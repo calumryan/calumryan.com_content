@@ -1,0 +1,74 @@
+Title: Designing your first design system
+----
+Description: In this article I look at what is a design system and what it should include, depending on your organisation and areas of expertise
+
+----
+
+Thumbnail: media/pages/posts/unsorted/og/design.jpg
+
+----
+
+Og:  false
+
+----
+
+Text:
+What is a design system? you might ask. You'll likely get back differing answers depending on who you're asking and whether their main interest is in writing code, designing user interfaces, branding or content authoring. A design system isn't restricted to one discipline but can take on many different purposes in an organisation looking to define standards, methods and procedures for their work.
+
+Stepping back a moment from assumptions over specific disciplines or technicalities and looking instead at design systems from a broader perspective, I think a design system should be considered a tool which helps us to efficiently and consistently solve problems and challenges in an organisation.
+
+Quoting from [Jina Anne](https://twitter.com/jina/), "Design Systems are for PEOPLE", this pretty much sums up what I think a design system has the potential to be if an organisation really puts a lot of thought and effort into how they design a design system:
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Design Systems are for PEOPLE.<br><br>You know what else is for people?<br><br>Accessibility. Inclusion. Diversity. Culture. Privacy. Ethics. Performance.<br><br>Think these things have nothing to do with design systems<br><br>YOU ARE WRONG.</p>&mdash; crazy witch asian (@jina) <a href="https://twitter.com/jina/status/1164698330640846853?ref_src=twsrc%5Etfw">August 23, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+## Beginning a project with a design system already in place
+When prototyping a website it's helpful to have a range of well organised and presented building blocks which can be easily called upon and put together in code. In recent years I've been working with a components library and style guide called Fractal, made by [Clearleft](https://clearleft.com/), to manage and design components in code.
+
+I draw on influence from [Gov UK's design system](https://design-system.service.gov.uk/) which divides up into three separate sections: Styles, Components and Patterns. Their design system details not only technical approaches and user interface elements but also facilitates open contribution and discussion through email and Slack for research conducted into specific features and usage patterns. Accessibility is an essential requirement for Gov UK's design system so as to keep every part of it inclusively designed for everyone that needs to use it.
+
+The beta version of the [NHS digital service manual](https://beta.nhs.uk/service-manual/) presents different design elements with relevance to different areas of the organisation and takes some principles forward from the Gov UK design system. How their design system is designed is important since it makes it clearer for everyone using it, regardless of their discipline or reasons to use it, to learn how to solve problems with a consistent approach.
+
+## Why we have design systems
+Before planning what to put into your design system you first need to consider what areas of your workflow need improving: from general inefficiencies and team conflicts to inconsistent approaches for problem solving across different team members.
+
+A design system for code, if done well from the start, helps teams to write more robust, maintainable code when putting together a project from scratch or adding new features to an existing one. It's also more likely to encourage the team to look at ways to make their codebase more adaptable for a range of use cases, rather than very customised features that will only work for one client or small scale use case.
+
+A design system including a content style guide plays an important part in giving greater consistency over aspects like external communications, pitches, website and social media posts. Difficulty for setting the right tone and using clear language to write about something are just some of the reasons why design systems are needed for outlining a suitable content style alongside other more visual or technical aspects.
+
+## What to include in a design system
+Understanding what makes for a good design system will help you to plan what to include and what to leave out of it. Find good examples of best practice from your existing projects as well as from trusted, reliable sources of reference material, leading organisation in your industry or discipline of work and from a range of resources on the web.
+
+Decide early on if a feature in your design system has a broad range of use cases that will be useful in different projects, not just today but several months or even years ahead. Remove entirely or categorise a draft status for anything that isn't fully tested or formally agreed upon as useful feature to include in your design system.
+
+## Evolving the design system
+Much like any digital product, a design system requires ongoing maintenance and renewal to ensure it adapts to the changing needs of an organisation. Therefore have a plan for how you will keep your design system up to date after its initial launch. Versioning your design system along with a summary of the changes is a good way to keep track of changes and help inform the team of changes to your stylistic approach, new or discontinued design features.
+
+Additionally make space for notes or documentation to accompany the individual parts within your design system. This not only helps you but anyone else new to the team or organisation to understand the purpose and implementation methods for each part.
+
+## Finally
+One of your main goals for having a design system should be that it frees up your time to focus on other aspects of your organisation's challenges and opportunities. Don't be tempted to copy another organisation's entire design system or have a design system just for the sake of having one. Determine first what the purpose of your design system is and who will be using it. Only then consider what it should contain:
+
+- Where to take inspiration from in other design systems
+- How it should be organised and presented
+- Whether it's publicly available on the web or in a restricted access location
+
+Make sure once you have a design system that you use it effectively and utilise different features as required in each project or task. Where a client or use case dictates something extraordinary and beyond the scope of what your design system already offers then carefully justify whether or not it's worth spending the time and effort to implement.
+
+A well designed, comprehensive design systems, inclusive of everyone's needs has the potential to empower every individual in an organisation to take greater pride in what they do and satisfaction from what they're producing. If the design system is publicly available or marketed as a tool in your workflow then it can also help strengthen the overall impression of the organisation externally to clients and prospective employees.
+
+### Reference + reading
+- [Paul Boag](https://boagworld.com/design/pattern-library/) discusses how to create a pattern library and why
+- [Styleguide.io](http://styleguides.io) collates a comprehensive list of design systems focused on UI and codebases
+- [Paula Borowska](https://designmodo.com/design-system/) discusses what to include in a design system in terms of UI and accessibility features
+- [Patterns Day 2](https://adactio.com/journal/15546) was a conference I recently attended with a series of talks all about design systems. All of the talks can be viewed or listened to which are linked to on Jeremy's post
+- [Rachel McConnell](https://clearleft.com/posts/why-your-design-system-should-include-content) discusses why your design system should include content
+----
+
+Tags: general
+----
+
+Date: 2019-09-16 00:00
+
+----
+
+Redirect: https://calumryan.com/blog/designing-your-design-system/

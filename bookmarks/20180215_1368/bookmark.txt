@@ -1,0 +1,22 @@
+Title: &quot;Replacing jQuery With Vue.js: No Build Step Necessary&quot; – Sarah Drasner | https://www.smashingmagazine.com/2018/02/jquery-vue-javascript/ 
+
+
+----
+
+Permalink: https://www.smashingmagazine.com/2018/02/jquery-vue-javascript/
+
+----
+
+Date: 2018-02-15 00:00
+
+----
+
+Tags:  
+
+----
+
+Redirect: https://calumryan.com/note/1368
+
+----
+
+UID: 1368

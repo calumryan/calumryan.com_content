@@ -1,0 +1,45 @@
+Title: November 3rd, 2017
+
+----
+
+Text: Checked in at Körnerkiez. Sleep before IndieWebCamp
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/59fcf5e2a4b51b7e75d8e498
+
+----
+
+Longitude: 13.436443651947
+
+----
+
+Latitude: 52.469484046924
+
+----
+
+Temperature: 
+
+----
+
+Weather Icon: 
+
+----
+
+Date: 2017-11-03 23:04
+
+----
+
+Redirect: https://calumryan.com/note/1119
+
+----
+
+UID: 1119

@@ -1,0 +1,45 @@
+Title: July 8th, 2020
+
+----
+
+Text: So few folks I follow do this, even those who really should know better, so here's your regular reminder to make images you publish on Twitter accessibile to all by including descriptions https://help.twitter.com/en/using-twitter/picture-descriptions
+
+----
+
+Date: 2020-07-08 11:15
+
+----
+
+Bridgy: twitter
+
+----
+
+Uid: 3537
+
+----
+
+Feature-images: 
+
+----
+
+Tags: a11y
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

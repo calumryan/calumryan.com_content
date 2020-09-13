@@ -1,0 +1,45 @@
+Title: October 5th, 2019
+
+----
+
+Text: Checked in at John Lewis &amp; Partners
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5d98cd5135535100070008ca
+
+----
+
+Longitude: -0.2222438
+
+----
+
+Latitude: 51.5100145
+
+----
+
+Temperature: 15°C
+
+----
+
+Weather Icon: partly-cloudy-day
+
+----
+
+Date: 2019-10-05 18:05
+
+----
+
+Redirect: https://calumryan.com/note/3060
+
+----
+
+UID: 3060

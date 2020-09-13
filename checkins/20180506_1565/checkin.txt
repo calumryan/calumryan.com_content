@@ -1,0 +1,45 @@
+Title: May 6th, 2018
+
+----
+
+Text: Checked in at H Mintropplatz
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5aef3901d0a149002c88b9a2
+
+----
+
+Longitude: 6.7901493066027
+
+----
+
+Latitude: 51.217575592278
+
+----
+
+Temperature: 
+
+----
+
+Weather Icon: 
+
+----
+
+Date: 2018-05-06 18:18
+
+----
+
+Redirect: https://calumryan.com/note/1565
+
+----
+
+UID: 1565

@@ -1,0 +1,91 @@
+Title: The inclusive web industry
+----
+
+Description:
+
+----
+
+Og:  false
+
+----
+
+Text:
+One of the things I think resonates in anyone with a genuine passion and commitment to working on the web is to make the web a place that is inclusive for all. It’s a place that should be free of prejudices and where we continually try to adapt and evolve methods, tooling and web standards to meet the needs of different user expectations and impairments as best we can possibly do. Taking into account these principles I’d like to see more of a focus on how we apply them to our own working environments, community events and hiring processes. How can we be more inclusive in these environments and proactively make our industry a better more attractive place to work, network and socialise in?
+
+## Work-life and family balance
+Just like many other jobs working in the web industry can be pressured and time consuming where working long unsociable hours, sometimes to match different timezone, is commonplace The impact this can have on our mental wellbeing, our families and social life can be significant over time; with the result that some of the job opportunities lock out or prevent many of those wishing to have a more balanced, healthy lifestyle with family as well as friends outside of work and the industry.
+
+Bringing family into the ethos of the business should be a positive approach to helping increase the diversity of people in the web industry. Supporting flexible remote working where possible and valuing the time we have outside of our work more can all help make us a more inclusive industry to work in. By the nature of our work and technology we use; we aren’t necessarily constrained by place or time in one sense but with that comes greater responsibility to manage a healthy work-life balance.
+
+## Mental wellbeing and self improvement
+Whether working as a freelancer or employee the risk of burnout in our industry is continually an issue with a the fast paced nature of our work, pressure to upskill and keep up with latest technologies, software, frameworks and design approaches. Collectively we all need to get better at helping each other in improving ourselves and learning more inclusively so that the resources and documentation we create isn’t just suited to one mindset.
+
+We all have different ways of learning and it can take longer or shorter than others to grasp a concept, new coding language or using a new piece of software. Our industry suffers in inclusivity by not always providing the time or support to allow people to upskill and be trained effectively in their current job. Consequently some hiring processes result in getting a very limited range of people with those who think alike and do not challenge each others process to offer new perspective in the organisation, its product or potential customers.
+
+Making our teams and organisations more diverse requires the hiring of people with varied levels of ability so long as they all share an enthusiasm to learn and be supported in doing so.
+
+## Impairment
+Good companies and organisations cater for many kinds of impairment to make the web more inclusive but the same cannot always be said for our work environments, event spaces and how we hire people. Where we decide to locate our offices and events can have implications on who can access them. We need to consider better both physical and mental impairment and how this affects someone’s choices when it comes to events and places of work. Can everyone easily access and travel to the workspace orvenue without intentionally or inadvertently creating barriers to access.
+
+In some cases offering flexible and well managed remote working arrangements can be the answer but where this isn’t feasible then we must explore other options that enable rather than exclude people with impairment to work within the web industry.
+
+## Underrepresentation
+Without better representation in the web industry the websites, technologies and products we build suffer: through limited considerations and a lack of addressing the needs and interests of those most underrepresented. Our teams and companies are less diverse as a consequence but simply setting quotas for hiring more underrepresented people based on race, gender or socioeconomic status isn’t necessarily the answer.
+
+We need to look at ways to make our work environments, industry and community social events more inclusive and inviting to the underrepresented. Do the spaces we work, network or socialise in offer a comfortable space for everyone?
+
+Look at representation within your own team, organisation or business and see how you can build stronger relations with those it least represents. This could include taking more responsibility for office chaws, volunteering your time to induct new employees and participating in discussions about more inclusion, mentorship and mental wellbeing in the organisation.
+
+## Unconscious bias
+Inline with all of the above and as well this we be aware of try to eliminate our unconscious biases as a way to make our industry more inclusive and diverse.
+
+Unconscious bias comes in many forms and unfortunately it’s something many of us have to some level.
+
+These are some of the most common types of unconscious bias our industry suffers from:
+
+### Conformity Bias
+Conformity bias can prevail in hiring and team-based decisions which depend on a general consensus. In practise the shared views of the majority pressurises the minority, who might have opposing views, to go along with the majority without ever voicing their opposing views. Particularly in male-dominated teams this can sometime inadvertently silence the minority of women where there’s a difference of opinion resulting in poorly scrutinised decisions on work and recruitment.
+
+### Affinity Bias
+Another prevalent bias in the web industry can be affinity bias in which we look to hire, work and network with people who attended the same groups or educational institutions as us or who worked at the same or similar companies previously. The consequences of having this kind of bias often means we don’t talk to or hire enough people outside our existing network of shared affinity.
+
+### Similarity Bias
+Much like affinity the similarity bias tends to happen quite a lot in our industry whereby companies recruiting or events looking for speakers end up choosing people on the same page in terms of, amongst other things, interests, viewpoints, gender, background and race. We might see parts of ourselves in others when deciding on who to hire in a company or participate in a conference or event. Likewise this bias can extend into the decisions we make on our relations and conversations with co-workers such as who we invite to work lunches and after-work socialising.
+
+We have the ability to rid ourselves of biases but we aren’t always aware we have them in the first place which means we need to discuss them more and address any different kinds of bias we might discover our colleagues have.
+
+## Culture change
+Organisation that embrace an inclusive working culture should be able to operate more efficiently and successfully with less staff turnover reinforced by an environment that all employees enjoy, feel comfortable in and appreciated.
+
+A resilient culture capable of handling future competition and challenges the organisation might face is also important. For digital technology and the web this is extremely relevant which means that time and a sufficient budget for training, conferences and learning material needs to be part of the working culture. Employees shouldn’t be pressured to always find their own time and budget for such things.
+
+We can’t always choose the work we’re given or asked to do but being faced with a project or client to work with that goes against our religious or moral beliefs can be a hard or impossible call. Securing work from any client or business sector at all costs regardless of ethical concerns makes for a less inclusive working culture that is likely to upset, anger and pressure people to leave.
+
+Looking from the outside in, a place that has happy employees with a positive inclusive working culture should be far more attractive to potential clients, users and stakeholders. As a consequence competing for the right kind of clients and users who are also ethical and inclusive in their own organisations and affiliations should be more likely.
+
+## In conclusion
+It’s important that we continue to debate inclusion and diversity in the web industry but also back it up by proactively doing something about the lack of it. Support greater inclusion and diversity by learning more about it, talking about it, blogging and writing about. Consider what you and we can all do together to make our industry more representative of the people we’re making products, websites and services for.
+
+Some great examples of where I think the inclusive web industry already exists includes a handful of organisations, conferences and individuals who I consider to strongly embrace inclusion and diversity in our industry. They’re not only talking about inclusion and diversity but helping encourage and support more underrepresented people into the web industry.
+
+- [Beyond Tellerrand](https://beyondtellerrand.com/)
+- [FFConf](https://2018.ffconf.org/)
+- [Front-end London](http://www.frontendlondon.co.uk/)
+- [Codebar](http://codebar.io/)
+- [FutureLearn](https://www.futurelearn.com/)
+
+### Reference + reading
+
+- [Shut up about diversity](https://medium.com/@doramilitaru/shut-up-about-diversity-ba1fd76bfb21)
+- [9 Types of Unconscious Bias](https://www.socialtalent.com/blog/recruitment/9-types-of-unconscious-bias)
+- [For Women and Minorities to Get Ahead, Managers Must Assign Work Fairly](https://hbr.org/2018/03/for-women-and-minorities-to-get-ahead-managers-must-assign-work-fairly)
+----
+
+Tags: general
+----
+
+Date: 2018-05-06 00:00
+
+----
+
+Redirect: https://calumryan.com/blog/the-inclusive-web-industry/

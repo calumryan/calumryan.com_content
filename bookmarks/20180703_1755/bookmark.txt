@@ -1,0 +1,21 @@
+Title: &quot;The evolution of CAPTCHA techniques has demonstrated that traditional solutions such as text-based characters contained in images are not only challenging for people with disabilities, but also insecure&quot;
+
+----
+
+Permalink: https://www.w3.org/TR/2018/WD-turingtest-20180703/
+
+----
+
+Date: 2018-07-03 11:50
+
+----
+
+Tags:  
+
+----
+
+Redirect: https://calumryan.com/note/1755
+
+----
+
+UID: 1755

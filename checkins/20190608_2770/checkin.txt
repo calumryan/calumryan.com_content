@@ -1,0 +1,49 @@
+Title: June 8th, 2019
+
+----
+
+Text: Checked in at University of Kent
+
+----
+
+Feature Image: fsqhcDl4d.jpg
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5cfb6fbe037be1002cf515a7
+
+----
+
+Longitude: 1.0616184
+
+----
+
+Latitude: 51.2951166
+
+----
+
+Temperature: 15°C
+
+----
+
+Weather Icon: wind
+
+----
+
+Date: 2019-06-08 09:20
+
+----
+
+Redirect: https://calumryan.com/note/2770
+
+----
+
+UID: 2770

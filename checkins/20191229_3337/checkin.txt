@@ -1,0 +1,45 @@
+Title: December 29th, 2019
+
+----
+
+Text: Checked in at Cafe Brera
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5e08c28b10701c0007164d5b
+
+----
+
+Longitude: -0.027820022066977
+
+----
+
+Latitude: 51.505933044412
+
+----
+
+Temperature: 8°C
+
+----
+
+Weather Icon: clear-day
+
+----
+
+Date: 2019-12-29 15:13
+
+----
+
+Redirect: https://calumryan.com/note/3337
+
+----
+
+UID: 3337

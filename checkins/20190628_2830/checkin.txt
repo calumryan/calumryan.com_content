@@ -1,0 +1,45 @@
+Title: June 28th, 2019
+
+----
+
+Text: Checked in at Duke of York's Picturehouse
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5d16109d6d882f002361743f
+
+----
+
+Longitude: -0.13862367356867
+
+----
+
+Latitude: 50.833759704662
+
+----
+
+Temperature: 24°C
+
+----
+
+Weather Icon: partly-cloudy-day
+
+----
+
+Date: 2019-06-28 14:05
+
+----
+
+Redirect: https://calumryan.com/note/2830
+
+----
+
+UID: 2830

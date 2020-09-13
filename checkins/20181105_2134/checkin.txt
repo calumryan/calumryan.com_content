@@ -1,0 +1,45 @@
+Title: November 5th, 2018
+
+----
+
+Text: Checked in at U Oranienburger Tor
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5be09f4816ef67002c7acac5
+
+----
+
+Longitude: 13.387312889099
+
+----
+
+Latitude: 52.525582297
+
+----
+
+Temperature: 11°C
+
+----
+
+Weather Icon: cloudy
+
+----
+
+Date: 2018-11-05 19:51
+
+----
+
+Redirect: https://calumryan.com/note/2134
+
+----
+
+UID: 2134

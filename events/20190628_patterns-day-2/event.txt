@@ -1,0 +1,45 @@
+Title: Patterns Day 2
+
+----
+
+Tags:
+
+----
+
+Latitude: 50.83393
+
+----
+
+Longitude: -0.13835
+
+----
+
+Date: 2019-06-28 09:00
+
+----
+
+Date start: 2019-06-28 09:00:00 +0100
+
+----
+
+Date end: 2019-06-28 18:00:00 +0100
+
+----
+
+Timezone: BST
+
+----
+
+City: Brighton
+
+----
+
+Location: Duke of York’s Picturehouse, Preston Circus, Brighton BN1 4NA, UK
+
+----
+
+Redirect: https://calumryan.com/event/patterns-day-2
+
+----
+
+UID: patterns-day-2

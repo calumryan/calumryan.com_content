@@ -1,0 +1,45 @@
+Title: February 15th, 2019
+
+----
+
+Text: Checked in at Pret A Manger
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5c667aa5be7078002cefee8f
+
+----
+
+Longitude: -0.096857191689221
+
+----
+
+Latitude: 51.517215243892
+
+----
+
+Temperature: 3°C
+
+----
+
+Weather Icon: clear-day
+
+----
+
+Date: 2019-02-15 08:39
+
+----
+
+Redirect: https://calumryan.com/note/2431
+
+----
+
+UID: 2431

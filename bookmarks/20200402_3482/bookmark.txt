@@ -1,0 +1,21 @@
+Title: A starter guide for teams about delivering accessible websites
+
+----
+
+Permalink: https://accessibility-for-teams.com
+
+----
+
+Date: 2020-04-02 11:08
+
+----
+
+Tags: a11y 
+
+----
+
+Redirect: https://calumryan.com/note/3482
+
+----
+
+UID: 3482

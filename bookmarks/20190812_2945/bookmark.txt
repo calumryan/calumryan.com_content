@@ -1,0 +1,21 @@
+Title: Link sharing with a browser plugin by Max Böck
+
+----
+
+Permalink: https://mxb.dev/blog/indieweb-link-sharing/
+
+----
+
+Date: 2019-08-12 14:14
+
+----
+
+Tags: indieweb 
+
+----
+
+Redirect: https://calumryan.com/note/2945
+
+----
+
+UID: 2945

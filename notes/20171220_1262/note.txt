@@ -1,0 +1,41 @@
+Title: December 20th, 2017
+
+----
+
+Text: JSON'd up my short posts feed and ported over to micro.blog https://micro.blog/calumryan
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Temperature: 
+
+----
+
+Weather Icon: 
+
+----
+
+Date: 2017-12-20 19:27
+
+----
+
+Redirect: https://calumryan.com/note/1262
+
+----
+
+UID: 1262

@@ -1,0 +1,45 @@
+Title: December 1st, 2018
+
+----
+
+Text: Checked in at London St Pancras International Railway Station (STP)
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5c02eac6f870fd002ccc7470
+
+----
+
+Longitude: -0.12610938833547
+
+----
+
+Latitude: 51.531683871167
+
+----
+
+Temperature: 11°C
+
+----
+
+Weather Icon: partly-cloudy-night
+
+----
+
+Date: 2018-12-01 20:10
+
+----
+
+Redirect: https://calumryan.com/note/2226
+
+----
+
+UID: 2226

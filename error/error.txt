@@ -1,0 +1,21 @@
+Title: Error
+
+----
+
+Intro: The page could not be found.
+
+----
+
+Text: 
+
+**Sorry, we can’t seem to find what you’re looking for. You've landed on a URL that doesn't seem to exist here.**
+
+Here's some options:
+
+- (link: /contact text: Contact me) if you think this is an error on my part
+- Try using site (link: /search text: search) to find the content you're looking for.
+- Browse the (link: /site-menu text: site menu) for a list of all the content on my site
+
+----
+
+svg: icon-error

@@ -1,0 +1,45 @@
+Title: June 27th, 2018
+
+----
+
+Text: Another productive evening at Homebrew Website Club London – looking into offline updates with ServiceWorkers and helping out @ohhelloana get setup with Jekyll Webmention support
+
+----
+
+Feature Image: hwclondon.jpg
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Latitude: 51.519234
+
+----
+
+Longitude: -0.0718602
+
+----
+
+Temperature: 20°C
+
+----
+
+Weather Icon: clear-day
+
+----
+
+Date: 2018-06-27 21:06
+
+----
+
+Redirect: https://calumryan.com/note/1736
+
+----
+
+UID: 1736

@@ -1,0 +1,45 @@
+Title: June 27th, 2019
+
+----
+
+Text: Checked in at The Eagle
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5d150546598e64002c7082d7
+
+----
+
+Longitude: -0.13693309119713
+
+----
+
+Latitude: 50.826677896642
+
+----
+
+Temperature: 19°C
+
+----
+
+Weather Icon: partly-cloudy-day
+
+----
+
+Date: 2019-06-27 19:04
+
+----
+
+Redirect: https://calumryan.com/note/2823
+
+----
+
+UID: 2823

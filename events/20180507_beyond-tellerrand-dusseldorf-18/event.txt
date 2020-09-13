@@ -1,0 +1,45 @@
+Title: Beyond Tellerrand Düsseldorf 2018
+
+----
+
+Tags:
+
+----
+
+Latitude: 51.224
+
+----
+
+Longitude: 6.8006
+
+----
+
+Date: 2018-05-07 09:00
+
+----
+
+Date start: 2018-05-07 09:00:00 +0100
+
+----
+
+Date end: 2018-05-08 21:00:00 +0100
+
+----
+
+Timezone: CET
+
+----
+
+City: Düsseldorf
+
+----
+
+Location: Capitol Theater
+
+----
+
+Redirect: https://calumryan.com/event/beyond-tellerrand-dusseldorf-18
+
+----
+
+UID: beyond-tellerrand-dusseldorf-18

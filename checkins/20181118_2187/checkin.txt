@@ -1,0 +1,45 @@
+Title: November 18th, 2018
+
+----
+
+Text: Checked in at Caffè Nero
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5bf13301112c6c002cb2c873
+
+----
+
+Longitude: 0.26377286724216
+
+----
+
+Latitude: 51.134544933497
+
+----
+
+Temperature: 6°C
+
+----
+
+Weather Icon: clear-day
+
+----
+
+Date: 2018-11-18 09:38
+
+----
+
+Redirect: https://calumryan.com/note/2187
+
+----
+
+UID: 2187

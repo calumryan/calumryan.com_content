@@ -1,0 +1,21 @@
+Title: Maybe Ignore type=search
+
+----
+
+Permalink: http://adrianroselli.com/2019/07/ignore-typesearch.html
+
+----
+
+Date: 2019-07-26 09:09
+
+----
+
+Tags: html, front-end, forms 
+
+----
+
+Redirect: https://calumryan.com/note/2912
+
+----
+
+UID: 2912

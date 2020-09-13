@@ -1,0 +1,41 @@
+Title: July 18th, 2019
+
+----
+
+Text: Can emojis respond with different variations depending on dark mode being on or off? ..seeing a lot of apps and websites, Twitter included, that totally fail on general visibility / sufficient contrast with dark mode on.
+
+----
+
+Permalink: 
+
+----
+
+Tags: a11y, dark-mode
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Temperature: 
+
+----
+
+Weather Icon: 
+
+----
+
+Date: 2019-07-18 17:19
+
+----
+
+Redirect: https://calumryan.com/note/2897
+
+----
+
+UID: 2897

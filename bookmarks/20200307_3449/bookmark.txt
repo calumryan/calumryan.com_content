@@ -1,0 +1,21 @@
+Title: Stacking Cards Effect with CSS
+
+----
+
+Permalink: https://codyhouse.co/tutorials/how-stacking-cards
+
+----
+
+Date: 2020-03-07 17:59
+
+----
+
+Tags: css, front-end 
+
+----
+
+Redirect: https://calumryan.com/note/3449
+
+----
+
+UID: 3449

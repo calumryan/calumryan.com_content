@@ -1,0 +1,21 @@
+Title: &quot;Fixing&quot; Lists - the pit falls of using list-style: none and its semantic interpretation by VoiceOver
+
+----
+
+Permalink: https://www.scottohara.me/blog/2019/01/12/lists-and-safari.html
+
+----
+
+Date: 2019-01-12 17:54
+
+----
+
+Tags: css, a11y, lists 
+
+----
+
+Redirect: https://calumryan.com/note/2353
+
+----
+
+UID: 2353

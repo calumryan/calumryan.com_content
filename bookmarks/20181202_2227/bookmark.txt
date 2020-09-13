@@ -1,0 +1,21 @@
+Title: &quot;A table like this helps me think about the various conditions that might cause my design to change&quot; - Ethan Marcotte on It’s not about the device.
+
+----
+
+Permalink: https://ethanmarcotte.com/wrote/not-the-device/
+
+----
+
+Date: 2018-12-02 23:07
+
+----
+
+Tags:  
+
+----
+
+Redirect: https://calumryan.com/note/2227
+
+----
+
+UID: 2227

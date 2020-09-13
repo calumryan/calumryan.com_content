@@ -1,0 +1,45 @@
+Title: March 12th, 2019
+
+----
+
+Text: Checked in at Leon
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5c87fcc0c4df1d002cee0256
+
+----
+
+Longitude: -0.10430000551492
+
+----
+
+Latitude: 51.514211240639
+
+----
+
+Temperature: 6°C
+
+----
+
+Weather Icon: partly-cloudy-night
+
+----
+
+Date: 2019-03-12 18:38
+
+----
+
+Redirect: https://calumryan.com/note/2486
+
+----
+
+UID: 2486

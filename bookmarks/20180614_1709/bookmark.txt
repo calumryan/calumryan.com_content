@@ -1,0 +1,21 @@
+Title: Your Brain on Front-End Development
+
+----
+
+Permalink: https://css-tricks.com/your-brain-on-front-end-development/
+
+----
+
+Date: 2018-06-14 15:08
+
+----
+
+Tags: front-end, method, css, html 
+
+----
+
+Redirect: https://calumryan.com/note/1709
+
+----
+
+UID: 1709

@@ -1,0 +1,45 @@
+Title: February 19th, 2020
+
+----
+
+Text: Checked in at Benito's Hat
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5e4d95b687497f00078f31cb
+
+----
+
+Longitude: -0.12592379248934
+
+----
+
+Latitude: 51.511133250178
+
+----
+
+Temperature: 10°C
+
+----
+
+Weather Icon: cloudy
+
+----
+
+Date: 2020-02-19 20:08
+
+----
+
+Redirect: https://calumryan.com/note/3415
+
+----
+
+UID: 3415

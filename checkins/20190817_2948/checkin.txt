@@ -1,0 +1,45 @@
+Title: August 17th, 2019
+
+----
+
+Text: Checked in at Old Fire Station
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5d583e87d4d49e00073c3328
+
+----
+
+Longitude: 0.27446102974908
+
+----
+
+Latitude: 51.197157148955
+
+----
+
+Temperature: 19°C
+
+----
+
+Weather Icon: partly-cloudy-day
+
+----
+
+Date: 2019-08-17 18:51
+
+----
+
+Redirect: https://calumryan.com/note/2948
+
+----
+
+UID: 2948

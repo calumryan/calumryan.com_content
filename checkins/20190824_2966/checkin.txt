@@ -1,0 +1,45 @@
+Title: August 24th, 2019
+
+----
+
+Text: Checked in at Ashford International Railway Station (AFK) (QDH)
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5d616c5a8cc87c00089792eb
+
+----
+
+Longitude: 0.87470101025701
+
+----
+
+Latitude: 51.143254084574
+
+----
+
+Temperature: 29°C
+
+----
+
+Weather Icon: clear-day
+
+----
+
+Date: 2019-08-24 17:56
+
+----
+
+Redirect: https://calumryan.com/note/2966
+
+----
+
+UID: 2966

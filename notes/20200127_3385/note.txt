@@ -1,0 +1,41 @@
+Title: January 27th, 2020
+
+----
+
+Text: My approach to conducting a web accessibility audit https://calumryan.com/blog/conducting-an-accessibility-audit/ \#a11y \#UX
+
+----
+
+Permalink: 
+
+----
+
+Tags: a11y
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Temperature: 
+
+----
+
+Weather Icon: 
+
+----
+
+Date: 2020-01-27 22:18
+
+----
+
+Redirect: https://calumryan.com/note/3385
+
+----
+
+UID: 3385

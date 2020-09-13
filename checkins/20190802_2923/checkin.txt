@@ -1,0 +1,45 @@
+Title: August 2nd, 2019
+
+----
+
+Text: Checked in at West Smithfield Rotunda Garden
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5d443141340dc8000861332a
+
+----
+
+Longitude: -0.10101425209435
+
+----
+
+Latitude: 51.518652406419
+
+----
+
+Temperature: 23°C
+
+----
+
+Weather Icon: partly-cloudy-day
+
+----
+
+Date: 2019-08-02 13:49
+
+----
+
+Redirect: https://calumryan.com/note/2923
+
+----
+
+UID: 2923

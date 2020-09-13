@@ -1,0 +1,49 @@
+Title: March 2nd, 2019
+
+----
+
+Text: Checked in at Maltby Street Market
+
+----
+
+Feature Image: fsqrTJ4pK.jpg
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5c7a7d6bd03360002df16c1b
+
+----
+
+Longitude: -0.075475256672961
+
+----
+
+Latitude: 51.49924514599
+
+----
+
+Temperature: 13°C
+
+----
+
+Weather Icon: partly-cloudy-day
+
+----
+
+Date: 2019-03-02 12:56
+
+----
+
+Redirect: https://calumryan.com/note/2465
+
+----
+
+UID: 2465

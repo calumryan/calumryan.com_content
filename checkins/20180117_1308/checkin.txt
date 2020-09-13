@@ -1,0 +1,45 @@
+Title: January 17th, 2018
+
+----
+
+Text: Checked in at Waitrose
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5a5f965c123a1961252235af
+
+----
+
+Longitude: 0.2757141197228
+
+----
+
+Latitude: 51.194158927786
+
+----
+
+Temperature: 
+
+----
+
+Weather Icon: 
+
+----
+
+Date: 2018-01-17 18:30
+
+----
+
+Redirect: https://calumryan.com/note/1308
+
+----
+
+UID: 1308

@@ -1,0 +1,45 @@
+Title: February 5th, 2019
+
+----
+
+Text: Checked in at Yoyo Design Ltd. Codebar
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5c59dac9ad910e0039c4fa44
+
+----
+
+Longitude: 0.26691198348999
+
+----
+
+Latitude: 51.133504444499
+
+----
+
+Temperature: 5°C
+
+----
+
+Weather Icon: cloudy
+
+----
+
+Date: 2019-02-05 18:49
+
+----
+
+Redirect: https://calumryan.com/note/2402
+
+----
+
+UID: 2402

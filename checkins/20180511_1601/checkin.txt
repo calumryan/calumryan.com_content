@@ -1,0 +1,45 @@
+Title: May 11th, 2018
+
+----
+
+Text: Checked in at Zondag
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5af579d73d4791002c2efa17
+
+----
+
+Longitude: 4.3584084316295
+
+----
+
+Latitude: 52.011843379958
+
+----
+
+Temperature: 
+
+----
+
+Weather Icon: 
+
+----
+
+Date: 2018-05-11 12:09
+
+----
+
+Redirect: https://calumryan.com/note/1601
+
+----
+
+UID: 1601

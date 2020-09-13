@@ -1,0 +1,49 @@
+Title: November 3rd, 2017
+
+----
+
+Text: Checked in at Bahnhof Berlin Südkreuz
+
+----
+
+Feature Image: fsqXRXIet.jpg
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/59fc30806dcf040b42500766
+
+----
+
+Longitude: 13.365164582083
+
+----
+
+Latitude: 52.475951822993
+
+----
+
+Temperature: 
+
+----
+
+Weather Icon: 
+
+----
+
+Date: 2017-11-03 09:01
+
+----
+
+Redirect: https://calumryan.com/note/1107
+
+----
+
+UID: 1107

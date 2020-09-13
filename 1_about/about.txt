@@ -1,0 +1,70 @@
+Title: About
+
+----
+
+Text:
+
+I'm a web accessibility specialist, making the web a better, more inclusive place. I code, write and speak publicly about web accessibility, user research, performance and front-end technologies.
+
+## Experienced with
+
+- Accessible website design and build with a mobile-first approach
+- Conducting accessibility audits: manual testing with screen readers and automated tools like AXE and Lighthouse
+- HTML, CSS and JavaScript (vanilla, or with a library or framework like Vue or React)
+- Build systems like Gulp, Grunt and Webpack
+- Components-based approach to front-end development with tools like Fractal and Pattern Lab
+- Working in teams with tools including Slack, Trello and good old fashioned speaking to each other: face-to-face or by video call!
+- Agile-based workflow and time estimations
+
+## Previously
+
+Before transitioning into the web industry I studied for four years at Brunel University London: completing a BSc in Multimedia Technology & Design. Over the past ten years I've helped deliver websites for a variety of clients in the private and public sectors.
+
+## Seen me at an event recently?
+
+I actively support and engage in the web community through regularly attending conferences and meetups that improve my awareness of new front-end technologies, web standards, accessibility and better approaches to user experience design.
+
+I organise a regular website club in London called (link: https://www.hwclondon.co.uk/ text: Homebrew Website Club) and participate in other (link: https://indieweb.org/ text: IndieWeb) events. Giving back to the web community is important to me which is why I devote some of my free time for coaching others to code and learn to solve problems. I sometimes also go to Codebar to teach HTML, CSS and Javascript skills.
+
+## Speaking and publications
+
+From time to time I do public speaking at events and publish posts about topics related to accessibility, usability and the web here on my blog. I've given talks previously at events including London Web Standards , Front-end London, UX Brighton and Internet Explorers Kent.
+
+## My leisure
+
+Some of the things I enjoy beyond my work include road cycling, visiting museums and travelling the world.
+
+*Profile photo taken by Julie Anne Noying*
+
+----
+
+Description: Profile of Calum Ryan and where to find him.
+
+----
+
+About-feature: (image: berlin-talk.jpg)
+
+----
+
+Email: hello@calumryan.com
+
+----
+
+Social:
+
+- 
+  platform: Twitter
+  url: https://twitter.com/calum_ryan
+  icon: twitter
+- 
+  platform: Instagram
+  url: https://instagram.com/calumryan
+  icon: instagram
+- 
+  platform: GitHub
+  url: https://github.com/calumryan
+  icon: github
+
+----
+
+Special: 

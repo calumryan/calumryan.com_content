@@ -1,0 +1,41 @@
+Title: July 5th, 2016
+
+----
+
+Text: Making a rare appearance @LDNWebPerf tonight – Wifi's patchy at best so a perfect demo environment for progressive web apps
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Latitude: 51.5073148
+
+----
+
+Longitude: -0.0949435
+
+----
+
+Temperature: 20°C
+
+----
+
+Weather Icon: partly-cloudy-day
+
+----
+
+Date: 2016-07-05 23:49
+
+----
+
+Redirect: https://calumryan.com/note/285
+
+----
+
+UID: 285

@@ -1,0 +1,41 @@
+Title: December 18th, 2017
+
+----
+
+Text: ServiceWorker fixing - looks like static generated pages were missing the .html suffix in cache causing a redirect failure not going to https://calumryan.com/offline
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Temperature: 
+
+----
+
+Weather Icon: 
+
+----
+
+Date: 2017-12-18 23:58
+
+----
+
+Redirect: https://calumryan.com/note/1258
+
+----
+
+UID: 1258

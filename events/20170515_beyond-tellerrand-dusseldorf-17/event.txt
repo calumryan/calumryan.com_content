@@ -1,0 +1,45 @@
+Title: Beyond Tellerrand Düsseldorf 2017
+
+----
+
+Tags:
+
+----
+
+Latitude: 51.224
+
+----
+
+Longitude: 6.8006
+
+----
+
+Date: 2017-05-15 09:00
+
+----
+
+Date start: 2017-05-15 09:00:00 +0100
+
+----
+
+Date end: 2017-05-16 21:00:00 +0100
+
+----
+
+Timezone: CET
+
+----
+
+City: Düsseldorf
+
+----
+
+Location: Capitol Theater
+
+----
+
+Redirect: https://calumryan.com/event/beyond-tellerrand-dusseldorf-17
+
+----
+
+UID: beyond-tellerrand-dusseldorf-17

@@ -1,0 +1,45 @@
+Title: May 4th, 2019
+
+----
+
+Text: Walk-through using IndieWeb plugins for WordPress with @dshanske in session: 1 Click IndieWeb Setup for Wordpress (pre-Gutenberg)
+
+----
+
+Feature Image: indiewebcamp-wordpress.jpg
+
+----
+
+Permalink: 
+
+----
+
+Tags: IndieWebCamp, Berlin
+
+----
+
+Latitude: 52.49964879273597
+
+----
+
+Longitude: 13.449391794387111
+
+----
+
+Temperature: 10°C
+
+----
+
+Weather Icon: partly-cloudy-day
+
+----
+
+Date: 2019-05-04 12:59
+
+----
+
+Redirect: https://calumryan.com/note/2628
+
+----
+
+UID: 2628

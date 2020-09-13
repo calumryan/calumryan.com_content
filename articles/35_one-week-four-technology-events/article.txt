@@ -1,0 +1,63 @@
+Title: One week, four technology events
+----
+Description:
+I’ve just returned from Germany on a week-long marathon of events related to the Web industry.
+
+----
+
+Og:  false
+
+----
+
+Text:
+It began with a two-day IndieWebCamp, followed by Beyond Tellerrand, both in Dusseldorf. After that I joined with several others on a train trip to [Nuremberg Web Week](http://nueww.de/). As part of that I attended a workshop called Evaluating Technology with Jeremy Keith. Finally one week after the Dusseldorf IndieWebCamp there was yet another IndieWebCamp in Nuremberg!
+
+### IndieWebCamp Dusseldorf
+[Aaron Parecki](https://aaronparecki.com/) and [Jeremy Keith](https://adactio.com/) took charge of the two-day event in Dusseldorf hosted at the awesome Sipgate space. They both regularly help host [IndieWebCamps](https://indieweb.org/) as well as monthly/bi-weekly [Homebrew Website Clubs](https://indieweb.org/Homebrew_Website_Club) in Europe/America. Their depth of knowledge, experience and commitment to the IndieWeb community is greatly admired and I hope in my own way to contribute what I can to raising awareness of it and improving my own website.
+
+![IndieWebCamp Dusseldorf](/media/pages/posts/unsorted/IMG_20170513_110707.jpg)
+
+The initial day of discussions were a great opportunity to generate ideas for things to work on for the following day. I’d a handful of ideas but settled on re-working the code that displays [Webmentions](https://indieweb.org/webmentions) for my website posts. By the end of the second day I’d just about worked out how to do this but ran out of time to complete, having realised some parts of outputted Webmentions would need further filtering to prevent external spam or malicious code being posted. As an aside task I also increased the quality of my website as a Progressive Web App with a score of 100 (up from 80) using the [Lighthouse tool](https://developers.google.com/web/tools/lighthouse/).
+
+### Beyond Tellerrand Dusseldorf
+It was my first time attending [Beyond Tellerrand](https://beyondtellerrand.com) having previously struggled to find time and funds to get to it. Amazingly the conference is now in its seventh year. [Marc Thiele](https://marcthiele.com) has done an incredible job to consistently attract such great speakers, find a fantastic venue and help organise side events such as IndieWebCamp and speaker-led workshops. His attention to detail is awesome from personalised lanyards to stage furnishings such as a working Commodore 64.
+
+The side events are as much a reason to attend the two-day conference as the conference itself and makes it all the more worthwhile taking the time and expense to travel there.
+
+In total there were thirteen speakers and to summarise all of their talks here would probably take me considerable time so apologies in advance that is not my intention. Marc Thiele has helpfully listed a number of [review posts](https://beyondtellerrand.com/blog/wrap-up-dus2017) if you’re looking for a full breakdown of every talk. Instead I have highlighted the talk here that inspired me the most from Beyond Tellerrand and provided me with the greatest perspective on how to do my job better…
+
+…[Sharon Steed](http://communilogue.co/), from Pittsburgh, despite her slight speech impediment, spoke with confidence and inspiration to 500 of us at Beyond Tellerrand. Her lasting point that remains fixed in my mind is how we communicate what we do with other's not necessarily in the same role/job/industry. How we translate to their language of thought can make a huge difference in how we share empathy for each others problems, concerns and interests. Throughout the week I applied this thinking to conversations with people I met who weren’t necessarily in the same field as me and also applied it to my main piece of work at the second IndieWebCamp in Nuremburg.
+
+![Conference stage](/media/pages/posts/unsorted/beyondtellerrand.jpg)
+
+All of the speakers did an amazing job in presenting their topic(s) and I have much admiration for each and everyone of their craft(s), whether or not they are directly involved in the Web industry. Furthermore there was a sizeable team of support staff who helped make the event what it is including the immensely talented DJ, [Tobi Lessnow](http://www.tobi-lessnow.com/).
+
+### To Nuremberg
+Later in the week I met [Amber Wilson](https://amberwilson.co.uk/): an aspiring web developer who’s strong background in psychology brings, I think, great perspective and valuable experience to making the Web a better place. Her curiosity and commitment to learn what we’re doing really does demonstrate how anybody can enter the Web industry if they have the right attitude and interest to learn and continue to learn. Amber was also attending Beyond Tellerrand and joined with a small group of us afterward on the train to Nuremberg for further events.
+
+### Evaluating Technology with Jeremy Keith
+On my first day in Nuremberg I attended a workshop by Jeremy Keith I’ve recently posted about called [Evaluating Technology](/learning/evaluating-technology/). This was hosted at [Tollwerk](https://tollwerk.de/) which was also the venue for IndieWebCamp and the shorter evening event: Nuremburg Homebrew Website Club.
+
+![Evaluating Technology with Jeremy Keith](/media/pages/posts/unsorted/workshop-2.jpg)
+
+ Tollwerk is an advertising agency managed by [Joschi Kuphal](https://jkphl.is/) who was also helping to organise all of the events I attended in Nuremberg. Throughout my time there he kept everything running smoothly: opening up his office space for the events, organising catering, evening activities and just generally being a really helpful, friendly person to make my time in Nuremberg really enjoyable.
+
+### IndieWebCamp Nuremberg
+On the final weekend of my visit I attended IndieWebCamp in Nuremberg once again led by Aaron Parecki and Jeremy Keith. There were a range of topics discussed not all the same as the week before and one of my highlights was a discussion on having licenses for the contents we publish. There were some interesting thoughts on how we could build this into the way posts are marked up such as in Microformats and informing users of how their comments might be mirrored at another location through license descriptions.
+
+![IndieWebCamp Nuremberg](/media/pages/posts/unsorted/IMG_20170520_103238~2.jpg)
+
+The following day I got to work researching and developing my concept for an alternative IndieWeb Wiki that’s targeted at anyone not from a technical background and newcomers to the Web industry. There were some great demos by the others to finish off the event including private Webmentions, live location reporting and storing check-ins from Swarm.
+
+### Rounding up
+The whole week has been an experience like no other I’ve had before and throughout the week I met a diverse range of people from throughout Europe and beyond who all shared a common, positive interest in the Web. I certainly hope to attend some if not all of these events again in future years. I was amazed by the organisation of the events I attended and the friendliness of the people I met. It’s reassuring in a world that feels increasingly divided and permeated with hatred to be surrounded by such a friendly, inclusive community.
+----
+
+Tags: general
+----
+
+Date: 2017-05-24 00:00
+
+----
+
+Redirect: https://calumryan.com/blog/one-week-four-technology-events/

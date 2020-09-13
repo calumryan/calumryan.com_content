@@ -1,0 +1,21 @@
+Title: Enabling HTTP2
+
+----
+
+Permalink: https://techwombat.com/enable-http2-apache-ubuntu-16-04/
+
+----
+
+Date: 2018-10-21 08:55
+
+----
+
+Tags: http2 
+
+----
+
+Redirect: https://calumryan.com/note/1972
+
+----
+
+UID: 1972

@@ -1,0 +1,45 @@
+Title: December 8th, 2019
+
+----
+
+Text: Checked in at In-Gear
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5decd665ca1a0d00089c2ce5
+
+----
+
+Longitude: 0.033804
+
+----
+
+Latitude: 51.099379
+
+----
+
+Temperature: 8°C
+
+----
+
+Weather Icon: partly-cloudy-day
+
+----
+
+Date: 2019-12-08 10:54
+
+----
+
+Redirect: https://calumryan.com/note/3287
+
+----
+
+UID: 3287

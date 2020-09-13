@@ -1,0 +1,45 @@
+Title: May 8th, 2018
+
+----
+
+Text: Checked in at Capitol Theater
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5af15ba1d0a149002ce44a24
+
+----
+
+Longitude: 6.8002791372173
+
+----
+
+Latitude: 51.223763421535
+
+----
+
+Temperature: 
+
+----
+
+Weather Icon: 
+
+----
+
+Date: 2018-05-08 09:11
+
+----
+
+Redirect: https://calumryan.com/note/1578
+
+----
+
+UID: 1578

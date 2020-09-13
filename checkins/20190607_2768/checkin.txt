@@ -1,0 +1,45 @@
+Title: June 7th, 2019
+
+----
+
+Text: Checked in at Burrito Mama
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5cfa521e06fb60002cbda7b6
+
+----
+
+Longitude: -0.095633685442
+
+----
+
+Latitude: 51.513905808738
+
+----
+
+Temperature: 15°C
+
+----
+
+Weather Icon: rain
+
+----
+
+Date: 2019-06-07 13:01
+
+----
+
+Redirect: https://calumryan.com/note/2768
+
+----
+
+UID: 2768

@@ -1,0 +1,45 @@
+Title: November 12th, 2019
+
+----
+
+Text: Checked in at Milton Keynes Central Railway Station (MKC)
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5dca82c69f806d00086138c5
+
+----
+
+Longitude: -0.77416424934794
+
+----
+
+Latitude: 52.034271207311
+
+----
+
+Temperature: 5°C
+
+----
+
+Weather Icon: clear-day
+
+----
+
+Date: 2019-11-12 10:00
+
+----
+
+Redirect: https://calumryan.com/note/3200
+
+----
+
+UID: 3200

@@ -1,0 +1,45 @@
+Title: September 12th, 2019
+
+----
+
+Text: Checked in at The Old Fountain
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5d7a7792a8174200070b3c69
+
+----
+
+Longitude: -0.089030885229765
+
+----
+
+Latitude: 51.527058970282
+
+----
+
+Temperature: 19°C
+
+----
+
+Weather Icon: partly-cloudy-night
+
+----
+
+Date: 2019-09-12 17:51
+
+----
+
+Redirect: https://calumryan.com/note/3001
+
+----
+
+UID: 3001

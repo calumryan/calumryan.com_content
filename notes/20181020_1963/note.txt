@@ -1,0 +1,45 @@
+Title: October 20th, 2018
+
+----
+
+Text: Offline as a service session at IndieWebCamp Nuremberg – Inspired by @adactio's Going Offline @jkphl + @nice2meatu help @aaronpk live coding a ServiceWorker setup in under 20 mins!
+
+----
+
+Feature Image: IMG_20181020_145153.jpg
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Latitude: 49.475090599999994
+
+----
+
+Longitude: 11.1069607
+
+----
+
+Temperature: 16°C
+
+----
+
+Weather Icon: clear-day
+
+----
+
+Date: 2018-10-20 13:59
+
+----
+
+Redirect: https://calumryan.com/note/1963
+
+----
+
+UID: 1963

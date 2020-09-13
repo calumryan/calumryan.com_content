@@ -1,0 +1,21 @@
+Title: Details / Summary Are Not
+
+----
+
+Permalink: http://adrianroselli.com/2019/04/details-summary-are-not-insert-control-here.html
+
+----
+
+Date: 2019-05-04 08:03
+
+----
+
+Tags: html, semantics 
+
+----
+
+Redirect: https://calumryan.com/note/2622
+
+----
+
+UID: 2622

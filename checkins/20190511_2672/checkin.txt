@@ -1,0 +1,45 @@
+Title: May 11th, 2019
+
+----
+
+Text: Checked in at wagamama. Lunching out from bclxi
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5cd6be7566f3cd002cfaef77
+
+----
+
+Longitude: -0.08987873476708
+
+----
+
+Latitude: 51.51927002686
+
+----
+
+Temperature: 14°C
+
+----
+
+Weather Icon: partly-cloudy-day
+
+----
+
+Date: 2019-05-11 13:22
+
+----
+
+Redirect: https://calumryan.com/note/2672
+
+----
+
+UID: 2672

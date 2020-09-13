@@ -1,0 +1,56 @@
+Title: Progressive Web Apps for museums
+----
+Description:
+What can Progressive Web Apps (PWAs) do for museums? ..that’s what I’m intrigued to ask and discuss why they provide a great opportunity for museums to explore having to enhance the visitor experience onsite and back at home.
+
+----
+
+Og:  false
+
+----
+
+Text:
+### A brief intro of PWAs
+PWAs if you haven't heard of them yet are first and foremost websites built well to best practice. They’re websites built to be resilient: to respond and work well on any platform or device. Well built websites should perform and fail well even on poor quality network connections. They should be built to meet the latest guidelines and requirements in accessibility.
+
+PWAs may also have enhancing capabilities such as offline availability and home screen icons for your phone or tablet. Some but not all browsers support such features depending how old they are and on what device or system they’re run on. Unlike with some native apps this doesn’t mean a user can’t use the PWA without the latest technology in their possession but that they can still consume the content at its core.
+
+### The steady growth of apps for museums
+For the most popular and well funded museums there are some great examples of utilising mobile and handheld devices to enhance the visitor experience.
+
+On my recent visit to the Van Gogh museum in Amsterdam I paid the extra fee for their multimedia tour guide. It was worth it: the interface, presentation of information and interactive content all combined to offer an excellent way to engage with and learn about the paintings and exhibits on show there. I’d unlikely have enjoyed or learnt nearly as much in the limited time period I’d allotted to visit the museum without the app.
+
+Many smaller, less popular and or lesser funded museums don’t have the budget or time to create such apps let alone the cost of hardware to supply visitors with.
+
+### PWAs in a museum context
+PWAs remove much of the barriers both in terms of time and cost for museums to create a great user experience for visitors through their existing website where:
+
+* Visitors can use their own smartphone or device to download information and multimedia in advance through their own network or onsite through Wifi
+* Re-engagement with visitors can be achieved through features like push notifications for content updates and information about museum events and news
+* Linkable content allowing visitors to share what they’ve viewed others as a URL making it simple to share information without software or hardware dependencies
+* Enhancements and improvements can be implemented and published with ease and quickness without complex deployment procedures or an app store approval process
+
+This is not to say PWAs may be the perfect solution to storing a museum’s entire catalogue. The storage space of web browsers on phones and tablets can be limited as much as or even more than it is for native apps that can directly access device storage.
+
+### Making content available offline
+A small but significant technology being talked about a lot within the PWA context is the ServiceWorker. This technology provides a means to store some or all of a website within the web browser’s local storage the first time a user visits. Then on return visits the web browser can immediately draw from local storage when the internet connection is limited or offline.
+
+The ServiceWorker hands over rather a lot of control to a website’s author to define what parts of website should be stored (technically-speaking: cached) for use offline. Look out for one of my future posts in which I’ll go into more technical detail about this.
+
+### The native vs. web debate
+Native apps and PWAs can happily live alongside each other to offer the best visitor experience for a range of purposes and contexts. I don’t think we should see PWAs as an alternative to a museum’s existing website. Your PWA should be your website. It should be one entity, designed and built to respond to different form factors: desktop, tablet, mobile or whatever comes next.
+
+### Is there a future for PWAs?
+These are still early days for the progression of PWAs into mainstream use. We’ve yet to see it confirmed for definite whether Apple’s iPhone will support offline capability in any upcoming improvements of its Safari web browser.
+
+Regardless, museums can benefit through at least some of the [aspects of PWAs](https://developer.mozilla.org/en-US/Apps/Progressive) straight away. This might just be a case of enhancing their existing website to respond and perform better over a range of devices and connections. Over time it could be enhanced to provide essential information offline such as opening times, admission prices and location information. As device storage capacity will inevitably increase over time, this could be extended to storing entire collections of exhibits.
+----
+
+Tags: general
+----
+
+Date: 2017-09-13 00:00
+
+----
+
+Redirect: https://calumryan.com/blog/pwas-for-museums/

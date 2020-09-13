@@ -1,0 +1,45 @@
+Title: July 9th, 2019
+
+----
+
+Text: Checked in at Kingdom
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5d2478578220fe0008ef9077
+
+----
+
+Longitude: 0.163128
+
+----
+
+Latitude: 51.162852
+
+----
+
+Temperature: 19°C
+
+----
+
+Weather Icon: partly-cloudy-day
+
+----
+
+Date: 2019-07-09 12:19
+
+----
+
+Redirect: https://calumryan.com/note/2875
+
+----
+
+UID: 2875

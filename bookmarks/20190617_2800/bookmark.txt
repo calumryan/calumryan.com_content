@@ -1,0 +1,21 @@
+Title: Bookmarked a couple of great talks I missed from last month's London Accessibility Meetup on Empathy Driven Development by @marcysutton and ARIA Landmarks Roles by @matatk 
+
+----
+
+Permalink: https://www.youtube.com/watch?v=urgZm-k8KMk
+
+----
+
+Date: 2019-06-17 16:42
+
+----
+
+Tags: a11y, landmarks, empathy, reactJs, ARIA 
+
+----
+
+Redirect: https://calumryan.com/note/2800
+
+----
+
+UID: 2800

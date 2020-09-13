@@ -1,0 +1,45 @@
+Title: December 28th, 2019
+
+----
+
+Text: Checked in at Shepherd Neame
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5e0734415b6d5c0007ee79aa
+
+----
+
+Longitude: 0.89189679283314
+
+----
+
+Latitude: 51.316591103792
+
+----
+
+Temperature: 8°C
+
+----
+
+Weather Icon: cloudy
+
+----
+
+Date: 2019-12-28 10:53
+
+----
+
+Redirect: https://calumryan.com/note/3333
+
+----
+
+UID: 3333

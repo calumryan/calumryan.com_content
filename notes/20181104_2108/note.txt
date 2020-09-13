@@ -1,0 +1,45 @@
+Title: November 4th, 2018
+
+----
+
+Text: Tidying-up unfinished code and making things work at IndieWebCamp hack day Berlin
+
+----
+
+Feature Image: iwc-day2.jpg
+
+----
+
+Permalink: 
+
+----
+
+Tags: indiewebcamp, berlin
+
+----
+
+Latitude: 52.4995955
+
+----
+
+Longitude: 13.449394
+
+----
+
+Temperature: 11°C
+
+----
+
+Weather Icon: partly-cloudy-day
+
+----
+
+Date: 2018-11-04 11:34
+
+----
+
+Redirect: https://calumryan.com/note/2108
+
+----
+
+UID: 2108

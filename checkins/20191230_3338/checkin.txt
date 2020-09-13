@@ -1,0 +1,45 @@
+Title: December 30th, 2019
+
+----
+
+Text: Checked in at Halstead Antiques Centre
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5e09f9620c33350007f307f7
+
+----
+
+Longitude: 0.63636583
+
+----
+
+Latitude: 51.94246
+
+----
+
+Temperature: 9°C
+
+----
+
+Weather Icon: clear-day
+
+----
+
+Date: 2019-12-30 13:19
+
+----
+
+Redirect: https://calumryan.com/note/3338
+
+----
+
+UID: 3338

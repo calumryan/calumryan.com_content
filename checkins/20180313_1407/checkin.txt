@@ -1,0 +1,45 @@
+Title: March 13th, 2018
+
+----
+
+Text: Checked in at Yoyo Design Ltd. Front End Kent
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5aa824afda5ede02d933ef4c
+
+----
+
+Longitude: 0.26691198348999
+
+----
+
+Latitude: 51.133504444499
+
+----
+
+Temperature: 
+
+----
+
+Weather Icon: 
+
+----
+
+Date: 2018-03-13 19:21
+
+----
+
+Redirect: https://calumryan.com/note/1407
+
+----
+
+UID: 1407

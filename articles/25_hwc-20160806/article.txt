@@ -1,0 +1,28 @@
+Title: Brighton Homebrew Website Sprint and Pride
+----
+Description:
+Today I made it down to Brighton for Summer Homebrew Website Club Sprint along with taking in the carnival atmosphere of Brighton Pride.
+----
+
+Og: false
+
+----
+
+Thumbnail:
+
+----
+
+Text:
+The whole day sprint event provided a good opportunity to spend a longer amount of time on developing/improving website features. It wasn't the same experience/approach as an IndieWebCamp. For today's event we went straight into practical work without presentations or discussions.
+
+A small handful of us were in attendance and I made some good progress on designing and developing an <a href="/events">events section</a> for my website. This incorporates the <a href="https://indieweb.org/Webmention">webmentions</a> functionality: providing the means for anyone to RSVP to public events e.g. Homebrew Website Club London.
+----
+
+Tags: general
+----
+
+Date: 2016-08-06 00:00
+
+----
+
+Redirect: https://calumryan.com/blog/hwc-20160806/

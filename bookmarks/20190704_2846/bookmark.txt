@@ -1,0 +1,21 @@
+Title: Will your code work with assistive technologies? - an accessibility support tool for checking HTML properties and elements
+
+----
+
+Permalink: https://a11ysupport.io
+
+----
+
+Date: 2019-07-04 11:05
+
+----
+
+Tags: a11y 
+
+----
+
+Redirect: https://calumryan.com/note/2846
+
+----
+
+UID: 2846

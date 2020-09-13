@@ -1,0 +1,45 @@
+Title: February 10th, 2020
+
+----
+
+Text: Checked in at Barbican Cinema 1. Parasite
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5e419e4fa022600007133d3e
+
+----
+
+Longitude: -0.093544400733663
+
+----
+
+Latitude: 51.519773280382
+
+----
+
+Temperature: 5°C
+
+----
+
+Weather Icon: wind
+
+----
+
+Date: 2020-02-10 18:17
+
+----
+
+Redirect: https://calumryan.com/note/3401
+
+----
+
+UID: 3401

@@ -1,0 +1,45 @@
+Title: March 12th, 2019
+
+----
+
+Text: Used to spend my lunch break @AlsagerSchool library pushing HTML pages to Geocities 
+19 years on made a career from the web.
+Met @timberners_lee + @w3c folks.
+Discovered, supporting communities @IndieWebCamp @codebar + beyond
+#Web30 \#ForTheWeb
+
+----
+
+Permalink: 
+
+----
+
+Tags: www, web30, indieweb, codebar
+
+----
+
+Latitude: 51.205403601964186
+
+----
+
+Longitude: 0.27506717588999846
+
+----
+
+Temperature: 5°C
+
+----
+
+Weather Icon: clear-night
+
+----
+
+Date: 2019-03-12 22:03
+
+----
+
+Redirect: https://calumryan.com/note/2488
+
+----
+
+UID: 2488

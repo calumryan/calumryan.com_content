@@ -1,0 +1,45 @@
+Title: February 10th, 2019
+
+----
+
+Text: Checked in at London Gatwick Airport (LGW)
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5c600742db1d81002cbc2abb
+
+----
+
+Longitude: -0.17425775527954
+
+----
+
+Latitude: 51.158703779449
+
+----
+
+Temperature: 5°C
+
+----
+
+Weather Icon: wind
+
+----
+
+Date: 2019-02-10 11:13
+
+----
+
+Redirect: https://calumryan.com/note/2424
+
+----
+
+UID: 2424

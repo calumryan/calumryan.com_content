@@ -1,0 +1,49 @@
+Title: May 5th, 2019
+
+----
+
+Text: Adding some overlooked accessibility fixes to my CMS on Making day at IWC Berlin 2019 (Task 1/3)
+
+----
+
+Feature Image: coding-laptop.jpg
+
+----
+
+Image Alt: Coding on a laptop screen inside at Mozilla Berlin
+
+----
+
+Permalink: 
+
+----
+
+Tags: IndieWebCamp, Berlin
+
+----
+
+Latitude: 52.49992111494882
+
+----
+
+Longitude: 13.449667607092415
+
+----
+
+Temperature: 12°C
+
+----
+
+Weather Icon: partly-cloudy-day
+
+----
+
+Date: 2019-05-05 15:16
+
+----
+
+Redirect: https://calumryan.com/note/2645
+
+----
+
+UID: 2645

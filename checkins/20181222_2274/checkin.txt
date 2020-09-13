@@ -1,0 +1,45 @@
+Title: December 22nd, 2018
+
+----
+
+Text: Checked in at Caffè Nero
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5c1e48592632ec002c84e109
+
+----
+
+Longitude: 0.87019474123444
+
+----
+
+Latitude: 51.149749423425
+
+----
+
+Temperature: 11°C
+
+----
+
+Weather Icon: partly-cloudy-day
+
+----
+
+Date: 2018-12-22 14:21
+
+----
+
+Redirect: https://calumryan.com/note/2274
+
+----
+
+UID: 2274

@@ -1,0 +1,49 @@
+Title: January 21st, 2020
+
+----
+
+Text: Tenth year anniversary attending Meetups at the new \#BBCTechMeetup
+
+----
+
+Feature Image: IMG_20200121_185832.jpg
+
+----
+
+Image Alt: Presentation at Broadcasting House, London
+
+----
+
+Permalink: 
+
+----
+
+Tags: web, meetup
+
+----
+
+Latitude: 51.5188861
+
+----
+
+Longitude: -0.143864
+
+----
+
+Temperature: 2°C
+
+----
+
+Weather Icon: clear-night
+
+----
+
+Date: 2020-01-21 19:24
+
+----
+
+Redirect: https://calumryan.com/note/3373
+
+----
+
+UID: 3373

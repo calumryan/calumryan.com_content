@@ -1,0 +1,21 @@
+Title: CSS Grid for Designers by Johna Mandel
+
+----
+
+Permalink: https://open.nytimes.com/css-grid-for-designers-f74a883b98f5
+
+----
+
+Date: 2020-01-09 11:40
+
+----
+
+Tags: css, design, ui, grid 
+
+----
+
+Redirect: https://calumryan.com/note/3353
+
+----
+
+UID: 3353

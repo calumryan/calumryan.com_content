@@ -1,0 +1,34 @@
+Title: Multi-Mania 2012
+----
+
+Description:
+This was my first year at Multi-Mania and what a hugely popular and fantastic event it was: featuring all kinds of multimedia talks and workshops over two days with a broad range of top speakers from the creative industries and tech world.
+----
+
+Og:  false
+
+----
+
+Text:
+
+My favourite speaker of Multi-Mania was Aral Balkan - his passions and talent is immense; a designer, developer, author, teacher, entrepreneur, and performer. On this occasion in his "A Happy Grain of Sand" speech, Aral gave an impressive, emotion provoking performance to introduce himself to the huge 2000+ audience. Aral discussed the happiness that can be obtained from good design with great inspirational case studies mixed in with good humour throughout.
+
+![Stage with man standing in front of large projection](/media/pages/posts/unsorted/2012-05-22-14.15.jpg)
+
+Not surprisingly the topics of responsive design and serving a wide range of devices through the web medium were dominant areas of speech and debate throughout the conference. Jeremy Keith's talk on Design Principles made some key points about providing universal access to information. The World Wide Web is a perfect medium for this whilst native smartphone and tablet apps are not.
+
+Smashing Magazine's talk on Responsive Redesign was an insightful presentation by Vitaly Friedman on their recent redevelopment of Smashing Magazine's website; using only HTML5 and CSS3 to achieve a fully responsive design. There's even a book they've produced which documents their challenges and approaches to solve them.
+
+Despite being in Southern Belgium and attended by predominantly Dutch speakers, Multi-Mania is almost completely in English. The specific location is Kortrijk. This is an excellent place to stay if you're coming from far away as it's well connected by road and rail connections towards Brussels and Lille for connection to international routes towards Paris, Cologne, Amsterdam London and European airport hubs.
+
+Finally I should point out that the whole conference happens every year and is absolutely free to attend. Adobe provide a helping hand in funding it and in return get to incorporate a large amount of sales talk on their latest and greatest Creative Suite release - on this occasion the amazing and best yet version: CS6!
+----
+
+Tags: general
+----
+
+Date: 2012-06-05 00:00
+
+----
+
+Redirect: https://calumryan.com/blog/multi-mania-2012/

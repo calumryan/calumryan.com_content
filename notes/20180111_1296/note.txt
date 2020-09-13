@@ -1,0 +1,43 @@
+Title: January 11th, 2018
+
+----
+
+Text: Continuing the progress towards Service Worker support in Safari for MacOS. 
+https://webkit.org/blog/8060/release-notes-for-safari-technology-preview-47/
+Hopefully coming soon in Safari for iOS as well.. 
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Temperature: 6°C
+
+----
+
+Weather Icon: cloudy
+
+----
+
+Date: 2018-01-11 11:08
+
+----
+
+Redirect: https://calumryan.com/note/1296
+
+----
+
+UID: 1296

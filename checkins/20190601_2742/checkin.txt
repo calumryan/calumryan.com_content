@@ -1,0 +1,45 @@
+Title: June 1st, 2019
+
+----
+
+Text: Checked in at Bewley's Café &amp; Tea Room
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5cf2734a35811b002c93581a
+
+----
+
+Longitude: -6.2603080272675
+
+----
+
+Latitude: 53.341652662542
+
+----
+
+Temperature: 17°C
+
+----
+
+Weather Icon: partly-cloudy-day
+
+----
+
+Date: 2019-06-01 13:44
+
+----
+
+Redirect: https://calumryan.com/note/2742
+
+----
+
+UID: 2742

@@ -1,0 +1,45 @@
+Title: May 1st, 2016
+
+----
+
+Text: Kennet Canal walk
+
+----
+
+Feature Image: IMG_20160530_132359.jpg
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Latitude: 51.401849
+
+----
+
+Longitude: -1.453180
+
+----
+
+Temperature: 16°C
+
+----
+
+Weather Icon: wind
+
+----
+
+Date: 2016-05-01 05:01
+
+----
+
+Redirect: https://calumryan.com/note/268
+
+----
+
+UID: 268

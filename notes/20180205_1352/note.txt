@@ -1,0 +1,45 @@
+Title: February 5th, 2018
+
+----
+
+Text: 100% support almost there for ServiceWorkers with Safari, iOS Safari and Edge support coming soon: enabling better user experience of websites and applications offline https://caniuse.com/#search=serviceworker \#PWA \#ServiceWorker
+
+----
+
+Feature Image: serviceworkers.png
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Temperature: 
+
+----
+
+Weather Icon: 
+
+----
+
+Date: 2018-02-05 11:04
+
+----
+
+Redirect: https://calumryan.com/note/1352
+
+----
+
+UID: 1352

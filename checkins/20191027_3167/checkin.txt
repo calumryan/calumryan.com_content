@@ -1,0 +1,45 @@
+Title: October 27th, 2019
+
+----
+
+Text: Checked in at Microsoft Reactor
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5db56f26a1c2ba0008a215d1
+
+----
+
+Longitude: -0.084266949235727
+
+----
+
+Latitude: 51.521761645805
+
+----
+
+Temperature: 8°C
+
+----
+
+Weather Icon: cloudy
+
+----
+
+Date: 2019-10-27 10:19
+
+----
+
+Redirect: https://calumryan.com/note/3167
+
+----
+
+UID: 3167

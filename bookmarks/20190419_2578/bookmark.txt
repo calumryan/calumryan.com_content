@@ -1,0 +1,21 @@
+Title: How to Get a Progressive Web App into the Google Play Store
+
+----
+
+Permalink: https://css-tricks.com/how-to-get-a-progressive-web-app-into-the-google-play-store/
+
+----
+
+Date: 2019-04-19 18:50
+
+----
+
+Tags: pwa 
+
+----
+
+Redirect: https://calumryan.com/note/2578
+
+----
+
+UID: 2578

@@ -1,0 +1,45 @@
+Title: September 11th, 2019
+
+----
+
+Text: Checked in at Pho &amp; Bun
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5d7945bdb17bfe0008ed9569
+
+----
+
+Longitude: -0.13192886273287
+
+----
+
+Latitude: 51.512064026596
+
+----
+
+Temperature: 19°C
+
+----
+
+Weather Icon: partly-cloudy-night
+
+----
+
+Date: 2019-09-11 20:06
+
+----
+
+Redirect: https://calumryan.com/note/2994
+
+----
+
+UID: 2994

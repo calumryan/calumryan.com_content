@@ -1,0 +1,45 @@
+Title: October 31st, 2019
+
+----
+
+Text: Checked in at 21 West
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5dbae3391535dc0008e55bd6
+
+----
+
+Longitude: -0.10129
+
+----
+
+Latitude: 51.517756
+
+----
+
+Temperature: 12°C
+
+----
+
+Weather Icon: partly-cloudy-day
+
+----
+
+Date: 2019-10-31 13:35
+
+----
+
+Redirect: https://calumryan.com/note/3176
+
+----
+
+UID: 3176

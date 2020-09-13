@@ -1,0 +1,35 @@
+Title: Homebrew Website Club London Year 1
+----
+Description:
+For the past twelve months I’ve been organising a meetup in London for people interested and committed to improving their own websites.
+
+----
+
+Og:  false
+
+----
+
+Text:
+Prior to this I’d attended Brighton’s version of the event a few times to get an idea of how it’s organised and who attends. I was keen to start a similar event in London but it took me a while to find a suitable venue, pluck up the courage and find time to run it on a regular basis.
+
+Finally on June 15th 2016 I’d found a suitable venue and the perfect opportunity arose to schedule my [first event](https://calumryan.com/blog/homebrew-web-london/). One of the founders of the IndieWeb movement, which led to the first Homebrew Website Clubs in America, [Tantek Çelik](http://tantek.com/) was in town and able to attend. Along with Tantek a handful of others made it along to the first event.
+
+Since then I’ve tried to keep to a regular schedule of Homebrew Website Clubs in London. In a city where there are no shortage of technology-focused events on the same night it’s quite difficult to compete. The alternatives are typically presentations-based and, thanks to sponsorship, often able to provide more than I can for their attendees with free food and beverages generally of an alcoholic variety!
+
+Organising the Homebrew Website Club as a regular event has helped me to allocate time to work on improvements to my own website such as using and adapting IndieWeb technologies including Webmention responses to posts, articles and events as well as sending back responses. Beyond IndieWeb related tech it’s also given me time to experiment with new technologies like ServiceWorkers on my website and the latest in CSS specifications like Flexbox and Grid.
+
+I still have a great deal to learn from a technical perspective but in the process I hope to also use time at Homebrew Website Clubs as an opportunity to document more about what I’m learning when making these changes so it may help others in the future.
+
+At the recent [IndieWebSummit Portland](https://indieweb.org/2017) and Leaders summit there were discussions on how to make the movement more approachable and attractive for those from a less/non technical background. I think there was a general consensus that a refresh of the organisation’s [website](https://indieweb.org/) would help with this.
+
+For the year ahead I’d like to expand the potential audience for Homebrew Website Club London to those not necessarily technically minded or with a website already. With the help of [Barry Frost](https://barryfrost.com/) I’m planning to start a new website independent of my own solely to inform on what the event is about and why people should attend. Furthermore I’ve started an [open-source project](https://calumryan.github.io/indieweb/) to portray the principles behind IndieWeb movement and provide practical guides that are similarly aimed an audience less concerned with the deeper technicalities of the web.
+----
+
+Tags: general
+----
+
+Date: 2017-06-28 00:00
+
+----
+
+Redirect: https://calumryan.com/blog/homebrew-website-club-london-year-1/

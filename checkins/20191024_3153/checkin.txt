@@ -1,0 +1,45 @@
+Title: October 24th, 2019
+
+----
+
+Text: Checked in at Helpful Technology
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5db1591e83365b0008af7cd8
+
+----
+
+Longitude: -0.098773
+
+----
+
+Latitude: 51.519175
+
+----
+
+Temperature: 13°C
+
+----
+
+Weather Icon: fog
+
+----
+
+Date: 2019-10-24 08:56
+
+----
+
+Redirect: https://calumryan.com/note/3153
+
+----
+
+UID: 3153

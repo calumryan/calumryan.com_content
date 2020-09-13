@@ -1,0 +1,45 @@
+Title: April 15th, 2018
+
+----
+
+Text: Checked in at Wahaca
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5ad39c93dee770002cc9dfda
+
+----
+
+Longitude: -0.0079545275067207
+
+----
+
+Latitude: 51.542391442329
+
+----
+
+Temperature: 
+
+----
+
+Weather Icon: 
+
+----
+
+Date: 2018-04-15 19:40
+
+----
+
+Redirect: https://calumryan.com/note/1483
+
+----
+
+UID: 1483

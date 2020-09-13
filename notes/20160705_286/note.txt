@@ -1,0 +1,41 @@
+Title: July 5th, 2016
+
+----
+
+Text: People of @LDNWebPerf come work on your own ServiceWorker at Homebrew Website Club London http://indiewebcamp.com/events/2016-07-27-homebrew-website-club \#perfmatters \#indieweb
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Latitude: 51.5073465
+
+----
+
+Longitude: -0.0949342
+
+----
+
+Temperature: 
+
+----
+
+Weather Icon: 
+
+----
+
+Date: 2016-07-05 23:06
+
+----
+
+Redirect: https://calumryan.com/note/286
+
+----
+
+UID: 286

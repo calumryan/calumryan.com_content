@@ -1,0 +1,45 @@
+Title: October 10th, 2019
+
+----
+
+Text: Checked in at Barbican Cinema 1
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5d9f665436e6fb0008083334
+
+----
+
+Longitude: -0.093959364030697
+
+----
+
+Latitude: 51.519470398834
+
+----
+
+Temperature: 16°C
+
+----
+
+Weather Icon: partly-cloudy-day
+
+----
+
+Date: 2019-10-10 18:11
+
+----
+
+Redirect: https://calumryan.com/note/3077
+
+----
+
+UID: 3077

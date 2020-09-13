@@ -1,0 +1,45 @@
+Title: November 16th, 2019
+
+----
+
+Text: Checked in at Golden Hill (ร้านภูทอง)
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5dcf8a86e3233400089c5f22
+
+----
+
+Longitude: 100.12600901704
+
+----
+
+Latitude: 15.573603128314
+
+----
+
+Temperature: 33°C
+
+----
+
+Weather Icon: clear-day
+
+----
+
+Date: 2019-11-16 05:35
+
+----
+
+Redirect: https://calumryan.com/note/3215
+
+----
+
+UID: 3215

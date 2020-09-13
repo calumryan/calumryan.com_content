@@ -1,0 +1,45 @@
+Title: May 13th, 2018
+
+----
+
+Text: Checked in at Jumbo
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5af85b75da5ede002ccd1fbd
+
+----
+
+Longitude: 4.4991853247468
+
+----
+
+Latitude: 51.91083243578
+
+----
+
+Temperature: 
+
+----
+
+Weather Icon: 
+
+----
+
+Date: 2018-05-13 16:36
+
+----
+
+Redirect: https://calumryan.com/note/1618
+
+----
+
+UID: 1618

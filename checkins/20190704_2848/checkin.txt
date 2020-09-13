@@ -1,0 +1,45 @@
+Title: July 4th, 2019
+
+----
+
+Text: Checked in at Trinity Theatre
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5d1e55511889b40007e89237
+
+----
+
+Longitude: 0.26221125864782
+
+----
+
+Latitude: 51.132561994081
+
+----
+
+Temperature: 19°C
+
+----
+
+Weather Icon: partly-cloudy-day
+
+----
+
+Date: 2019-07-04 20:36
+
+----
+
+Redirect: https://calumryan.com/note/2848
+
+----
+
+UID: 2848

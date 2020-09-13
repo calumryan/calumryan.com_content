@@ -1,0 +1,49 @@
+Title: March 5th, 2020
+
+----
+
+Text: Oop north on t'Azuma
+
+----
+
+Feature Image: IMG_20200305_153925.jpg
+
+----
+
+Image Alt: Azuma train at York station
+
+----
+
+Permalink: 
+
+----
+
+Tags: travel
+
+----
+
+Latitude: 53.9618474
+
+----
+
+Longitude: -1.098617
+
+----
+
+Temperature: 7°C
+
+----
+
+Weather Icon: cloudy
+
+----
+
+Date: 2020-03-05 15:45
+
+----
+
+Redirect: https://calumryan.com/note/3437
+
+----
+
+UID: 3437

@@ -1,0 +1,67 @@
+Title: CSS processing and transformation
+----
+Description:
+An overview looking at the variety of ways to process (or pre-process) CSS in 2018 from small-large scale websites.
+----
+
+Og:  false
+
+----
+
+Text:
+Whether you're building a collection of stateless webpages, a single-page application, something in between or beyond then you're likely to face the decision at some point over how you manage large quantities of CSS so that it's better optimised and efficient.
+
+A few years ago it seemed like the industry was in one of two camps when it came to pre-processing CSS on a large scale: you'd choose Sass or Less. Today the rapid adoption of frameworks like React, Angular and Vue has changed that landscape with a growing crowd in the web industry keenly debating the case for CSS-in-JS.
+
+### Vanilla CSS
+Knowing the principles of how Vanilla CSS is written has an important place in the hiring process for any half-decent developer or design role working in the web industry. Vanilla CSS, or just CSS, as some of us remember it, has caught up ground in recent years with its abstracted relations such as Sass and Less. The more recent option to add [variables](https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_variables) directly into a CSS file is one of the first steps toward making Vanilla CSS more adherent to the <abbr title="Don't repeat yourself">DRY</abbr> principle. This is of particular use for the duplicate use of things like colours and sizes over multiple properties inside the CSS.
+
+### CSS-in-JS
+The concept of writing everything in JavaScript has, not without ongoing debate, caught on as a convenient and resourceful way to manage an entire codebase from the back-end to front-end.
+
+Absorbed into this rich soup of completely different types of code. This can include HTML markup, CSS and many different flavours of JavaScript designed to handle everything from large datasets over the web to changes in different component states on the client-side.
+
+The dynamic nature of single page applications means that we have to keep the visual styles of page components and the overall page container (or app shell) updated in sync with everything else. This helps prevent the user from seeing unstyled elements each time there is a change in state.
+
+### CSSX
+CSSX is a JavaScript blended form of CSS to couple it with dynamic, JavaScript-controlled components and inject blocks of styles into the HTML markup. The HTML is itself bended into JavaScript and called JSX. This means that it's more flexible to manipulate and control state throughout the application. Writing CSS this way moves away from the more separated approaches of writing stylesheets as external files in isolation from the HTML markup and JavaScript.
+
+### Sass (Syntactically Awesome Style Sheets)
+Still one of the most popular methods to pre-process CSS, Sass, has developed into a feature-rich tool to manage everything including variables, mixins, operators and functions. With care related properties of a component can be nested within other selectors. This is so long as the nesting doesn't go more that 2 or 3 levels deep which can result in complex and even more bloated CSS than necessary.
+
+### Less (Leaner Style Sheets)
+Sitting somewhere closely behind Sass is Less which works and is written in much the same way but with slight variations in its syntax.
+
+### ***Comparing Sass / Less***
+The core differences to be found are in how the CSS is processed in each. Less uses JavaScript whilst Sass uses Ruby. Unless (no pun intended) you're needing to make underlying changes to how the CSS is processed then this difference is of little concern. Processing time and extendability could also be a factor in choosing Sass or Less but generally-speaking it's negligible.
+
+### Stylus
+Stylus is a stylesheet language taking influences from both Sass and Less such as having variables, mixins and functions. Unlike them it's programmed using Node.js and JADE. The clarity of syntax in Stylus is debatably more loosely written. It comes without brackets or colons being necessary to split up properties, their values and selectors.
+
+### PostCSS
+The use cases of PostCSS comes somewhere in between most of the above as a way to transform and transpile CSS using JavaScript plugins to handle the process. The mention of JavaScript here shouldn't necessarily be confused with such methods as CSS-in-JS. PostCSS is like an engine powered by JavaScript which outputs Vanilla CSS.
+
+PostCSS can be adapted in many ways to validate, audit and lint CSS written in different forms. This includes anything from plain external stylesheets to component-based styles, such as that used for CSS in JS and even Sass or Less. It's dependent on using module bundlers such as Webpack or custom built modules for frameworks like React.
+
+A common use case for PostCSS is to maximise cross-browser compatibility for newer or cutting-edge CSS properties. It can then apply prefixes and other fallback supports if necessary. Based on web browser support statistics from the popular site, [Can I Use](https://caniuse.com), PostCSS looks for the required fallback support and prefixes to apply to your compiled CSS code.
+
+### In summary
+Of course these are just a handful of methods and tooling options for writing you CSS in 2018. There are countless customisable, open-source options for processing CSS to fit the needs of your product or organisation out there. Choosing how you write and process your CSS is a fundamental requirement to ensuring the future scalability of your website or application. Whether you're working as part of a team or standalone then it's important to think about which tooling offers the most flexility and maintainability for your CSS.
+
+### Reference + reading
+- [Finally, CSS In JS! Meet CSSX](https://www.smashingmagazine.com/2016/04/finally-css-javascript-meet-cssx/)
+- [CSSX: The Magical Culmination Of CSS And JavaScript](https://theemon.com/cssx-magical-culmination-css-javascript/)
+- [PostCSS](https://postcss.org)
+- [An Introduction to CSS Pre-Processors: SASS, Less and Stylus](https://htmlmag.com/article/an-introduction-to-css-preprocessors-sass-Less-stylus)
+- [Sass vs. Less](https://css-tricks.com/sass-vs-Less/)
+- [Sass/Less Comparison](https://gist.github.com/chriseppstein/674726)
+----
+
+Tags: learning
+----
+
+Date: 2018-09-23 00:00
+
+----
+
+Redirect: https://calumryan.com/learning/css-processing-and-transformation/

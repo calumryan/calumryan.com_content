@@ -1,0 +1,21 @@
+Title: How not to sort an array in JavaScript by Phil Nash
+
+----
+
+Permalink: https://philna.sh/blog/2019/08/26/how-not-to-sort-an-array-in-javascript/
+
+----
+
+Date: 2019-12-17 09:23
+
+----
+
+Tags: JavaScript, array, sort 
+
+----
+
+Redirect: https://calumryan.com/note/3313
+
+----
+
+UID: 3313

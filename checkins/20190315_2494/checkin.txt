@@ -1,0 +1,45 @@
+Title: March 15th, 2019
+
+----
+
+Text: Checked in at BrewDog Clerkenwell
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5c8bed8da4ba7c002cc7bb98
+
+----
+
+Longitude: -0.103835
+
+----
+
+Latitude: 51.522401
+
+----
+
+Temperature: 13°C
+
+----
+
+Weather Icon: wind
+
+----
+
+Date: 2019-03-15 18:23
+
+----
+
+Redirect: https://calumryan.com/note/2494
+
+----
+
+UID: 2494

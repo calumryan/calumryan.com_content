@@ -1,0 +1,45 @@
+Title: February 29th, 2020
+
+----
+
+Text: Checked in at Coffee #1
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5e5a381d5e6c6c0009cdc0e6
+
+----
+
+Longitude: -3.1034188653212
+
+----
+
+Latitude: 51.016670158512
+
+----
+
+Temperature: 5°C
+
+----
+
+Weather Icon: cloudy
+
+----
+
+Date: 2020-02-29 10:08
+
+----
+
+Redirect: https://calumryan.com/note/3424
+
+----
+
+UID: 3424

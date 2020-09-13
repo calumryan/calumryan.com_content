@@ -1,0 +1,21 @@
+Title: Gradient Magic
+
+----
+
+Permalink: 
+
+----
+
+Date: 2019-09-06 16:45
+
+----
+
+Tags: css, gradient, colour, front-end 
+
+----
+
+Redirect: https://calumryan.com/note/2987
+
+----
+
+UID: 2987

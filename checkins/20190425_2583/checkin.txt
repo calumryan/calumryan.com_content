@@ -1,0 +1,45 @@
+Title: April 25th, 2019
+
+----
+
+Text: Checked in at Made by Many. FEL
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5cc1efb7f1fdaf0039eda6a5
+
+----
+
+Longitude: -0.099432910419901
+
+----
+
+Latitude: 51.532517145905
+
+----
+
+Temperature: 16°C
+
+----
+
+Weather Icon: partly-cloudy-day
+
+----
+
+Date: 2019-04-25 18:34
+
+----
+
+Redirect: https://calumryan.com/note/2583
+
+----
+
+UID: 2583

@@ -1,0 +1,45 @@
+Title: April 16th, 2019
+
+----
+
+Text: Checked in at Apulia
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5cb5c745e7a2370039183822
+
+----
+
+Longitude: -0.10047380465345
+
+----
+
+Latitude: 51.51905607466
+
+----
+
+Temperature: 16°C
+
+----
+
+Weather Icon: partly-cloudy-day
+
+----
+
+Date: 2019-04-16 13:15
+
+----
+
+Redirect: https://calumryan.com/note/2569
+
+----
+
+UID: 2569

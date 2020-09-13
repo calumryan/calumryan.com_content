@@ -1,0 +1,45 @@
+Title: November 21st, 2019
+
+----
+
+Text: Checked in at Miguel's Cafe
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5dd6294d7fdde20008f012ed
+
+----
+
+Longitude: 98.993890706423
+
+----
+
+Latitude: 18.793296636589
+
+----
+
+Temperature: 31°C
+
+----
+
+Weather Icon: clear-day
+
+----
+
+Date: 2019-11-21 06:06
+
+----
+
+Redirect: https://calumryan.com/note/3245
+
+----
+
+UID: 3245

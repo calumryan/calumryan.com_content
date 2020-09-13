@@ -1,0 +1,45 @@
+Title: October 23rd, 2017
+
+----
+
+Text: Checked in at Barden Lake
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/59ee32f60123583f728fbbca
+
+----
+
+Longitude: 0.25037311309589
+
+----
+
+Latitude: 51.191615753345
+
+----
+
+Temperature: 
+
+----
+
+Weather Icon: 
+
+----
+
+Date: 2017-10-23 19:20
+
+----
+
+Redirect: https://calumryan.com/note/1075
+
+----
+
+UID: 1075

@@ -1,0 +1,45 @@
+Title: October 28th, 2017
+
+----
+
+Text: Checked in at North Greenwich London Underground Station
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/59f43cab838e590cc69e650d
+
+----
+
+Longitude: 0.0036156177520752
+
+----
+
+Latitude: 51.500394723896
+
+----
+
+Temperature: 
+
+----
+
+Weather Icon: 
+
+----
+
+Date: 2017-10-28 09:15
+
+----
+
+Redirect: https://calumryan.com/note/1081
+
+----
+
+UID: 1081

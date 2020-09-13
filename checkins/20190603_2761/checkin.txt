@@ -1,0 +1,49 @@
+Title: June 3rd, 2019
+
+----
+
+Text: Checked in at Chester Railway Station (CTR)
+
+----
+
+Feature Image: fsqOLYHKp.jpg
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5cf557f5588e360039da9e6e
+
+----
+
+Longitude: -2.8800416785339
+
+----
+
+Latitude: 53.196753863848
+
+----
+
+Temperature: 18°C
+
+----
+
+Weather Icon: partly-cloudy-day
+
+----
+
+Date: 2019-06-03 18:25
+
+----
+
+Redirect: https://calumryan.com/note/2761
+
+----
+
+UID: 2761

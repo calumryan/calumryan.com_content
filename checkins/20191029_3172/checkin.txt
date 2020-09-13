@@ -1,0 +1,45 @@
+Title: October 29th, 2019
+
+----
+
+Text: Checked in at Nelson Arms
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5db89ad49bae62000873d3ac
+
+----
+
+Longitude: 0.26469586886378
+
+----
+
+Latitude: 51.192759965493
+
+----
+
+Temperature: 8°C
+
+----
+
+Weather Icon: partly-cloudy-night
+
+----
+
+Date: 2019-10-29 20:02
+
+----
+
+Redirect: https://calumryan.com/note/3172
+
+----
+
+UID: 3172

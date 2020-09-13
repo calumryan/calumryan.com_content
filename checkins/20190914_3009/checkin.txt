@@ -1,0 +1,45 @@
+Title: September 14th, 2019
+
+----
+
+Text: Checked in at The Craft Beer Co.
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5d7d2327d3677c0007f5ae05
+
+----
+
+Longitude: -0.10980116958197
+
+----
+
+Latitude: 51.521265426617
+
+----
+
+Temperature: 22°C
+
+----
+
+Weather Icon: partly-cloudy-day
+
+----
+
+Date: 2019-09-14 18:28
+
+----
+
+Redirect: https://calumryan.com/note/3009
+
+----
+
+UID: 3009

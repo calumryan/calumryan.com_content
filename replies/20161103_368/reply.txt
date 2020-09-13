@@ -1,0 +1,27 @@
+Title: November 3rd, 2016
+
+----
+
+Text: Hope it went well! 
+
+On a related topic at my last Homebrew I noticed the weather links in your posts are reporting based on the location of where the user is currently, not where you posted from.
+
+----
+
+Permalink: 
+
+----
+
+Date: 2016-11-03 04:00
+
+----
+
+Tags: 
+
+----
+
+Redirect: https://calumryan.com/note/368
+
+----
+
+UID: 368

@@ -1,0 +1,41 @@
+Title: December 16th, 2018
+
+----
+
+Text: Attempting to research Global CSS-in-JS for @gatsbyjs with emotion-js. Instead finding outdated modules failing to compile and documentation which is neither up-to-date nor does it meet basic accessibility requirements for colour contrast ratio.
+
+----
+
+Permalink: 
+
+----
+
+Tags: documentation, css-in-js, gatsbyjs
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Temperature: 
+
+----
+
+Weather Icon: 
+
+----
+
+Date: 2018-12-16 17:48
+
+----
+
+Redirect: https://calumryan.com/note/2257
+
+----
+
+UID: 2257

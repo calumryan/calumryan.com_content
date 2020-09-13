@@ -1,0 +1,32 @@
+Title: Farewell Facebook friends ..almost
+----
+Description: From today onwards I shall cease logging-in to, consuming, engaging or posting any content like events or birthday greetings on Facebook.
+
+----
+
+Og:  false
+
+----
+
+Text:
+Over the past decade that I've been on Facebook my use of it, enjoyment and interest in the platform has gradually declined. Pretty much all my friendships or connections that I've made, grown and maintained in this period have come about through meeting in-person or through social media, professional networks or associations.
+
+In more recent times it's probably no news to you that Facebook has received a lot of negative press for ethical, political and other reasons. I'd strongly considered leaving Facebook entirely long before the political turmoil that mine and other countries have been thrown into in recent years. In my opinion those outcomes were, in part, strongly thanks to the platform and mechanisms that Facebook provided and maintained throughout for uncontrolled political campaigning.
+
+### Why I'm not deleting my Facebook account
+Although I'm effectively quitting Facebook I'm not deleting my account yet. I still have occasions to use my Facebook account in order to access locked-in content which I cannot otherwise see like private events, communications and published posts from other users.
+
+To my Facebook friends who continue to use the platform exclusively over any other platform on the web: then it's not my wish to sever my connections with you and make it harder for us to engage and communicate with each other. I'll still receive notification by email if you contact me through Facebook or send out an invite but will unlikely choose to respond via Facebook.
+
+### Stay in touch
+You can continue to read my posts and engage with me openly through [Twitter](https://calumryan.com/calum_ryan), [Microblog](https://micro.blog/calumryan) and of course my own [website](http://calumryan.com). Here I also have an [RSS feed](https://calumryan.com/feed.xml) for my latest blog posts and [JSON feed](https://calumryan.com/feed-notes.json) for my more frequently published short-formed posts, checkins and other interactions.
+----
+
+Tags: general
+----
+
+Date: 2018-10-23 00:00
+
+----
+
+Redirect: https://calumryan.com/blog/farewell-facebook-friends-almost/

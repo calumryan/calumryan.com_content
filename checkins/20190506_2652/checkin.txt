@@ -1,0 +1,45 @@
+Title: May 6th, 2019
+
+----
+
+Text: Checked in at Gate 62
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5ccfdf26f1936e002cc532ca
+
+----
+
+Longitude: 13.297286093037
+
+----
+
+Latitude: 52.55577485058
+
+----
+
+Temperature: 8°C
+
+----
+
+Weather Icon: clear-day
+
+----
+
+Date: 2019-05-06 08:15
+
+----
+
+Redirect: https://calumryan.com/note/2652
+
+----
+
+UID: 2652

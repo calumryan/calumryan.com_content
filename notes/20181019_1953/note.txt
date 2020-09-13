@@ -1,0 +1,41 @@
+Title: October 19th, 2018
+
+----
+
+Text: New feed added of all my latest posts from Learning https://calumryan.com/feed-learning.xml
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Temperature: 
+
+----
+
+Weather Icon: 
+
+----
+
+Date: 2018-10-19 11:47
+
+----
+
+Redirect: https://calumryan.com/note/1953
+
+----
+
+UID: 1953

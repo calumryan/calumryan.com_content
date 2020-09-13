@@ -1,0 +1,37 @@
+Title: 2015 and forward
+----
+
+Description:
+My review of the year past looking to the year ahead
+----
+
+Og: false
+
+----
+
+Thumbnail:
+
+----
+
+Text:
+In review of the year past I’ve moved to my own home for the first time in 8 years in Kent. Since leaving the home nest and heading south for University back in 2007 I’ve lived in a varied range of rented flat shares in/around London which wasn’t my happiest period of life.
+
+Getting more involved with the web industry where I work was an important objective of mine in 2015; and one which I’m continuing to fulfil through future public speaking engagements planned for 2016 as well as an ongoing interest and engagement in the [IndieWeb community](https://indiewebcamp.com/).
+
+I struggled in 2015 starting my own local meet-up for web creatives. This was focused on outdoor meetings (walking/cycling, etc). For 2016 I’m hopeful of doing a revamp for this meet-up with a wider catchment area and reaching out to the web and tech communities in London. There’s been a great surge in meet-ups and conference events within the web industry throughout the past few years and it possibly reached its peak in 2014-15.
+
+Looking ahead for 2016 I intend to continue with further engagement in exploring ways to make the web a better, more accessible place. One thing that stuck with me over the past year was listening to a talk given by [Robin Christopherson](https://twitter.com/USA2DAY), who’s completely blind, describing the experience of using the web as “horrible” in its current state.
+
+We have a great deal of work to do changing and improving websites from over a decade’s worth of poor practises in designing and developing features for a more inclusive world wide web, as it was meant to be when started over two decades ago. It’s not going to change overnight but I sense a greater awareness in the web industry emerging as more realise the problems faced by even minor impairments we all share, young and old, in using the web through many different devices.
+
+Later in the year I’ll be venturing to the West Coast of North America in part for my first time to San Francisco and Vancouver six years on from my last amazing visit there. It’s been a few years since I took a vacation of significant length so look forward to a longer time away to recharge and refresh  my thoughts and future ambitions albeit late in 2016.
+----
+
+Tags: general
+----
+
+Date: 2016-01-01 00:00
+
+----
+
+Redirect: https://calumryan.com/blog/2015-and-forward/

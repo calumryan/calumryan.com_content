@@ -1,0 +1,45 @@
+Title: January 18th, 2020
+
+----
+
+Text: Checked in at Olympia Central
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5e22ebcfa38180000811f5f6
+
+----
+
+Longitude: -0.21119464698476
+
+----
+
+Latitude: 51.495567890129
+
+----
+
+Temperature: 5°C
+
+----
+
+Weather Icon: clear-day
+
+----
+
+Date: 2020-01-18 11:28
+
+----
+
+Redirect: https://calumryan.com/note/3368
+
+----
+
+UID: 3368

@@ -1,0 +1,41 @@
+Title: September 12th, 2016
+
+----
+
+Text: Still some work to do but finally got both send and receive for \#webmentions working! \#indieweb 
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Latitude: 51.2053659
+
+----
+
+Longitude: 0.2754982
+
+----
+
+Temperature: 22°C
+
+----
+
+Weather Icon: clear-day
+
+----
+
+Date: 2016-09-12 16:34
+
+----
+
+Redirect: https://calumryan.com/note/329
+
+----
+
+UID: 329

@@ -1,0 +1,45 @@
+Title: November 5th, 2018
+
+----
+
+Text: Checked in at Spreespeicher
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5be033ee061b51002c1eadaa
+
+----
+
+Longitude: 13.448864221573
+
+----
+
+Latitude: 52.501701475282
+
+----
+
+Temperature: 15°C
+
+----
+
+Weather Icon: partly-cloudy-day
+
+----
+
+Date: 2018-11-05 12:13
+
+----
+
+Redirect: https://calumryan.com/note/2128
+
+----
+
+UID: 2128

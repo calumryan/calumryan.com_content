@@ -1,0 +1,45 @@
+Title: October 18th, 2017
+
+----
+
+Text: Checked in at Platform 2
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/59e76e34f79faa712f2fc69c
+
+----
+
+Longitude: 0.26959156528119
+
+----
+
+Latitude: 51.191420967062
+
+----
+
+Temperature: 
+
+----
+
+Weather Icon: 
+
+----
+
+Date: 2017-10-18 16:07
+
+----
+
+Redirect: https://calumryan.com/note/1048
+
+----
+
+UID: 1048

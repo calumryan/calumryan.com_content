@@ -1,0 +1,45 @@
+Title: December 20th, 2019
+
+----
+
+Text: Checked in at First Class Lounge
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5dfc8a73f80af1000723abe8
+
+----
+
+Longitude: -0.17819551142432
+
+----
+
+Latitude: 51.516887325508
+
+----
+
+Temperature: 9°C
+
+----
+
+Weather Icon: rain
+
+----
+
+Date: 2019-12-20 08:46
+
+----
+
+Redirect: https://calumryan.com/note/3318
+
+----
+
+UID: 3318

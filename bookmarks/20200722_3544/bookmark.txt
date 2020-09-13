@@ -1,0 +1,21 @@
+Title: Using Flexbox and text ellipsis together
+
+----
+
+Date: 2020-07-22 16:05
+
+----
+
+Permalink: https://css-tricks.com/using-flexbox-and-text-ellipsis-together/
+
+----
+
+Tags: css, flexbox, ellipsis, url
+
+----
+
+Bridgy: twitter
+
+----
+
+Uid: 3544

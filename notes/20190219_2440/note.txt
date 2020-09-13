@@ -1,0 +1,41 @@
+Title: February 19th, 2019
+
+----
+
+Text: Finally got round to reading CSS Secrets by @LeaVerou. Always something new to learn, improve upon or reaffirm existing knowledge in CSS. Essential reading!
+
+----
+
+Permalink: 
+
+----
+
+Tags: css, front-end, development
+
+----
+
+Latitude: 51.5191721
+
+----
+
+Longitude: -0.09896
+
+----
+
+Temperature: 7°C
+
+----
+
+Weather Icon: clear-day
+
+----
+
+Date: 2019-02-19 10:17
+
+----
+
+Redirect: https://calumryan.com/note/2440
+
+----
+
+UID: 2440

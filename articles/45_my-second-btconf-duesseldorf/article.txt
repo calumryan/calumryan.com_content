@@ -1,0 +1,56 @@
+Title: My second btconf Düsseldorf
+----
+Description:
+I’m just back from an extended stay being a tourist in The Netherlands following Beyond Tellerrand conference (btconf) in Düsseldorf, Germany. As with last year the conference had a great atmosphere from start to finish and I’d a great time meeting up with those I’d first met last year or even before then as well as a few new faces.
+
+----
+
+Og:  false
+
+----
+
+Text:
+### IndieWebCamp
+Prior to btconf I attended [IndieWebCamp](https://indieweb.org/2018/D%C3%BCsseldorf) which had a slightly smaller turnout this year but nevertheless I'd a great time with some really clever folks. The excellent host [Sipgate](https://www.sipgate.de/) and organiser [Joschi Kuphal](https://jkphl.is) did a fantastic hosting and running the two-day event. A range of sessions run on the first day included an introduction of GDPR, having private posts, reading content from other users and the workings of ActivityPub. The following day I’d a long list of ideas for developing features on my website but stuck with a couple of small updates including GDPR related information and coding some additions for my CMS to allow tagging on my posts.
+
+![IndieWebCamp Duesseldorf](/media/pages/posts/uploads/PANO_20180505_203555.jpg)
+
+### Warmup event at InVision
+This year there was a warmup before the conference held at the [InVision](https://www.invision.de/) offices in Düsseldorf. It was an opportunity to see a few more talks from some equally good speakers as in the main event. They each discussed a range of topics related to the web including accessibility, pair programming, animation and new browser features.
+
+### And so to the main event…
+btconf was again a packed lineup of different kinds of talks from a diverse range of speakers coming from nearby as well as from all around the world. I’ve highlighted just a few of them here but all were equally as good and valuable in what viewpoints, insights and conclusions they made.
+
+### Dangers of Being a Web Developer
+Web author and developer [Jens Oliver Meiert](https://meiert.com/) opened the event on day one discussing a matter I question quite frequently as to just why we choose to work in the field of web development. The talk provided for a lot of open ended questions regarding how we handle the freedoms as well as complexities and challenges which web development poses. Using the immense range of free automated tooling and approaches to craft our work with requires great responsibility on our part to ensure the solutions we create can be developed and understood in the present and future by others.
+
+### Web Annotation
+The W3C Standard for [Web Annotation](https://www.w3.org/annotation/) was introduced just last year with little fanfare so it was a welcome opportunity for [Lyza Danger Gardner](https://www.lyza.com/) to talk about it as this year’s btconf. For too long in the history of web standards we’ve made do with a complex combination of scripted hacks for annotating documents or individual texts. Now having a proper web standard for annotating offers a useful new layer of interactivity and data relationships which should become a baked-in extendable feature of the web.
+
+### Failure, inspiration, persistence, success
+London-based artist/illustrator [Vic Lee](http://viclee.co.uk/) not only came to talk at btconf about his intriguing life story and career to date but was also the artist for this year’s conference logo placed on conference t-shirts, mugs and other souvenirs. Understanding failure and self doubt in terms of how it happens and learning from it was the main premise I drew from Vic’s talk with a measured, informed persistence for having success in the end.
+
+### What is this thing and what does it do?
+[Karl Grove’s](http://www.karlgroves.com/) talk on the subject of accessibility opened his talk making the point excellently that accessible design doesn’t mean compromising on good, elegant design. The point is valid whether looking in the context of the web or pretty much anything else such as entrances to buildings or household appliances. The web, if developed for responsibly and with respect for modern web standards, is capable of offering users with all kinds of impairment a usable means to access, consume and interact with any kind of content without hindrance or barriers.
+
+### Throwaways of consumerism made into stop-motion video
+Egyptian designer [dina Amin](https://www.dinaaamin.com/) captivated us with her stop-motion videos produced with relatively little in terms of physical materials but heaps in terms of time, effort and creativity. Having some level of internet access was necessary to expose her work globally but also a passion to learn, some understanding of English and a community supporting her work all helped her reach immense success.
+
+### Overall
+Justifying to myself the time and expense of travelling to an event in another country isn’t always easy but with Beyond Tellerrand there’s plenty more reason to attend than not after my experience last year. Firstly is the organisation and planning of not only the main event span over two days but in addition to that the side events. The weekend before includes IndieWebCamp, warm-up talks plus further opportunity to meet and socialise with people from all over Europe and beyond.
+
+Secondly is the location, cost and convenience of getting there. It was my second ever time at btconf as well as to Düsseldorf which is a relatively cheap, short, simple journey from the UK not only by plane but also train after a couple of quick transfers via London, the Channel Tunnel and Brussels. The city itself is pleasant to explore with the different event venues within easy reach of the hotels, restaurants and station.
+
+Thirdly it’s the people I see and meet that’s part of the memorable and enriching experience when attending Beyond Tellerrand. The selection of speakers curated by [Marc Thiele](https://marcthiele.com/) makes for an eye-opening experience of talks that keep you engaged throughout and often taking you beyond your own area of expertise to expand your knowledge and perspective.
+
+I hope to be back next time!
+----
+
+Tags: general
+----
+
+Date: 2018-05-18 00:00
+
+----
+
+Redirect: https://calumryan.com/blog/my-second-btconf-duesseldorf/

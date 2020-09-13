@@ -1,0 +1,45 @@
+Title: November 7th, 2019
+
+----
+
+Text: Checked in at Digme Fitness
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5dc4726e7dc4ca00071b1f02
+
+----
+
+Longitude: -0.090743806867862
+
+----
+
+Latitude: 51.518244159366
+
+----
+
+Temperature: 6°C
+
+----
+
+Weather Icon: clear-night
+
+----
+
+Date: 2019-11-07 19:37
+
+----
+
+Redirect: https://calumryan.com/note/3192
+
+----
+
+UID: 3192

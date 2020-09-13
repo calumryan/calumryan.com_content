@@ -1,0 +1,41 @@
+Title: February 29th, 2020
+
+----
+
+Text: 📢 Two weeks to go until IndieWebCamp London! https://2020.indieweb.org/london
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Latitude: 51.0166426
+
+----
+
+Longitude: -3.1032871
+
+----
+
+Temperature: 5°C
+
+----
+
+Weather Icon: cloudy
+
+----
+
+Date: 2020-02-29 10:22
+
+----
+
+Redirect: https://calumryan.com/note/3425
+
+----
+
+UID: 3425

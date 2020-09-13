@@ -1,0 +1,45 @@
+Title: November 25th, 2018
+
+----
+
+Text: Checked in at John Lewis &amp; Partners
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5bfac343fd16bb002c07f210
+
+----
+
+Longitude: -0.14524161815643
+
+----
+
+Latitude: 51.515422883995
+
+----
+
+Temperature: 8°C
+
+----
+
+Weather Icon: partly-cloudy-day
+
+----
+
+Date: 2018-11-25 15:44
+
+----
+
+Redirect: https://calumryan.com/note/2207
+
+----
+
+UID: 2207

@@ -1,0 +1,45 @@
+Title: December 23rd, 2018
+
+----
+
+Text: Checked in at Aldi
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5c1f8f17acb00b002c99ffda
+
+----
+
+Longitude: 0.28389943
+
+----
+
+Latitude: 51.19794
+
+----
+
+Temperature: 13°C
+
+----
+
+Weather Icon: partly-cloudy-day
+
+----
+
+Date: 2018-12-23 13:35
+
+----
+
+Redirect: https://calumryan.com/note/2276
+
+----
+
+UID: 2276

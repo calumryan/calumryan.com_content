@@ -1,0 +1,21 @@
+Title: how to manage HTML DOM
+
+----
+
+Permalink: https://htmldom.dev/
+
+----
+
+Date: 2020-04-27 11:41
+
+----
+
+Tags: jquery, JavaScript, front-end, html 
+
+----
+
+Redirect: https://calumryan.com/note/3498
+
+----
+
+UID: 3498

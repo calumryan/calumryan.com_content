@@ -1,0 +1,49 @@
+Title: November 2nd, 2018
+
+----
+
+Text: Checked in at Englischer Garten
+
+----
+
+Feature Image: fsq9mn33u.jpg
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5bdc22dc75dcb7002cef411c
+
+----
+
+Longitude: 13.339375278601
+
+----
+
+Latitude: 52.522782694501
+
+----
+
+Temperature: 11°C
+
+----
+
+Weather Icon: clear-day
+
+----
+
+Date: 2018-11-02 10:11
+
+----
+
+Redirect: https://calumryan.com/note/2083
+
+----
+
+UID: 2083

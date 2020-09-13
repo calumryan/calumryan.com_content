@@ -1,0 +1,43 @@
+Title: What's my website's environmental impact?
+----
+
+Description:
+With the climate crisis in mind recently I've been looking at what environmental impact my website has.
+
+----
+
+Thumbnail: media/pages/posts/unsorted/og/polarbear.jpg
+
+----
+
+Og:  false
+
+----
+
+Text:
+## The stats
+For this analysis I used [websitecarbon.com](https://websitecarbon.com). Every time a visitor comes to my website, without any cached version of it, the carbon footprint is just **0.52g of CO2** produced. My current host, Digital Ocean, doesn't appear to be using green energy which brings down the overall score to **72%**. Potentially with a host which uses green energy this could be improved by around **9%**.
+
+## Performance gains
+In terms of performance my website performs very well with a [Lighthouse](https://developers.google.com/web/tools/lighthouse/) score of 100%. Overall this helps reduce the energy consumption my website has for both the data centre and end user devices. The steps I took to achieve this score included:
+
+- Switching to HTTP/2 for more efficient delivery of assets by loading them in parallel rather than one at a time.
+- Compressing images to download and render more efficiently.
+- Though only currently supported in Chrome, I implemented the `loading=lazy` attribute for images. This way the browser should only start loading image resources after more essential items like layout and text content.
+- Using responsive images to load the most appropriate sized image for the available viewport space and, in some cases, available bandwidth.
+- Implemented a ServiceWorker to cache parts of the website for repeat visits, therefore reducing the number of HTTP requests needed per repeat visit.
+- Implemented a dark mode for users on supporting operating systems to reduce energy use when it's enabled.
+- Switched to a newer more efficient version of PHP.
+
+## Further reducing my website's environmental impact
+Some other ways I might consider reducing the impact of my website on the environment include changing to a host that uses green energy. I could review the overall user experience of the website to see if there are ways to make it easier to navigate with fewer wasted page loads. Finally I could consider looking at using content delivery networks to load my website from locations closer to different users.
+----
+
+Tags: general
+----
+
+Date: 2020-01-22 00:00
+
+----
+
+Redirect: https://calumryan.com/blog/whats-my-websites-environmental-impact/

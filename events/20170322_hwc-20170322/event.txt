@@ -1,0 +1,37 @@
+Title: Homebrew Website Club (London) | 2017-03-22
+
+----
+
+Tags:
+
+----
+
+Date: 2017-03-22 18:00
+
+----
+
+Date start: 2017-03-22 18:00:00 +0000
+
+----
+
+Date end: 2017-03-22 20:00:00 +0000
+
+----
+
+Timezone: GMT
+
+----
+
+City: London
+
+----
+
+Location: 110 St Martin's Lane, Covent Garden, London, WC2N 4BA, England
+
+----
+
+Redirect: https://calumryan.com/event/hwc-20170322
+
+----
+
+UID: hwc-20170322

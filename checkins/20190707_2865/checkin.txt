@@ -1,0 +1,45 @@
+Title: July 7th, 2019
+
+----
+
+Text: Checked in at Grand Place (Grote Markt)
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5d21b2f266083e0007ac09f6
+
+----
+
+Longitude: 4.3524805501934
+
+----
+
+Latitude: 50.846775574624
+
+----
+
+Temperature: 17°C
+
+----
+
+Weather Icon: partly-cloudy-day
+
+----
+
+Date: 2019-07-07 09:53
+
+----
+
+Redirect: https://calumryan.com/note/2865
+
+----
+
+UID: 2865

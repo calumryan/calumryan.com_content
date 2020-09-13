@@ -1,0 +1,45 @@
+Title: November 1st, 2019
+
+----
+
+Text: Checked in at Tortilla
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5dbc7b4d9c624a0008b8c686
+
+----
+
+Longitude: -0.22544996650835
+
+----
+
+Latitude: 51.493018671357
+
+----
+
+Temperature: 14°C
+
+----
+
+Weather Icon: cloudy
+
+----
+
+Date: 2019-11-01 18:37
+
+----
+
+Redirect: https://calumryan.com/note/3180
+
+----
+
+UID: 3180

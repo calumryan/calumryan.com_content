@@ -1,0 +1,21 @@
+Title: Make your Google Fonts render faster
+
+----
+
+Permalink: https://googlefonts.3perf.com
+
+----
+
+Date: 2019-03-03 23:03
+
+----
+
+Tags: webfonts, webperf 
+
+----
+
+Redirect: https://calumryan.com/note/2468
+
+----
+
+UID: 2468

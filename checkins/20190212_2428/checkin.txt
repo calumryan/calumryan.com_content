@@ -1,0 +1,45 @@
+Title: February 12th, 2019
+
+----
+
+Text: Checked in at Starbucks
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5c6291d4d69ed0002c6b1c11
+
+----
+
+Longitude: -0.096092
+
+----
+
+Latitude: 51.514579
+
+----
+
+Temperature: 5°C
+
+----
+
+Weather Icon: partly-cloudy-day
+
+----
+
+Date: 2019-02-12 09:28
+
+----
+
+Redirect: https://calumryan.com/note/2428
+
+----
+
+UID: 2428

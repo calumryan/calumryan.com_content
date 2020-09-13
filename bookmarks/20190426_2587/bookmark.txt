@@ -1,0 +1,21 @@
+Title: Fading out siblings on hover in CSS
+
+----
+
+Permalink: https://www.trysmudford.com/blog/fade-out-siblings-css-trick/
+
+----
+
+Date: 2019-04-26 09:54
+
+----
+
+Tags: css 
+
+----
+
+Redirect: https://calumryan.com/note/2587
+
+----
+
+UID: 2587

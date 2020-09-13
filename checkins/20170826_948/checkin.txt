@@ -1,0 +1,45 @@
+Title: August 26th, 2017
+
+----
+
+Text: Checked in at London Southend Airport (SEN). Flight delayed, diverted
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/59a15aa42632ec250aa1f514
+
+----
+
+Longitude: 0.70381164550781
+
+----
+
+Latitude: 51.569601259654
+
+----
+
+Temperature: 
+
+----
+
+Weather Icon: 
+
+----
+
+Date: 2017-08-26 12:25
+
+----
+
+Redirect: https://calumryan.com/note/948
+
+----
+
+UID: 948

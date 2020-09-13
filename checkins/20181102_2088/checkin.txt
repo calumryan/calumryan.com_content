@@ -1,0 +1,45 @@
+Title: November 2nd, 2018
+
+----
+
+Text: Checked in at Bahnhof Berlin Ostkreuz
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5bdc4b702aff31002c3fc252
+
+----
+
+Longitude: 13.469152872899
+
+----
+
+Latitude: 52.503241606518
+
+----
+
+Temperature: 13°C
+
+----
+
+Weather Icon: partly-cloudy-day
+
+----
+
+Date: 2018-11-02 13:04
+
+----
+
+Redirect: https://calumryan.com/note/2088
+
+----
+
+UID: 2088

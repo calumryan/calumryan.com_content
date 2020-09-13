@@ -1,0 +1,49 @@
+Title: December 8th, 2019
+
+----
+
+Text: Found a new bike shop
+
+----
+
+Feature Image: IMG_20191208_104633.jpg
+
+----
+
+Image Alt: Inside at InGear bike shop at  Forest Row
+
+----
+
+Permalink: 
+
+----
+
+Tags: cycling
+
+----
+
+Latitude: 51.0994282
+
+----
+
+Longitude: 0.0338682
+
+----
+
+Temperature: 8°C
+
+----
+
+Weather Icon: partly-cloudy-day
+
+----
+
+Date: 2019-12-08 11:20
+
+----
+
+Redirect: https://calumryan.com/note/3288
+
+----
+
+UID: 3288

@@ -1,0 +1,41 @@
+Title: September 23rd, 2018
+
+----
+
+Text: A fine day to go wet pavement skating on Tonbridge High Street
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Latitude: 51.2054806
+
+----
+
+Longitude: 0.2753148
+
+----
+
+Temperature: 14°C
+
+----
+
+Weather Icon: clear-day
+
+----
+
+Date: 2018-09-23 16:06
+
+----
+
+Redirect: https://calumryan.com/note/1912
+
+----
+
+UID: 1912

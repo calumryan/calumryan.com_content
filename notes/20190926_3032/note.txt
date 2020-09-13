@@ -1,0 +1,41 @@
+Title: September 26th, 2019
+
+----
+
+Text: Web dev folks I can highly recommend you user test your websites by using Virgin Trains' onboard WiFi traveling on the West Coast railway of the UK ..you'll soon see why an in-depth understanding and appreciation for \#WebPerf \#PWA and having a \#ServiceWorker matters! 
+
+----
+
+Permalink: 
+
+----
+
+Tags: WebPerf, PWA
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Temperature: 
+
+----
+
+Weather Icon: 
+
+----
+
+Date: 2019-09-26 21:33
+
+----
+
+Redirect: https://calumryan.com/note/3032
+
+----
+
+UID: 3032

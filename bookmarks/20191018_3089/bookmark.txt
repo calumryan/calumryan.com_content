@@ -1,0 +1,21 @@
+Title: Making HTML tables responsive
+
+----
+
+Permalink: https://uglyduck.ca/responsive-tables
+
+----
+
+Date: 2019-10-18 12:13
+
+----
+
+Tags: css, table, html, front-end 
+
+----
+
+Redirect: https://calumryan.com/note/3089
+
+----
+
+UID: 3089

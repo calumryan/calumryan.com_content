@@ -1,0 +1,41 @@
+Title: June 16th, 2016
+
+----
+
+Text: Homebrew Website Club comes to London! https://calumryan.com/blog/homebrew-web-london/ \#IndieWeb \#HWC \#HWC_LDN
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Latitude: 51.5101498
+
+----
+
+Longitude: -0.1271938
+
+----
+
+Temperature: 16°C
+
+----
+
+Weather Icon: partly-cloudy-day
+
+----
+
+Date: 2016-06-16 02:05
+
+----
+
+Redirect: https://calumryan.com/note/273
+
+----
+
+UID: 273

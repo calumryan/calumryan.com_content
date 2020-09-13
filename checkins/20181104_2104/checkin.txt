@@ -1,0 +1,49 @@
+Title: November 4th, 2018
+
+----
+
+Text: Checked in at H Herrfurthstraße
+
+----
+
+Feature Image: fsq1eoC6k.jpg
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5bdea815364d97002ccb6b75
+
+----
+
+Longitude: 13.426816522698
+
+----
+
+Latitude: 52.477541025433
+
+----
+
+Temperature: 9°C
+
+----
+
+Weather Icon: cloudy
+
+----
+
+Date: 2018-11-04 08:04
+
+----
+
+Redirect: https://calumryan.com/note/2104
+
+----
+
+UID: 2104

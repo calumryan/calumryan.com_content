@@ -1,0 +1,21 @@
+Title: CSS resize none on textarea is bad for UX
+
+----
+
+Permalink: https://catalin.red/css-resize-none-is-bad-for-ux/
+
+----
+
+Date: 2020-02-04 09:23
+
+----
+
+Tags: css, a11y 
+
+----
+
+Redirect: https://calumryan.com/note/3395
+
+----
+
+UID: 3395

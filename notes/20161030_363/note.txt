@@ -1,0 +1,41 @@
+Title: October 30th, 2016
+
+----
+
+Text: A Handmade Web: proposal of how to see through the corporate web to the web as it once was, a web in the making. \#MozFest \#indieweb
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Latitude: 51.5018267
+
+----
+
+Longitude: 0.0052672
+
+----
+
+Temperature: 14°C
+
+----
+
+Weather Icon: partly-cloudy-night
+
+----
+
+Date: 2016-10-30 20:31
+
+----
+
+Redirect: https://calumryan.com/note/363
+
+----
+
+UID: 363

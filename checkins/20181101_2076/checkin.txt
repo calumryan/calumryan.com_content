@@ -1,0 +1,49 @@
+Title: November 1st, 2018
+
+----
+
+Text: Checked in at Pazzi X Pizza
+
+----
+
+Feature Image: fsq6bc1Eg.jpg
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5bdb508d2f97ec002cf01898
+
+----
+
+Longitude: 13.423436563312
+
+----
+
+Latitude: 52.477225354493
+
+----
+
+Temperature: 10°C
+
+----
+
+Weather Icon: partly-cloudy-night
+
+----
+
+Date: 2018-11-01 19:14
+
+----
+
+Redirect: https://calumryan.com/note/2076
+
+----
+
+UID: 2076

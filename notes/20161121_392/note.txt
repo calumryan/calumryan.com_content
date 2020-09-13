@@ -1,0 +1,41 @@
+Title: November 21st, 2016
+
+----
+
+Text: Making the case for progressive web apps over native apps - detailed and very coherent this evening by @AndyDavies \#lwslivin
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Latitude: 51.5176672
+
+----
+
+Longitude: -0.1081243
+
+----
+
+Temperature: 11°C
+
+----
+
+Weather Icon: partly-cloudy-night
+
+----
+
+Date: 2016-11-21 20:46
+
+----
+
+Redirect: https://calumryan.com/note/392
+
+----
+
+UID: 392

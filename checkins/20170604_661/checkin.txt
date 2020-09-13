@@ -1,0 +1,45 @@
+Title: June 4th, 2017
+
+----
+
+Text: Checked in at Tesco
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/59329ed3c876c8732b17382c
+
+----
+
+Longitude: 0.50998375966714
+
+----
+
+Latitude: 51.261237830253
+
+----
+
+Temperature: 
+
+----
+
+Weather Icon: 
+
+----
+
+Date: 2017-06-04 10:35
+
+----
+
+Redirect: https://calumryan.com/note/661
+
+----
+
+UID: 661

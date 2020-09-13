@@ -1,0 +1,45 @@
+Title: Internet Explorers | 2016-8-9
+
+----
+
+Tags:
+
+----
+
+Latitude: 51.1353521
+
+----
+
+Longitude: 0.2584271
+
+----
+
+Date: 2016-08-09 19:00
+
+----
+
+Date start: 2016-08-09 19:00:00 +0100
+
+----
+
+Date end: 2016-08-09 22:00:00 +0100
+
+----
+
+Timezone: BST
+
+----
+
+City: Tunbridge Wells
+
+----
+
+Location: Sankey's Pub, 39 Mount Ephraim, Tunbridge Wells TN4 8AA
+
+----
+
+Redirect: https://calumryan.com/event/ietw1
+
+----
+
+UID: ietw1

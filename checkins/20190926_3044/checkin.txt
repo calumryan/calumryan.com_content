@@ -1,0 +1,45 @@
+Title: September 26th, 2019
+
+----
+
+Text: Checked in at Virgin Trains First Class Lounge
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5d8d01383c0a4f000803f8d0
+
+----
+
+Longitude: -0.13305284001097
+
+----
+
+Latitude: 51.528299899655
+
+----
+
+Temperature: 18°C
+
+----
+
+Weather Icon: partly-cloudy-day
+
+----
+
+Date: 2019-09-26 19:19
+
+----
+
+Redirect: https://calumryan.com/note/3044
+
+----
+
+UID: 3044

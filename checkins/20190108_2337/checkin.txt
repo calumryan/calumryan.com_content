@@ -1,0 +1,45 @@
+Title: January 8th, 2019
+
+----
+
+Text: Checked in at The Oak Tavern. with Matt
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5c350b0e7564f7002c24cfa9
+
+----
+
+Longitude: 0.192498
+
+----
+
+Latitude: 51.272118
+
+----
+
+Temperature: 4°C
+
+----
+
+Weather Icon: partly-cloudy-night
+
+----
+
+Date: 2019-01-08 20:41
+
+----
+
+Redirect: https://calumryan.com/note/2337
+
+----
+
+UID: 2337

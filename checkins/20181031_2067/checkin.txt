@@ -1,0 +1,45 @@
+Title: October 31st, 2018
+
+----
+
+Text: Checked in at Honest Burgers
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5bda122a9de23b002ce571c3
+
+----
+
+Longitude: -0.12191881149578
+
+----
+
+Latitude: 51.510939945608
+
+----
+
+Temperature: 9°C
+
+----
+
+Weather Icon: rain
+
+----
+
+Date: 2018-10-31 20:35
+
+----
+
+Redirect: https://calumryan.com/note/2067
+
+----
+
+UID: 2067

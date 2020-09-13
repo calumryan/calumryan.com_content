@@ -1,0 +1,45 @@
+Title: March 21st, 2020
+
+----
+
+Text: Checked in at Horsmonden
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5e75f6ae590e6100076b4c10
+
+----
+
+Longitude: 0.42830019315912
+
+----
+
+Latitude: 51.140858695217
+
+----
+
+Temperature: 8°C
+
+----
+
+Weather Icon: clear-day
+
+----
+
+Date: 2020-03-21 11:12
+
+----
+
+Redirect: https://calumryan.com/note/3470
+
+----
+
+UID: 3470

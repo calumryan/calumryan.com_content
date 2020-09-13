@@ -1,0 +1,21 @@
+Title: Fixed Headers and Jump Links? The Solution is scroll-margin-top 
+
+----
+
+Permalink: https://css-tricks.com/fixed-headers-and-jump-links-the-solution-is-scroll-margin-top/
+
+----
+
+Date: 2020-02-23 10:14
+
+----
+
+Tags: css, scroll, front-end 
+
+----
+
+Redirect: https://calumryan.com/note/3421
+
+----
+
+UID: 3421

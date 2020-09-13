@@ -1,0 +1,45 @@
+Title: October 6th, 2018
+
+----
+
+Text: Checked in at The George
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5bb895f8a5a315002c0cd704
+
+----
+
+Longitude: 0.26072680950165
+
+----
+
+Latitude: 51.135628476991
+
+----
+
+Temperature: 
+
+----
+
+Weather Icon: 
+
+----
+
+Date: 2018-10-06 12:01
+
+----
+
+Redirect: https://calumryan.com/note/1928
+
+----
+
+UID: 1928

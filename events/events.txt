@@ -1,0 +1,15 @@
+Title: Events
+
+----
+
+Intro: This page lists all available events
+
+----
+
+svg: icon-calendar
+
+----
+
+Text:
+
+## Events I've been to or planning to attend

@@ -1,0 +1,49 @@
+Title: IndieWebCamp Berlin 2019
+
+----
+
+Tags:
+
+----
+
+Latitude: 52.4999
+
+----
+
+Longitude: 13.4494
+
+----
+
+Date: 2019-05-04 10:00
+
+----
+
+Date start: 2019-05-04 10:00:00 +0100
+
+----
+
+Date end: 2019-05-05 19:00:00 +0100
+
+----
+
+Timezone: CEST
+
+----
+
+City: Berlin
+
+----
+
+Location: Mozilla Berlin
+
+----
+
+Speaker: 1
+
+----
+
+Redirect: https://calumryan.com/event/indiewebcamp-berlin-2019
+
+----
+
+UID: indiewebcamp-berlin-2019

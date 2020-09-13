@@ -1,0 +1,42 @@
+Title: March 17th, 2018
+
+----
+
+Text: Freezing cold, bleak, windy, sleeting outside..
+..staying indoors kind of day tweaking my homepage's feed layout with a CSS Grid overhaul thanks to the excellent @wesbos videos https://cssgrid.io
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Latitude: 51.2054681
+
+----
+
+Longitude: 0.2751806
+
+----
+
+Temperature: 0°C
+
+----
+
+Weather Icon: snow
+
+----
+
+Date: 2018-03-17 16:21
+
+----
+
+Redirect: https://calumryan.com/note/1420
+
+----
+
+UID: 1420

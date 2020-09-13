@@ -1,0 +1,45 @@
+Title: May 6th, 2019
+
+----
+
+Text: Checked in at Terminal C
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5ccfd893a35dce002cd732a6
+
+----
+
+Longitude: 13.295720815659
+
+----
+
+Latitude: 52.55553330656
+
+----
+
+Temperature: 7°C
+
+----
+
+Weather Icon: clear-day
+
+----
+
+Date: 2019-05-06 07:47
+
+----
+
+Redirect: https://calumryan.com/note/2651
+
+----
+
+UID: 2651

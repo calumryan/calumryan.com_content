@@ -1,0 +1,45 @@
+Title: October 3rd, 2019
+
+----
+
+Text: Checked in at The Thirsty Bear
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5d962f38976a1c0008402a35
+
+----
+
+Longitude: -0.10826577565327
+
+----
+
+Latitude: 51.506967021709
+
+----
+
+Temperature: 14°C
+
+----
+
+Weather Icon: rain
+
+----
+
+Date: 2019-10-03 18:26
+
+----
+
+Redirect: https://calumryan.com/note/3056
+
+----
+
+UID: 3056

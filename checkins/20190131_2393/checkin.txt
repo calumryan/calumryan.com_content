@@ -1,0 +1,45 @@
+Title: January 31st, 2019
+
+----
+
+Text: Checked in at Foxlow
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5c535302bf7dde002c1bfca1
+
+----
+
+Longitude: -0.13629514200887
+
+----
+
+Latitude: 51.511301746314
+
+----
+
+Temperature: 1°C
+
+----
+
+Weather Icon: snow
+
+----
+
+Date: 2019-01-31 19:56
+
+----
+
+Redirect: https://calumryan.com/note/2393
+
+----
+
+UID: 2393

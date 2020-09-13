@@ -1,0 +1,41 @@
+Title: March 31st, 2017
+
+----
+
+Text: Uninstalled Twitter native app. Installed Twitter \#PWA (for consumption). Publish via syndication from my personal site. 100% Web
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Temperature: 
+
+----
+
+Weather Icon: 
+
+----
+
+Date: 2017-03-31 15:32
+
+----
+
+Redirect: https://calumryan.com/note/550
+
+----
+
+UID: 550

@@ -1,0 +1,21 @@
+Title: &quot;This marks the beginning of a week long adventure in Geneva Switzerland at CERN, to work on a hack project.&quot; - @rem
+
+----
+
+Permalink: https://remysharp.com/2019/02/12/cern-day-1
+
+----
+
+Date: 2019-02-12 09:36
+
+----
+
+Tags: www, cern, browsers 
+
+----
+
+Redirect: https://calumryan.com/note/2429
+
+----
+
+UID: 2429

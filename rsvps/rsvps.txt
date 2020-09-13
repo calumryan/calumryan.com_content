@@ -1,0 +1,5 @@
+Title: RSVPs
+----
+Intro: This page lists all available RSVPs
+----
+svg: icon-rsvp-yes

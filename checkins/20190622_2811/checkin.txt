@@ -1,0 +1,45 @@
+Title: June 22nd, 2019
+
+----
+
+Text: Checked in at Nag's Head Market
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5d0e29a57449fa0008f5f25b
+
+----
+
+Longitude: -0.11812415234975
+
+----
+
+Latitude: 51.558208056653
+
+----
+
+Temperature: 23°C
+
+----
+
+Weather Icon: partly-cloudy-day
+
+----
+
+Date: 2019-06-22 14:14
+
+----
+
+Redirect: https://calumryan.com/note/2811
+
+----
+
+UID: 2811

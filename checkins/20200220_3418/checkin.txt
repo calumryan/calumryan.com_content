@@ -1,0 +1,45 @@
+Title: February 20th, 2020
+
+----
+
+Text: Checked in at 33 holborn. London Accessibility Meetup
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5e4ecc124c00540008bcbff4
+
+----
+
+Longitude: -0.10804078943263
+
+----
+
+Latitude: 51.517732748247
+
+----
+
+Temperature: 6°C
+
+----
+
+Weather Icon: partly-cloudy-night
+
+----
+
+Date: 2020-02-20 18:12
+
+----
+
+Redirect: https://calumryan.com/note/3418
+
+----
+
+UID: 3418

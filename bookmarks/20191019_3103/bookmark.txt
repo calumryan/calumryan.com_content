@@ -1,0 +1,21 @@
+Title: Own your content on Social Media using the IndieWeb (via JAMstack conf San Francisco)
+
+----
+
+Permalink: https://www.youtube.com/watch?v=X3SrZuH00GQ
+
+----
+
+Date: 2019-10-19 17:55
+
+----
+
+Tags: JAMstack, IndieWeb 
+
+----
+
+Redirect: https://calumryan.com/note/3103
+
+----
+
+UID: 3103

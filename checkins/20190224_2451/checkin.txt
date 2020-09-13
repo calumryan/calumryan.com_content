@@ -1,0 +1,45 @@
+Title: February 24th, 2019
+
+----
+
+Text: Checked in at BrewDog Clapham Junction
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5c72c92dc0cacb002c39a7a5
+
+----
+
+Longitude: -0.16299561507213
+
+----
+
+Latitude: 51.461009112362
+
+----
+
+Temperature: 14°C
+
+----
+
+Weather Icon: clear-day
+
+----
+
+Date: 2019-02-24 16:41
+
+----
+
+Redirect: https://calumryan.com/note/2451
+
+----
+
+UID: 2451

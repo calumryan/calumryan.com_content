@@ -1,0 +1,49 @@
+Title: May 14th, 2019
+
+----
+
+Text: Checked in at Barbican Centre. Alfresco lunch 15°C
+
+----
+
+Feature Image: fsqBhm0IR.jpg
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5cdab655e1f228002c93acfb
+
+----
+
+Longitude: -0.093534179507081
+
+----
+
+Latitude: 51.519576937656
+
+----
+
+Temperature: 18°C
+
+----
+
+Weather Icon: partly-cloudy-day
+
+----
+
+Date: 2019-05-14 13:36
+
+----
+
+Redirect: https://calumryan.com/note/2685
+
+----
+
+UID: 2685

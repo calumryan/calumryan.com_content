@@ -1,0 +1,45 @@
+Title: November 5th, 2018
+
+----
+
+Text: Checked in at 19grams
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5be031ec0fe7a0002c1a847b
+
+----
+
+Longitude: 13.444415062923
+
+----
+
+Latitude: 52.499876955279
+
+----
+
+Temperature: 15°C
+
+----
+
+Weather Icon: partly-cloudy-day
+
+----
+
+Date: 2018-11-05 12:05
+
+----
+
+Redirect: https://calumryan.com/note/2127
+
+----
+
+UID: 2127

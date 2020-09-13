@@ -1,0 +1,21 @@
+Title:  Shoelace.css is a lightweight, forward-thinking CSS library built with future CSS syntax
+
+----
+
+Permalink: https://shoelace.style/
+
+----
+
+Date: 2019-01-23 20:06
+
+----
+
+Tags: css, css-variables, framework, front-end 
+
+----
+
+Redirect: https://calumryan.com/note/2374
+
+----
+
+UID: 2374

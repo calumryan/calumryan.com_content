@@ -1,0 +1,38 @@
+Title: Digibury Weekender 2014
+----
+Description:
+A round-up of my visit to Digibury Weekender 2014 in Canterbury, Kent.
+----
+
+Og: false
+
+----
+
+Thumbnail: /media/pages/posts/unsorted/digibury.jpg
+
+----
+
+Text:
+**This year's Digibury Weekender was packed full of speakers from a whole spectrum of digital industries and organisation embracing digital technologies to improve, enhance or change the way we do things. Rarely do I think does Kent get to welcome such a range of attendees and speakers from far away as well as locally.**
+
+English comedian and science presenter: Robin Ince did a fine job of introducing the speakers and filling in for the all too predictable technical hiccups that occur when projecting anything more complex than a simple PowerPoint presentation in front of a large audience.
+
+Aral Balkan's keynote set a general direction for thinking throughout the day as well as providing a good reason to stay to the end for his latest news regarding Indie technology. Aral introduced some new features of Indie OS including Pulse pier-pier distribution to the development community. We also caught a brief sight of the Indie Phone production model.
+
+Dave Walker spoke favourably of life long education and courses taken beyond further education. Quite astonishingly only 10% of adults here in Europe will ever return to any form of formal learning once settled down; typically with a full-time job, family and mortgage. With the widespread availability of mobile internet, smartphones and tablets; it’s never been easier to learn on the go at little expense and with the most up to date information and resources.
+
+Alberta Soranzo led on a sombre note based on personal tragedy to talk about the challenges of accessing or deleting your social media presence by those you leave behind once you have passed away.
+
+Barbara Cooper from Kent County Council presented a positive outlook for areas like Canterbury and Ashford in providing a highly attractive location for tech start-ups typically based in Shoreditch, London thanks to the High Speed 1 rail link and hence close proximity to our capital.
+
+**Digibury Weekender 2014 was superbly executed with a diverse range of people from all backgrounds both speaking and watching. As a regular conference/evening talks attendee seeing presentations decorated with slide after slide after slide of code extracts; it's always a fresh breeze to see talks purely about the philosophy or theory of a topic of digital technology. Digibury Weekender certainly attempts to do this well.**
+----
+
+Tags: general
+----
+
+Date: 2014-10-24 00:00
+
+----
+
+Redirect: https://calumryan.com/blog/digibury-weekender-2014/

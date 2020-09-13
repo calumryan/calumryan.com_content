@@ -1,0 +1,41 @@
+Title: IndieWebCamp planning
+----
+
+Description:
+With just two weeks to go until IndieWebCamp Düsseldorf I'm considering what things to work on whilst there
+
+----
+
+Og:  false
+
+----
+
+Text:
+The regular Homebrew Website Clubs I've organised over the past year in London have helped me to become a lot more productive in IndieWeb related tech, however; the post-work two-hour meetup doesn't always allow enough time and energy to focus on major development work, inspiration and research that a 2-day IndieWebCamp provides.
+
+This year I'm excited to be in Germany for both IndieWebCamp Düsseldorf and Nuremberg.
+
+Some of the things that I would like to achieve at the next IndieWebCamp(s):
+
+* Extending functionality and documentation for the Jekyll Webmentions plugin
+* Extending and documenting further my Webmention Endpoint Discovery to pass all tests on [webmention.rocks](https://webmention.rocks/)
+* Streamlining the UI for my homepage posts stream
+* Develop my own Internet Archive plugin
+
+Some possible topics of discussion for day one could include:
+
+* ***Making your website into a Progressive Web App*** - what are PWAs, benefits they can offer and how IndieWeb-related tech can integrate with them, e.g. draft posts offline. Plus what are the big silos doing with PWAs?
+* ***Publishing 2017 review*** - discussion on what we're publishing on the web and how.
+* ***Making an accessible and diverse IndieWeb community*** how do we bring in new people to the community and not scare people away?
+
+For now these are just a few of my ideas but I'm sure they'll be a synergy of thoughts and ideas from other IndieWebCampers for discussion on the day...
+----
+
+Tags: general
+----
+
+Date: 2017-04-30 00:00
+
+----
+
+Redirect: https://calumryan.com/blog/indiewebcamp-planning/

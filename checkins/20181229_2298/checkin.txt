@@ -1,0 +1,45 @@
+Title: December 29th, 2018
+
+----
+
+Text: Checked in at Barbican Centre
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5c27825b9fca56002c8bdc3b
+
+----
+
+Longitude: -0.093491582072967
+
+----
+
+Latitude: 51.51958781703
+
+----
+
+Temperature: 12°C
+
+----
+
+Weather Icon: cloudy
+
+----
+
+Date: 2018-12-29 14:19
+
+----
+
+Redirect: https://calumryan.com/note/2298
+
+----
+
+UID: 2298

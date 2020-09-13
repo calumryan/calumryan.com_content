@@ -1,0 +1,43 @@
+Title: The Web Is
+----
+
+Description:
+Review of my 2014 visit to Cardiff for a conference celebrating 25 years of the web
+----
+
+Og: false
+
+----
+
+Thumbnail: /media/pages/posts/unsorted/thewebis.jpg
+
+----
+
+Text:
+
+**And so another web-conference season draws to a close with a bang (close to Guy Fawks Night!). The Web Is followed a very successful series of conferences curated by Craig and Amie Lockwood held in Cardiff called Handheld. With greater focus and popularity now for the web versus native-build applications and the 25th anniversary of the web’s invention, it seemed fitting to have this conference now.**
+
+Kicking off the talks from my ancestral homeland, Belfast, was Chris Murphy. He discussed his role as being a designer of minds and sharing not only the knowledge but the practicalities of doing things based on his own experience working in the digital design industry. Gaining such knowledge and experience in the classic learning environment of a University lecture room, has for many, become an ineffective and costly exercise which is becoming less attractive. With this: we are increasingly seeing the emergence of independent learning institutions which try to address the skills that new comers typically lack when entering the web industry.
+
+Anna Debenham filled the stage with a small selection of gaming consoles in what wasn’t an attempt to hold a vintage gaming jam but a talk on making our websites work on said devices rather than dismissing them as little-used platforms for web browsing. Much to my surprise around 14% of the total use for such devices is to browse the web. This includes anything from 50 inch TVs plugged into a PS4 to the comparatively tiny dual displays on a Nintendo DSi.
+
+The creative flavour of Brighton had well and truly come to Cardiff with contributions from Seb Lee-Delisle talking about his spectacular laser shows, but also in the form of Benjamin Hollway, a 17-year old speaker talking in general about the industry from his perspective. As twenty-somethings and above: it’s quite an insight to see how those 10 years plus and younger are getting into the industry so early on.
+
+The Web Is took place during the same time as Geek Awareness Week. Andrew Clarke ran a live podcast as part of his Unfinished Business series during the event speaking to those from both the web industry and health research sectors. Discussion with his guests included the social challenges of what is typically quite an isolated job role to what available help there is in our community before seeking professional medical help, which can often be timely, costly and ineffective for some.
+
+Brad Frost took the stage by storm in his concluding talk for The Web Is by encouraging even greater openness in the web industry in both design and code. His stand out quote, for me, was “Open by Default”: which can be applied to so many aspects of our thinking and work we do for the benefit of others and not just our own companies or selves.
+
+Rounding off The Web Is: everyone was invited to a come together for an evening meal followed by a visit to Craig’s co-working space, Foundershub for drinks, music and socialising. This was a refreshing change to the pub crawl in crowded noisy bars, which typically concludes many other events in the web industry, and very much inclusive for those too young to drink or simply a non-drinker out of preference or religious reasons.
+
+**Congratulations to all those that made The Web Is happen this year and bring out the best in the web industry for those both young and well… some years older than the web!**
+----
+
+Tags: general
+
+----
+
+Date: 2014-11-01 00:00
+
+----
+
+Redirect: https://calumryan.com/blog/the-web-is/

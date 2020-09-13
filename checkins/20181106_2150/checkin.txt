@@ -1,0 +1,45 @@
+Title: November 6th, 2018
+
+----
+
+Text: Checked in at Terminal B. Old-style security scan
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5be1b83b97cf5a002c24914f
+
+----
+
+Longitude: 13.520021283365
+
+----
+
+Latitude: 52.388982795241
+
+----
+
+Temperature: 15°C
+
+----
+
+Weather Icon: clear-night
+
+----
+
+Date: 2018-11-06 15:50
+
+----
+
+Redirect: https://calumryan.com/note/2150
+
+----
+
+UID: 2150

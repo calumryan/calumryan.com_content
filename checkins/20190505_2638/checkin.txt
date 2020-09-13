@@ -1,0 +1,45 @@
+Title: May 5th, 2019
+
+----
+
+Text: Checked in at Luisenstädtischer Kanal. Pre-hack day stroll
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5cce8dd2d4cc98002c22bd63
+
+----
+
+Longitude: 13.417439460754
+
+----
+
+Latitude: 52.504493409984
+
+----
+
+Temperature: 7°C
+
+----
+
+Weather Icon: clear-day
+
+----
+
+Date: 2019-05-05 08:16
+
+----
+
+Redirect: https://calumryan.com/note/2638
+
+----
+
+UID: 2638

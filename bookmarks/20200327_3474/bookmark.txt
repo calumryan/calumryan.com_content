@@ -1,0 +1,21 @@
+Title: Why videos on GOV.UK use the YouTube video player
+
+----
+
+Permalink: https://accessibility.blog.gov.uk/2020/03/16/why-videos-on-gov-uk-use-the-youtube-video-player/
+
+----
+
+Date: 2020-03-27 10:02
+
+----
+
+Tags: a11y, video 
+
+----
+
+Redirect: https://calumryan.com/note/3474
+
+----
+
+UID: 3474

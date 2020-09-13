@@ -1,0 +1,45 @@
+Title: State of the Browser 6
+
+----
+
+Tags:
+
+----
+
+Latitude: 51.51981
+
+----
+
+Longitude: -0.11834
+
+----
+
+Date: 2017-09-16 10:00
+
+----
+
+Date start: 2017-09-16 10:00:00 +0100
+
+----
+
+Date end: 2017-09-16 17:30:00 +0100
+
+----
+
+Timezone: BST
+
+----
+
+City: London
+
+----
+
+Location: Conway Hall, 25 Red Lion Square, London, WC1R 4RL
+
+----
+
+Redirect: https://calumryan.com/event/state-of-the-browser-6
+
+----
+
+UID: state-of-the-browser-6

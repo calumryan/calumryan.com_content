@@ -1,0 +1,45 @@
+Title: March 30th, 2018
+
+----
+
+Text: Checked in at Caffè Nero
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5abe070c418686002ba18832
+
+----
+
+Longitude: 0.27288915760139
+
+----
+
+Latitude: 51.193267348811
+
+----
+
+Temperature: 
+
+----
+
+Weather Icon: 
+
+----
+
+Date: 2018-03-30 10:44
+
+----
+
+Redirect: https://calumryan.com/note/1453
+
+----
+
+UID: 1453

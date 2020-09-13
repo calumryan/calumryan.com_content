@@ -1,0 +1,41 @@
+Title: November 2nd, 2016
+
+----
+
+Text: Site updates November https://calumryan.com/learning/site-updates-november/
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Latitude: 51.510113399999994
+
+----
+
+Longitude: -0.1269131
+
+----
+
+Temperature: 7°C
+
+----
+
+Weather Icon: partly-cloudy-night
+
+----
+
+Date: 2016-11-02 23:35
+
+----
+
+Redirect: https://calumryan.com/note/367
+
+----
+
+UID: 367

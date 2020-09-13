@@ -1,0 +1,49 @@
+Title: Usability testing at Front End Kent Meetup
+
+----
+
+Tags: speaker
+
+----
+
+Latitude: 51.13311
+
+----
+
+Longitude: 0.26774
+
+----
+
+Date: 2019-06-11 18:30
+
+----
+
+Date start: 2019-06-11 18:30:00 +0100
+
+----
+
+Date end: 2019-06-11 21:00:00 +0100
+
+----
+
+Timezone: BST
+
+----
+
+City: Tunbridge Wells
+
+----
+
+Location: Yoyo, 90 Calverly Road, Tunbridge Wells
+
+----
+
+Speaker: 1
+
+----
+
+Redirect: https://calumryan.com/event/fek-meetup-june-2019
+
+----
+
+UID: fek-meetup-june-2019

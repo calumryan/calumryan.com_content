@@ -1,0 +1,45 @@
+Title: Meet the TAG London
+
+----
+
+Tags:
+
+----
+
+Latitude: 51.5145774
+
+----
+
+Longitude: -0.0732376
+
+----
+
+Date: 2018-02-01 18:00
+
+----
+
+Date start: 2018-02-01 18:00:00 +0000
+
+----
+
+Date end: 2018-02-01 20:00:00 +0000
+
+----
+
+Timezone: GMT
+
+----
+
+City: London
+
+----
+
+Location: Government Digital Service, Whitechapel Building, Aldgate, E1 8QS, London, United Kingdom
+
+----
+
+Redirect: https://calumryan.com/event/meet-the-tag
+
+----
+
+UID: meet-the-tag

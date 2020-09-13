@@ -1,0 +1,45 @@
+Title: April 6th, 2019
+
+----
+
+Text: Checked in at London Metropolitan University. WPLDN
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5ca85dd8b6b04b0039bcda26
+
+----
+
+Longitude: -0.11053919792175
+
+----
+
+Latitude: 51.552452920255
+
+----
+
+Temperature: 8°C
+
+----
+
+Weather Icon: cloudy
+
+----
+
+Date: 2019-04-06 09:05
+
+----
+
+Redirect: https://calumryan.com/note/2548
+
+----
+
+UID: 2548

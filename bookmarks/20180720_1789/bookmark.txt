@@ -1,0 +1,21 @@
+Title: Webmentions: Enabling Better Communication on the Internet by Chris Aldrich (https://boffosocko.com)
+
+----
+
+Permalink: https://alistapart.com/article/webmentions-enabling-better-communication-on-the-internet
+
+----
+
+Date: 2018-07-20 09:17
+
+----
+
+Tags:  
+
+----
+
+Redirect: https://calumryan.com/note/1789
+
+----
+
+UID: 1789

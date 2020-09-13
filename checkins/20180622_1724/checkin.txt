@@ -1,0 +1,45 @@
+Title: June 22nd, 2018
+
+----
+
+Text: Checked in at Old Fire Station
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5b2caded894eac002cfa8cb9
+
+----
+
+Longitude: 0.2745329338989
+
+----
+
+Latitude: 51.197283541877
+
+----
+
+Temperature: 
+
+----
+
+Weather Icon: 
+
+----
+
+Date: 2018-06-22 09:06
+
+----
+
+Redirect: https://calumryan.com/note/1724
+
+----
+
+UID: 1724

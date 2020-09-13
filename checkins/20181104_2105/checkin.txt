@@ -1,0 +1,45 @@
+Title: November 4th, 2018
+
+----
+
+Text: Checked in at H Beermannstraße
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5bdeac3835811b0039c83dac
+
+----
+
+Longitude: 13.456857204437
+
+----
+
+Latitude: 52.490842265748
+
+----
+
+Temperature: 9°C
+
+----
+
+Weather Icon: cloudy
+
+----
+
+Date: 2018-11-04 08:22
+
+----
+
+Redirect: https://calumryan.com/note/2105
+
+----
+
+UID: 2105

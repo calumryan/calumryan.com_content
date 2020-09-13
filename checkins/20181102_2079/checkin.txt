@@ -1,0 +1,45 @@
+Title: November 2nd, 2018
+
+----
+
+Text: Checked in at DB Reisezentrum. Paperwork for a refund
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5bdc12184940bc002b59019f
+
+----
+
+Longitude: 13.36480171047
+
+----
+
+Latitude: 52.476568543354
+
+----
+
+Temperature: 10°C
+
+----
+
+Weather Icon: clear-day
+
+----
+
+Date: 2018-11-02 09:00
+
+----
+
+Redirect: https://calumryan.com/note/2079
+
+----
+
+UID: 2079

@@ -1,0 +1,41 @@
+Title: February 19th, 2020
+
+----
+
+Text: Looking out for a well documented @eleven_ty @netlify CMS type solution with some baked-in \#IndieWeb functionality and customisable post interface options to finally rebuild my ageing personal website 🤔 maybe too early/much to ask...?
+
+----
+
+Permalink: 
+
+----
+
+Tags: IndieWeb, JAMStack
+
+----
+
+Latitude: 51.5111735
+
+----
+
+Longitude: -0.1259344
+
+----
+
+Temperature: 10°C
+
+----
+
+Weather Icon: cloudy
+
+----
+
+Date: 2020-02-19 20:30
+
+----
+
+Redirect: https://calumryan.com/note/3416
+
+----
+
+UID: 3416

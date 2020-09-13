@@ -1,0 +1,45 @@
+Title: May 11th, 2018
+
+----
+
+Text: Checked in at Station Delft
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5af5672e840fc2002c3d94e6
+
+----
+
+Longitude: 4.3568761688254
+
+----
+
+Latitude: 52.007280251071
+
+----
+
+Temperature: 
+
+----
+
+Weather Icon: 
+
+----
+
+Date: 2018-05-11 10:49
+
+----
+
+Redirect: https://calumryan.com/note/1600
+
+----
+
+UID: 1600

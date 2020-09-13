@@ -1,0 +1,43 @@
+Title: October 8th, 2018
+
+----
+
+Text: Added redundant markup to get round the long-running FOUC bug in Firefox for my website 
+With reference to @csswizardry adding &lt;script&gt; tag after your stylesheet &lt;link&gt; 
+Surprising how many websites it affects!
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Temperature: 
+
+----
+
+Weather Icon: 
+
+----
+
+Date: 2018-10-08 21:40
+
+----
+
+Redirect: https://calumryan.com/note/1932
+
+----
+
+UID: 1932

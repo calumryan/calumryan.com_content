@@ -1,0 +1,122 @@
+Title: Taking part in the IndieWeb
+----
+Description:
+Introducing the principles of IndieWeb and how you can take part through IndieWebCamps and Homebrew Website Clubs
+----
+
+Og: false
+
+----
+
+Thumbnail:
+
+----
+
+Text:
+In the period 2000-2016 the way the majority of us have chosen to post content on the web has shifted considerably away from simple web hosting services and memorable domain names. Today it’s a small minority of us who choose this option as our primary, central identity on the web. This is as opposed to or in addition to having a profile scattered over many places such as Facebook, Twitter, Flickr, Instagram, Foursquare, Medium and many more..
+
+### Back in my day…
+When I first ventured on to the World Wide Web back in the late 90s; I was curious how you could publish content to it, preferably at little or no cost. Geocities offered just what I was looking for: a simple registration process and hey-presto I had some free space, a fixed address, a homepage ready to go and a code editor to construct and upload my first website.
+
+Fast forward almost 20 years later: Geocities is no longer as is my first website which is but a vague memory of some simple tables of text, images and a page counter. Under the ownership of Yahoo; Geocities went offline in late 2009 and with it the great era of web experimentation with millions of websites killed off.
+
+### Enter the graveyard of web publishing platforms
+Over the years the graveyard of web publishing platforms has rapidly filled up with takeovers and shutdowns occurring every year. MySpace, once the largest social networking site in the world, reinvented itself somewhat over the past decade: removing the features of “Classic MySpace” and with it users’ content. A number of download tools were made available to retrieve the old content as a download but countless URLs are now broken as a result with publishers and their audience both loosing out.
+
+### The corporate web
+The likes of Facebook and Twitter have succeeded for a while in offering directly or indirectly, through ownership of other platforms like Medium (Twitter) or Instagram (Facebook), the web publishing platforms users want without the challenges or cost of self-hosting a website. But for how long will these platforms remain intact from heavier control on what you can post, what’s archived or deleted in the long term and how simple readable links (URLs) are maintained?
+
+Typically such platforms offer us, the users, little to no say on how our content is kept for the long term. Tired and frustrated of this never ending short lifecycle of web publishing platforms: many like my self have yearned for a alternative less corporate feel to the web. This is where I’ve full control of how I publish content to the web, in a format of my desire, with a URL that’s permanent and open without the walled-garden mentality; that so dominates the web now in instances such as Facebook.
+
+### And so the IndieWeb formed
+The IndieWeb movement was formed in 2011 out of those who actively participate in a people-focused alternative to what we term as ‘corporate web’; also considered as silos made by for-profit corporations who offer controlled environments to post content and interact with other registered users.
+
+### Clarification
+Before I go further I’d like to make it clear that IndieWeb (a people-focused alternative to the ‘corporate web’) is not the same as ind.ie the social enterprise and platform maker. This is despite a similar name and some similar goals. A detailed explanation of this can be found at [indiewebcamp.com/ind.ie](http://indiewebcamp.com/ind.ie).
+
+### Aims of the IndieWeb
+The aims set out by IndieWeb for all who wish to participate in this movement are clear and simple stating that:
+
+- **Your content is yours:** the content you post on the web should belong to you not a corporation
+- **You are better connected:** what you publish and how you interact with others can be syndicated to other platforms and vice-versa.
+- **You are in control:** you post what you want in whatever format you want, with a link that is permanent and will always work.
+
+### IndieWeb the movement
+With this people-focused movement there’s more of an onus on us: the IndieWeb community to research and experiment individually in creating the foundations, standards, methodology and documentation with which to maintain our own web publishing platforms.
+
+### Introducing Hillary
+Taking Hillary as a our example newcomer to IndieWeb my first advice would be that they start to participate in IndieWeb events as well as follow these initial steps if not done already:
+
+- Get a [personal domain](http://indiewebcamp.com/personal_domain)
+- Get a [place for your content](http://indiewebcamp.com/web_hosting)
+
+### Domains
+Numerous companies offer varying levels of security and extras with domain registration. Careful consideration should be taken with regard to adding on WHOIS protection. You should check if the registrar has any restriction on how you use the domain and possibly the type of content it directs to. Some registrars now also offer discounted SSL certificates which are beneficial on a number of points; but it’s worth investigating what support they will offer in installing the certificate as it’s a somewhat complex process even for the most experienced web developers out there.
+
+### Hosting
+In terms of hosting: WithKnown is one such example of an out of the box CMS with added syndication methods built-in to use or host yourself. It has pretty much all of IndieWeb technologies  built-in you could wish for. Popular blogging tools like WordPress also have the choice of hosting/self-hosting. There are some WordPress plugins created from within the community for syndicating your content to other platforms.
+
+Alternatively many choose to hand craft their own content publishing platforms or use static HTML site generators such as Jekyll if confident in hand coding HTML. GitHub Pages offers the means to host your version-controlled Jekyll website at no cost but with limited extendability beyond the core features of Jekyll.
+
+So back to Hillary: having set up a domain, some hosting and a simple website it’s now time for Hillary to start posting content and mark it up with some useful tags so we can gather lots of useful meta data about it such as who published it, when it was published, and whether it’s a reply to somebody else’s original post. In HTML we’ve a standard API of extensions known as Microformats useful for search engines, aggregators and potentially a whole universe of nodes/devices in the internet of things landscape.
+
+Every IndieWeb site should have an h-card to identify the author by name, photo and their website.
+
+### h-card
+
+```html
+<a class='h-card' href='http://Hillarysblog.uk'>
+<img src='/Hillary.png' alt='Hillary' />Hillary</a>
+```
+
+We can also add all kinds of other information to the website like what silos are associated with Hillary, their profile and email address. Think of it like gravatar.com but with the source being your own website. These simple additions to your website also open up the possibility for you to login with your own domain to other websites sites that support authentication with Oauth.
+
+```html
+<a rel='me' href='https://twitter/com/myhandle'>Twitter</a>
+<a rel='me' href='https://github.com/myhandle'>GitHub</a>
+```
+
+RelMeAuth, which is currently a proposed open standard, has vast potential for implementations in making personal websites open to profile-based interactions where pre-authenticated friends and associates can post or interact between each others websites.
+
+### Webmentions
+Let’s say Hillary visits his friend Mary’s blog, reads an article he’s really interested in and wants to leave a comment reply. Introducing the Webmention. Simply put webmentions offer a means  to notify another website accepting webmetions that you’ve linked to it on yours. The comment Hillary makes about Mary’s article is made on his website but pings Mary’s website as soon as he publishes the reply comment.
+
+webmentions.io offers a hosted service to handle receiving and ping backs on behalf of your website. There’s ongoing work within the IndieWeb community to offer webmention plugins for web publishing platforms such as WordPress as well as one for Jekyll.
+
+```html
+<link rel='pingback' href='http://webmention.io/Hillary/xmlrpc' />
+<link rel='http://webmention.org/' href='http://webmention.io/Hillary/webmention' />
+```
+
+The potential uses for webmentions reach far beyond just commenting but also offering the features we’re familiar with on Twitter and Facebook including Likes, Bookmarks and Reposts.
+
+### Syndication
+Lets imagine Hillary already has a vast following on Twitter and Flickr so rather than post content separately to these platforms; he’ll use a common method know by the acronym POSSE (Post Own Site Syndicate Elsewhere) to syndicate text extracts/snippets and images he’s posted on his website to Twitter and Flickr. These platforms offer well-documented APIs to achieve this.
+
+At the time of writing Instagram is one such example of a more limited API requiring you to post to it first. The method acronym here is called PESOS (Publish Elsewhere Syndicate Own Site). The downside to this method is that the platform may have restrictions on ownership for content originally posted to its database being duplicated elsewhere.
+
+The overall benefits in syndication of content mean that should another platform shutdown or momentarily fail such as through a distributed denial of services attack; then we still have access to our own copy. It’s also beneficial that our own content is openly accessibly without the terms and post restrictions APIs like Twitter’s have which are subject to change at anytime in the future.
+
+### Get involved
+So if this has sparked your interest to make something/contribute as part of the IndieWeb then come along to a Homebrew Website Club or start your own. Throughout the year these occur here in the UK fortnightly at venues including [Clearleft](http://clearleft.com/) in Brighton. Meetups are held in multiple US cities including San Francisco, Portland and Los Angeles.
+
+Annually we also hold weekend-long IndieWebCamps which take an un-conference/bar camp approach on the first day of participants making up the schedule to present their website and hold progressive discussions about the IndieWeb. As well as this there’s a hack-day on the second day to implement new features to your website, help others or create code/documentation/tools to benefit the IndieWeb community as a whole.
+
+Much more information on past and future events are detailed at [IndieWebCamp.com](https://indiewebcamp.com/events).
+
+Additionally many who cannot attend the events in-person join the IRC channel for ongoing discussion year-round. Despite timezone differences; where possible events link up over video chat.
+
+## Thank you
+**I have much gratitude for the IndieWeb community and to those who support its growth by attending and hosting events throughout the year. It’s been barely two years since I first heard about the IndieWeb movement and in that time I’ve been compelled to not only teach myself more about it but get the word out and introduce it in my [first public speaking engagement](/talks/fel-280116/#/) at [Front-end London](http://www.frontendlondon.co.uk/archive#fel28).**
+
+----
+
+Tags: general
+
+----
+
+Date: 2016-01-31 00:00
+
+----
+
+Redirect: https://calumryan.com/blog/taking-part-in-the-indieweb/

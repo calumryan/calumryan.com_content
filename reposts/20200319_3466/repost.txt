@@ -1,0 +1,25 @@
+Title: March 19th, 2020
+
+----
+
+Text: My Visual Studio Code Setup: Extensions and Themes by Matthias Ott
+
+----
+
+Permalink: https://matthiasott.com/notes/visual-studio-code-setup
+
+----
+
+Date: 2020-03-19 09:51
+
+----
+
+Tags: front-end, vscode, editor, code
+
+----
+
+Redirect: https://calumryan.com/note/3466
+
+----
+
+UID: 3466

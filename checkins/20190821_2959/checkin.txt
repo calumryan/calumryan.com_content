@@ -1,0 +1,45 @@
+Title: August 21st, 2019
+
+----
+
+Text: Checked in at Kalamaki
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5d5d808be470d00007fdc2ed
+
+----
+
+Longitude: -0.123633
+
+----
+
+Latitude: 51.509941
+
+----
+
+Temperature: 22°C
+
+----
+
+Weather Icon: partly-cloudy-day
+
+----
+
+Date: 2019-08-21 18:34
+
+----
+
+Redirect: https://calumryan.com/note/2959
+
+----
+
+UID: 2959

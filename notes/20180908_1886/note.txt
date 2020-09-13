@@ -1,0 +1,41 @@
+Title: September 8th, 2018
+
+----
+
+Text: Any solutions for  recovering a Lenovo failing to boot (Preparing Automatic Repair) and deathly slow? Admittedly it's a 6 year old laptop little used anymore..
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Latitude: 51.5142343
+
+----
+
+Longitude: -0.1225881
+
+----
+
+Temperature: 13°C
+
+----
+
+Weather Icon: partly-cloudy-day
+
+----
+
+Date: 2018-09-08 08:55
+
+----
+
+Redirect: https://calumryan.com/note/1886
+
+----
+
+UID: 1886

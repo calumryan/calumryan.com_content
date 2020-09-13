@@ -1,0 +1,45 @@
+Title: January 13th, 2019
+
+----
+
+Text: Checked in at The George. Post-cycle capp
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5c3b27292db4a9002c648167
+
+----
+
+Longitude: 0.26072680950165
+
+----
+
+Latitude: 51.135628476991
+
+----
+
+Temperature: 11°C
+
+----
+
+Weather Icon: cloudy
+
+----
+
+Date: 2019-01-13 11:55
+
+----
+
+Redirect: https://calumryan.com/note/2354
+
+----
+
+UID: 2354

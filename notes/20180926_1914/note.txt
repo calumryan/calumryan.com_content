@@ -1,0 +1,41 @@
+Title: September 26th, 2018
+
+----
+
+Text: Split view/shrinking window size has been a standard feature in all major desktop OS for many years ..yet too many websites (Gmail included) still don't really get this responsive web thing, relying on browser sniffing instead.
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Latitude: 51.2055074
+
+----
+
+Longitude: 0.2753208
+
+----
+
+Temperature: 15°C
+
+----
+
+Weather Icon: clear-night
+
+----
+
+Date: 2018-09-26 20:43
+
+----
+
+Redirect: https://calumryan.com/note/1914
+
+----
+
+UID: 1914

@@ -1,0 +1,49 @@
+Title: July 8th, 2018
+
+----
+
+Text: Checked in at Hastings Country Park
+
+----
+
+Feature Image: fsql1mdGJ.jpg
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5b41fa4761f070002ccb7eed
+
+----
+
+Longitude: 0.5955086376847
+
+----
+
+Latitude: 50.857099762246
+
+----
+
+Temperature: 
+
+----
+
+Weather Icon: 
+
+----
+
+Date: 2018-07-08 12:49
+
+----
+
+Redirect: https://calumryan.com/note/1765
+
+----
+
+UID: 1765

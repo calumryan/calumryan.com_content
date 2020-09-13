@@ -1,0 +1,45 @@
+Title: December 11th, 2018
+
+----
+
+Text: Checked in at Yoyo Design Ltd
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5c101909e55d8b002c157c03
+
+----
+
+Longitude: 0.26691198348999
+
+----
+
+Latitude: 51.133504444499
+
+----
+
+Temperature: 5°C
+
+----
+
+Weather Icon: partly-cloudy-night
+
+----
+
+Date: 2018-12-11 20:07
+
+----
+
+Redirect: https://calumryan.com/note/2244
+
+----
+
+UID: 2244

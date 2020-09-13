@@ -1,0 +1,45 @@
+Title: May 8th, 2019
+
+----
+
+Text: Checked in at Dapper Dan's Barbers
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5cd2df51ad1789002ce55c6e
+
+----
+
+Longitude: 0.275272
+
+----
+
+Latitude: 51.198029
+
+----
+
+Temperature: 14°C
+
+----
+
+Weather Icon: clear-day
+
+----
+
+Date: 2019-05-08 14:53
+
+----
+
+Redirect: https://calumryan.com/note/2660
+
+----
+
+UID: 2660

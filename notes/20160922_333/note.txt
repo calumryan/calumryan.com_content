@@ -1,0 +1,45 @@
+Title: September 22nd, 2016
+
+----
+
+Text: Big Mac
+
+----
+
+Feature Image: IMG_20160921_165257.jpg
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Latitude: 37.7904969
+
+----
+
+Longitude: -122.4057116
+
+----
+
+Temperature: 17°C
+
+----
+
+Weather Icon: clear-day
+
+----
+
+Date: 2016-09-22 19:01
+
+----
+
+Redirect: https://calumryan.com/note/333
+
+----
+
+UID: 333

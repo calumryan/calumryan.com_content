@@ -1,0 +1,45 @@
+Title: February 26th, 2019
+
+----
+
+Text: Checked in at Nelson Arms. Tonbridge Digital
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5c7596d5666116002c7e61df
+
+----
+
+Longitude: 0.26469586886378
+
+----
+
+Latitude: 51.192759965493
+
+----
+
+Temperature: 9°C
+
+----
+
+Weather Icon: clear-night
+
+----
+
+Date: 2019-02-26 19:43
+
+----
+
+Redirect: https://calumryan.com/note/2456
+
+----
+
+UID: 2456

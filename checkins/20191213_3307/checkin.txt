@@ -1,0 +1,45 @@
+Title: December 13th, 2019
+
+----
+
+Text: Checked in at Four Hundred Rabbits
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5df39c8e2352d10007a3fede
+
+----
+
+Longitude: -0.057441155747252
+
+----
+
+Latitude: 51.46588224689
+
+----
+
+Temperature: 6°C
+
+----
+
+Weather Icon: partly-cloudy-night
+
+----
+
+Date: 2019-12-13 14:13
+
+----
+
+Redirect: https://calumryan.com/note/3307
+
+----
+
+UID: 3307

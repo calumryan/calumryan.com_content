@@ -1,0 +1,45 @@
+Title: November 8th, 2019
+
+----
+
+Text: Checked in at Euston Tap East Lodge
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5dc5cb8b79367d0008faf9d6
+
+----
+
+Longitude: -0.1322956836331
+
+----
+
+Latitude: 51.52704161014
+
+----
+
+Temperature: 8°C
+
+----
+
+Weather Icon: rain
+
+----
+
+Date: 2019-11-08 20:09
+
+----
+
+Redirect: https://calumryan.com/note/3195
+
+----
+
+UID: 3195

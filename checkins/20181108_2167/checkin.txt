@@ -1,0 +1,45 @@
+Title: November 8th, 2018
+
+----
+
+Text: Checked in at Elstree Studios. HIGNFY
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5be483f7fe3740002c95e0c4
+
+----
+
+Longitude: -0.26970255640459
+
+----
+
+Latitude: 51.657802675096
+
+----
+
+Temperature: 9°C
+
+----
+
+Weather Icon: partly-cloudy-night
+
+----
+
+Date: 2018-11-08 18:44
+
+----
+
+Redirect: https://calumryan.com/note/2167
+
+----
+
+UID: 2167

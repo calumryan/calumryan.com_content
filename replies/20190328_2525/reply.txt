@@ -1,0 +1,25 @@
+Title: March 28th, 2019
+
+----
+
+Text: Could be quite neatly combined if you're able to set a condition based on the page being view with the statment if ('serviceWorker' in navigator) { ..or similar assuming your ServiveWorker script begins like this.
+
+----
+
+Permalink: https://twitter.com/dletorey/status/1111206567825813504
+
+----
+
+Date: 2019-03-28 10:07
+
+----
+
+Tags: javascript, serviceworker, pwa
+
+----
+
+Redirect: https://calumryan.com/note/2525
+
+----
+
+UID: 2525

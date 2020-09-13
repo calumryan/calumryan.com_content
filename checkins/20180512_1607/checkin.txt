@@ -1,0 +1,45 @@
+Title: May 12th, 2018
+
+----
+
+Text: Checked in at Coffee Company
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5af6ae6a10b303002427bafc
+
+----
+
+Longitude: 4.9108187049342
+
+----
+
+Latitude: 52.365528640467
+
+----
+
+Temperature: 
+
+----
+
+Weather Icon: 
+
+----
+
+Date: 2018-05-12 10:05
+
+----
+
+Redirect: https://calumryan.com/note/1607
+
+----
+
+UID: 1607

@@ -1,0 +1,45 @@
+Title: May 6th, 2019
+
+----
+
+Text: Checked in at Berlin Tegel Otto Lilienthal Airport (TXL) (Flughafen Berlin-Tegel „Otto Lilienthal“). Thru security (30mins)
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5ccfd847b1538e002cedbd4c
+
+----
+
+Longitude: 13.293070793152
+
+----
+
+Latitude: 52.554515699182
+
+----
+
+Temperature: 7°C
+
+----
+
+Weather Icon: clear-day
+
+----
+
+Date: 2019-05-06 07:46
+
+----
+
+Redirect: https://calumryan.com/note/2650
+
+----
+
+UID: 2650

@@ -1,0 +1,45 @@
+Title: May 4th, 2019
+
+----
+
+Text: Checked in at helloGoodPie. IndieWebCamp lunch — with Tantek
+
+----
+
+Permalink: 
+
+----
+
+Tags: https://foursquare.com/user/476
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5ccd6ec4ad008500252e6a9a
+
+----
+
+Longitude: 13.44245495877
+
+----
+
+Latitude: 52.498783546618
+
+----
+
+Temperature: 9°C
+
+----
+
+Weather Icon: partly-cloudy-day
+
+----
+
+Date: 2019-05-04 11:51
+
+----
+
+Redirect: https://calumryan.com/note/2627
+
+----
+
+UID: 2627

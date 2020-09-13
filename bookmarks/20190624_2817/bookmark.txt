@@ -1,0 +1,21 @@
+Title: Providing a useful context to content written in response to someone else’s blog post, tweet, toot, etc.
+
+----
+
+Permalink: https://chrisburnell.com/article/reply-targets
+
+----
+
+Date: 2019-06-24 22:38
+
+----
+
+Tags: indieweb, replies 
+
+----
+
+Redirect: https://calumryan.com/note/2817
+
+----
+
+UID: 2817

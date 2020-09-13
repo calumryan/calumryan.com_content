@@ -1,0 +1,45 @@
+Title: March 6th, 2020
+
+----
+
+Text: Checked in at Caffè Nero
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5e622e4b41e38b0007ade371
+
+----
+
+Longitude: -1.6129854246948
+
+----
+
+Latitude: 54.975761068796
+
+----
+
+Temperature: 6°C
+
+----
+
+Weather Icon: partly-cloudy-day
+
+----
+
+Date: 2020-03-06 11:04
+
+----
+
+Redirect: https://calumryan.com/note/3441
+
+----
+
+UID: 3441

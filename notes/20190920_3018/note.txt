@@ -1,0 +1,49 @@
+Title: September 20th, 2019
+
+----
+
+Text: Switched off the laptop, the WiFi and popped outside to show some support at \#GlobalClimateStrike here in Tonbridge
+
+----
+
+Feature Image: climateprotest.jpg
+
+----
+
+Image Alt: Climate protest in Tonbridge
+
+----
+
+Permalink: 
+
+----
+
+Tags: climate, protest
+
+----
+
+Latitude: 51.20536956629127
+
+----
+
+Longitude: 0.2753973838405728
+
+----
+
+Temperature: 19°C
+
+----
+
+Weather Icon: clear-day
+
+----
+
+Date: 2019-09-20 17:21
+
+----
+
+Redirect: https://calumryan.com/note/3018
+
+----
+
+UID: 3018

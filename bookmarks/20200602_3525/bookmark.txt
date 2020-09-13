@@ -1,0 +1,21 @@
+Title: Visualise data accessibly
+
+----
+
+Permalink: https://www.everviz.com
+
+----
+
+Date: 2020-06-02 16:21
+
+----
+
+Tags: a11y 
+
+----
+
+Redirect: https://calumryan.com/note/3525
+
+----
+
+UID: 3525

@@ -1,0 +1,45 @@
+Title: July 18th, 2018
+
+----
+
+Text: Checked in at Mayfield
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5b4f8e74e17910003938d420
+
+----
+
+Longitude: 0.26184743221623
+
+----
+
+Latitude: 51.021531373968
+
+----
+
+Temperature: 
+
+----
+
+Weather Icon: 
+
+----
+
+Date: 2018-07-18 20:01
+
+----
+
+Redirect: https://calumryan.com/note/1786
+
+----
+
+UID: 1786

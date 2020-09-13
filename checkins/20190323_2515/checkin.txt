@@ -1,0 +1,49 @@
+Title: March 23rd, 2019
+
+----
+
+Text: Checked in at Parliament Square
+
+----
+
+Feature Image: fsqMrughm.jpg
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5c9666401543c7002cedc6c3
+
+----
+
+Longitude: -0.126802
+
+----
+
+Latitude: 51.500595
+
+----
+
+Temperature: 13°C
+
+----
+
+Weather Icon: partly-cloudy-day
+
+----
+
+Date: 2019-03-23 17:00
+
+----
+
+Redirect: https://calumryan.com/note/2515
+
+----
+
+UID: 2515

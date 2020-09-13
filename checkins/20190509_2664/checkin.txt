@@ -1,0 +1,49 @@
+Title: May 9th, 2019
+
+----
+
+Text: Checked in at Chilango
+
+----
+
+Feature Image: fsqQUgB62.jpg
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5cd45e72b23dfa002cd707d9
+
+----
+
+Longitude: -0.10700274033481
+
+----
+
+Latitude: 51.514226777744
+
+----
+
+Temperature: 12°C
+
+----
+
+Weather Icon: partly-cloudy-day
+
+----
+
+Date: 2019-05-09 18:08
+
+----
+
+Redirect: https://calumryan.com/note/2664
+
+----
+
+UID: 2664

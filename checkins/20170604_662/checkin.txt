@@ -1,0 +1,45 @@
+Title: June 4th, 2017
+
+----
+
+Text: Checked in at Cranbrook
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5932e1c431ac6c33cee5ac24
+
+----
+
+Longitude: 0.53282199587287
+
+----
+
+Latitude: 51.096258331004
+
+----
+
+Temperature: 
+
+----
+
+Weather Icon: 
+
+----
+
+Date: 2017-06-04 10:35
+
+----
+
+Redirect: https://calumryan.com/note/662
+
+----
+
+UID: 662

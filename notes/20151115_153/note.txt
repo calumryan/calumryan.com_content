@@ -1,0 +1,41 @@
+Title: November 15th, 2015
+
+----
+
+Text: Switched to https!
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Temperature: 
+
+----
+
+Weather Icon: 
+
+----
+
+Date: 2015-11-15 17:01
+
+----
+
+Redirect: https://calumryan.com/note/153
+
+----
+
+UID: 153

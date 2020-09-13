@@ -1,0 +1,41 @@
+Title: July 1st, 2018
+
+----
+
+Text: Made a start on Micropub an overview. ℹ️Next.. Implementation guides plus some examples of available CMS plugins for Micropub support https://indiewebguides.org/browse/micropub-overview/
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Temperature: 
+
+----
+
+Weather Icon: 
+
+----
+
+Date: 2018-07-01 17:35
+
+----
+
+Redirect: https://calumryan.com/note/1746
+
+----
+
+UID: 1746

@@ -1,0 +1,45 @@
+Title: April 22nd, 2019
+
+----
+
+Text: Checked in at Croxden Abbey
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5cbda811345cbe002c044112
+
+----
+
+Longitude: -1.9035737581272
+
+----
+
+Latitude: 52.954821247753
+
+----
+
+Temperature: 18°C
+
+----
+
+Weather Icon: clear-day
+
+----
+
+Date: 2019-04-22 12:40
+
+----
+
+Redirect: https://calumryan.com/note/2579
+
+----
+
+UID: 2579

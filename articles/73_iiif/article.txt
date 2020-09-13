@@ -1,0 +1,43 @@
+Title: International Image Interoperability Framework
+----
+Description:
+A community driven framework to standardise the way image-based resources are shared and presented across the internet.
+
+----
+
+Og:  false
+
+----
+
+Text:
+Earlier in the year I attended [Europeana Tech](https://pro.europeana.eu/event/europeanatech-conference-2018) where I first learnt about the International Image Interoperability Framework (IIIF) being used  throughout <abbr title="galleries, libraries, archives, and museums">GLAM</abbr> sector organisations. The IIIF sets out a growing range of digitisation standards or specifications for creating content viewers typically used by GLAMs on the web.
+
+The framework separates into two core APIs as well as some other support or secondary-level APIs:
+
+### Image API
+The complete digitisation of an historical archive will often necessitate a high degree of processing and the output of many highly detailed images. These images each have their attributes typically including:
+
+- **Quality** *Coloured/greyscale*
+- **Format** *File formats such as jpg/png/pdf*
+- **Size** *Full or low resolution and zoom level variations*
+
+The IIIF provides a complete compliance-based specification for these along with many other image properties. Software vendors or individuals can then build or use tools and services to manage images more efficiently and openly share image-based digital collections to the public.
+
+### Presentation API
+Digitising an archive full of artefacts requires careful structuring of different metadata that might include images as well as other related media. The Presentation API specifies a manifest of structured data using the <abbr title="JavaScript Object Notation Linked Data">JSON-LD</abbr> standard. The standard provides a highly detailed collection of linked properties helping describe the artefact, not only in isolation, but in relation properties of other artefacts and metadata.
+
+### Other APIs
+Further to the core APIs the IIIF builds on ways to authenticate the access to content so that specific parts of an archive or individual artefacts can be restricted to certain user access. A content search API also sets out standards to search and present artefacts that may contain a large amount of text content such as books and manuscripts.
+
+### Reference + reading
+- [Official IIIF website](https://iiif.io)
+----
+
+Tags: learning
+----
+
+Date: 2018-10-28 00:00
+
+----
+
+Redirect: https://calumryan.com/learning/iiif/

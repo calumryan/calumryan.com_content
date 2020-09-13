@@ -1,0 +1,25 @@
+Title: March 7th, 2019
+
+----
+
+Text: Junior devs can bring new perspective to addressing problems/challenges, perhaps from a different prof/educational background. They can highlight shortcomings in your documentation for internal tooling/devops/general approach too.
+
+----
+
+Permalink: https://twitter.com/_fumanity/status/1103644177349386240
+
+----
+
+Date: 2019-03-07 14:12
+
+----
+
+Tags: development, junior, mentor
+
+----
+
+Redirect: https://calumryan.com/note/2475
+
+----
+
+UID: 2475

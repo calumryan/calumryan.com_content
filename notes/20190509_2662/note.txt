@@ -1,0 +1,50 @@
+Title: May 9th, 2019
+
+----
+
+Text: Happy @LondonCSS day! 
+Sporting my new top { fill: \#0151a6 } for \#EuropeDay
+
+----
+
+Feature Image: IMG_20190509_090555.jpg
+
+----
+
+Image Alt: Calum wearing a blue jumper outside in London
+
+----
+
+Permalink: 
+
+----
+
+Tags: css, Europe
+
+----
+
+Latitude: 51.5191398
+
+----
+
+Longitude: -0.0989474
+
+----
+
+Temperature: 14°C
+
+----
+
+Weather Icon: partly-cloudy-day
+
+----
+
+Date: 2019-05-09 09:47
+
+----
+
+Redirect: https://calumryan.com/note/2662
+
+----
+
+UID: 2662

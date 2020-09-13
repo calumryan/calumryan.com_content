@@ -1,0 +1,45 @@
+Title: July 14th, 2017
+
+----
+
+Text: Checked in at Starbucks
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/596879ca396de0358649a344
+
+----
+
+Longitude: 0.274037
+
+----
+
+Latitude: 51.194689
+
+----
+
+Temperature: 
+
+----
+
+Weather Icon: 
+
+----
+
+Date: 2017-07-14 08:59
+
+----
+
+Redirect: https://calumryan.com/note/858
+
+----
+
+UID: 858

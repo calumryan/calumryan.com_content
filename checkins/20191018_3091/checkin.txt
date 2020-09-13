@@ -1,0 +1,45 @@
+Title: October 18th, 2019
+
+----
+
+Text: Checked in at Redhill Railway Station (RDH). Platform 0
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5da9b2d2ec9ea00008379ac8
+
+----
+
+Longitude: -0.16543102751023
+
+----
+
+Latitude: 51.240417681383
+
+----
+
+Temperature: 13°C
+
+----
+
+Weather Icon: partly-cloudy-day
+
+----
+
+Date: 2019-10-18 13:40
+
+----
+
+Redirect: https://calumryan.com/note/3091
+
+----
+
+UID: 3091

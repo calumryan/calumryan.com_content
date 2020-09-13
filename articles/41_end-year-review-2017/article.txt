@@ -1,0 +1,37 @@
+Title: End year review 2017
+----
+Description:
+A bit later than usual due to family-wide sickness over Christmas delaying the annual family get together here I am with my end of year review.
+----
+
+Og:  false
+
+----
+
+Text:
+Over the year I’ve traveled a fair amount both here and throughout Europe visiting a range of new places as well as some I’ve not been back to for many years including Belfast, Amsterdam, Nuremberg and Cornwall.
+
+In fitness I made a commitment to further activity returning to a favourite sport of my childhood, swimming, over the winter months. Continuing with my cycling too I missed out on any major events this year but did make it to The Fool's Errand at nearby Hadlow. Cycling remains my main  and most enjoyed sport during the summer months both in my own activity and an almost religious level of following for Le Tour and La Vuelta.
+
+Towards the end of the year I was sad to see The Velo House cafe-shop in nearby Tunbridge Wells close down after just four years. It was one of my favourite haunts for meeting with the local cycling community and concluding summer time group rides at with drinks and socialising.
+
+Organising and partaking in IndieWeb community events continues to be a regular part of my schedule. In 2017 I participated in no less than three IndieWebCamps abroad in Germany and continued running Homebrew Website Club in London fortnightly.
+
+For the first time I attended Beyond Tellerrand conference which I’m glad to say was one of the best, if not the best, events I’ve attended and will definitely be returning for Dusseldorf 2018. Prior to that I’d a brief stayover in Rotterdam where I had a great time with my hosts in one of the finest Airbnb locations I’ve stayed in to date.
+
+In autumn 2017 I returned to my ancestral home, Ireland, visiting the grave of my grandmother that brought back many memories of the countless visits I made to both Northern Ireland and the Republic during my childhood. Clearly much has changed over my thirty years visiting the isle. Tourism is now a major part of the economy there thanks to shows filmed there like Game of Thrones. There’s also the transformation of once industrial sites like the Titanic dockyard at Harland and Wolff which is now largely given over to a museum, retail and entertainment venues.
+
+![Collage of 2017 photos](/media/pages/posts/unsorted/collage-2017.jpg)
+
+### An so to 2018
+Looking ahead I’ve a few things pencilled in including at least one rather challenging cycling event to prepare for over the next couple of months. I have a few ideas for talks to give at local meetups which I’ve spent some time considering over the Christmas period. I hope to continue  supporting and helping the build the IndieWeb community through a few of my own projects as well as events attendance and organising. Again I shall commit to read even more and explore research and learning beyond my areas of expertise and profession.
+----
+
+Tags: general
+----
+
+Date: 2018-01-06 00:00
+
+----
+
+Redirect: https://calumryan.com/blog/end-year-review-2017/

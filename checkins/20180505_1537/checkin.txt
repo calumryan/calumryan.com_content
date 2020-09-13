@@ -1,0 +1,45 @@
+Title: May 5th, 2018
+
+----
+
+Text: Checked in at Rhein Kiosk
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5aedf8c4e1f228002c266562
+
+----
+
+Longitude: 6.772048959641
+
+----
+
+Latitude: 51.226890712907
+
+----
+
+Temperature: 
+
+----
+
+Weather Icon: 
+
+----
+
+Date: 2018-05-05 19:32
+
+----
+
+Redirect: https://calumryan.com/note/1537
+
+----
+
+UID: 1537

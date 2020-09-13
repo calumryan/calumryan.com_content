@@ -1,0 +1,29 @@
+Title: Cleanup your Twitter timeline
+----
+Description:
+----
+
+Og:  false
+
+----
+
+Text:
+The latest inject to the Twitter timeline has been displaying the tweets liked by those who you follow. Frustratingly Twitter currently provides no turn-off preference for this! As yet I have only found one way to hide such tweets from my timeline, but this is only applicable to the web interface where it's possible to manipulate the CSS code through browser extensions like [User CSS for Chrome](https://chrome.google.com/webstore/detail/user-css/okpjlejfhacmgjkmknjhadmkdbcldfcb).
+
+Add this to your browser's CSS extension for hiding liked tweets by other users:
+
+```css
+div[data-component-context="suggest_activity_tweet"] {
+  display:none !important;
+}
+```
+----
+
+Tags: general
+----
+
+Date: 2017-07-29 00:00
+
+----
+
+Redirect: https://calumryan.com/blog/cleanup-your-twitter-timeline/

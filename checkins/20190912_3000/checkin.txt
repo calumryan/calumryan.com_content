@@ -1,0 +1,45 @@
+Title: September 12th, 2019
+
+----
+
+Text: Checked in at The Bill Murray
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5d7a899cc5064b0007c4ebf0
+
+----
+
+Longitude: -0.098750244003951
+
+----
+
+Latitude: 51.53622641765
+
+----
+
+Temperature: 21°C
+
+----
+
+Weather Icon: partly-cloudy-day
+
+----
+
+Date: 2019-09-12 19:08
+
+----
+
+Redirect: https://calumryan.com/note/3000
+
+----
+
+UID: 3000

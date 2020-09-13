@@ -1,0 +1,45 @@
+Title: January 11th, 2020
+
+----
+
+Text: Checked in at intu Lakeside
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5e19e265d3bc10000813c646
+
+----
+
+Longitude: 0.28368954725544
+
+----
+
+Latitude: 51.4873233083
+
+----
+
+Temperature: 11°C
+
+----
+
+Weather Icon: cloudy
+
+----
+
+Date: 2020-01-11 14:57
+
+----
+
+Redirect: https://calumryan.com/note/3359
+
+----
+
+UID: 3359

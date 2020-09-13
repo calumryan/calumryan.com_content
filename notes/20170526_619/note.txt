@@ -1,0 +1,41 @@
+Title: May 26th, 2017
+
+----
+
+Text: What's New In DevTools (Chrome 60) https://developers.google.com/web/updates/2017/05/devtools-release-notes
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Temperature: 
+
+----
+
+Weather Icon: 
+
+----
+
+Date: 2017-05-26 17:03
+
+----
+
+Redirect: https://calumryan.com/note/619
+
+----
+
+UID: 619

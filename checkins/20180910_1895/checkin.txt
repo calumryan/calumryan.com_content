@@ -1,0 +1,45 @@
+Title: September 10th, 2018
+
+----
+
+Text: Checked in at Chilango
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5b96a65116fa04002ccad1be
+
+----
+
+Longitude: -0.093587637275317
+
+----
+
+Latitude: 51.374895374508
+
+----
+
+Temperature: 
+
+----
+
+Weather Icon: 
+
+----
+
+Date: 2018-09-10 18:13
+
+----
+
+Redirect: https://calumryan.com/note/1895
+
+----
+
+UID: 1895

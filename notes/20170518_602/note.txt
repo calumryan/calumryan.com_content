@@ -1,0 +1,45 @@
+Title: May 18th, 2017
+
+----
+
+Text: This is going long to be a long morning/day: listing every web-related tool/language/thing ever invented \#nueww
+
+----
+
+Feature Image: IMG_20170518_110426.jpg
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Latitude: 49.4751381
+
+----
+
+Longitude: 11.1070832
+
+----
+
+Temperature: 21°C
+
+----
+
+Weather Icon: clear-day
+
+----
+
+Date: 2017-05-18 15:08
+
+----
+
+Redirect: https://calumryan.com/note/602
+
+----
+
+UID: 602

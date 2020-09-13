@@ -1,0 +1,37 @@
+Title: Homebrew Website Club (London) | 2016-12-14
+
+----
+
+Tags:
+
+----
+
+Date: 2016-12-14 18:00
+
+----
+
+Date start: 2016-12-14 18:00:00 +0000
+
+----
+
+Date end: 2016-12-14 20:00:00 +0000
+
+----
+
+Timezone: GMT
+
+----
+
+City: London
+
+----
+
+Location: 110 St Martin's Lane, Covent Garden, London, WC2N 4BA, England
+
+----
+
+Redirect: https://calumryan.com/event/hwc-20161214
+
+----
+
+UID: hwc-20161214

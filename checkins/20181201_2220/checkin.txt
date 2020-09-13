@@ -1,0 +1,45 @@
+Title: December 1st, 2018
+
+----
+
+Text: Checked in at Tonbridge Railway Station (TON)
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5c02492131fd14002c6d0087
+
+----
+
+Longitude: 0.26974357046837
+
+----
+
+Latitude: 51.191619820123
+
+----
+
+Temperature: 10°C
+
+----
+
+Weather Icon: rain
+
+----
+
+Date: 2018-12-01 08:41
+
+----
+
+Redirect: https://calumryan.com/note/2220
+
+----
+
+UID: 2220

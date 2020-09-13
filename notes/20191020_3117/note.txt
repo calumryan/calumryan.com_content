@@ -1,0 +1,49 @@
+Title: October 20th, 2019
+
+----
+
+Text: Today I'm at IndieWebCamp Brighton hack day ..so prepare for some random, meaningless test posts from my website as I stray from my main front-end capabilities and attempt to make significant live changes to my CMS back-end
+
+----
+
+Feature Image: iwc-brighton-2019-1.jpg
+
+----
+
+Image Alt: People inside hacking at 68 Middle Street for IndieWebCamp Brighton 2019
+
+----
+
+Permalink: 
+
+----
+
+Tags: indiewebcamp, Brighton
+
+----
+
+Latitude: 50.82101712176941
+
+----
+
+Longitude: -0.1426039859715756
+
+----
+
+Temperature: 10°C
+
+----
+
+Weather Icon: partly-cloudy-day
+
+----
+
+Date: 2019-10-20 12:05
+
+----
+
+Redirect: https://calumryan.com/note/3117
+
+----
+
+UID: 3117

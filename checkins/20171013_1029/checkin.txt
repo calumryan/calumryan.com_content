@@ -1,0 +1,45 @@
+Title: October 13th, 2017
+
+----
+
+Text: Checked in at 68 Middle Street
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/59e10c29fe37406e61cac24e
+
+----
+
+Longitude: -0.14304294346379
+
+----
+
+Latitude: 50.821099285337
+
+----
+
+Temperature: 
+
+----
+
+Weather Icon: 
+
+----
+
+Date: 2017-10-13 19:55
+
+----
+
+Redirect: https://calumryan.com/note/1029
+
+----
+
+UID: 1029

@@ -1,0 +1,22 @@
+Title: Challenges for web developers https://paul.kinlan.me/challenges-for-web-developers/  
+@Paul_Kinlan sums up very well the things that make web dev so challenging today, in many cases needlessly &amp; a detriment to progress
+
+----
+
+Permalink: https://paul.kinlan.me/challenges-for-web-developers/
+
+----
+
+Date: 2018-01-22 23:17
+
+----
+
+Tags:  
+
+----
+
+Redirect: https://calumryan.com/note/1318
+
+----
+
+UID: 1318

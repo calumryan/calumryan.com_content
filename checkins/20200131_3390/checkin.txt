@@ -1,0 +1,45 @@
+Title: January 31st, 2020
+
+----
+
+Text: Checked in at Burrito Mama
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5e3420a259907d00076cdba4
+
+----
+
+Longitude: -0.095633685442
+
+----
+
+Latitude: 51.513905808738
+
+----
+
+Temperature: 13°C
+
+----
+
+Weather Icon: cloudy
+
+----
+
+Date: 2020-01-31 12:42
+
+----
+
+Redirect: https://calumryan.com/note/3390
+
+----
+
+UID: 3390

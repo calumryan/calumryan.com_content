@@ -1,0 +1,45 @@
+Title: April 18th, 2019
+
+----
+
+Text: Checked in at The Resting Hare
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5cb8b87b8b98fd002cb1c603
+
+----
+
+Longitude: -0.12954650680568
+
+----
+
+Latitude: 51.526444318836
+
+----
+
+Temperature: 19°C
+
+----
+
+Weather Icon: cloudy
+
+----
+
+Date: 2019-04-18 18:48
+
+----
+
+Redirect: https://calumryan.com/note/2575
+
+----
+
+UID: 2575

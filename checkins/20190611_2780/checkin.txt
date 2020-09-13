@@ -1,0 +1,45 @@
+Title: June 11th, 2019
+
+----
+
+Text: Checked in at The Guinea
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5d0006445a2c91002b3f613f
+
+----
+
+Longitude: 0.26695489883423
+
+----
+
+Latitude: 51.133612163237
+
+----
+
+Temperature: 10°C
+
+----
+
+Weather Icon: partly-cloudy-night
+
+----
+
+Date: 2019-06-11 20:51
+
+----
+
+Redirect: https://calumryan.com/note/2780
+
+----
+
+UID: 2780

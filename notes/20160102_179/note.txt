@@ -1,0 +1,41 @@
+Title: January 2nd, 2016
+
+----
+
+Text: Deciding to learn AngularJS today, now just a case of working out which tutorials are aimed at which version :(
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Temperature: 
+
+----
+
+Weather Icon: 
+
+----
+
+Date: 2016-01-02 18:29
+
+----
+
+Redirect: https://calumryan.com/note/179
+
+----
+
+UID: 179

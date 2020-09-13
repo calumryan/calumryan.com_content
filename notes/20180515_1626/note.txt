@@ -1,0 +1,41 @@
+Title: May 15th, 2018
+
+----
+
+Text: .@RubenVerborgh discussing data decentralization and ownership: creating greater innovation but having layered agreement for handling managed datasets \#EuropeanaTech \#indieweb
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Latitude: 51.8977165
+
+----
+
+Longitude: 4.4738806
+
+----
+
+Temperature: 21°C
+
+----
+
+Weather Icon: clear-day
+
+----
+
+Date: 2018-05-15 09:41
+
+----
+
+Redirect: https://calumryan.com/note/1626
+
+----
+
+UID: 1626

@@ -1,0 +1,41 @@
+Title: March 6th, 2017
+
+----
+
+Text: Is there an efficient way to use feature detects for CSS Grid code possibly using CSS @​supports but still work in Edge?
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Temperature: 
+
+----
+
+Weather Icon: 
+
+----
+
+Date: 2017-03-06 20:47
+
+----
+
+Redirect: https://calumryan.com/note/530
+
+----
+
+UID: 530

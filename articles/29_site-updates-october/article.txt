@@ -1,0 +1,30 @@
+Title: Site updates October
+----
+Description:
+A work in progress summary to date
+----
+
+Og: false
+
+----
+
+Thumbnail:
+
+----
+
+Text:
+This month I’ve been focusing on making my website more aligned to the user experience most of us will be familiar with on platforms such as Twitter and Facebook.  After some consideration, I decided to eliminate any need for Javascript frameworks throughout my website and instead develop some relatively simple progressive enhancements for the homepage feed.
+
+What I learnt was that in order to trigger a scroll to a specific element on the page did not require anything more than a now [widely supported function](http://caniuse.com/#search=element.scrollIntoView) called [scrollIntoView](https://developer.mozilla.org/en/docs/Web/API/Element/scrollIntoView). Whilst the smooth scroll part isn’t supported in all browsers, pretty much all browsers will fulfil the primary purpose of the function: to scroll into view the specified element on the visible area of the browser window.
+
+So there you have it in one line of code a scroll to function without needing to resort to hefty frameworks!
+----
+
+Tags: general
+----
+
+Date: 2016-10-25 00:00
+
+----
+
+Redirect: https://calumryan.com/blog/site-updates-october/

@@ -1,0 +1,25 @@
+Title: March 21st, 2017
+
+----
+
+Text: Agree with this mainly but unsure of a native application solution. I would like to plan a discussion (maybe at a future IndieWebCamp) on emergence of Progressive Web Apps to further enhance the user experience on the web offline as much as online; with native app-like interaction, re-engagement with things like push notifications. All such things start to bring us much more inline with the merits you speak of in regard of popular silos.
+
+----
+
+Permalink: https://cleverdevil.io/2017/user-experience-and-the-indieweb
+
+----
+
+Date: 2017-03-21 00:00
+
+----
+
+Tags: 
+
+----
+
+Redirect: https://calumryan.com/note/536
+
+----
+
+UID: 536

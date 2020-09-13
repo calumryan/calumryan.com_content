@@ -1,0 +1,41 @@
+Title: October 7th, 2019
+
+----
+
+Text: My technological solution for the Irish border can be implemented with just one line of CSS programming: .irish-border { border: 499km hidden }
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Temperature: 
+
+----
+
+Weather Icon: 
+
+----
+
+Date: 2019-10-07 17:22
+
+----
+
+Redirect: https://calumryan.com/note/3067
+
+----
+
+UID: 3067

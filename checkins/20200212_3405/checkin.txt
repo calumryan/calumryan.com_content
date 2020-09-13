@@ -1,0 +1,45 @@
+Title: February 12th, 2020
+
+----
+
+Text: Checked in at Homebrew Website Club
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5e443ed6a148a40008719213
+
+----
+
+Longitude: -0.12700729
+
+----
+
+Latitude: 51.509827
+
+----
+
+Temperature: 6°C
+
+----
+
+Weather Icon: cloudy
+
+----
+
+Date: 2020-02-12 18:07
+
+----
+
+Redirect: https://calumryan.com/note/3405
+
+----
+
+UID: 3405

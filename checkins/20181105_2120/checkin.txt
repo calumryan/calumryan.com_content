@@ -1,0 +1,45 @@
+Title: November 5th, 2018
+
+----
+
+Text: Checked in at S+U Hermannstraße
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5bdfe7391ffed7002cbac4ce
+
+----
+
+Longitude: 13.431306313151
+
+----
+
+Latitude: 52.46752293646
+
+----
+
+Temperature: 11°C
+
+----
+
+Weather Icon: cloudy
+
+----
+
+Date: 2018-11-05 06:46
+
+----
+
+Redirect: https://calumryan.com/note/2120
+
+----
+
+UID: 2120

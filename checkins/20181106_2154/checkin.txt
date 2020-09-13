@@ -1,0 +1,45 @@
+Title: November 6th, 2018
+
+----
+
+Text: Checked in at Overbridge Walkway
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5be1e5a46e69af002595879b
+
+----
+
+Longitude: -0.17751716163304
+
+----
+
+Latitude: 51.156479980283
+
+----
+
+Temperature: 14°C
+
+----
+
+Weather Icon: partly-cloudy-night
+
+----
+
+Date: 2018-11-06 19:04
+
+----
+
+Redirect: https://calumryan.com/note/2154
+
+----
+
+UID: 2154

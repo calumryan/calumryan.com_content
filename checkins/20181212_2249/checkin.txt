@@ -1,0 +1,45 @@
+Title: December 12th, 2018
+
+----
+
+Text: Checked in at Porterhouse
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5c117a6765211f002c2c01d0
+
+----
+
+Longitude: -0.12364033691371
+
+----
+
+Latitude: 51.510428209975
+
+----
+
+Temperature: 3°C
+
+----
+
+Weather Icon: partly-cloudy-night
+
+----
+
+Date: 2018-12-12 21:15
+
+----
+
+Redirect: https://calumryan.com/note/2249
+
+----
+
+UID: 2249

@@ -1,0 +1,45 @@
+Title: November 15th, 2019
+
+----
+
+Text: Checked in at The Macaroni Club
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5dceaa4623d3680008e41193
+
+----
+
+Longitude: 100.49712311424
+
+----
+
+Latitude: 13.760177531139
+
+----
+
+Temperature: 30°C
+
+----
+
+Weather Icon: clear-night
+
+----
+
+Date: 2019-11-15 13:38
+
+----
+
+Redirect: https://calumryan.com/note/3212
+
+----
+
+UID: 3212

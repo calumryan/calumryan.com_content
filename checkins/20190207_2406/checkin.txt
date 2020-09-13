@@ -1,0 +1,45 @@
+Title: February 7th, 2019
+
+----
+
+Text: Checked in at Vienna Central Station (Wien Hauptbahnhof)
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5c5c46208ad62e002cd0527f
+
+----
+
+Longitude: 16.377353668213
+
+----
+
+Latitude: 48.185044917599
+
+----
+
+Temperature: 5°C
+
+----
+
+Weather Icon: partly-cloudy-day
+
+----
+
+Date: 2019-02-07 14:52
+
+----
+
+Redirect: https://calumryan.com/note/2406
+
+----
+
+UID: 2406

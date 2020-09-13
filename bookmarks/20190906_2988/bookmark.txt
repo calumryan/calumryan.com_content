@@ -1,0 +1,21 @@
+Title: CLI for custom downloading YouTube videos
+
+----
+
+Permalink: https://github.com/synox/youtube-dl-interactive
+
+----
+
+Date: 2019-09-06 16:51
+
+----
+
+Tags: video, YouTube 
+
+----
+
+Redirect: https://calumryan.com/note/2988
+
+----
+
+UID: 2988

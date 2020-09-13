@@ -1,0 +1,70 @@
+Title: Site menu
+
+----
+
+Text:
+
+I publish a variety of content types on my website from short-form posts, events I'm attending and social media interactions to long-form articles about technology topics and other personal interests.
+
+**Here you can find archives for all of my publications:**
+
+----
+
+Description: List of content archives and pages published on Calum Ryan's website.
+
+----
+
+Links:
+
+- 
+  title: About
+  url: /about
+  icon: ""
+- 
+  title: Articles
+  url: /articles
+  icon: post
+- 
+  title: Notes
+  url: /notes
+  icon: note
+- 
+  title: Checkins
+  url: /checkins
+  icon: location
+- 
+  title: Bookmarks
+  url: /bookmarks
+  icon: bookmark
+- 
+  title: RSVPs
+  url: /rsvps
+  icon: rsvp-yes
+- 
+  title: Replies
+  url: /replies
+  icon: reply
+- 
+  title: Events
+  url: /events
+  icon: calendar
+- 
+  title: Likes
+  url: /likes
+  icon: like
+- 
+  title: Reposts
+  url: /reposts
+  icon: repost
+- 
+  title: Speaking
+  url: /speaking
+  icon: speaker
+- 
+  title: CV
+  url: /cv
+  icon: cv
+- 
+  title: RSS
+  url: /rss
+  icon: rss

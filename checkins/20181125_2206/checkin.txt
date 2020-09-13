@@ -1,0 +1,45 @@
+Title: November 25th, 2018
+
+----
+
+Text: Checked in at The Old Truman Brewery. SMR
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5bfa91f642d8c2002c0c43ad
+
+----
+
+Longitude: -0.072410888966416
+
+----
+
+Latitude: 51.520609276973
+
+----
+
+Temperature: 8°C
+
+----
+
+Weather Icon: partly-cloudy-day
+
+----
+
+Date: 2018-11-25 12:13
+
+----
+
+Redirect: https://calumryan.com/note/2206
+
+----
+
+UID: 2206

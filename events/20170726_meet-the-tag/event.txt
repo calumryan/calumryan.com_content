@@ -1,0 +1,45 @@
+Title: Meet the TAG London
+
+----
+
+Tags:
+
+----
+
+Latitude: 51.5074
+
+----
+
+Longitude: -0.09468
+
+----
+
+Date: 2017-07-26 19:00
+
+----
+
+Date start: 2017-07-26 19:00:00 +0100
+
+----
+
+Date end: 2017-07-26 21:00:00 +0100
+
+----
+
+Timezone: BST
+
+----
+
+City: London
+
+----
+
+Location: Financial Times, One Southwark Bridge (at Park Street), London, SE1 9HL, United Kingdom
+
+----
+
+Redirect: https://calumryan.com/event/meet-the-tag
+
+----
+
+UID: meet-the-tag

@@ -1,0 +1,45 @@
+Title: October 25th, 2019
+
+----
+
+Text: Checked in at Snow Hill (HT)
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5db347829886730007099229
+
+----
+
+Longitude: -0.10534375905991
+
+----
+
+Latitude: 51.518195256556
+
+----
+
+Temperature: 16°C
+
+----
+
+Weather Icon: partly-cloudy-night
+
+----
+
+Date: 2019-10-25 20:05
+
+----
+
+Redirect: https://calumryan.com/note/3162
+
+----
+
+UID: 3162

@@ -1,0 +1,49 @@
+Title: May 27th, 2019
+
+----
+
+Text: Checked in at Esquires Coffee
+
+----
+
+Feature Image: fsqi1CZAs.jpg
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5cebae95f2554e002c2c01f4
+
+----
+
+Longitude: -0.21801427988862
+
+----
+
+Latitude: 51.978286694008
+
+----
+
+Temperature: 14°C
+
+----
+
+Weather Icon: partly-cloudy-day
+
+----
+
+Date: 2019-05-27 10:32
+
+----
+
+Redirect: https://calumryan.com/note/2717
+
+----
+
+UID: 2717

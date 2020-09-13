@@ -1,0 +1,41 @@
+Title: March 13th, 2020
+
+----
+
+Text: https://2020.indieweb.org/london
+
+----
+
+Permalink: 
+
+----
+
+Tags: indieweb
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Temperature: 
+
+----
+
+Weather Icon: 
+
+----
+
+Date: 2020-03-13 16:39
+
+----
+
+Redirect: https://calumryan.com/note/3455
+
+----
+
+UID: 3455

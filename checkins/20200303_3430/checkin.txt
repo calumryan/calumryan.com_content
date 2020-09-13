@@ -1,0 +1,45 @@
+Title: March 3rd, 2020
+
+----
+
+Text: Checked in at Honest Burgers
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5e5e97f041e38b00077c7399
+
+----
+
+Longitude: -0.088574886432639
+
+----
+
+Latitude: 51.526882661687
+
+----
+
+Temperature: 8°C
+
+----
+
+Weather Icon: partly-cloudy-night
+
+----
+
+Date: 2020-03-03 17:46
+
+----
+
+Redirect: https://calumryan.com/note/3430
+
+----
+
+UID: 3430

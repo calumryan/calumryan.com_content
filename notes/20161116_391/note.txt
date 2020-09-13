@@ -1,0 +1,41 @@
+Title: November 16th, 2016
+
+----
+
+Text: Tested ServiceWorker implementation for my website over LieFi in Sevenoaks train tunnel: loaded after 20 seconds 👍
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Temperature: 
+
+----
+
+Weather Icon: 
+
+----
+
+Date: 2016-11-16 21:10
+
+----
+
+Redirect: https://calumryan.com/note/391
+
+----
+
+UID: 391

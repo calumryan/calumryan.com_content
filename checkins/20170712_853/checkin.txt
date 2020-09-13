@@ -1,0 +1,45 @@
+Title: July 12th, 2017
+
+----
+
+Text: Checked in at Caffè Nero
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/59664c07588e366e9d394b02
+
+----
+
+Longitude: -0.10844209425234
+
+----
+
+Latitude: 51.508379744617
+
+----
+
+Temperature: 
+
+----
+
+Weather Icon: 
+
+----
+
+Date: 2017-07-12 17:19
+
+----
+
+Redirect: https://calumryan.com/note/853
+
+----
+
+UID: 853

@@ -1,0 +1,132 @@
+Title: Changing to HTTPS
+
+----
+
+Description:
+Coinciding with this year’s domain renewal for my website I decided to acquire an SSL certificate for the first time to serve it over HTTPS (Hypertext Transfer Protocol Secure).
+
+----
+
+Og: false
+
+----
+
+Thumbnail:
+
+----
+
+Text:
+This not only offers better internal security and ranking with Google’s new ranking algorithm but, in my opinion, more importantly so visitors to my site are better protected from external monitoring agencies/governments and oppressive regimes.
+
+My website has a mixture of content I author containing both trivial and non-trivial matters. Although not perfect: serving this content over HTTPS/SSL means that my website’s audience is more protected against their current/future potential adversaries who may attempt to monitor specific pages visitors go to on my website.
+
+### My setup
+
+In my situation I’d a relatively easy scenario for installing an SSL certificate to my [Digital Ocean](https://www.digitalocean.com/) hosted website. This consists of a virtual machine running an Apache LAMP setup on a web server with DNS records setup and ready to go.
+
+For the certificate itself I’d searched around for a domain registrar that offered good support and easy management of certificates alongside domains. I found this to be [Namecheap](https://www.namecheap.com/). The certificate obtained through them was called PositiveSSL which is from a Certificate Authority (CA) called [Comodo](https://www.comodo.com/).
+
+Documentation of the process has certainly improved in the last couple of years since I first read about others’ nightmare experiences in previous months and years. That’s not to say it’s now significantly easier to do. Reading the documentation from multiple sources in full before you begin the switch is highly recommended.
+
+### How to switch to HTTPS
+
+**Firstly** I bought the certificate in a combined transaction alongside my domain, you can do these separately but can be simpler and more convenient to have the same due date for renewal of your domain as the SSL certificate.
+
+**Secondly** I followed the procedures for SSL certificate activation outlined by [Namecheap](https://www.namecheap.com/support/knowledgebase/article.aspx/467/67/how-do-i-generate-a-csr-code) and [Digital Ocean](https://www.digitalocean.com/community/tutorials/how-to-install-an-ssl-certificate-from-a-commercial-certificate-authority) (cross-referencing these steps helps). The following is a summary of those instructions with how I followed them for my setup.
+
+Generate the CSR and Private Key (substituting ‘server’ for your domain):
+openssl req -new -newkey rsa:2048 -nodes -keyout server.key -out server.csr
+
+You’re now prompted to fill in information about your company and domain name. Depending on your setup: one of the details you need to fill in is the domain of the site you’re installing the certificate for (typically ‘Common name/server FQDN/YOUR name’). Make sure this is entered correctly to match your server’s name or else activation fails.
+
+Once generated type this to obtain the contents of the CSR:
+
+```xml
+cat server.csr
+```
+
+Copy the generated CSR and proceed to activate the SSL certificate. In my case Namecheap had a user-friendly interface on the account page to paste the CSR into a form field.
+
+**Thirdly** I had to approve the certificate by validating the domain. I chose to do this through HTTP confirmation. For this I had to download a text file with some validation code and the upload to my website’s root folder, <em>e.g. server.com/01A0101D0101D010F1.txt</em>
+
+Once you’ve uploaded this file it generally takes about 10 minutes for this to be validated. Other validations methods are available including by email but you can't always choose your preferred email address if it's not on the predefined list you're presented with.
+
+**Fourthly** you should receive an email from the CA (in my case Comodo) with an attachment containing the certificate and multiple/bundled certificate files. (Dependent on setup and your chosen CA this my vary between two or more files). Install these files onto your server in the same location as where you generated the CSR. I uploaded them directly using SFTP however you may need to/wish to add them by writing the file directly on the server and copying over the certificate contents using the terminal/command line editor.
+
+Finally for the Apache setup I’d to edit the Apache VirtualHost file. This is normally stored inside the etc/apache2 directory of the server and generally a file suffixed with .conf
+
+There make the following changes so that port number is changed and the certificate is referenced correctly:
+
+```xml
+VirtualHost _default_:443
+DocumentRoot "/var/www"
+ServerName *your_domain_name*
+SSLEngine on
+
+SSLCertificateFile "/ssl/*your_domain_name*.crt"
+SSLCertificateKeyFile "/ssl/*your_private_key*.key"
+SSLCACertificateFile “/ssl/bundle.crt"
+```
+
+
+Following these changes enable the Apache SSL module and restart the server with:
+```xml
+sudo a2enmod ssl
+```
+
+and..
+
+```xml
+sudo service apache2 restart
+```
+
+## It isn't over yet!
+Some but not all documentation out there will instruct you to complete some further to steps to keep your setup secure and protect server vulnerabilities.
+
+To begin run a test at [SSL Labs](https://www.ssllabs.com/ssltest/) to identify how well it grades. You should be aiming for A+ grade. You'll probably need to enable HSTS (HTTP Strict Transport Security) so add this to your .conf file directly above the closing VirtualHost tag:
+
+```xml
+# Guarantee HTTPS for 1 Year including Sub Domains
+Header always set Strict-Transport-Security "max-age=31536000; includeSubDomains"
+
+```
+
+Also above this line also add:
+
+```xml
+
+SSLProtocol All -SSLv2 -SSLv3
+SSLHonorCipherOrder On
+SSLCompression off
+
+```
+
+Finally, yes finally! on your server make sure the Apached Headers Module is enabled on your setup, type:
+
+```xml
+a2enmod headers
+```
+
+and restart the server by typing:
+
+```xml
+sudo service apache2 restart
+```
+
+### To conclude..
+
+So there you have it: I reiterate that these procedures are specifically for my setup using Apache and a full root access server through Digital Ocean. Therefore this setup guide may only be of help to some.
+
+I would say that the overall quality of documentation on the web from registrars and hosting firms for numerous setups is improving (fall 2015) as SSL certification popularity increases month by month. Hopefully it will become a less daunting task as a result for what should be relatively straight forward upgrade to your website.
+
+----
+
+Tags: general
+
+----
+
+Date: 2015-11-14 00:00
+
+----
+
+Redirect: https://calumryan.com/blog/changing-to-https/

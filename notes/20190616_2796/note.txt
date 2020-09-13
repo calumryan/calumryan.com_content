@@ -1,0 +1,41 @@
+Title: June 16th, 2019
+
+----
+
+Text: Interpreting principles of the \#IndieWeb for people just getting started with owning and controlling their web presence. There are all kinds of guides you can help add and contribute to so take a look and send a PR 👉 https://indiewebguides.org
+
+----
+
+Permalink: 
+
+----
+
+Tags: indieweb
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Temperature: 
+
+----
+
+Weather Icon: 
+
+----
+
+Date: 2019-06-16 18:01
+
+----
+
+Redirect: https://calumryan.com/note/2796
+
+----
+
+UID: 2796

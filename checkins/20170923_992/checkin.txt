@@ -1,0 +1,45 @@
+Title: September 23rd, 2017
+
+----
+
+Text: Checked in at London Gatwick Airport (LGW)
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/59c68085a92d98019fcd877a
+
+----
+
+Longitude: -0.17425775527954
+
+----
+
+Latitude: 51.158703779449
+
+----
+
+Temperature: 
+
+----
+
+Weather Icon: 
+
+----
+
+Date: 2017-09-23 16:40
+
+----
+
+Redirect: https://calumryan.com/note/992
+
+----
+
+UID: 992

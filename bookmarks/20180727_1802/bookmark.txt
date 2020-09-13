@@ -1,0 +1,22 @@
+Title: Teaching Your Clients How to Use The Website You Built Them – Chris Coyier
+Good guide to effectively documenting website projects for clients/end-users
+
+----
+
+Permalink: http://mediatemple.net/blog/tips/teaching-clients-use-website-built/
+
+----
+
+Date: 2018-07-27 00:06
+
+----
+
+Tags: documentation, web, clients 
+
+----
+
+Redirect: https://calumryan.com/note/1802
+
+----
+
+UID: 1802

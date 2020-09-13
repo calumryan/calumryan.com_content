@@ -1,0 +1,45 @@
+Title: March 21st, 2019
+
+----
+
+Text: Checked in at Ichibuns
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5c93ef50acb37f002cca3517
+
+----
+
+Longitude: -0.13184458086949
+
+----
+
+Latitude: 51.511152101747
+
+----
+
+Temperature: 13°C
+
+----
+
+Weather Icon: partly-cloudy-night
+
+----
+
+Date: 2019-03-21 20:08
+
+----
+
+Redirect: https://calumryan.com/note/2512
+
+----
+
+UID: 2512

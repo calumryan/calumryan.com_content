@@ -1,0 +1,49 @@
+Title: February 1st, 2020
+
+----
+
+Text: Checked in at IKEA
+
+----
+
+Feature Image: fsqkZyLwm.jpg
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5e35bfb33502ab000863617b
+
+----
+
+Longitude: 0.016108113150098
+
+----
+
+Latitude: 51.489347923821
+
+----
+
+Temperature: 8°C
+
+----
+
+Weather Icon: cloudy
+
+----
+
+Date: 2020-02-01 18:13
+
+----
+
+Redirect: https://calumryan.com/note/3392
+
+----
+
+UID: 3392

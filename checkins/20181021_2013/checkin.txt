@@ -1,0 +1,45 @@
+Title: October 21st, 2018
+
+----
+
+Text: Checked in at bar acomhotel. with aaronpk, Seb
+
+----
+
+Permalink: 
+
+----
+
+Tags: https://aaronparecki.com/, https://seblog.nl/
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5bccad1656c89f002c3cebb4
+
+----
+
+Longitude: 11.105494
+
+----
+
+Latitude: 49.470218
+
+----
+
+Temperature: 10°C
+
+----
+
+Weather Icon: clear-night
+
+----
+
+Date: 2018-10-21 17:45
+
+----
+
+Redirect: https://calumryan.com/note/2013
+
+----
+
+UID: 2013

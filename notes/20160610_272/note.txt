@@ -1,0 +1,45 @@
+Title: June 10th, 2016
+
+----
+
+Text: Al fresco coding 
+
+----
+
+Feature Image: IMG_20160610_155930.jpg
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Latitude: 51.2448677
+
+----
+
+Longitude: 0.1893362
+
+----
+
+Temperature: 21°C
+
+----
+
+Weather Icon: partly-cloudy-day
+
+----
+
+Date: 2016-06-10 20:45
+
+----
+
+Redirect: https://calumryan.com/note/272
+
+----
+
+UID: 272

@@ -1,0 +1,45 @@
+Title: October 23rd, 2018
+
+----
+
+Text: Checked in at Ashford International Railway Station (AFK) (QDH)
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5bcf80e7b25fee002c460acc
+
+----
+
+Longitude: 0.87470101025701
+
+----
+
+Latitude: 51.143254084574
+
+----
+
+Temperature: 12°C
+
+----
+
+Weather Icon: partly-cloudy-night
+
+----
+
+Date: 2018-10-23 21:13
+
+----
+
+Redirect: https://calumryan.com/note/2044
+
+----
+
+UID: 2044

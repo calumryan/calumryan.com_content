@@ -1,0 +1,45 @@
+Title: July 21st, 2019
+
+----
+
+Text: Checked in at Rochester Castle
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5d348e538aa2440008eda6a6
+
+----
+
+Longitude: 0.50143361091614
+
+----
+
+Latitude: 51.389378366591
+
+----
+
+Temperature: 21°C
+
+----
+
+Weather Icon: partly-cloudy-day
+
+----
+
+Date: 2019-07-21 17:09
+
+----
+
+Redirect: https://calumryan.com/note/2904
+
+----
+
+UID: 2904

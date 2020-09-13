@@ -1,0 +1,45 @@
+Title: November 26th, 2019
+
+----
+
+Text: Checked in at Nelson Arms
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5ddd8e33faf5eb0008d50024
+
+----
+
+Longitude: 0.26469586886378
+
+----
+
+Latitude: 51.192759965493
+
+----
+
+Temperature: 11°C
+
+----
+
+Weather Icon: clear-night
+
+----
+
+Date: 2019-11-26 20:42
+
+----
+
+Redirect: https://calumryan.com/note/3272
+
+----
+
+UID: 3272

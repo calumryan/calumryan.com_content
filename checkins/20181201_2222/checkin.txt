@@ -1,0 +1,45 @@
+Title: December 1st, 2018
+
+----
+
+Text: Checked in at Microsoft Reactor. 24PullRequests @ Codebar London
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5c0268c75b97110025f09a83
+
+----
+
+Longitude: -0.084266949235727
+
+----
+
+Latitude: 51.521761645805
+
+----
+
+Temperature: 10°C
+
+----
+
+Weather Icon: rain
+
+----
+
+Date: 2018-12-01 10:56
+
+----
+
+Redirect: https://calumryan.com/note/2222
+
+----
+
+UID: 2222

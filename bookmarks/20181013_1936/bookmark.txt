@@ -1,0 +1,21 @@
+Title: sass selectors: to nest or not to nest?
+
+----
+
+Permalink: http://bradfrost.com/blog/post/sass-selectors-to-nest-or-not-to-nest
+
+----
+
+Date: 2018-10-13 17:28
+
+----
+
+Tags: Sass 
+
+----
+
+Redirect: https://calumryan.com/note/1936
+
+----
+
+UID: 1936

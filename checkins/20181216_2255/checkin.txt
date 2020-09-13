@@ -1,0 +1,45 @@
+Title: December 16th, 2018
+
+----
+
+Text: Checked in at The Waterfront At Bewl Water
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5c162764b3d8e2003958c7f5
+
+----
+
+Longitude: 0.39148417
+
+----
+
+Latitude: 51.078556
+
+----
+
+Temperature: 6°C
+
+----
+
+Weather Icon: clear-day
+
+----
+
+Date: 2018-12-16 10:22
+
+----
+
+Redirect: https://calumryan.com/note/2255
+
+----
+
+UID: 2255

@@ -1,0 +1,21 @@
+Title: CSS section generator
+
+----
+
+Permalink: https://wweb.dev/resources/css-separator-generator
+
+----
+
+Date: 2020-05-16 15:29
+
+----
+
+Tags: css, front-end 
+
+----
+
+Redirect: https://calumryan.com/note/3513
+
+----
+
+UID: 3513

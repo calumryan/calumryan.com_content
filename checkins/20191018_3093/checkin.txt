@@ -1,0 +1,45 @@
+Title: October 18th, 2019
+
+----
+
+Text: Checked in at Brighton Railway Station (BTN)
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5da9beababcdca00080f65f9
+
+----
+
+Longitude: -0.14101734346457
+
+----
+
+Latitude: 50.829196225616
+
+----
+
+Temperature: 14°C
+
+----
+
+Weather Icon: partly-cloudy-day
+
+----
+
+Date: 2019-10-18 14:31
+
+----
+
+Redirect: https://calumryan.com/note/3093
+
+----
+
+UID: 3093

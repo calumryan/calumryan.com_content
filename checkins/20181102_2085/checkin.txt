@@ -1,0 +1,45 @@
+Title: November 2nd, 2018
+
+----
+
+Text: Checked in at Berlin Hauptbahnhof
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5bdc37b4f8cbd4002c6a2f00
+
+----
+
+Longitude: 13.369331529814
+
+----
+
+Latitude: 52.525145682792
+
+----
+
+Temperature: 13°C
+
+----
+
+Weather Icon: partly-cloudy-day
+
+----
+
+Date: 2018-11-02 11:40
+
+----
+
+Redirect: https://calumryan.com/note/2085
+
+----
+
+UID: 2085

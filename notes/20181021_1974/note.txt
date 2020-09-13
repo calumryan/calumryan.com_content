@@ -1,0 +1,45 @@
+Title: October 21st, 2018
+
+----
+
+Text: Day 2 IndieWebCamp Nuremberg - Hack day!
+
+----
+
+Feature Image: PANO_20181021_095758.jpg
+
+----
+
+Permalink: 
+
+----
+
+Tags: indiewebcamp, nuremberg
+
+----
+
+Latitude: 49.4750826
+
+----
+
+Longitude: 11.1069175
+
+----
+
+Temperature: 7°C
+
+----
+
+Weather Icon: clear-day
+
+----
+
+Date: 2018-10-21 09:42
+
+----
+
+Redirect: https://calumryan.com/note/1974
+
+----
+
+UID: 1974

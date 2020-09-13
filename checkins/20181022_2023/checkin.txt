@@ -1,0 +1,45 @@
+Title: October 22nd, 2018
+
+----
+
+Text: Checked in at H Meistersingerhalle
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5bcdb878340a58002c6f88f4
+
+----
+
+Longitude: 11.103624054922
+
+----
+
+Latitude: 49.436592094515
+
+----
+
+Temperature: 13°C
+
+----
+
+Weather Icon: clear-day
+
+----
+
+Date: 2018-10-22 12:46
+
+----
+
+Redirect: https://calumryan.com/note/2023
+
+----
+
+UID: 2023

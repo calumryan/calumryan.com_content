@@ -1,0 +1,49 @@
+Title: October 7th, 2019
+
+----
+
+Text: Latest @Airbnb UI change ditches toggle menu and pushes the main website navigation for mobile to the bottom whilst hiding on downward scroll. Favourable location for large touch screens but only reappears on scrolling up so quite inaccessible 😕
+
+----
+
+Feature Image: Screenshot_20191007-154010__01.jpg
+
+----
+
+Image Alt: screenshot of Airbnb website on mobile
+
+----
+
+Permalink: 
+
+----
+
+Tags: UX
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Temperature: 
+
+----
+
+Weather Icon: 
+
+----
+
+Date: 2019-10-07 15:50
+
+----
+
+Redirect: https://calumryan.com/note/3065
+
+----
+
+UID: 3065

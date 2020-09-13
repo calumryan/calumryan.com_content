@@ -1,0 +1,45 @@
+Title: October 22nd, 2018
+
+----
+
+Text: Checked in at H Doku-Zentrum. Sightseeing day
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5bcd85c0894eac00392b373e
+
+----
+
+Longitude: 11.111522245395
+
+----
+
+Latitude: 49.434033261998
+
+----
+
+Temperature: 4°C
+
+----
+
+Weather Icon: clear-day
+
+----
+
+Date: 2018-10-22 09:09
+
+----
+
+Redirect: https://calumryan.com/note/2018
+
+----
+
+UID: 2018

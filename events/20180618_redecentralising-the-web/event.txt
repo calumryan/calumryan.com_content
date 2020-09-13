@@ -1,0 +1,49 @@
+Title: Re-decentralising the web at LWS
+
+----
+
+Tags: speaker
+
+----
+
+Latitude: 51.56365
+
+----
+
+Longitude: -0.10781
+
+----
+
+Date: 2018-06-18 19:00
+
+----
+
+Date start: 2018-06-18 19:00:00 +0000
+
+----
+
+Date end: 2018-06-18 20:00:00 +0000
+
+----
+
+Timezone: BST
+
+----
+
+City: London
+
+----
+
+Location: Buildit @ Wipro Digital, 4th floor, 2 Finsbury Avenue, London, EC2M 2PA
+
+----
+
+Speaker: 1
+
+----
+
+View slides: https://noti.st/calumryan/4T8aAJ
+
+----
+
+UID: redecentralising-the-web

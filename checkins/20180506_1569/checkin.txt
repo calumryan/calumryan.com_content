@@ -1,0 +1,45 @@
+Title: May 6th, 2018
+
+----
+
+Text: Checked in at H Heinrich-Heine-Allee
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5aef7d3689e490002c5985bf
+
+----
+
+Longitude: 6.7767661039945
+
+----
+
+Latitude: 51.225719051058
+
+----
+
+Temperature: 
+
+----
+
+Weather Icon: 
+
+----
+
+Date: 2018-05-06 23:09
+
+----
+
+Redirect: https://calumryan.com/note/1569
+
+----
+
+UID: 1569

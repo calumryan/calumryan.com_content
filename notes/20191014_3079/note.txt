@@ -1,0 +1,41 @@
+Title: October 14th, 2019
+
+----
+
+Text:  Getting to grips with using TalkBack on Android. It's a very different way to navigate your touch screen but absolutely crucial in testing and experiencing how usable a website is for anyone with vision impairment
+
+----
+
+Permalink: 
+
+----
+
+Tags: a11y
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Temperature: 
+
+----
+
+Weather Icon: 
+
+----
+
+Date: 2019-10-14 13:15
+
+----
+
+Redirect: https://calumryan.com/note/3079
+
+----
+
+UID: 3079

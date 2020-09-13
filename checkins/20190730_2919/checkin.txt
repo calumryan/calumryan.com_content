@@ -1,0 +1,49 @@
+Title: July 30th, 2019
+
+----
+
+Text: Checked in at 21 West
+
+----
+
+Feature Image: fsqT7K8dh.jpg
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5d3ff533bac9ad00089fc916
+
+----
+
+Longitude: -0.10129
+
+----
+
+Latitude: 51.517756
+
+----
+
+Temperature: 20°C
+
+----
+
+Weather Icon: partly-cloudy-day
+
+----
+
+Date: 2019-07-30 08:43
+
+----
+
+Redirect: https://calumryan.com/note/2919
+
+----
+
+UID: 2919

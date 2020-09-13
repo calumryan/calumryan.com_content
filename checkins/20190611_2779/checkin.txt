@@ -1,0 +1,45 @@
+Title: June 11th, 2019
+
+----
+
+Text: Checked in at Yoyo Design Ltd. Front-end Kent
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5cffed18c03635002ccf00a8
+
+----
+
+Longitude: 0.26691198348999
+
+----
+
+Latitude: 51.133504444499
+
+----
+
+Temperature: 14°C
+
+----
+
+Weather Icon: partly-cloudy-day
+
+----
+
+Date: 2019-06-11 19:04
+
+----
+
+Redirect: https://calumryan.com/note/2779
+
+----
+
+UID: 2779

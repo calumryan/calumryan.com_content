@@ -1,0 +1,45 @@
+Title: November 2nd, 2017
+
+----
+
+Text: Cool but no more storms, a few days exploring ahead of IndieWebCamp Berlin
+
+----
+
+Feature Image: IMG_20171102_111926.jpg
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Latitude: 52.471533099999995
+
+----
+
+Longitude: 13.4322407
+
+----
+
+Temperature: 9°C
+
+----
+
+Weather Icon: clear-night
+
+----
+
+Date: 2017-11-02 21:21
+
+----
+
+Redirect: https://calumryan.com/note/1106
+
+----
+
+UID: 1106

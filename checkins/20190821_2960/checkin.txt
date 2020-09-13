@@ -1,0 +1,45 @@
+Title: August 21st, 2019
+
+----
+
+Text: Checked in at Homebrew Website Club
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5d5d8b127e8fbc00084255b6
+
+----
+
+Longitude: -0.12700729
+
+----
+
+Latitude: 51.509827
+
+----
+
+Temperature: 20°C
+
+----
+
+Weather Icon: partly-cloudy-day
+
+----
+
+Date: 2019-08-21 19:18
+
+----
+
+Redirect: https://calumryan.com/note/2960
+
+----
+
+UID: 2960

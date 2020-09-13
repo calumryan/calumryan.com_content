@@ -1,0 +1,49 @@
+Title: March 6th, 2020
+
+----
+
+Text: Checked in at Wylam Brewery
+
+----
+
+Feature Image: fsqc0SLyk.jpg
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5e6285b812bc7800086eadbe
+
+----
+
+Longitude: -1.6164476086717
+
+----
+
+Latitude: 54.986377956529
+
+----
+
+Temperature: 3°C
+
+----
+
+Weather Icon: partly-cloudy-night
+
+----
+
+Date: 2020-03-06 17:17
+
+----
+
+Redirect: https://calumryan.com/note/3445
+
+----
+
+UID: 3445

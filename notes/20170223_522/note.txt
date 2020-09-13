@@ -1,0 +1,45 @@
+Title: February 23rd, 2017
+
+----
+
+Text: Quiet writing about Micropub tonight at HWC \#indieweb
+
+----
+
+Feature Image: IMG_20170222_192435.jpg
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Latitude: 51.5111213
+
+----
+
+Longitude: -0.1259245
+
+----
+
+Temperature: 12°C
+
+----
+
+Weather Icon: cloudy
+
+----
+
+Date: 2017-02-23 00:50
+
+----
+
+Redirect: https://calumryan.com/note/522
+
+----
+
+UID: 522

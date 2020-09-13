@@ -1,0 +1,45 @@
+Title: February 3rd, 2019
+
+----
+
+Text: Checked in at Caffè Nero
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5c56c7ccd69ed0002ca01e34
+
+----
+
+Longitude: 0.26377286724216
+
+----
+
+Latitude: 51.134544933497
+
+----
+
+Temperature: 2°C
+
+----
+
+Weather Icon: clear-day
+
+----
+
+Date: 2019-02-03 10:51
+
+----
+
+Redirect: https://calumryan.com/note/2399
+
+----
+
+UID: 2399

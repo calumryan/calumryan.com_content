@@ -1,0 +1,45 @@
+Title: December 20th, 2019
+
+----
+
+Text: Checked in at Wild Beer at Wapping Wharf
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5dfcda8d97940c0008fa0ff8
+
+----
+
+Longitude: -2.5993458574248
+
+----
+
+Latitude: 51.447005281643
+
+----
+
+Temperature: 7°C
+
+----
+
+Weather Icon: partly-cloudy-night
+
+----
+
+Date: 2019-12-20 14:28
+
+----
+
+Redirect: https://calumryan.com/note/3321
+
+----
+
+UID: 3321

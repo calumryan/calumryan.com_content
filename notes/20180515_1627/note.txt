@@ -1,0 +1,41 @@
+Title: May 15th, 2018
+
+----
+
+Text: .@azaroth42 discussing the usability of APIs and linked open usable data with empathy for developers. Fewer barriers to entry such as providing JSON datasets with clear documentation \#EuropeanaTech
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Latitude: 51.8977106
+
+----
+
+Longitude: 4.4738224
+
+----
+
+Temperature: 24°C
+
+----
+
+Weather Icon: clear-day
+
+----
+
+Date: 2018-05-15 13:33
+
+----
+
+Redirect: https://calumryan.com/note/1627
+
+----
+
+UID: 1627

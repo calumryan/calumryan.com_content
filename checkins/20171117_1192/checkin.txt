@@ -1,0 +1,45 @@
+Title: November 17th, 2017
+
+----
+
+Text: Checked in at Costa Coffee
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5a0e9edce185f30762f24c5b
+
+----
+
+Longitude: -0.1402193768835
+
+----
+
+Latitude: 50.823606167412
+
+----
+
+Temperature: 
+
+----
+
+Weather Icon: 
+
+----
+
+Date: 2017-11-17 08:33
+
+----
+
+Redirect: https://calumryan.com/note/1192
+
+----
+
+UID: 1192

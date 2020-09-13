@@ -1,0 +1,45 @@
+Title: May 30th, 2019
+
+----
+
+Text: Checked in at Brunel University
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5cf00eea535d6f002cfcdbd8
+
+----
+
+Longitude: -0.48010566869579
+
+----
+
+Latitude: 51.533525518167
+
+----
+
+Temperature: 23°C
+
+----
+
+Weather Icon: partly-cloudy-day
+
+----
+
+Date: 2019-05-30 18:12
+
+----
+
+Redirect: https://calumryan.com/note/2730
+
+----
+
+UID: 2730

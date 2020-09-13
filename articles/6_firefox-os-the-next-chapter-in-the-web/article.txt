@@ -1,0 +1,72 @@
+Title: Firefox OS - the next chapter in the Web?
+----
+
+Description:
+
+----
+
+Og: false
+
+----
+
+Thumbnail: /media/pages/posts/unsorted/firefox-os.png
+
+----
+
+Text:
+As developers we've been building for and making the web for two decades plus. In this time we've seen great things done for and with the Web from incredible sources of information and multimedia sharing (excluding the 2bn comical cat videos).
+
+With the rapid emergence of native smartphone apps, we've partly abandoned our enthusiasm and financial incentive to build things for the Web. Hence much of the openness and affordable access that the Web can give us has increasingly become ignored whilst consumers look to buy the newest, fastest smartphone or tablet to run the latest, processor intensive apps.
+
+Device manufacturers will happily design and produce their products to meet a demand and ideology for the upgrade-culture. A smartphone you buy today could last you two, maybe four years at most depending on your demand for the latest, coolest and fastest model. In my opinion a mobile app which is dependent on a certain processor type, model or platform clearly isn't a logical way forward; should it be the exclusive access-point for information, knowledge sharing or multimedia?
+
+### Firefox OS
+
+With Firefox OS I believe we have an opportunity to once again re-emphasise, develop, live and breathe the Web's core principles on any piece of hardware. The Web provides us with the potential to build things flexibly, semantically and without limits. Firefox OS is a mobile operating system that lets users run apps developed entirely using HTML5, CSS and JavaScript plus other open web app APIs.
+
+Firefox has embraced the principles of the Web in the creation of its OS. Users can search for apps by word or webpage URL. This is because apps are effectively formed of websites or webpages which you can then load and install directly onto the Firefox OS platform. A simple JSON manifest file makes the app identifiable on the Firefox Marketplace.
+
+![Firefox OS Interfaces](/media/pages/posts/unsorted/firefox-os.jpg)
+
+Quality assurance is far more flexible under Firefox OS but this isn't necessarily a bad thing. It has three levels of access:
+
+- Hosted apps: stored on your server, easy to upgrade, limited access
+- Privileged apps: stored on trusted server, reviewed by the Firefox App store and uses a Content Security Policy
+- Certified apps: part of Firefox OS and only authored by Mozilla/partners
+- Serving Emerging & Low Income Markets
+
+In emerging markets such as Brazil, Mozilla has worked to deliver Firefox OS as a suitable platform solution for users with older handsets who cannot afford to upgrade. Similarly the platform has great potential to serve other regions such as in parts of Africa where Web users are more likely to have a phone but not a computer.
+
+Existing feature phones, smartphones, such as the Nexus S, and the latest Firefox OS Developer Preview devices (Peak and Keon) have enabled a broad range of users and developers to engage with the OS and see its potential capabilities to access and interact with the Web.
+
+![Feature phone lineup with Peak phone](/media/pages/posts/unsorted/firefox-os-phones.jpg)
+
+### In Conclusion
+
+We should be producing version-less apps, continuously upgradeable and accessible to all regardless of where users are and what device they have or can afford to have. Firefox OS may well offer a means to do this but key to its success will be convincing developers, accountants and business leaders of the importance of building apps for the Web and not just specific hardware platforms/operating systems.
+
+### Credit & Attribution
+
+**Now is the time to brush up your web product,
+Frontendunited, Christian Heilmann:**
+[http://www.youtube.com/watch?v=LYFJWJZPmpE](http://www.youtube.com/watch?v=LYFJWJZPmpE)
+
+**Firefox OS, Mozilla:**
+[https://developer.mozilla.org/en-US/docs/Mozilla/Firefox_OS](https://developer.mozilla.org/en-US/docs/Mozilla/Firefox_OS)
+
+### Start building for Firefox OS today!
+
+**Introducing the Firefox OS Boilerplate App:**
+[https://hacks.mozilla.org/2013/01/introducing-the-firefox-os-boilerplate-app](https://hacks.mozilla.org/2013/01/introducing-the-firefox-os-boilerplate-app)
+
+----
+
+Tags: general
+
+----
+
+Date: 2013-06-28 00:00
+
+----
+
+Redirect: https://calumryan.com/blog/firefox-os-the-next-chapter-in-the-web/

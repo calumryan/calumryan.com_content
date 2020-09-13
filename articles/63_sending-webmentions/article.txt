@@ -1,0 +1,32 @@
+Title: Sending Webmentions
+----
+Description:
+I've finally hacked together a simple interface to send out webmentions through my website.
+----
+
+Og: false
+
+----
+
+Thumbnail:
+
+----
+
+Text:
+Thanks to [Aaron Parecki](https://github.com/indieweb/mention-client-php) sharing his client library for sending webmentions I have now setup an initial interface to send out webmentions from my website.
+
+In the interim to support both the Jekyll side and LAMP setup parts of my website; I have implemented a separate source and target form to manually send out webmentions. Notes (or short posts) that you see on the homepage currently include a separate section for HTML encoded content. Here I store the relevant code to identify posts as a reply, like or RSVP to another website’s content.
+
+![Webmention Interface](/media/pages/posts/unsorted/webmention.png)
+
+I have yet to enhance the response data into a digestible format from sending a webmention and also need to create the interface and functionality for removing webmentions.
+----
+
+Tags: learning
+----
+
+Date: 2016-11-16 00:00
+
+----
+
+Redirect: https://calumryan.com/learning/sending-webmentions/

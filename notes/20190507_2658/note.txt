@@ -1,0 +1,41 @@
+Title: May 7th, 2019
+
+----
+
+Text: Great to see upcoming Firefox Fenix on mobile moves the address bar within thumb reach: to the bottom of the screen.
+
+----
+
+Permalink: 
+
+----
+
+Tags: mobile, Firefox, UI
+
+----
+
+Latitude: 51.5186388
+
+----
+
+Longitude: -0.0863211
+
+----
+
+Temperature: 15°C
+
+----
+
+Weather Icon: partly-cloudy-day
+
+----
+
+Date: 2019-05-07 18:54
+
+----
+
+Redirect: https://calumryan.com/note/2658
+
+----
+
+UID: 2658

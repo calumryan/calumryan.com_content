@@ -1,0 +1,45 @@
+Title: January 11th, 2020
+
+----
+
+Text: Checked in at IKEA
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5e19d43f8af6dd0007d9ca9c
+
+----
+
+Longitude: 0.28428982322741
+
+----
+
+Latitude: 51.480215393407
+
+----
+
+Temperature: 11°C
+
+----
+
+Weather Icon: cloudy
+
+----
+
+Date: 2020-01-11 13:57
+
+----
+
+Redirect: https://calumryan.com/note/3358
+
+----
+
+UID: 3358

@@ -1,0 +1,45 @@
+Title: June 28th, 2019
+
+----
+
+Text: Checked in at BeFries
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5d166f7df0933f0008b425bd
+
+----
+
+Longitude: -0.143514
+
+----
+
+Latitude: 50.823398
+
+----
+
+Temperature: 15°C
+
+----
+
+Weather Icon: clear-night
+
+----
+
+Date: 2019-06-28 20:50
+
+----
+
+Redirect: https://calumryan.com/note/2831
+
+----
+
+UID: 2831

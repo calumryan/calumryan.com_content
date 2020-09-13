@@ -1,0 +1,21 @@
+Title: Ten modern layouts in one line of CSS
+
+----
+
+Date: 2020-07-10 10:25
+
+----
+
+Permalink: https://web.dev/one-line-layouts/
+
+----
+
+Tags: css, grid, flexbox
+
+----
+
+Bridgy: 
+
+----
+
+Uid: 3540

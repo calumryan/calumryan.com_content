@@ -1,0 +1,21 @@
+Title: Front-End Performance Checklist 2020 by @smashingmag
+
+----
+
+Permalink: https://www.smashingmagazine.com/2020/01/front-end-performance-checklist-2020-pdf-pages
+
+----
+
+Date: 2020-01-10 14:32
+
+----
+
+Tags: WebPerf, review, 2020, front-end 
+
+----
+
+Redirect: https://calumryan.com/note/3355
+
+----
+
+UID: 3355

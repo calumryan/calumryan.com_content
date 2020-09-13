@@ -1,0 +1,25 @@
+Title: March 18th, 2019
+
+----
+
+Text: the joys of getting Microformats to play nicely
+
+----
+
+Permalink: https://twitter.com/sonniesedge/status/1107736530288869383
+
+----
+
+Date: 2019-03-18 20:43
+
+----
+
+Tags: indieweb
+
+----
+
+Redirect: https://calumryan.com/note/2503
+
+----
+
+UID: 2503

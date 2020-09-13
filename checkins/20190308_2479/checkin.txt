@@ -1,0 +1,45 @@
+Title: March 8th, 2019
+
+----
+
+Text: Checked in at Smiths of Smithfield
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5c82ab842aff310039d2fd99
+
+----
+
+Longitude: -0.10275731000649
+
+----
+
+Latitude: 51.51945350087
+
+----
+
+Temperature: 9°C
+
+----
+
+Weather Icon: rain
+
+----
+
+Date: 2019-03-08 17:51
+
+----
+
+Redirect: https://calumryan.com/note/2479
+
+----
+
+UID: 2479

@@ -1,0 +1,45 @@
+Title: May 30th, 2018
+
+----
+
+Text: Checked in at Waitrose
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5b0ee86a840fc2002cb41fd3
+
+----
+
+Longitude: 0.2757141197228
+
+----
+
+Latitude: 51.194158927786
+
+----
+
+Temperature: 
+
+----
+
+Weather Icon: 
+
+----
+
+Date: 2018-05-30 19:07
+
+----
+
+Redirect: https://calumryan.com/note/1671
+
+----
+
+UID: 1671

@@ -1,0 +1,55 @@
+Title: July 30th, 2020
+
+----
+
+Text: Wearing a face covering in supermarkets taking many years off my appearance ..without fail now being asked for ID when buying alcohol on every visit
+
+----
+
+Locator:
+
+lat: 51.4745706
+lon: -0.0925416
+city: London
+country: United Kingdom
+postcode: SE5 7BU
+
+----
+
+Date: 2020-07-30 19:25
+
+----
+
+Bridgy: twitter
+
+----
+
+Uid: 3543
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

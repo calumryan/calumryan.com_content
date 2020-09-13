@@ -1,0 +1,45 @@
+Title: July 9th, 2020
+
+----
+
+Text: Since fancy, glam website showcases are still a trend I'm planning to create one specifically for the most accessible websites out there. Think you've a fully accessible, WCAG 2.1 compliant website then send it my way...
+
+----
+
+Date: 2020-07-09 09:20
+
+----
+
+Bridgy: twitter
+
+----
+
+Uid: 3538
+
+----
+
+Feature-images: 
+
+----
+
+Tags: a11y
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

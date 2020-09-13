@@ -1,0 +1,21 @@
+Title: Making accessible tagged PDFs with Prince
+
+----
+
+Permalink: https://www.brucelawson.co.uk/2019/making-accessible-tagged-pdfs-with-prince/
+
+----
+
+Date: 2019-07-15 22:55
+
+----
+
+Tags: a11y, pdf 
+
+----
+
+Redirect: https://calumryan.com/note/2892
+
+----
+
+UID: 2892

@@ -1,0 +1,41 @@
+Title: May 6th, 2018
+
+----
+
+Text: The inclusive web industry https://calumryan.com/blog/the-inclusive-web-industry/
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Latitude: 51.2115851
+
+----
+
+Longitude: 6.7565036
+
+----
+
+Temperature: 18°C
+
+----
+
+Weather Icon: clear-day
+
+----
+
+Date: 2018-05-06 09:05
+
+----
+
+Redirect: https://calumryan.com/note/1542
+
+----
+
+UID: 1542

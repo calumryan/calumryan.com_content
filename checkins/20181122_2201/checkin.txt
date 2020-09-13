@@ -1,0 +1,45 @@
+Title: November 22nd, 2018
+
+----
+
+Text: Checked in at Aldi. Aldi opening day
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5bf70252e9b9a50025e0cbd5
+
+----
+
+Longitude: 0.28389943
+
+----
+
+Latitude: 51.19794
+
+----
+
+Temperature: 3°C
+
+----
+
+Weather Icon: partly-cloudy-night
+
+----
+
+Date: 2018-11-22 19:24
+
+----
+
+Redirect: https://calumryan.com/note/2201
+
+----
+
+UID: 2201

@@ -1,0 +1,45 @@
+Title: May 4th, 2018
+
+----
+
+Text: Hallo Düsseldorf
+
+----
+
+Feature Image: IMG_20180504_181042.jpg
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Latitude: 51.2195557
+
+----
+
+Longitude: 6.7837349
+
+----
+
+Temperature: 19°C
+
+----
+
+Weather Icon: clear-day
+
+----
+
+Date: 2018-05-04 17:27
+
+----
+
+Redirect: https://calumryan.com/note/1518
+
+----
+
+UID: 1518

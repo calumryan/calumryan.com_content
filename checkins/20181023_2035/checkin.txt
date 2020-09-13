@@ -1,0 +1,45 @@
+Title: October 23rd, 2018
+
+----
+
+Text: Checked in at Stuttgart Hauptbahnhof
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5bcf0c6760255e002c6ed0a0
+
+----
+
+Longitude: 9.183204306954
+
+----
+
+Latitude: 48.78488292504
+
+----
+
+Temperature: 14°C
+
+----
+
+Weather Icon: partly-cloudy-day
+
+----
+
+Date: 2018-10-23 12:56
+
+----
+
+Redirect: https://calumryan.com/note/2035
+
+----
+
+UID: 2035

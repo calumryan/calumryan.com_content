@@ -1,0 +1,45 @@
+Title: November 2nd, 2018
+
+----
+
+Text: Checked in at U Zoologischer Garten
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5bdc1c5f89e490002caaa517
+
+----
+
+Longitude: 13.332750612534
+
+----
+
+Latitude: 52.50665440337
+
+----
+
+Temperature: 11°C
+
+----
+
+Weather Icon: clear-day
+
+----
+
+Date: 2018-11-02 09:43
+
+----
+
+Redirect: https://calumryan.com/note/2081
+
+----
+
+UID: 2081

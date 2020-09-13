@@ -1,0 +1,41 @@
+Title: June 6th, 2017
+
+----
+
+Text: An excellent detailed walk-through by @SaraSoueidan migrating between static site generators: Jekyll &gt; Hugo https://www.sarasoueidan.com/blog/jekyll-ghpages-to-hugo-netlify/
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Temperature: 
+
+----
+
+Weather Icon: 
+
+----
+
+Date: 2017-06-06 17:52
+
+----
+
+Redirect: https://calumryan.com/note/673
+
+----
+
+UID: 673

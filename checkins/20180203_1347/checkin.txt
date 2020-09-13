@@ -1,0 +1,45 @@
+Title: February 3rd, 2018
+
+----
+
+Text: Checked in at Gunwharf Quays
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5a75bdf04f0e5837019d5ed7
+
+----
+
+Longitude: -1.1056320558521
+
+----
+
+Latitude: 50.795749855473
+
+----
+
+Temperature: 
+
+----
+
+Weather Icon: 
+
+----
+
+Date: 2018-02-03 13:49
+
+----
+
+Redirect: https://calumryan.com/note/1347
+
+----
+
+UID: 1347

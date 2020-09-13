@@ -1,0 +1,45 @@
+Title: Meet the W3C AB
+
+----
+
+Tags:
+
+----
+
+Latitude: 51.51189
+
+----
+
+Longitude: -0.09043
+
+----
+
+Date: 2017-10-16 19:00
+
+----
+
+Date start: 2017-10-16 19:00:00 +0100
+
+----
+
+Date end: 2017-10-16 21:00:00 +0100
+
+----
+
+Timezone: BST
+
+----
+
+City: London
+
+----
+
+Location: GSMA London Office, 25 Walbrook, London, EC4N 8AF, United Kingdom
+
+----
+
+Redirect: https://calumryan.com/event/meet-the-w3c-ab
+
+----
+
+UID: meet-the-w3c-ab

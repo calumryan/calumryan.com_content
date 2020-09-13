@@ -1,0 +1,45 @@
+Title: November 6th, 2018
+
+----
+
+Text: Checked in at Security/Passport Control
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5be1e7c6c4df1d002cc2c794
+
+----
+
+Longitude: -0.17788410186768
+
+----
+
+Latitude: 51.160385937364
+
+----
+
+Temperature: 14°C
+
+----
+
+Weather Icon: partly-cloudy-night
+
+----
+
+Date: 2018-11-06 19:13
+
+----
+
+Redirect: https://calumryan.com/note/2155
+
+----
+
+UID: 2155

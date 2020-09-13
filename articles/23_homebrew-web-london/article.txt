@@ -1,0 +1,41 @@
+Title: Homebrew Website Club comes to London!
+----
+Description:
+
+----
+
+Og: false
+
+----
+
+Thumbnail:
+
+----
+
+Text:
+For the first time in a long long while London Homebrew Website Club is happening!
+
+<a href="http://tantek.com">Tantek</a> was in town so luckily made it by. Along with him we had <a href="https://tommorris.org">Tom Morris</a> and <a href="https://barryfrost.com">Barry Frost</a> attending.
+
+We've been discussing a range of topics/technologies for our websites including events publication, linking up various features via Bridgy, photo tagging/syndicating and live displaying what music you're listening to.
+
+We're planning to make this a monthly to begin with so if you're in London next month and have a website feature to work on, show or even just to offer or get some help – come along!
+
+### Next event
+
+<div class="h-event">
+  <h3><a class="p-name u-url" href="http://indiewebcamp.com/events/2016-07-27-homebrew-website-club">July Homebrew Website Club, London</a></h3>
+  <time class="dt-start" datetime="2016-07-27 18:00">27<sup>th</sup> July 2016, 18:00</time> to <time class="dt-end" datetime="2016-07-27 19:30">19:30</time> at <span class="p-location h-card"><a class="p-name p-org u-url" href="https://www.hubhotels.co.uk/content/hub-on-hub/index/london/covent-garden.html">ProvenDough (Covent Garden)</a><br> <span class="p-street-address">110 St Martin's Lane</span>, <span class="p-locality">Covent Garden, London</span>, <span class="p-postal-code">WC2N 4BA</span>, <abbr class="p-region" title="England">England</abbr><br><a href="http://www.openstreetmap.org/?mlat=51.5101498&mlon=-0.1271938&zoom=12#map=16/51.5098/-0.1288"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" viewBox="0 0 16 16"><title>Show location on map (external link)</title><path fill="#36b2d5" d="M8 0c-2.761 0-5 2.239-5 5 0 5 5 11 5 11s5-6 5-11c0-2.761-2.239-5-5-5zM8 8.063c-1.691 0-3.063-1.371-3.063-3.063s1.371-3.063 3.063-3.063 3.063 1.371 3.063 3.063-1.371 3.063-3.063 3.063zM6.063 5c0-1.070 0.867-1.938 1.938-1.938s1.938 0.867 1.938 1.938c0 1.070-0.867 1.938-1.938 1.938s-1.938-0.867-1.938-1.938z"></path></svg></a><span class="p-latitude">51.5101498</span>, <span class="p-longitude">-0.1271938</span> </span>
+  <p class="p-summary">Get together, do and discuss all things IndieWeb-related: <a href="http://indiewebcamp.com/events/2016-07-27-homebrew-website-club"><br>Visit the indiewebcamp.com event page</a> to show you're attending.</p>
+</div>
+
+----
+
+Tags: general
+----
+
+Date: 2016-06-15 00:00
+
+----
+
+Redirect: https://calumryan.com/blog/homebrew-web-london/

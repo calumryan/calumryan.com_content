@@ -1,0 +1,21 @@
+Title: Context-Dependent Image Loading with SVG and the picture element
+
+----
+
+Permalink: https://codepen.io/eeeps/pen/YJNXGN
+
+----
+
+Date: 2019-08-08 08:08
+
+----
+
+Tags: html, images, picture 
+
+----
+
+Redirect: https://calumryan.com/note/2937
+
+----
+
+UID: 2937

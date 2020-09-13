@@ -1,0 +1,41 @@
+Title: May 5th, 2018
+
+----
+
+Text: In the CMS session at \#indiewebcamp Düsseldorf we discussed the recent rise in JAMstack tech including open source content management with such services as Netlify CMS and Github pages
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Latitude: 51.211522599999995
+
+----
+
+Longitude: 6.7562992
+
+----
+
+Temperature: 23°C
+
+----
+
+Weather Icon: clear-day
+
+----
+
+Date: 2018-05-05 15:05
+
+----
+
+Redirect: https://calumryan.com/note/1530
+
+----
+
+UID: 1530

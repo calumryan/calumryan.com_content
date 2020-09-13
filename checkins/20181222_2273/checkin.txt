@@ -1,0 +1,49 @@
+Title: December 22nd, 2018
+
+----
+
+Text: Checked in at The Marlowe
+
+----
+
+Feature Image: fsqUGmMIv.jpg
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5c1e38dcb9ac38002c78350f
+
+----
+
+Longitude: 1.078668892744
+
+----
+
+Latitude: 51.280891175613
+
+----
+
+Temperature: 11°C
+
+----
+
+Weather Icon: partly-cloudy-day
+
+----
+
+Date: 2018-12-22 13:15
+
+----
+
+Redirect: https://calumryan.com/note/2273
+
+----
+
+UID: 2273

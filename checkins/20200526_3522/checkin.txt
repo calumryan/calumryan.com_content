@@ -1,0 +1,49 @@
+Title: May 26th, 2020
+
+----
+
+Text: Checked in at Nelson Arms
+
+----
+
+Feature Image: fsqah2Irt.jpg
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5ecd5a07c237d10007ece50d
+
+----
+
+Longitude: 0.26469586886378
+
+----
+
+Latitude: 51.192759965493
+
+----
+
+Temperature: 14°C
+
+----
+
+Weather Icon: partly-cloudy-night
+
+----
+
+Date: 2020-05-26 19:03
+
+----
+
+Redirect: https://calumryan.com/note/3522
+
+----
+
+UID: 3522

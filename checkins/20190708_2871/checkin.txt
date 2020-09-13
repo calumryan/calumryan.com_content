@@ -1,0 +1,45 @@
+Title: July 8th, 2019
+
+----
+
+Text: Checked in at EXKi
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5d22ef378aa00f0008289914
+
+----
+
+Longitude: 4.7031331194783
+
+----
+
+Latitude: 50.879432246997
+
+----
+
+Temperature: 15°C
+
+----
+
+Weather Icon: cloudy
+
+----
+
+Date: 2019-07-08 08:22
+
+----
+
+Redirect: https://calumryan.com/note/2871
+
+----
+
+UID: 2871

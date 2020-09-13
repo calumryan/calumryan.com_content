@@ -1,0 +1,45 @@
+Title: November 2nd, 2018
+
+----
+
+Text: Checked in at Bahnhof Berlin Friedrichstraße
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5bdc3e87005ac1002c9dae4a
+
+----
+
+Longitude: 13.387308976861
+
+----
+
+Latitude: 52.520526416928
+
+----
+
+Temperature: 14°C
+
+----
+
+Weather Icon: partly-cloudy-day
+
+----
+
+Date: 2018-11-02 12:09
+
+----
+
+Redirect: https://calumryan.com/note/2086
+
+----
+
+UID: 2086

@@ -1,0 +1,45 @@
+Title: December 12th, 2018
+
+----
+
+Text: Checked in at Waitrose &amp; Partners
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5c10c6fcab42d9002cffb02c
+
+----
+
+Longitude: 0.2756831060077
+
+----
+
+Latitude: 51.194411269648
+
+----
+
+Temperature: 6°C
+
+----
+
+Weather Icon: partly-cloudy-day
+
+----
+
+Date: 2018-12-12 08:29
+
+----
+
+Redirect: https://calumryan.com/note/2245
+
+----
+
+UID: 2245

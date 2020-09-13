@@ -1,0 +1,45 @@
+Title: November 3rd, 2018
+
+----
+
+Text: Checked in at Myface
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5bdd8a0779f6c70039d68e95
+
+----
+
+Longitude: 13.4454365
+
+----
+
+Latitude: 52.49942
+
+----
+
+Temperature: 11°C
+
+----
+
+Weather Icon: clear-day
+
+----
+
+Date: 2018-11-03 11:44
+
+----
+
+Redirect: https://calumryan.com/note/2097
+
+----
+
+UID: 2097

@@ -1,0 +1,21 @@
+Title: Offline-Friendly Forms
+
+----
+
+Permalink: https://mxb.at/blog/offline-forms
+
+----
+
+Date: 2018-06-30 11:14
+
+----
+
+Tags: offline, forms, localStorage 
+
+----
+
+Redirect: https://calumryan.com/note/1741
+
+----
+
+UID: 1741

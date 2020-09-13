@@ -1,0 +1,45 @@
+Title: February 7th, 2018
+
+----
+
+Text: \#UKsnow Kent
+
+----
+
+Feature Image: uksnow.jpg
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Latitude: 51.2054591
+
+----
+
+Longitude: 0.2752267
+
+----
+
+Temperature: 1°C
+
+----
+
+Weather Icon: snow
+
+----
+
+Date: 2018-02-07 08:19
+
+----
+
+Redirect: https://calumryan.com/note/1357
+
+----
+
+UID: 1357

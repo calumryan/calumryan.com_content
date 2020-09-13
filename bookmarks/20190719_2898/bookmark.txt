@@ -1,0 +1,21 @@
+Title: Position Sticky and Table Headers 
+
+----
+
+Permalink: https://css-tricks.com/position-sticky-and-table-headers/
+
+----
+
+Date: 2019-07-19 09:30
+
+----
+
+Tags: css, tables, layout 
+
+----
+
+Redirect: https://calumryan.com/note/2898
+
+----
+
+UID: 2898

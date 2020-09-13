@@ -1,0 +1,45 @@
+Title: June 4th, 2019
+
+----
+
+Text: Checked in at Butchers Hook &amp; Cleaver
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5cf65cae98fbfc002c62a289
+
+----
+
+Longitude: -0.10052533250621
+
+----
+
+Latitude: 51.518836718546
+
+----
+
+Temperature: 16°C
+
+----
+
+Weather Icon: partly-cloudy-day
+
+----
+
+Date: 2019-06-04 12:57
+
+----
+
+Redirect: https://calumryan.com/note/2762
+
+----
+
+UID: 2762

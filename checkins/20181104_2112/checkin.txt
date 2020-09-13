@@ -1,0 +1,45 @@
+Title: November 4th, 2018
+
+----
+
+Text: Checked in at Mozilla Berlin
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5bdf275f51950e002cb79c8b
+
+----
+
+Longitude: 13.449271786344
+
+----
+
+Latitude: 52.499467118508
+
+----
+
+Temperature: 10°C
+
+----
+
+Weather Icon: partly-cloudy-night
+
+----
+
+Date: 2018-11-04 17:07
+
+----
+
+Redirect: https://calumryan.com/note/2112
+
+----
+
+UID: 2112

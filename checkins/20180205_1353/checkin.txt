@@ -1,0 +1,45 @@
+Title: February 5th, 2018
+
+----
+
+Text: Checked in at R/GA IoT Studio. JAM Stack London
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5a78aa428173cb0f71e345b9
+
+----
+
+Longitude: -0.083302
+
+----
+
+Latitude: 51.522951
+
+----
+
+Temperature: 
+
+----
+
+Weather Icon: 
+
+----
+
+Date: 2018-02-05 19:02
+
+----
+
+Redirect: https://calumryan.com/note/1353
+
+----
+
+UID: 1353

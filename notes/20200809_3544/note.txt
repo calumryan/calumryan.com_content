@@ -1,0 +1,57 @@
+Title: August 9th, 2020
+
+----
+
+Text: We need trees trees trees ..keeping cool during the #heatwave
+
+----
+
+Locator:
+
+lat: 51.8002756
+lon: -0.3967599
+city: Redbourn
+country: United Kingdom
+postcode: AL3 7BD
+
+----
+
+Date: 2020-08-09 14:15
+
+----
+
+Bridgy: twitter
+
+----
+
+Uid: 3544
+
+----
+
+Feature-images:
+
+- img_20200809_141730__01.jpg
+
+----
+
+Tags: walking, environment
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

@@ -1,0 +1,21 @@
+Title: Chris Coyier suncinctly explains the reasons behind the IndieWeb, publishing content from your own website and using webmentions
+
+----
+
+Permalink: https://css-tricks.com/indieweb-and-webmentions/
+
+----
+
+Date: 2019-07-10 10:47
+
+----
+
+Tags: indieweb 
+
+----
+
+Redirect: https://calumryan.com/note/2877
+
+----
+
+UID: 2877

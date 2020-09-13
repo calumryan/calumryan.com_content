@@ -1,0 +1,45 @@
+Title: October 14th, 2019
+
+----
+
+Text: Checked in at Benugo
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5da49de59c52800008726a7a
+
+----
+
+Longitude: -0.12657957625529
+
+----
+
+Latitude: 51.531685379394
+
+----
+
+Temperature: 15°C
+
+----
+
+Weather Icon: rain
+
+----
+
+Date: 2019-10-14 17:10
+
+----
+
+Redirect: https://calumryan.com/note/3080
+
+----
+
+UID: 3080

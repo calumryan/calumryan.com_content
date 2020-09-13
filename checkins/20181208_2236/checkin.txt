@@ -1,0 +1,45 @@
+Title: December 8th, 2018
+
+----
+
+Text: Checked in at Ultimate Outdoors
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5c0bcb7f1a292500259a54b5
+
+----
+
+Longitude: -0.306764
+
+----
+
+Latitude: 51.410109
+
+----
+
+Temperature: 12°C
+
+----
+
+Weather Icon: rain
+
+----
+
+Date: 2018-12-08 13:47
+
+----
+
+Redirect: https://calumryan.com/note/2236
+
+----
+
+UID: 2236

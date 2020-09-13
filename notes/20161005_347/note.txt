@@ -1,0 +1,41 @@
+Title: October 5th, 2016
+
+----
+
+Text: Sorted for my first ever @btconf : Dusseldorf 2017 🇩🇪 + possibly an \#indiewebcamp
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Latitude: 51.205504999999995
+
+----
+
+Longitude: 0.2752304
+
+----
+
+Temperature: 15°C
+
+----
+
+Weather Icon: clear-day
+
+----
+
+Date: 2016-10-05 16:28
+
+----
+
+Redirect: https://calumryan.com/note/347
+
+----
+
+UID: 347

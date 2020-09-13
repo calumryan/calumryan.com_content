@@ -1,0 +1,45 @@
+Title: October 25th, 2019
+
+----
+
+Text: Checked in at RSA. Missed check-in
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5db34d05f302480008a45c54
+
+----
+
+Longitude: -0.12261291192279
+
+----
+
+Latitude: 51.509457173839
+
+----
+
+Temperature: 16°C
+
+----
+
+Weather Icon: partly-cloudy-night
+
+----
+
+Date: 2019-10-25 20:29
+
+----
+
+Redirect: https://calumryan.com/note/3164
+
+----
+
+UID: 3164

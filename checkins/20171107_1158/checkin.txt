@@ -1,0 +1,45 @@
+Title: November 7th, 2017
+
+----
+
+Text: Checked in at Platform 2
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5a020be0947c0529d0050f88
+
+----
+
+Longitude: 0.26959156528119
+
+----
+
+Latitude: 51.191420967062
+
+----
+
+Temperature: 
+
+----
+
+Weather Icon: 
+
+----
+
+Date: 2017-11-07 19:39
+
+----
+
+Redirect: https://calumryan.com/note/1158
+
+----
+
+UID: 1158

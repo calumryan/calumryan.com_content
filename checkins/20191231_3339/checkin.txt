@@ -1,0 +1,49 @@
+Title: December 31st, 2019
+
+----
+
+Text: Checked in at Esquires Coffee
+
+----
+
+Feature Image: fsq4KxRmr.jpg
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5e0b31d026c7da0008323f7a
+
+----
+
+Longitude: -0.363839
+
+----
+
+Latitude: 51.370383
+
+----
+
+Temperature: 8°C
+
+----
+
+Weather Icon: partly-cloudy-day
+
+----
+
+Date: 2019-12-31 11:32
+
+----
+
+Redirect: https://calumryan.com/note/3339
+
+----
+
+UID: 3339

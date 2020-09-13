@@ -1,0 +1,45 @@
+Title: May 10th, 2018
+
+----
+
+Text: Checked in at Metrostation Rijnhaven
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5af40e7fc53093002c644c26
+
+----
+
+Longitude: 4.4968444840747
+
+----
+
+Latitude: 51.90350272428
+
+----
+
+Temperature: 
+
+----
+
+Weather Icon: 
+
+----
+
+Date: 2018-05-10 10:18
+
+----
+
+Redirect: https://calumryan.com/note/1596
+
+----
+
+UID: 1596

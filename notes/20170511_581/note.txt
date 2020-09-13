@@ -1,0 +1,45 @@
+Title: May 11th, 2017
+
+----
+
+Text: Amsterdam-ing
+
+----
+
+Feature Image: IMG_20170511_144828~2.jpg
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Latitude: 52.3668542
+
+----
+
+Longitude: 4.8685265
+
+----
+
+Temperature: 18°C
+
+----
+
+Weather Icon: rain
+
+----
+
+Date: 2017-05-11 23:23
+
+----
+
+Redirect: https://calumryan.com/note/581
+
+----
+
+UID: 581

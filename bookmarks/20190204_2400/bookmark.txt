@@ -1,0 +1,21 @@
+Title: Building a simple data filtering app with Vue js
+
+----
+
+Permalink: https://medium.com/covenant-university-developers-community/building-a-simple-data-filtering-app-with-vue-js-521420c73899
+
+----
+
+Date: 2019-02-04 10:51
+
+----
+
+Tags: VueJs, filtering 
+
+----
+
+Redirect: https://calumryan.com/note/2400
+
+----
+
+UID: 2400

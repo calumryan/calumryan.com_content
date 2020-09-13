@@ -1,0 +1,45 @@
+Title: August 30th, 2018
+
+----
+
+Text: Checked in at Made by Many. Front-end London
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5b882f4cde3bbf002cc44e9c
+
+----
+
+Longitude: -0.099432910419901
+
+----
+
+Latitude: 51.532517145905
+
+----
+
+Temperature: 
+
+----
+
+Weather Icon: 
+
+----
+
+Date: 2018-08-30 18:54
+
+----
+
+Redirect: https://calumryan.com/note/1874
+
+----
+
+UID: 1874

@@ -1,0 +1,41 @@
+Title: July 14th, 2017
+
+----
+
+Text: Jekyll people: how do you setup bundle install on a post-receive hook?
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Temperature: 
+
+----
+
+Weather Icon: 
+
+----
+
+Date: 2017-07-14 11:56
+
+----
+
+Redirect: https://calumryan.com/note/859
+
+----
+
+UID: 859

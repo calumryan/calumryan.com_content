@@ -1,0 +1,45 @@
+Title: January 26th, 2020
+
+----
+
+Text: Checked in at Ole &amp; Steen
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5e2da03ee9578e0008cc9b04
+
+----
+
+Longitude: -0.14386014403332
+
+----
+
+Latitude: 51.497037469834
+
+----
+
+Temperature: 10°C
+
+----
+
+Weather Icon: cloudy
+
+----
+
+Date: 2020-01-26 14:20
+
+----
+
+Redirect: https://calumryan.com/note/3384
+
+----
+
+UID: 3384

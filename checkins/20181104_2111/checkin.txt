@@ -1,0 +1,45 @@
+Title: November 4th, 2018
+
+----
+
+Text: Checked in at Hopfenreich. Post IndieWebCamp drinks — with Jeremy
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5bdf26a666f3cd002c7d7806
+
+----
+
+Longitude: 13.43929160699
+
+----
+
+Latitude: 52.499639642378
+
+----
+
+Temperature: 10°C
+
+----
+
+Weather Icon: partly-cloudy-night
+
+----
+
+Date: 2018-11-04 17:04
+
+----
+
+Redirect: https://calumryan.com/note/2111
+
+----
+
+UID: 2111

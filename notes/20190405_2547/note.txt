@@ -1,0 +1,41 @@
+Title: April 5th, 2019
+
+----
+
+Text: Spent this morning @WordCampLondon increasing knowledge for using more thorough accessibility testing tools in WordPress and front-end development. Always more to learn and accessibility issues to address in past or present projects 
+
+----
+
+Permalink: 
+
+----
+
+Tags: a11y, wordpress
+
+----
+
+Latitude: 51.55206557644701
+
+----
+
+Longitude: -0.11100215966350395
+
+----
+
+Temperature: 14°C
+
+----
+
+Weather Icon: partly-cloudy-day
+
+----
+
+Date: 2019-04-05 14:35
+
+----
+
+Redirect: https://calumryan.com/note/2547
+
+----
+
+UID: 2547

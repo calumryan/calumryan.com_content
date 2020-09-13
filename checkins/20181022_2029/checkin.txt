@@ -1,0 +1,45 @@
+Title: October 22nd, 2018
+
+----
+
+Text: Checked in at Augustiner - Zur Schranke
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5bcdf4ac7d8497002c7b812f
+
+----
+
+Longitude: 11.074328389602
+
+----
+
+Latitude: 49.457333994417
+
+----
+
+Temperature: 13°C
+
+----
+
+Weather Icon: partly-cloudy-day
+
+----
+
+Date: 2018-10-22 17:02
+
+----
+
+Redirect: https://calumryan.com/note/2029
+
+----
+
+UID: 2029

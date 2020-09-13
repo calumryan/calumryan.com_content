@@ -1,0 +1,45 @@
+Title: January 13th, 2018
+
+----
+
+Text: Checked in at The Glades
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5a59d947e179107aa671d381
+
+----
+
+Longitude: 0.016264915466309
+
+----
+
+Latitude: 51.404319291952
+
+----
+
+Temperature: 
+
+----
+
+Weather Icon: 
+
+----
+
+Date: 2018-01-13 10:02
+
+----
+
+Redirect: https://calumryan.com/note/1299
+
+----
+
+UID: 1299

@@ -1,0 +1,49 @@
+Title: Agile Planning &amp; User-Centered Design week 1
+----
+Description:
+In this series of articles I’ll be looking at my current approach to project planning, estimating and delivery with reasoning why an agile planning and user-centered approach to web design and development is necessary.
+----
+
+Og: false
+
+----
+
+Thumbnail:
+
+----
+
+Text:
+Virtually every website project, overhaul, redesign or bug fixing exercise in my digital agency career, no matter how complex, has necessitated some kind of estimation and planning beforehand. In this first stage of understanding Agile and User-Centered Design (UCD) I wanted to understand why such an approach was seen necessary.
+
+### Why a change in approach and thinking?
+From my own perspective: the range of projects I’ve worked on for different clients and end-users often share similar off-the-shelf technical features simply because they pose less risk than experimenting with something new and untested. This rarely satisfies the client and end-user 100% because at little or no point have the needs of the user been explored or fulfilled.
+
+The end result typically sees clients/end-users having to adapt their needs to the solution we’ve built. Typically however, with clients refusing to pay until they’re fully satisfied, we’re forced into a long strewn-out process of endless revisions to blindly guess how we can change or adapt the already built solution and keep them happy as well as our bank balance.
+
+### The project plan
+What’s inherently wrong with the creation of a project plan is how vague it all ends up being. Whereas with agile planning – it tends to build on knowledge gained throughout a project lifecycle, non-agile planning focuses on the plan rather than the planning: setting out specific timescales to deliver whole or large chunks of the specified solution.
+
+The plan doesn’t justifiably reason what parts of a project hold greater risk in completing on time or fulfil user-needs the most. For example does building the <em>about staff profiles slider</em> take greater priority over the <em>blog post template page</em>? In this scenario using agile planning we might opt to build the blog post template first for release so as to provide our client with something to review and potentially deploy live in the event that other features are delayed. Alternatively we might justify an opposite approach to facilitate time for research and experimentation.
+
+### Internal and External Communication
+Ultimately for any type of effective planning to work in an ongoing process it’s vital for all team members, clients and end-users to be communicating with each other at every stage. This is absolutely essential if an agile planning and workflow approach is to succeed.
+
+I’ve found in many projects up to now that even the slightest failure in communicating user needs, usability feedback or questioning the feasibility of features on a website design can result in costly and timely set backs.
+
+This can range from anything such as failure to communicate the need for certain editable regions of a CMS – so that users can edit the look and feel of the website. What might have started out as a one hour HTML template construction job may now have eclipsed into several hours of work to setup editable custom fields in the CMS, modify the templates with the output and test different variations of user input.
+
+## More to come
+<strong>In the coming weeks and months I’ll be reading more in-depth on the topics of agile planning and UCD as part of my documented learning process so please check back for more and in the meantime tweet, email, reply on Medium or send a Webmention if you’ve a comment or suggestion on my series of articles.</strong>
+
+### Reference + reading
+Mike Cohn (2015). <em>Agile Estimating and Planning: Prentice Hall</em>
+----
+
+Tags: learning
+----
+
+Date: 2016-02-28 00:00
+
+----
+
+Redirect: https://calumryan.com/learning/agile-ucd-1/

@@ -1,0 +1,41 @@
+Title: November 20th, 2018
+
+----
+
+Text: Great things are discussed together, experimented with and built at IndieWebCamps ..and this was one them.. using the PushAPI without Notifications by @Sebsel https://css-tricks.com/push-and-ye-shall-receive/
+
+----
+
+Permalink: https://css-tricks.com/push-and-ye-shall-receive/
+
+----
+
+Tags: serviceworkers, pwa, indiewebcamp
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Temperature: 
+
+----
+
+Weather Icon: 
+
+----
+
+Date: 2018-11-20 15:33
+
+----
+
+Redirect: https://calumryan.com/note/2189
+
+----
+
+UID: 2189

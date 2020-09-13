@@ -1,0 +1,45 @@
+Title: MozFest 2017 | 2017-10-28
+
+----
+
+Tags:
+
+----
+
+Latitude: 51.5017
+
+----
+
+Longitude: 0.0057
+
+----
+
+Date: 2017-10-28 09:00
+
+----
+
+Date start: 2017-10-28 09:00:00 +0100
+
+----
+
+Date end: 2017-10-28 18:00:00 +0100
+
+----
+
+Timezone: BST
+
+----
+
+City: Greenwich, London
+
+----
+
+Location: 6 Penrose Way, Greenwich Peninsula, London SE10 0EW
+
+----
+
+Redirect: https://calumryan.com/event/mozfest-2017
+
+----
+
+UID: mozfest-2017

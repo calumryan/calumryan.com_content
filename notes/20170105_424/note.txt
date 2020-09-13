@@ -1,0 +1,41 @@
+Title: January 5th, 2017
+
+----
+
+Text: Reading Resilient Web Design
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Latitude: 51.205420406348075
+
+----
+
+Longitude: 0.2752164283731386
+
+----
+
+Temperature: 1°C
+
+----
+
+Weather Icon: clear-night
+
+----
+
+Date: 2017-01-05 03:41
+
+----
+
+Redirect: https://calumryan.com/note/424
+
+----
+
+UID: 424

@@ -1,0 +1,45 @@
+Title: October 25th, 2019
+
+----
+
+Text: Checked in at Bus Stop S - Aldwych Somerset House
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5db34a264b809c00084f8552
+
+----
+
+Longitude: -0.11741297889945
+
+----
+
+Latitude: 51.511977428223
+
+----
+
+Temperature: 17°C
+
+----
+
+Weather Icon: partly-cloudy-night
+
+----
+
+Date: 2019-10-25 20:16
+
+----
+
+Redirect: https://calumryan.com/note/3163
+
+----
+
+UID: 3163

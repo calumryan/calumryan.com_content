@@ -1,0 +1,45 @@
+Title: June 18th, 2017
+
+----
+
+Text: Checked in at Dover
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5946af7a4aa3f84176fe9106
+
+----
+
+Longitude: 1.3132953643799
+
+----
+
+Latitude: 51.12510160871
+
+----
+
+Temperature: 
+
+----
+
+Weather Icon: 
+
+----
+
+Date: 2017-06-18 17:51
+
+----
+
+Redirect: https://calumryan.com/note/752
+
+----
+
+UID: 752

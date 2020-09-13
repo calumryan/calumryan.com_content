@@ -1,0 +1,45 @@
+Title: April 6th, 2019
+
+----
+
+Text: Thinking what drives people to get involved in Open Source? One of the many topics discussed today @WordCampLondon \#WCLDN2019
+
+----
+
+Feature Image: IMG_20190406_093952.jpg
+
+----
+
+Permalink: 
+
+----
+
+Tags: wcldn, open-source
+
+----
+
+Latitude: 51.5522241
+
+----
+
+Longitude: -0.1108867
+
+----
+
+Temperature: 10°C
+
+----
+
+Weather Icon: partly-cloudy-day
+
+----
+
+Date: 2019-04-06 15:57
+
+----
+
+Redirect: https://calumryan.com/note/2549
+
+----
+
+UID: 2549

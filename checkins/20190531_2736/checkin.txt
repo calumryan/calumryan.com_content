@@ -1,0 +1,45 @@
+Title: May 31st, 2019
+
+----
+
+Text: Checked in at Dublin Airport (DUB)
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5cf18c0473fe25002cb36a93
+
+----
+
+Longitude: -6.2439250946045
+
+----
+
+Latitude: 53.426834193092
+
+----
+
+Temperature: 14°C
+
+----
+
+Weather Icon: partly-cloudy-day
+
+----
+
+Date: 2019-05-31 21:18
+
+----
+
+Redirect: https://calumryan.com/note/2736
+
+----
+
+UID: 2736

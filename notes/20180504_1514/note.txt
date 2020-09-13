@@ -1,0 +1,41 @@
+Title: May 4th, 2018
+
+----
+
+Text: Onboard Eurostar @ St Pancras International - en route to \#indiewebcamp \#btconf Düsseldorf! 🚄
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Latitude: 51.533044399999994
+
+----
+
+Longitude: -0.12686050000000001
+
+----
+
+Temperature: 
+
+----
+
+Weather Icon: 
+
+----
+
+Date: 2018-05-04 11:00
+
+----
+
+Redirect: https://calumryan.com/note/1514
+
+----
+
+UID: 1514

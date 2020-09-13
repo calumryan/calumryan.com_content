@@ -1,0 +1,21 @@
+Title: &quot;responsive web design isn’t dead, but we are at the point where we’ve evolved past what most people mean when they use the term&quot; - Should we still be selling responsive web design? (via @browserlondon)
+
+----
+
+Permalink: https://www.browserlondon.com/blog/2019/08/19/should-we-still-be-selling-responsive-web-design/
+
+----
+
+Date: 2019-08-19 15:42
+
+----
+
+Tags: responsive, front-end, css, media queries 
+
+----
+
+Redirect: https://calumryan.com/note/2953
+
+----
+
+UID: 2953

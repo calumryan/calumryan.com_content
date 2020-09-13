@@ -1,0 +1,41 @@
+Title: May 11th, 2019
+
+----
+
+Text: Chuffed there's at least one of the @HWCLondon community at every IndieWebCamp this month. @voss in Düsseldorf, @loopdouble in Utrecht and last weekend I was in Berlin https://calumryan.com/blog/indiewebcamp-berlin-2019/
+
+----
+
+Permalink: 
+
+----
+
+Tags: hwclondon, indieweb
+
+----
+
+Latitude: 51.20532566215877
+
+----
+
+Longitude: 0.27529020145290223
+
+----
+
+Temperature: 12°C
+
+----
+
+Weather Icon: clear-day
+
+----
+
+Date: 2019-05-11 19:52
+
+----
+
+Redirect: https://calumryan.com/note/2674
+
+----
+
+UID: 2674

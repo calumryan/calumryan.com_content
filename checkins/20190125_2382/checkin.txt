@@ -1,0 +1,45 @@
+Title: January 25th, 2019
+
+----
+
+Text: Checked in at Trinity Theatre
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5c4b823256c89f002c7818af
+
+----
+
+Longitude: 0.26221125864782
+
+----
+
+Latitude: 51.132561994081
+
+----
+
+Temperature: 8°C
+
+----
+
+Weather Icon: cloudy
+
+----
+
+Date: 2019-01-25 21:40
+
+----
+
+Redirect: https://calumryan.com/note/2382
+
+----
+
+UID: 2382

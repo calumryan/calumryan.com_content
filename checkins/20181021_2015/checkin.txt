@@ -1,0 +1,45 @@
+Title: October 21st, 2018
+
+----
+
+Text: Checked in at U Nordostbahnhof
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5bccbb46dab4b1002c448b56
+
+----
+
+Longitude: 11.104506254196
+
+----
+
+Latitude: 49.472188784186
+
+----
+
+Temperature: 9°C
+
+----
+
+Weather Icon: clear-night
+
+----
+
+Date: 2018-10-21 18:45
+
+----
+
+Redirect: https://calumryan.com/note/2015
+
+----
+
+UID: 2015

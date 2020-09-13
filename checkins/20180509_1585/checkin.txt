@@ -1,0 +1,49 @@
+Title: May 9th, 2018
+
+----
+
+Text: Checked in at Düsseldorf Hauptbahnhof. Auf Wiedersehen Düsseldorf
+
+----
+
+Feature Image: fsqN4pft9.jpg
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5af2b3e6c21cb1002c737960
+
+----
+
+Longitude: 6.7933664705314
+
+----
+
+Latitude: 51.219846909424
+
+----
+
+Temperature: 
+
+----
+
+Weather Icon: 
+
+----
+
+Date: 2018-05-09 09:40
+
+----
+
+Redirect: https://calumryan.com/note/1585
+
+----
+
+UID: 1585

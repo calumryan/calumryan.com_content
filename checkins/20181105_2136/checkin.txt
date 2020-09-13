@@ -1,0 +1,45 @@
+Title: November 5th, 2018
+
+----
+
+Text: Checked in at Hackendahl
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5be07ea9a92d98002c341d8f
+
+----
+
+Longitude: 13.387141227722
+
+----
+
+Latitude: 52.525295086041
+
+----
+
+Temperature: 11°C
+
+----
+
+Weather Icon: cloudy
+
+----
+
+Date: 2018-11-05 17:32
+
+----
+
+Redirect: https://calumryan.com/note/2136
+
+----
+
+UID: 2136

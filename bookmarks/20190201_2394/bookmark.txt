@@ -1,0 +1,21 @@
+Title: A Year of Utility Classes – experiences of using TailwindCSS by @asclearasmud
+
+----
+
+Permalink: https://css-irl.info/a-year-of-utility-classes
+
+----
+
+Date: 2019-02-01 09:57
+
+----
+
+Tags: css, TailWind, utility 
+
+----
+
+Redirect: https://calumryan.com/note/2394
+
+----
+
+UID: 2394

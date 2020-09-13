@@ -1,0 +1,45 @@
+Title: November 7th, 2018
+
+----
+
+Text: Checked in at Monzo. First time at TODO 1.13 — with Ana
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5be333d775dcb700385497f3
+
+----
+
+Longitude: -0.085624
+
+----
+
+Latitude: 51.520255
+
+----
+
+Temperature: 11°C
+
+----
+
+Weather Icon: partly-cloudy-night
+
+----
+
+Date: 2018-11-07 18:49
+
+----
+
+Redirect: https://calumryan.com/note/2164
+
+----
+
+UID: 2164

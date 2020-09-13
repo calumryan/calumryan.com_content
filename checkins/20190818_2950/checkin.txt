@@ -1,0 +1,49 @@
+Title: August 18th, 2019
+
+----
+
+Text: Checked in at Petersfield Railway Station (PTR)
+
+----
+
+Feature Image: fsqeVloYH.jpg
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5d5967be4ef2dc00085baf66
+
+----
+
+Longitude: -0.94239260662179
+
+----
+
+Latitude: 51.006170999493
+
+----
+
+Temperature: 20°C
+
+----
+
+Weather Icon: partly-cloudy-day
+
+----
+
+Date: 2019-08-18 15:59
+
+----
+
+Redirect: https://calumryan.com/note/2950
+
+----
+
+UID: 2950

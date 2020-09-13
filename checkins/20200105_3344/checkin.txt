@@ -1,0 +1,45 @@
+Title: January 5th, 2020
+
+----
+
+Text: Checked in at Kingdom
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5e11ce9815aeb200088079aa
+
+----
+
+Longitude: 0.163128
+
+----
+
+Latitude: 51.162852
+
+----
+
+Temperature: 7°C
+
+----
+
+Weather Icon: cloudy
+
+----
+
+Date: 2020-01-05 11:55
+
+----
+
+Redirect: https://calumryan.com/note/3344
+
+----
+
+UID: 3344

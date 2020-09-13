@@ -1,0 +1,41 @@
+Title: July 16th, 2019
+
+----
+
+Text: New Twitter is a looking a bit &lt;div&gt; soupy behind the scenes and I've lost all use of my CSS overrides to hide promoted tweets thanks to no recognisable class names.
+
+----
+
+Permalink: 
+
+----
+
+Tags: twitter, html
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Temperature: 
+
+----
+
+Weather Icon: 
+
+----
+
+Date: 2019-07-16 22:58
+
+----
+
+Redirect: https://calumryan.com/note/2895
+
+----
+
+UID: 2895

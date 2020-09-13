@@ -1,0 +1,45 @@
+Title: July 5th, 2019
+
+----
+
+Text: Checked in at London St Pancras International Eurostar Terminal
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5d1f13cc5c91ef000775a03e
+
+----
+
+Longitude: -0.12613641845489
+
+----
+
+Latitude: 51.531688089777
+
+----
+
+Temperature: 22°C
+
+----
+
+Weather Icon: partly-cloudy-day
+
+----
+
+Date: 2019-07-05 10:09
+
+----
+
+Redirect: https://calumryan.com/note/2849
+
+----
+
+UID: 2849

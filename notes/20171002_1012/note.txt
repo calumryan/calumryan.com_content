@@ -1,0 +1,41 @@
+Title: October 2nd, 2017
+
+----
+
+Text: Running Edge/IE11 in VirtualBox on Mac super easy with free virtual machines https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Temperature: 
+
+----
+
+Weather Icon: 
+
+----
+
+Date: 2017-10-02 15:03
+
+----
+
+Redirect: https://calumryan.com/note/1012
+
+----
+
+UID: 1012

@@ -1,0 +1,41 @@
+Title: February 12th, 2020
+
+----
+
+Text: Reasons I use Firefox as my primary browser: a quick glance at a website's source code in Firefox highlights red any broken markup, often the cause of many simple website layout bugs but often overlooked
+
+----
+
+Permalink: 
+
+----
+
+Tags: front-end, HTML, browser
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Temperature: 
+
+----
+
+Weather Icon: 
+
+----
+
+Date: 2020-02-12 11:22
+
+----
+
+Redirect: https://calumryan.com/note/3404
+
+----
+
+UID: 3404

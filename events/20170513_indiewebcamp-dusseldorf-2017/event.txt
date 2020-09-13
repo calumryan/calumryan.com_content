@@ -1,0 +1,49 @@
+Title: IndieWebCamp Düsseldorf 2017
+
+----
+
+Tags:
+
+----
+
+Latitude: 51.212027
+
+----
+
+Longitude: 6.7534883
+
+----
+
+Date: 2017-05-13 10:00
+
+----
+
+Date start: 2017-05-13 10:00:00 +0100
+
+----
+
+Date end: 2017-05-14 18:00:00 +0100
+
+----
+
+Timezone: CEST
+
+----
+
+City: Düsseldorf
+
+----
+
+Location: sipgate, Gladbacher Str. 74 , 40219
+
+----
+
+Speaker: 1
+
+----
+
+Redirect: https://calumryan.com/event/indiewebcamp-dusseldorf-2017
+
+----
+
+UID: indiewebcamp-dusseldorf-2017

@@ -1,0 +1,45 @@
+Title: June 28th, 2019
+
+----
+
+Text: Checked in at Trollburger
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5d15fe17bcbf7a0039a85b27
+
+----
+
+Longitude: -0.140515
+
+----
+
+Latitude: 50.828624
+
+----
+
+Temperature: 23°C
+
+----
+
+Weather Icon: partly-cloudy-day
+
+----
+
+Date: 2019-06-28 12:46
+
+----
+
+Redirect: https://calumryan.com/note/2828
+
+----
+
+UID: 2828

@@ -1,0 +1,45 @@
+Title: February 11th, 2020
+
+----
+
+Text: Checked in at Yoyo Design Ltd
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5e430b3aa48ae100074bba48
+
+----
+
+Longitude: 0.26691198348999
+
+----
+
+Latitude: 51.133504444499
+
+----
+
+Temperature: 4°C
+
+----
+
+Weather Icon: clear-night
+
+----
+
+Date: 2020-02-11 20:14
+
+----
+
+Redirect: https://calumryan.com/note/3403
+
+----
+
+UID: 3403

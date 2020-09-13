@@ -1,0 +1,42 @@
+Title: Year's end
+----
+Description:
+My end of year review and what lies ahead
+----
+
+Og: false
+
+----
+
+Thumbnail:
+
+----
+
+Text:
+Omitting the almost countless unexpected events of 2016 the past twelve months have, for me, been just about okay.
+
+I continued on the path that has made my career to date in the web industry: grappling with the latest web technologies in attempts to keep up with a community that's rapidly evolving; to new team working practices and engineering code with at least half a dozen libraries, packages or frameworks.
+
+About half way through 2016 I decided to make my interest in the [Indieweb community](http://indieweb.org) more of a shared learning experience and so started a regular meetup in London known as the Homebrew Website Club. Whether there's just myself, a couple of us or more attending; it's a time in my schedule I now set aside for focused work on making changes to my website, developing new features and helping others to start their own website.
+
+Good memories of 2016 that will stick with me are my trips to Edinburgh as part of DIBI conference and, later in the year, when I did an amazing round tour of Vancouver, San Francisco, Yosemite park and Seattle.
+
+![Collage of 2016 photos](/media/pages/posts/unsorted/collage.jpg)
+
+### 2017
+
+Taking more time away from the computer, tablet and mobile screen plus, these days, my second screen; the TV, is definitely going to be one of my main commitments for the new year. I will devote more time to reading, writing website posts here and catching up with friends/relatives I haven't met up with in a long while.
+
+For the new year I shall be kicking off with writing a new talk about progressive web apps, planning for future conferences to attend and my ongoing assistance running Homebrew Website Club London monthly or maybe even bi-weekly! I hope to meet plenty more amazing people in and outside of the web community. Finally I hope to make the most of our ending European Union membership with the uncertainty that lies ahead for the freedom, diversity of people and numerous benefits it may continue to provide on and beyond our small island.
+
+Happy New Year!
+----
+
+Tags: general
+----
+
+Date: 2017-01-01 00:00
+
+----
+
+Redirect: https://calumryan.com/blog/years-end/

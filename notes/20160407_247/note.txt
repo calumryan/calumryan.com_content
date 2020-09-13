@@ -1,0 +1,41 @@
+Title: April 7th, 2016
+
+----
+
+Text: Small website update tonight in absence of not making it to Homebrew Website Club: now posting geolocation \#indieweb
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Latitude: 51.2054652
+
+----
+
+Longitude: 0.2752012
+
+----
+
+Temperature: 
+
+----
+
+Weather Icon: 
+
+----
+
+Date: 2016-04-07 03:41
+
+----
+
+Redirect: https://calumryan.com/note/247
+
+----
+
+UID: 247

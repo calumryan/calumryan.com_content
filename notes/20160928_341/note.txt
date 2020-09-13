@@ -1,0 +1,41 @@
+Title: September 28th, 2016
+
+----
+
+Text: Reviewing three years experience of \#indieweb and my first Git push onboard an Amtrak! https://calumryan.com/blog/three-years-in-indieweb/
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Latitude: 47.583863
+
+----
+
+Longitude: -122.3406748
+
+----
+
+Temperature: 13°C
+
+----
+
+Weather Icon: partly-cloudy-day
+
+----
+
+Date: 2016-09-28 22:04
+
+----
+
+Redirect: https://calumryan.com/note/341
+
+----
+
+UID: 341

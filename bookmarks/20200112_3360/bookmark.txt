@@ -1,0 +1,21 @@
+Title: The intersection of markup, content and context in accessibility by David A. Kennedy 
+
+----
+
+Permalink: https://www.24a11y.com/2019/the-intersection-of-markup-content-and-context-in-accessibility/
+
+----
+
+Date: 2020-01-12 11:12
+
+----
+
+Tags: a11y 
+
+----
+
+Redirect: https://calumryan.com/note/3360
+
+----
+
+UID: 3360

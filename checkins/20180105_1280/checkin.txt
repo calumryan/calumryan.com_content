@@ -1,0 +1,45 @@
+Title: January 5th, 2018
+
+----
+
+Text: Checked in at The Place To Eat
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5a4f7e4aa9fe120e3182c7eb
+
+----
+
+Longitude: -0.30794317646643
+
+----
+
+Latitude: 51.411689996271
+
+----
+
+Temperature: 
+
+----
+
+Weather Icon: 
+
+----
+
+Date: 2018-01-05 13:31
+
+----
+
+Redirect: https://calumryan.com/note/1280
+
+----
+
+UID: 1280

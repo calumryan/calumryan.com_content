@@ -1,0 +1,41 @@
+Title: May 5th, 2018
+
+----
+
+Text: Next up discussing GDPR principles at \#indiewebcamp Düsseldorf
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Latitude: 51.2117725
+
+----
+
+Longitude: 6.7561209
+
+----
+
+Temperature: 20°C
+
+----
+
+Weather Icon: clear-day
+
+----
+
+Date: 2018-05-05 12:31
+
+----
+
+Redirect: https://calumryan.com/note/1529
+
+----
+
+UID: 1529

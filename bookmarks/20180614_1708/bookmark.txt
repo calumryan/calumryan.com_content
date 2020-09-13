@@ -1,0 +1,21 @@
+Title: Text editing techniques every Front-End developer should know
+
+----
+
+Permalink: https://benfrain.com/text-editing-techniques-every-front-end-developer-should-know/
+
+----
+
+Date: 2018-06-14 14:28
+
+----
+
+Tags: frontend, workflow, git 
+
+----
+
+Redirect: https://calumryan.com/note/1708
+
+----
+
+UID: 1708

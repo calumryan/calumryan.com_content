@@ -1,0 +1,45 @@
+Title: May 4th, 2019
+
+----
+
+Text: Checked in at Mozilla Berlin. IndieWebCamp day 1 — with Tantek, David, Rosemary
+
+----
+
+Permalink: 
+
+----
+
+Tags: https://foursquare.com/user/476, https://david.shanske.com/, https://rosemaryorchard.com/
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5ccd4b2af1936e002b65456f
+
+----
+
+Longitude: 13.449271786344
+
+----
+
+Latitude: 52.499467118508
+
+----
+
+Temperature: 7°C
+
+----
+
+Weather Icon: partly-cloudy-day
+
+----
+
+Date: 2019-05-04 09:19
+
+----
+
+Redirect: https://calumryan.com/note/2624
+
+----
+
+UID: 2624

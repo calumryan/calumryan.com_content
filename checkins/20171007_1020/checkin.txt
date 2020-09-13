@@ -1,0 +1,45 @@
+Title: October 7th, 2017
+
+----
+
+Text: Checked in at Sittingbourne Railway Station (SIT)
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/59d8d5b4364d975f0bba7a9d
+
+----
+
+Longitude: 0.73471069335938
+
+----
+
+Latitude: 51.341966217088
+
+----
+
+Temperature: 
+
+----
+
+Weather Icon: 
+
+----
+
+Date: 2017-10-07 14:25
+
+----
+
+Redirect: https://calumryan.com/note/1020
+
+----
+
+UID: 1020

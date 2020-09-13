@@ -1,0 +1,49 @@
+Title: November 2nd, 2018
+
+----
+
+Text: Checked in at Bahnhof Berlin Südkreuz
+
+----
+
+Feature Image: fsqle56kK.jpg
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5bdc0f81cd441c002ccf3097
+
+----
+
+Longitude: 13.365328942987
+
+----
+
+Latitude: 52.475798107588
+
+----
+
+Temperature: 10°C
+
+----
+
+Weather Icon: clear-day
+
+----
+
+Date: 2018-11-02 08:49
+
+----
+
+Redirect: https://calumryan.com/note/2078
+
+----
+
+UID: 2078

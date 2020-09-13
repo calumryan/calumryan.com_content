@@ -1,0 +1,49 @@
+Title: May 5th, 2019
+
+----
+
+Text: Checked in at St.-Thomas-Kirche
+
+----
+
+Feature Image: fsqObiAGR.jpg
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5cce8d024b78c5002ced1b2b
+
+----
+
+Longitude: 13.426211512795
+
+----
+
+Latitude: 52.505094077011
+
+----
+
+Temperature: 7°C
+
+----
+
+Weather Icon: clear-day
+
+----
+
+Date: 2019-05-05 08:13
+
+----
+
+Redirect: https://calumryan.com/note/2637
+
+----
+
+UID: 2637

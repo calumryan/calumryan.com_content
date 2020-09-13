@@ -1,0 +1,45 @@
+Title: August 26th, 2016
+
+----
+
+Text: Summer in brilliant company @frontendlondon \#FEL
+
+----
+
+Feature Image: IMG_20160825_191814.jpg
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Latitude: 51.5322568
+
+----
+
+Longitude: -0.0993652
+
+----
+
+Temperature: 26°C
+
+----
+
+Weather Icon: clear-day
+
+----
+
+Date: 2016-08-26 00:00
+
+----
+
+Redirect: https://calumryan.com/note/316
+
+----
+
+UID: 316

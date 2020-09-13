@@ -1,0 +1,45 @@
+Title: February 21st, 2019
+
+----
+
+Text: Checked in at Bonfire
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5c6ea580061b51002cc04b2f
+
+----
+
+Longitude: -0.093698526848143
+
+----
+
+Latitude: 51.519315181093
+
+----
+
+Temperature: 13°C
+
+----
+
+Weather Icon: partly-cloudy-day
+
+----
+
+Date: 2019-02-21 13:20
+
+----
+
+Redirect: https://calumryan.com/note/2441
+
+----
+
+UID: 2441

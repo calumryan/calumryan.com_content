@@ -1,0 +1,43 @@
+Title: November 14th, 2017
+
+----
+
+Text: An alternative approach to CSS-in-JS keeping the focus on components styling https://stylable.io
+
+Would gladly see this (or similar) become standard
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Temperature: 
+
+----
+
+Weather Icon: 
+
+----
+
+Date: 2017-11-14 14:28
+
+----
+
+Redirect: https://calumryan.com/note/1189
+
+----
+
+UID: 1189

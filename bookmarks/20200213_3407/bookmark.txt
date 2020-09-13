@@ -1,0 +1,21 @@
+Title: Should you use a link or a button and applying scroll behavior – by Michael Spellacy
+
+----
+
+Permalink: https://michaelspellacy.com/pushing-buttons/
+
+----
+
+Date: 2020-02-13 09:23
+
+----
+
+Tags: a11y, html, front-end 
+
+----
+
+Redirect: https://calumryan.com/note/3407
+
+----
+
+UID: 3407

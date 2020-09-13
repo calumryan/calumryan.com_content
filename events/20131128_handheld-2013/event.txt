@@ -1,0 +1,45 @@
+Title: Handheld 2013
+
+----
+
+Tags:
+
+----
+
+Latitude: 51.46449
+
+----
+
+Longitude: -3.16278
+
+----
+
+Date: 2013-11-28 10:00
+
+----
+
+Date start: 2013-11-28 10:00:00 +0000
+
+----
+
+Date end: 2013-11-28 18:00:00 +0000
+
+----
+
+Timezone: GMT
+
+----
+
+City: Cardiff
+
+----
+
+Location: Wales Millennium Centre, Bute Place, Cardiff, CF10 5AL
+
+----
+
+Redirect: https://calumryan.com/event/handheld-2013
+
+----
+
+UID: handheld-2013

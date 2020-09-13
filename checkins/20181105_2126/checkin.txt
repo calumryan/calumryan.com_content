@@ -1,0 +1,45 @@
+Title: November 5th, 2018
+
+----
+
+Text: Checked in at Universal Kantine
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5be028010719020025879e84
+
+----
+
+Longitude: 13.44785191348
+
+----
+
+Latitude: 52.502008493585
+
+----
+
+Temperature: 14°C
+
+----
+
+Weather Icon: partly-cloudy-day
+
+----
+
+Date: 2018-11-05 11:22
+
+----
+
+Redirect: https://calumryan.com/note/2126
+
+----
+
+UID: 2126

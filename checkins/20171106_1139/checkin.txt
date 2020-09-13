@@ -1,0 +1,45 @@
+Title: November 6th, 2017
+
+----
+
+Text: Checked in at Berlin Schönefeld Airport (SXF) (Flughafen Berlin-Schönefeld)
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5a000d206f706a101ff18d75
+
+----
+
+Longitude: 13.518075942993
+
+----
+
+Latitude: 52.388015788816
+
+----
+
+Temperature: 
+
+----
+
+Weather Icon: 
+
+----
+
+Date: 2017-11-06 07:20
+
+----
+
+Redirect: https://calumryan.com/note/1139
+
+----
+
+UID: 1139

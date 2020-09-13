@@ -1,0 +1,45 @@
+Title: October 19th, 2019
+
+----
+
+Text: Checked in at 68 Middle Street
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5dab09706e22c9000833c2f8
+
+----
+
+Longitude: -0.14304294346379
+
+----
+
+Latitude: 50.821099285337
+
+----
+
+Temperature: 15°C
+
+----
+
+Weather Icon: partly-cloudy-day
+
+----
+
+Date: 2019-10-19 14:02
+
+----
+
+Redirect: https://calumryan.com/note/3100
+
+----
+
+UID: 3100

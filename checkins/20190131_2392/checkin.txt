@@ -1,0 +1,45 @@
+Title: January 31st, 2019
+
+----
+
+Text: Checked in at The Crown
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5c534a2966fc65002c954d6d
+
+----
+
+Longitude: -0.13614169619901
+
+----
+
+Latitude: 51.511187304983
+
+----
+
+Temperature: 1°C
+
+----
+
+Weather Icon: partly-cloudy-night
+
+----
+
+Date: 2019-01-31 19:19
+
+----
+
+Redirect: https://calumryan.com/note/2392
+
+----
+
+UID: 2392

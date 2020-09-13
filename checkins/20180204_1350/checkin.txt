@@ -1,0 +1,45 @@
+Title: February 4th, 2018
+
+----
+
+Text: Checked in at The George
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5a76f0f304d1ae6dd83cd6b4
+
+----
+
+Longitude: 0.26072680950165
+
+----
+
+Latitude: 51.135628476991
+
+----
+
+Temperature: 
+
+----
+
+Weather Icon: 
+
+----
+
+Date: 2018-02-04 11:39
+
+----
+
+Redirect: https://calumryan.com/note/1350
+
+----
+
+UID: 1350

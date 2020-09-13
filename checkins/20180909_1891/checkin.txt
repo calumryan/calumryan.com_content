@@ -1,0 +1,45 @@
+Title: September 9th, 2018
+
+----
+
+Text: Checked in at Waterloo Place
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5b951ab5ea1e44002cb9f089
+
+----
+
+Longitude: -0.13253046467755
+
+----
+
+Latitude: 51.507235156056
+
+----
+
+Temperature: 
+
+----
+
+Weather Icon: 
+
+----
+
+Date: 2018-09-09 14:05
+
+----
+
+Redirect: https://calumryan.com/note/1891
+
+----
+
+UID: 1891

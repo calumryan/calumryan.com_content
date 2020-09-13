@@ -1,0 +1,45 @@
+Title: BarCamp London 11
+
+----
+
+Tags:
+
+----
+
+Latitude: 51.52181
+
+----
+
+Longitude: -0.08969
+
+----
+
+Date: 2019-05-11 10:00
+
+----
+
+Date start: 2019-05-11 10:00:00 +0100
+
+----
+
+Date end: 2019-05-11 18:00:00 +0100
+
+----
+
+Timezone: BST
+
+----
+
+City: London
+
+----
+
+Location: 2 Bunhill Row, London, EC1Y 8HQ
+
+----
+
+Redirect: https://calumryan.com/event/barcamp-london
+
+----
+
+UID: barcamp-london

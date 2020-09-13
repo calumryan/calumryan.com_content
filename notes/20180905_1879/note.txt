@@ -1,0 +1,41 @@
+Title: September 5th, 2018
+
+----
+
+Text: Booking.com you seem pretty obsessed with emailing me about last-minute hotel deals in Würzberg. Stayed there 1 night, 5 years ago. Since booked other hotels in other cities for longer stays. Maybe take another look at your nagbot algorithm?
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Latitude: 51.2054881
+
+----
+
+Longitude: 0.2752055
+
+----
+
+Temperature: 15°C
+
+----
+
+Weather Icon: partly-cloudy-night
+
+----
+
+Date: 2018-09-05 22:35
+
+----
+
+Redirect: https://calumryan.com/note/1879
+
+----
+
+UID: 1879

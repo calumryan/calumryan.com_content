@@ -1,0 +1,43 @@
+Title: Agile Planning &amp; User-Centered Design week 3
+----
+Description:
+In this third article I’ll briefly explore the process of user role modelling to highlight specific ways that a website’s delivery can serve the needs of many different types of user in many different environments.
+----
+
+Og: false
+
+----
+
+Thumbnail:
+
+----
+
+Text:
+Typically without the considerations of who the users of the website will be, and within what environment, there is the tendency to create websites with a one size fits all approach. This simplified approach might give the false impression that the website is fit for purpose to anybody regardless of what disabilities they may have, network conditions and device(s) they’re using. This is actually far from the truth.
+
+To fully understand the user(s) and what expected outcomes they may want from using the website; we should really be looking at an exhaustive list of potential goals a user may have. Each of these can be considered roles, written on individual cards, laid out and then overlapped where there are shared goals. As an example lets imagine we’re building a website for food take-away business. Potential roles could include:
+
+- First-time customer
+- Loyalty customer
+- Student customer
+
+Above we have just a small snapshot of potential roles to consider but already we could start to consolidate and condense some into a single role or relate the closely by overlapping goals.
+
+How might we consider these roles to directly influence design decisions?
+For each role there may be differing goals that are shared in parts or different in many aspects. Considering how users login might be different for first-timers compared to loyal or existing customers. Commonly there’ll be the option to login or register as a new customer. Going further we might consider the differing levels of experience a customer has in the menu choices and budget; so as it to make quicker and easier for existing customers to make choices whilst helping to guide new customers through the available choices such as as meal deals, tastes and portions.
+
+## To conclude
+Taking these principles forward we can pin point key aspects of the design process to prioritise, combine or separate website features that are manageable and quantifiable. Whilst it might be a challenge to meet the goals for every single role; we can at least identify the most common, and if necessary, devote time later to meeting the goals of less or non-critical roles.
+
+### Reference + reading
+Mike Cohn (2004). <em>User Stories Applied for agile software development: Addison Wesley</em>
+----
+
+Tags: learning
+----
+
+Date: 2016-03-28 00:00
+
+----
+
+Redirect: https://calumryan.com/learning/agile-ucd-3/

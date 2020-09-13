@@ -1,0 +1,21 @@
+Title: All you need to know about hyphenation in CSS by @clagnut
+
+----
+
+Permalink: http://clagnut.com/blog/2395
+
+----
+
+Date: 2019-03-29 08:38
+
+----
+
+Tags: css, front-end 
+
+----
+
+Redirect: https://calumryan.com/note/2528
+
+----
+
+UID: 2528

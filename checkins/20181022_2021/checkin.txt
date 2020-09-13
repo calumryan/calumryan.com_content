@@ -1,0 +1,45 @@
+Title: October 22nd, 2018
+
+----
+
+Text: Checked in at Volkspark Dutzendteich
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5bcdab9281635b002c0ef069
+
+----
+
+Longitude: 11.107059717178
+
+----
+
+Latitude: 49.429918081855
+
+----
+
+Temperature: 11°C
+
+----
+
+Weather Icon: clear-day
+
+----
+
+Date: 2018-10-22 11:50
+
+----
+
+Redirect: https://calumryan.com/note/2021
+
+----
+
+UID: 2021

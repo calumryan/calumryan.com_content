@@ -1,0 +1,114 @@
+Title: CV
+
+----
+
+svg: icon-cv
+
+----
+
+Text:
+
+## Profile
+
+I'm a self-motivated web developer with design experience building on ten years working in the web industry and my earlier university achievements in multimedia technology study.
+
+My aim is to make the web a better place for all, with particular focus on inclusive design that caters for all types of disability. I’m looking to work with a company that aligns with this ambition and values the importance of having a great user experience in their website.
+
+## Team work
+
+I greatly value communication and wellbeing in teams and continually look for ways these can be improved: for instance, when a team member is working remotely or has just joined the organisation, and needs to be supported. I recognise and appreciate that we may all have different ways of communicating ideas, opinions and feedback which presents both challenges and opportunities when working in a team.
+
+## Technical skills
+
+Beyond my core front-end skills of writing semantic HTML, CSS and presentational JavaScript, with ES6, I have some experience in writing web applications in VueJs, React and PHP. I’m very familiar with popular frameworks like Twitter Bootstrap but also comfortable with writing my own templating libraries/styleguides using component-focused tools like [Fractal](https://fractal.build/).
+
+## Accessibility
+When I’m approaching a project I always try to prioritise making it accessible to all. It matters most to me that anyone with one or multiple impairments, temporary or permanent, can use the website without hindrance or frustration. I look to achieve this through adherence to well constructed semantic code and extensive user testing, conversation and feedback.
+
+## Beyond the office
+Both managing and delivering a project, I seek first to understand what problems or challenges a user faces when using a feature. From this I identify specific user stories and features which can be researched, designed and developed. I like to plan projects based on features, rather than activities. Ideally they should have short iterations, that offer the opportunity to get user feedback as the feature is developed.
+
+## IndieWeb
+I also participate in the IndieWeb community. Here there’s a strong emphasis on building open-source, user-focused web technologies, building and maintaining your own website along with sharing knowledge and ideas. I organise a fortnightly event, enabling people from a range of backgrounds and abilities to work on improving their personal websites.
+
+----
+
+Roles:
+
+- 
+  org: dxw
+  org_url: https://dxw.com
+  start_date: 2019-02-12
+  type: job
+  role_name: Developer
+  summary: "User-research led design and development of websites. Applying changes to codebase to make more robust, scaleable and maintainable. Producing website accessibility audits with concise, easy to understand explanations of issues, solutions and implementation of improvements."
+  points:
+    - point: Accessibility, WordPress, Usability testing
+    - point: Building components library
+    - point: Environment and build tools including use of Grunt and Gulp
+    - point: HTML5, CSS3, Scss, jQuery, Vanilla Js, VueJs, PHP, Sketch
+  current: true
+- 
+  org: We Create Digital
+  org_url: https://wecreatedigital.co.uk
+  start_date: 2013-07-01
+  end_date: 2019-02-06
+  type: job
+  role_name: Front End Developer
+  summary: "WordPress along with other CMS development and integration for clients. Internally, I helped improve the overall approach of the company’s project management: helping introduce an agile workflow to the business and better understanding of user-focused needs."
+  points:
+    - point: Integration with WordPress / Laravel / Magento / ExpressionEngine
+    - point: Version control all projects through GitLab
+    - point: Environment and build tools including use of Grunt, Gulp, Webpack and Node packages
+    - point: Design tools including CC Photoshop, Illustrator and Affinity Designer
+    - point: HTML5, CSS3, Scss, jQuery, Vanilla Js, VueJs, PHP
+- 
+  org: Wickedweb (acquired by Avenue Digital)
+  org_url: https://www.avenuedigital.com/
+  start_date: 2011-10-01
+  end_date: 2013-06-01
+  type: job
+  role_name: Front End Developer
+  summary:
+  points:
+    - point: Here I built up foundational knowledge of core front-end skills and template integration on their in-house CMS.
+    - point: Later I helped steer the company towards responsive thinking and developing an in-house responsive framework for HTML/CSS and JS.
+    - point: I worked on websites including the charity Blesma, Wagamama, EC Harris, Ella’s Kitchen and the portfolio site of entrepreneur Peter Jones. I also wrote informative articles for their blog.
+-
+  org: Brunel University
+  org_url: https://www.brunel.ac.uk/
+  start_date: 2007-09-01
+  end_date: 2011-07-01
+  type: education
+  role_name: BSc Multimedia Technology & Design
+  summary: FIRST CLASS HONOURS AWARD WITH PROFESSIONAL DEVELOPMENT
+  points:
+    - point: Awarded Brunel Excellence Scholarship for 2007-2011
+    - point: Led a team of three to design and develop a PHP and JavaScript-based multimedia widget aimed at motivating people to donate money to Cancer Research UK. The brief was conceptualised by London-based digital agency Essence and we were awarded 1st prize.
+    - point: For my Final Year Project I researched and developed a mobile application for use in museums and art galleries. As part of this research I liaised with a number of museums including the Ashmolean, Oxford. I implemented the technical side of it using Android SDK, programming with self-taught skills in Java and XML.
+-
+  org: Film Education
+  org_url: http://filmeducation.org/
+  start_date: 2009-07-01
+  end_date: 2010-09-01
+  type: job
+  role_name: (Work Placement) Digital Media Assistant
+  summary:
+  points:
+    - point: Design and development of educational microsites for clients including Warner Brothers, Pathé International and CinemaNX.
+    - point: Contributed to the design and development of web and CD-ROM based educational resources suitable for classroom learning activities.
+-
+  org: South Cheshire College
+  org_url: https://www.ccsw.ac.uk/
+  start_date: 2004-09-01
+  end_date: 2006-07-01
+  type: education
+  role_name: BTEC National Diploma IT Practitioners
+  summary:
+  points:
+    - point: Triple Distinction
+    - point: Awarded Business & IT Student of the Year
+
+----
+
+Testimonials:

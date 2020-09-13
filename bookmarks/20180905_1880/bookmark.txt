@@ -1,0 +1,21 @@
+Title: Using the toggleAttribute() function (now in Chrome 69) similar to classList.toggle()
+
+----
+
+Permalink: https://developer.mozilla.org/en-US/docs/Web/API/Element/toggleAttribute
+
+----
+
+Date: 2018-09-05 23:22
+
+----
+
+Tags: javascript 
+
+----
+
+Redirect: https://calumryan.com/note/1880
+
+----
+
+UID: 1880

@@ -1,0 +1,45 @@
+Title: March 24th, 2019
+
+----
+
+Text: Checked in at Costa Coffee
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5c976e351543c7002ca431a4
+
+----
+
+Longitude: -0.018139
+
+----
+
+Latitude: 51.173948
+
+----
+
+Temperature: 11°C
+
+----
+
+Weather Icon: partly-cloudy-day
+
+----
+
+Date: 2019-03-24 11:47
+
+----
+
+Redirect: https://calumryan.com/note/2517
+
+----
+
+UID: 2517

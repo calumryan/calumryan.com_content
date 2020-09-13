@@ -1,0 +1,49 @@
+Title: February 8th, 2019
+
+----
+
+Text: Checked in at Café Central
+
+----
+
+Feature Image: fsqIyKlPJ.jpg
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5c5d4e23ee7120002c68825b
+
+----
+
+Longitude: 16.365391016006
+
+----
+
+Latitude: 48.210348496344
+
+----
+
+Temperature: 5°C
+
+----
+
+Weather Icon: partly-cloudy-day
+
+----
+
+Date: 2019-02-08 09:38
+
+----
+
+Redirect: https://calumryan.com/note/2408
+
+----
+
+UID: 2408

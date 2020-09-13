@@ -1,0 +1,21 @@
+Title: Patterns &amp; Strategies for accessible web-apps
+
+----
+
+Permalink: https://accessible-app.com/patterns/
+
+----
+
+Date: 2019-05-16 22:50
+
+----
+
+Tags: a11y, JavaScript, VueJs, ReactJs 
+
+----
+
+Redirect: https://calumryan.com/note/2689
+
+----
+
+UID: 2689

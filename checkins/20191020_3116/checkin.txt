@@ -1,0 +1,45 @@
+Title: October 20th, 2019
+
+----
+
+Text: Checked in at 68 Middle Street. with Tantek, Jeremy, aaronpk, Seb, Rosemary
+
+----
+
+Permalink: 
+
+----
+
+Tags: https://foursquare.com/user/476, https://adactio.com/, https://aaronparecki.com/, https://seblog.nl/, https://rosemaryorchard.com/
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5dac3b2e55deb10008b7f6f2
+
+----
+
+Longitude: -0.14304294346379
+
+----
+
+Latitude: 50.821099285337
+
+----
+
+Temperature: 9°C
+
+----
+
+Weather Icon: partly-cloudy-day
+
+----
+
+Date: 2019-10-20 11:47
+
+----
+
+Redirect: https://calumryan.com/note/3116
+
+----
+
+UID: 3116

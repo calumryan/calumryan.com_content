@@ -1,0 +1,45 @@
+Title: April 14th, 2018
+
+----
+
+Text: Checked in at Glynde Place
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5ad1ec3935811b002ca8d745
+
+----
+
+Longitude: 0.069108429498034
+
+----
+
+Latitude: 50.865100692916
+
+----
+
+Temperature: 
+
+----
+
+Weather Icon: 
+
+----
+
+Date: 2018-04-14 12:55
+
+----
+
+Redirect: https://calumryan.com/note/1477
+
+----
+
+UID: 1477

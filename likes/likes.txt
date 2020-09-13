@@ -1,0 +1,5 @@
+Title: Likes
+----
+Intro: This page lists all available likes
+----
+svg: icon-like

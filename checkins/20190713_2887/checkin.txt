@@ -1,0 +1,45 @@
+Title: July 13th, 2019
+
+----
+
+Text: Checked in at The Perserverance
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5d2a1c2c4f05ef0007beebbc
+
+----
+
+Longitude: -0.062680656773528
+
+----
+
+Latitude: 51.535211455059
+
+----
+
+Temperature: 21°C
+
+----
+
+Weather Icon: partly-cloudy-day
+
+----
+
+Date: 2019-07-13 19:00
+
+----
+
+Redirect: https://calumryan.com/note/2887
+
+----
+
+UID: 2887

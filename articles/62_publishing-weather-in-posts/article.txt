@@ -1,0 +1,95 @@
+Title: Publishing weather in posts
+----
+Description:
+How I added geolocation and live weather data linked to my posts
+----
+
+Og: false
+
+----
+
+Thumbnail:
+
+----
+
+Text:
+What better way to spend the first day of June, which coincidentally is my birthday, talking about the weather which here in the UK is undoubtedly the top ice-breaker to strike a conversation.
+
+For over a year now I’ve been publishing short posts to my website and syndicating them out to Twitter. In an ongoing attempt to offer up more of the features, information and user experience common social networks offer; I recently decided to add my own geolocation functionality into my hand-rolled CMS and from that the option to display local weather information too.
+
+### Getting my location
+I started by referring to [Mozilla’s geolocation documentation](https://developer.mozilla.org/en-US/docs/Web/API/Geolocation/Using_geolocation) which more or less had everything there to get started; assuming you’re happy using JavaScript. From this I added some extra fields into my CMS to store longitude and latitude and a button to trigger obtaining these via the browser. Virtually all modern browsers now have this functionality built-in so you can instantly obtain the location data without additional plug-ins provided you give it permission to capture your location.
+
+### Handling geolocation data
+Having stored the geolocation data I then output this on my website. I should note at this point that I haven’t gone the full way in terms of backwards processing the longitude/latitude values in to obtain the name of the place I’m posting from. My main aim at this point was to create the means to post weather information so for the time being I simply output these values into a URL which takes the user directly to Open Street Maps detailing where I’ve posted from.
+
+### Finding a weather API
+Unlike geolocation it’s beyond the possibility that weather information can be served up from built-in web browser functionality. Hence the need to source a reliable data source for live weather information. Thankfully there are some APIs now available to do this however not all are delivered of HTTPS so if your website has an SSL certificate you’ll need to find one which is.
+
+I found [forecast.io](https://forecast.io) which provides an API with up to 1000 free requests per day. From this I returned the JSON result detailing weather conditions based on given longitude/latitude values. The basic JSONRequest functionality won’t play nicely with the API here without cross domain policy errors popping up. The workaround I discovered for this was a [ready-baked Javascript API](https://github.com/iantearle/forecast.io-javascript-api) created by [Ian Tearle](http://iantearle.com).
+
+### Storing weather data
+Having setup the Javascript  API resources on my CMS I put together this JavaScript function to obtain weather conditions based on my location. I could have returned the full array of weather data however for these purposes I only wanted the temperate (in celsius) and weather conditions represented as an icon. The forecast.io API helpfully returns a standard set of icon names without the need to format into readable filenames.
+
+```javascript
+function weather() {
+
+	// Create variables to store weather data
+	var strTemperature = document.getElementById("temperature"),
+	    strIcon = document.getElementById("weatherIcon");
+
+	// Run forecastIO function with proxy script and process given location
+	var ForecastIO = require(['js/forecast.io'], function(ForecastIO) {
+
+		var locations = {
+			latitude: document.getElementById("note_latitude").value,
+			longitude: document.getElementById("note_longitude").value
+			};
+
+			var forecast = new ForecastIO({
+			PROXY_SCRIPT: 'proxy.php
+		});
+
+	forecast.getCurrentConditions(locations, function(conditions) {
+
+	// Process output to store in database
+	strTemperature.value = Math.round(conditions[0].getTemperature()) + '\xB0C';
+	strIcon.value = conditions[0].getIcon();
+
+	});
+
+});
+```
+
+Further to this I modified the JavaScript API to return temperature in celsius adding ‘si’ to the end of the URL string that submits the location data. This is inside the original forecast.io.js file so tread carefully!
+
+```javascript
+// Build a url string from the lat long coords and return a promise with the json
+ForecastIO.prototype.requestData = function requestData(latitude, longitude) {
+	var requestUrl = this.url + latitude + ',' + longitude + '?units=si';
+	return makeRequest('GET', requestUrl);
+};
+```
+
+How this works within my CMS editor is that I first get my location and depending on whether that's successful or not then I get the options to obtain the weather data below.
+
+![CMS fields](/media/pages/posts/unsorted/cms.jpg)
+
+### Displaying weather on my posts
+On the front-end I output the stored weather data from my CMS with some simple SVG graphics I designed corresponding to the names of the weather conditions stored.
+
+```html
+<span class='weather-icon'><img src='{{ site.baseurl }}/images/weather/<?php echo $note->weatherIcon; ?>.svg' width='30' height='30' alt='<?php echo $note->weatherIcon; ?>'></span>
+```
+
+So there you have it, a quick run through of posting location-based weather conditions on a per-post basis. I hope to enhance the geolocation side of things soon but keeping such additional post data within limits so not to distract readers from the content, because as they say: content is King!
+----
+
+Tags: learning
+----
+
+Date: 2016-06-01 00:00
+
+----
+
+Redirect: https://calumryan.com/learning/publishing-weather-in-posts/

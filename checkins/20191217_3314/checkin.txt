@@ -1,0 +1,45 @@
+Title: December 17th, 2019
+
+----
+
+Text: Checked in at Enoteca Rabezzana
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5df8d725ce377c000871c545
+
+----
+
+Longitude: -0.099913210757495
+
+----
+
+Latitude: 51.519464554208
+
+----
+
+Temperature: 7°C
+
+----
+
+Weather Icon: cloudy
+
+----
+
+Date: 2019-12-17 13:24
+
+----
+
+Redirect: https://calumryan.com/note/3314
+
+----
+
+UID: 3314

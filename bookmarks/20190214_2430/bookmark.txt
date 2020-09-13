@@ -1,0 +1,21 @@
+Title: GitHub - Introducing draft pull requests
+
+----
+
+Permalink: https://github.blog/2019-02-14-introducing-draft-pull-requests/
+
+----
+
+Date: 2019-02-14 20:26
+
+----
+
+Tags: git, github 
+
+----
+
+Redirect: https://calumryan.com/note/2430
+
+----
+
+UID: 2430

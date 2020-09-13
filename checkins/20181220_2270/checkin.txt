@@ -1,0 +1,49 @@
+Title: December 20th, 2018
+
+----
+
+Text: Checked in at Tonbridge School
+
+----
+
+Feature Image: fsquzosZY.jpg
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5c1b5968724750002ce9fae4
+
+----
+
+Longitude: 0.26895694868395
+
+----
+
+Latitude: 51.201317520779
+
+----
+
+Temperature: 7°C
+
+----
+
+Weather Icon: clear-day
+
+----
+
+Date: 2018-12-20 08:57
+
+----
+
+Redirect: https://calumryan.com/note/2270
+
+----
+
+UID: 2270

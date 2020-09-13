@@ -1,0 +1,45 @@
+Title: November 14th, 2019
+
+----
+
+Text: Checked in at Saffron
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5dcd561df162ba000855ef00
+
+----
+
+Longitude: 100.49624944896
+
+----
+
+Latitude: 13.760134233821
+
+----
+
+Temperature: 29°C
+
+----
+
+Weather Icon: partly-cloudy-night
+
+----
+
+Date: 2019-11-14 13:26
+
+----
+
+Redirect: https://calumryan.com/note/3206
+
+----
+
+UID: 3206

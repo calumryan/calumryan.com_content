@@ -1,0 +1,45 @@
+Title: February 21st, 2019
+
+----
+
+Text: Checked in at 33 holborn. London Accessibility Meetup
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5c6ef594d03360002c64405f
+
+----
+
+Longitude: -0.10804078943263
+
+----
+
+Latitude: 51.517732748247
+
+----
+
+Temperature: 11°C
+
+----
+
+Weather Icon: clear-night
+
+----
+
+Date: 2019-02-21 19:01
+
+----
+
+Redirect: https://calumryan.com/note/2442
+
+----
+
+UID: 2442

@@ -1,0 +1,21 @@
+Title: jQuery to ES6 and what if you don’t need a JS framework… 
+
+----
+
+Permalink: https://dev.to/joethom/jquery-to-es6-and-what-if-you-dont-need-a-js-framework-1m2n
+
+----
+
+Date: 2019-03-17 10:35
+
+----
+
+Tags: jquery, es6, javascript 
+
+----
+
+Redirect: https://calumryan.com/note/2499
+
+----
+
+UID: 2499

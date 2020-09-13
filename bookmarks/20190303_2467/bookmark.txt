@@ -1,0 +1,21 @@
+Title: A Bit of Performance
+
+----
+
+Permalink: https://www.kizu.ru/a-bit-of-performance/
+
+----
+
+Date: 2019-03-03 23:01
+
+----
+
+Tags: performance, webperf, FOUT, webfonts 
+
+----
+
+Redirect: https://calumryan.com/note/2467
+
+----
+
+UID: 2467

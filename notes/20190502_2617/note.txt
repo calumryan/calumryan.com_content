@@ -1,0 +1,41 @@
+Title: May 2nd, 2019
+
+----
+
+Text: Attempting to purchase 4 Fahrten-Kurzstrecke the old way from an array of different kinds of transit ticket machine in Berlin reminds me why I normally just download the app / buy a smartcard when using public transport these days
+
+----
+
+Permalink: 
+
+----
+
+Tags: Berlin, transit
+
+----
+
+Latitude: 52.50846205998624
+
+----
+
+Longitude: 13.435449979527458
+
+----
+
+Temperature: 12°C
+
+----
+
+Weather Icon: wind
+
+----
+
+Date: 2019-05-02 21:58
+
+----
+
+Redirect: https://calumryan.com/note/2617
+
+----
+
+UID: 2617

@@ -1,0 +1,21 @@
+Title: Regarding CSS’s Global Scope
+
+----
+
+Permalink: https://css-tricks.com/regarding-css-global-scope/
+
+----
+
+Date: 2019-01-04 19:04
+
+----
+
+Tags:  
+
+----
+
+Redirect: https://calumryan.com/note/2320
+
+----
+
+UID: 2320

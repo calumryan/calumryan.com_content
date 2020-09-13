@@ -1,0 +1,41 @@
+Title: March 3rd, 2019
+
+----
+
+Text: Dynamically filtering posts with @eleven_ty - such a quicker, tidier process after experiencing the hacks and code soup of conditional If statements used to write for Jekyll 
+
+----
+
+Permalink: 
+
+----
+
+Tags: eleventy, JAMStack, static
+
+----
+
+Latitude: 51.20540960378719
+
+----
+
+Longitude: 0.27499438169137624
+
+----
+
+Temperature: 13°C
+
+----
+
+Weather Icon: wind
+
+----
+
+Date: 2019-03-03 18:00
+
+----
+
+Redirect: https://calumryan.com/note/2466
+
+----
+
+UID: 2466

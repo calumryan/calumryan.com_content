@@ -1,0 +1,45 @@
+Title: July 13th, 2019
+
+----
+
+Text: Checked in at Hackney Picturehouse
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5d2a054d80280600088744ab
+
+----
+
+Longitude: -0.055398790458925
+
+----
+
+Latitude: 51.5448412216
+
+----
+
+Temperature: 22°C
+
+----
+
+Weather Icon: partly-cloudy-day
+
+----
+
+Date: 2019-07-13 17:22
+
+----
+
+Redirect: https://calumryan.com/note/2886
+
+----
+
+UID: 2886

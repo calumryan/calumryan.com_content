@@ -1,0 +1,45 @@
+Title: November 2nd, 2018
+
+----
+
+Text: Checked in at Mozilla Berlin. Waiting outside for IndieWeb people to turn up
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5bdc5441625a66002ce01d3a
+
+----
+
+Longitude: 13.449271786344
+
+----
+
+Latitude: 52.499467118508
+
+----
+
+Temperature: 13°C
+
+----
+
+Weather Icon: partly-cloudy-day
+
+----
+
+Date: 2018-11-02 13:42
+
+----
+
+Redirect: https://calumryan.com/note/2090
+
+----
+
+UID: 2090

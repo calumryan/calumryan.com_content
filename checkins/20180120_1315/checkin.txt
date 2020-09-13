@@ -1,0 +1,45 @@
+Title: January 20th, 2018
+
+----
+
+Text: Checked in at Maison Du Velo
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5a635dff5d891b4eb6f9989b
+
+----
+
+Longitude: -0.1997631677499
+
+----
+
+Latitude: 51.233852566653
+
+----
+
+Temperature: 
+
+----
+
+Weather Icon: 
+
+----
+
+Date: 2018-01-20 15:19
+
+----
+
+Redirect: https://calumryan.com/note/1315
+
+----
+
+UID: 1315

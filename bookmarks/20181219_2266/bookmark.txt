@@ -1,0 +1,21 @@
+Title: Styling the select element in CSS with near perfect consistency and without extra markup
+
+----
+
+Permalink: https://www.filamentgroup.com/lab/select-css.html
+
+----
+
+Date: 2018-12-19 09:36
+
+----
+
+Tags: css, forms, ie11, safari, ios 
+
+----
+
+Redirect: https://calumryan.com/note/2266
+
+----
+
+UID: 2266

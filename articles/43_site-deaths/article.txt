@@ -1,0 +1,36 @@
+Title: Site Deaths
+----
+Description:
+Thoughts about what you can do to be prepared and mitigate the worst consequences of site deaths.
+
+----
+
+Og:  false
+
+----
+
+Text:
+The graveyard of dead and abandoned sites continues to grow at an ever increasing rate. The sad consequences of this are broken permalinks, lost user data and a broken web overall. In my almost two decades experience using and developing on the web I've seen countless sources of information, valuable material and resources shutdown with little or no prior notice. You only need see from the growing list on IndieWeb's [Site deaths](https://indieweb.org/site-deaths) of the quantity of sites which have and continue to shutdown.
+
+![Website graveyard](/media/pages/posts/unsorted/graveyard.jpg)
+
+My very first website on Geocities is just a memory not even retrievable on Archive.org. At the time I was too young or experienced to understand about making a personal backup ahead of it shutting down. More recently I've worked to ensure that everything I publish on sites such as Twitter, Instagram and Medium is stored and backed-up on my own site. It's therefore up to me how I present, control and keep what I've published in the past.
+
+### Have your own backup plan
+To overcome and prepare yourself for the possibility that your favourite sites may one day shutdown then consider ways to publish from your own site first. Make a regular backup of contents published on other sites. Before joining a new social network, platform or other web-based resource check that it provides a way to make your data fully portable and on what terms.
+
+Make offline backups of your posts, files and other content as well as distributed backups on cloud-based storage ensuring that whatever happens you will always be able to find a backup somewhere.
+
+Going forward some regulations such as the General Data Protection Regulation in European Union law are meant to make this process more transparent and better for users: enforcing better protection of our data in how it's used, stored, removed or updated.
+
+The principles of the [IndieWeb](https://indieweb.org) movement encourage us all to take on greater ownership of our identity on the web and what we publish there. With more awareness and appreciation of this then I'm hopeful that fewer of us will fall victim to losing what we publish elsewhere on sites and silos beyond our control and prediction of lifespan.
+----
+
+Tags: general
+----
+
+Date: 2018-04-04 00:00
+
+----
+
+Redirect: https://calumryan.com/blog/site-deaths/

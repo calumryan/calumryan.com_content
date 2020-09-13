@@ -1,0 +1,47 @@
+Title: Getting started with Micropub
+----
+Description:
+This month I've been adapting the PHP side of my website to allow brief posts to be created on my own site through IndieAuth
+----
+
+Og:  false
+
+----
+
+Text:
+Micropub in brief is an open API standard many within the IndieWeb community have been working on to offer both third-party sites, web and native apps a way to gain access and forward posts to their own sites automatically.
+
+We're familiar with this kind of cross-posting through permissions we grant in social media platforms like Twitter and Google; who openly offer up means to post to your timeline without you manually posting the content.
+
+### Creating a Micropub endpoint
+My endpoint consists of:
+
+* A link tag inside my site's head declaring IndieAuth as my authorization endpoint and also token endpoint
+* A foreach loop to process the header values sent to my endpoint
+* A set of if statement to validate the post requests
+* A curl statement for handling the token request and sending back to the token endpoint
+* A further if statement to confirm the use of a "me" value has correctly matched with my domain.
+* Finally an triggering function for sending the post request to my internal posting class based within my CMS.
+
+### The PHP class for notes
+My existing setup consists of a PHP class to handle different content types such as notes, images and related meta data for writing to my database.
+
+Prior to setting up a Micropub endpoint this was primarily setup to handle post requests sent through my internal CMS. Rather than duplicate this setup exclusively for Micropub-based posts I adhered to the DRY principle (Don't repeat yourself) and conditionally handle the post requests through the same function. Any differences in content type are separated as required within the same scope.
+
+After handling the request, providing the content of the post request is well formed, I return a value to the endpoint function containing the permalink of the post created and a header link confirming its creation.
+
+### Trying it out
+Initially I've set this up to handle requests sent from Instagram (with [OwnYourGram](http://ownyourgram.com)) and [Quill](https://quill.p3k.io/) (an interface for short posts). In order to test out the functionality I've been using [Micropub Rocks](https://micropub.rocks) which I found an invaluable resource for debugging and checking my endpoint worked. My endpoint's not complete yet so I'm going to be using this tool further to develop further and check it can handle other types of requests.
+
+### Reference + reading
+* IndieWeb [Micropub](https://indieweb.org/Micropub)
+----
+
+Tags: learning
+----
+
+Date: 2017-02-22 00:00
+
+----
+
+Redirect: https://calumryan.com/learning/getting-started-with-micropub/

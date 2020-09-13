@@ -1,0 +1,45 @@
+Title: May 31st, 2017
+
+----
+
+Text: Checked in at Tonbridge
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5932f04b1ffe9730f305dd8a
+
+----
+
+Longitude: 0.27027179772196
+
+----
+
+Latitude: 51.193150144985
+
+----
+
+Temperature: 
+
+----
+
+Weather Icon: 
+
+----
+
+Date: 2017-05-31 23:00
+
+----
+
+Redirect: https://calumryan.com/note/663
+
+----
+
+UID: 663

@@ -1,0 +1,21 @@
+Title: Page Speed Benchmarks and the sorry state of web performance over many popular sites
+
+----
+
+Permalink: https://speedcurve.com/benchmarks/usa/retail/fast/start-render/
+
+----
+
+Date: 2020-02-14 09:21
+
+----
+
+Tags: WebPerf 
+
+----
+
+Redirect: https://calumryan.com/note/3411
+
+----
+
+UID: 3411

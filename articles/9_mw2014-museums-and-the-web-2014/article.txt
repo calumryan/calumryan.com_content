@@ -1,0 +1,60 @@
+Title: MW2014 - Museums and the Web 2014
+----
+
+Description:
+My roundup of attending Museums and the Web 2014
+
+----
+
+Og: false
+
+----
+
+Thumbnail: /media/pages/posts/unsorted/mwflorence2014-featured.png
+
+----
+
+Text:
+**In the past year I joined a diverse crowd of museum professionals and specialist technology vendors in the beautiful setting of Florence. The offering of technology to engage with exhibits through handheld devices such as audio guides and smartphones has for years been of particular interest to me. This event offered the perfect opportunity to learn, discuss and participate in a focused series of talks related to technology application in museums, digital storytelling and curation.**
+
+Recently I've attended quite a few technology/web-based conferences where the topics of open-data, accessibility and a standards compliant websites dominate the talks and after-party discussions. Likewise at MWF these topics are spoken of but general knowledge and awareness of them is non-surprisingly less evident in delegates and speakers.
+
+### Universal standard in digital tour guides
+
+Rob Stein of the Dallas Museum of Art was very knowledgeable in this area and presented a work in progress set of standards, which seem easy to understand for museum curators and storytellers: who are perhaps seeking a universal set of standards that's specialised for their use cases in a web-based collection of exhibits. The [Tour ML](https://github.com/IMAmuseum/tourml/wiki) specification is a worthwhile creation that should hopefully make it easier for a wide variety of tour applications to be produced with structure and good user experience.
+
+### Are native applications dominating museum tour guides?
+
+Native, downloadable applications were the dominant solutions marketed at MWF2014. Many have evolved from simple replacements for the trusty audio guide, often provided as an optional extra expense for visitors, to multimedia resources with the facilities to bookmark, contribute and discover other items of interest.
+
+Where these apps fail in my opinion is to offer multi-platform support and openly accessible data that's less dependent on running a particular OS or device. I’ve come across quite a few instances in which I cannot use an app providing a tour or more information about exhibits because it’s been developed for iPhone only (which I don’t have). Luckily I do have an iPad Mini however unlike the web, where a responsive approach is fairly straightforward, apps rarely scale well between mobile and tablet devices if they haven’t been designed and developed for both.
+
+### Wearable Tech in Museums
+
+Wearable tech continues to be a topic of hot discussion at this time and MWF14 was no exception. Neil Stimler of the The Metropolitan Museum of Art was lucky enough to get his hands on a pair of Google Glasses through the Explorer Program. Google Glass offers many potential uses in museums for digital story-telling, tours and other engaging activities however its current high price tag presents a considerable barrier to experimental uses by many.
+
+### My project for museums: Culturebook
+
+Four years ago I laid the foundations for my own concept called [Culturebook](http://culturebook.co.uk/) which has been somewhat on the back burner ever since as a side-project; however MWF has been strongly influential in inspiring me to continue evolving the concept to production stage.
+
+Culturebook is, if you're not aware, a proposal to create a multi-use platform for everyone to contribute to, engage and consume information about exhibits and sites of historical interest globally. Commercially the platform offers opportunities for local businesses to market tourist-related products and vacation-based services and packages which tie in with museums, hotels and other attractions nearby.
+
+### IndieWeb Community
+
+It is important to note that I do not intend for Culturebook to be yet another data harvesting platform but a user-based network independent of social network logins like Twitter, Google and Facebook. This is truly an effort to respect peoples' own data and follow the principles set out by the [IndieWeb](http://indiewebcamp.com/) community who believe in a web where people can own the content they publish on it. Users will be able to access content on Culturebook and engage with others in an open environment not tied down to a login reliant on having a certain social network account or device-limited application.
+
+### Always-on connectivity & bandwidth constraints
+
+Some important considerations pose a current barrier to making my concept fully embrace the always online ideal scenario. Many museums simply don't have the funds available for public WiFi and the alternative of mobile data plan usage isn't cost effective for many contract as we'll as pay as you go mobile users. At MWF2014 there were few of the smaller museums in attendance whose budgets are likely too tight in the current economic climate to afford installation and operation of public WiFi let alone their own bespoke application.
+
+**It’s an exciting time to be creating and following the progress of museum technology that is not only portable but also accessible to everyone whether they’re visiting the museum in person or browsing it virtually half-way round the world.**
+----
+
+Tags: general
+----
+
+Date: 2014-08-31 00:00
+
+----
+
+Redirect: https://calumryan.com/blog/museums-and-the-web-2014/

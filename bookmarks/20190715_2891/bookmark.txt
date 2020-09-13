@@ -1,0 +1,21 @@
+Title: How to run a small social network site for your friends
+
+----
+
+Permalink: https://runyourown.social
+
+----
+
+Date: 2019-07-15 21:45
+
+----
+
+Tags: indieweb 
+
+----
+
+Redirect: https://calumryan.com/note/2891
+
+----
+
+UID: 2891

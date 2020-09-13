@@ -1,0 +1,45 @@
+Title: October 3rd, 2017
+
+----
+
+Text: Perfect live demo by @shutdownscanner tonight discussing ASP.NET Core 2 @LDNWebPerf
+
+----
+
+Feature Image: IMG_20171003_202324.jpg
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Latitude: 51.5069519
+
+----
+
+Longitude: -0.0947885
+
+----
+
+Temperature: 11°C
+
+----
+
+Weather Icon: partly-cloudy-night
+
+----
+
+Date: 2017-10-03 20:41
+
+----
+
+Redirect: https://calumryan.com/note/1015
+
+----
+
+UID: 1015

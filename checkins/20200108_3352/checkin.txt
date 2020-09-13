@@ -1,0 +1,45 @@
+Title: January 8th, 2020
+
+----
+
+Text: Checked in at Pasta Remoli
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5e161b52a189b4000844c802
+
+----
+
+Longitude: -0.10812856248843
+
+----
+
+Latitude: 51.56562393564
+
+----
+
+Temperature: 11°C
+
+----
+
+Weather Icon: cloudy
+
+----
+
+Date: 2020-01-08 18:11
+
+----
+
+Redirect: https://calumryan.com/note/3352
+
+----
+
+UID: 3352

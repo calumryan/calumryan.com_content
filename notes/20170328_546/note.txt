@@ -1,0 +1,41 @@
+Title: March 28th, 2017
+
+----
+
+Text: Preserving the permalink and responding with 410 response code on my website: changing how I delete posts https://calumryan.com/learning/removing-posts/ \#indieweb
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Temperature: 
+
+----
+
+Weather Icon: 
+
+----
+
+Date: 2017-03-28 03:12
+
+----
+
+Redirect: https://calumryan.com/note/546
+
+----
+
+UID: 546

@@ -1,0 +1,37 @@
+Title: Indie Web Camp UK 2015
+----
+Description:
+Live blog from this year's Indie Web Camp in Brighton
+----
+
+Og: false
+
+----
+
+Thumbnail: /media/pages/posts/unsorted/indieweb.jpg
+
+----
+
+Text:
+It's my second Indie Web Camp and this year sees a good mix of past and new attendees. The day's kicked off with intros from attendees on how they have or plan to implement Indie Web technologies over the weekend. Compared to last year the kind of websites we're creating are commonly moving away from PHP-based CMS (Content Management Systems) to use of static site generators: predominantly [Jekyll](http://jekyllrb.com/).
+
+The increasing availability of web APIs for easy integration with SMS and VoIP using standard web languages has also provided the means for Indie Web implementations to self publish content over mediums such as SMS. [Tom Morris](https://twitter.com/tommorris) presented a working example of using SMS to publish notes/text publications to his website which implements the Twilio API.
+
+### Afternoon sessions
+Of the sessions I've attended this afternoon the topics of discussion have broadly focused around ways to implement functionality, configuration and features relating to Indie Web technologies. [Indie Mark](http://indiewebcamp.com/indiemark) was discussed with several options considered for how tool creation that presents users with methods to validate and analyse their own site's accordance to Indie Web principles.
+
+Elsewhere discussions have led us more deeply into the reasons, pros and cons of static site generators that many attendees now use for their personal site. Typically those from a background primarily focused on frontend development have favoured these versus other more focused on backend technologies and web architecture have been more dubious of static site generators.
+
+Secure webmentions was discussed at a somewhat high technical level with the absolute minimum requirements for secure communication to be applied through HTTPS on your site. A small minority of attendees have been able to setup HTTPS so far for their personal site as a form of authentication.
+
+Concluding the day [Rosa Emerald](https://twitter.com/Rosaemerald) discussed foundational methods in creating a personal site from options for hosting to content management systems and alternatives offered by static site generation.
+----
+
+Tags: general
+----
+
+Date: 2015-07-11 00:00
+
+----
+
+Redirect: https://calumryan.com/blog/indiewebcamp1/

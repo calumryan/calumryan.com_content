@@ -1,0 +1,45 @@
+Title: December 13th, 2019
+
+----
+
+Text: Checked in at Peckham Levels
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5df3ace731b3f90007456d04
+
+----
+
+Longitude: -0.067355632781982
+
+----
+
+Latitude: 51.470717839034
+
+----
+
+Temperature: 6°C
+
+----
+
+Weather Icon: partly-cloudy-night
+
+----
+
+Date: 2019-12-13 15:23
+
+----
+
+Redirect: https://calumryan.com/note/3306
+
+----
+
+UID: 3306

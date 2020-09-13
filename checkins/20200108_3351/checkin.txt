@@ -1,0 +1,45 @@
+Title: January 8th, 2020
+
+----
+
+Text: Checked in at The Faltering Fullback
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5e1622c33ed6a40008dc0331
+
+----
+
+Longitude: -0.10824882288325
+
+----
+
+Latitude: 51.568503833512
+
+----
+
+Temperature: 11°C
+
+----
+
+Weather Icon: cloudy
+
+----
+
+Date: 2020-01-08 18:43
+
+----
+
+Redirect: https://calumryan.com/note/3351
+
+----
+
+UID: 3351

@@ -1,0 +1,21 @@
+Title: Accessibility, News and You - a team-wide checklist for accessibility approaches and audits
+
+----
+
+Permalink: https://bbc-news.github.io/accessibility-news-and-you/
+
+----
+
+Date: 2019-07-16 16:29
+
+----
+
+Tags: a11y 
+
+----
+
+Redirect: https://calumryan.com/note/2893
+
+----
+
+UID: 2893

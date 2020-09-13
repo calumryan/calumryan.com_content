@@ -1,0 +1,45 @@
+Title: December 24th, 2018
+
+----
+
+Text: Checked in at SuCheera Thai Restaurant
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5c20dd7b0802d4002ca6e310
+
+----
+
+Longitude: 0.26771067115072
+
+----
+
+Latitude: 51.133266337944
+
+----
+
+Temperature: 7°C
+
+----
+
+Weather Icon: partly-cloudy-day
+
+----
+
+Date: 2018-12-24 13:22
+
+----
+
+Redirect: https://calumryan.com/note/2279
+
+----
+
+UID: 2279

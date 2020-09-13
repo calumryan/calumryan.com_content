@@ -1,0 +1,45 @@
+Title: June 11th, 2017
+
+----
+
+Text: Checked in at Sainsbury's
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/593d30dc135b395e8fcdf085
+
+----
+
+Longitude: 0.27463069330077
+
+----
+
+Latitude: 51.192353817373
+
+----
+
+Temperature: 
+
+----
+
+Weather Icon: 
+
+----
+
+Date: 2017-06-11 18:00
+
+----
+
+Redirect: https://calumryan.com/note/692
+
+----
+
+UID: 692

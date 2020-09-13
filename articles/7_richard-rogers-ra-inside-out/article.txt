@@ -1,0 +1,38 @@
+Title: Richard Rogers RA - Inside Out
+----
+Description:
+Architecture exhibition at the Burlington Academy
+----
+
+Og: false
+
+----
+
+Thumbnail: /media/pages/posts/unsorted/ra-richard-rogers.jpg
+
+----
+
+Text:
+Myself a practitioner in the creation and assembly of web-based architecture, means that my days are predominantly spent surrounded by four walls plus what is legally sufficient, in terms of building standards, for a glazed frame.
+
+Richard Rogers RA: Inside Out exhibition at the Burlington Academy demonstrates, if it wasn’t obvious already, that the spaces we work, play, socialise and live directly influence our level of creativity, hopes and desires in life.
+
+The exhibition is spread over three main rooms and presents a number of models, pieces of documentation and media on Roger’s work, thoughts and opinion. This is as much an exhibition on the science and social impact of architecture on our society as it is about the appreciation for Roger’s work throughout the planet.
+
+![Welsh Assembly Building](/media/pages/posts/unsorted/welsh-assembly.jpg)
+
+I’ve visited and experienced his work on my travels such as the Pompidou Centre in Paris, the Welsh Assembly in Cardiff, Madrid-Barajas T4 and London-Heathrow T5. They’re certainly the sort of environments where function and aesthetics combine to formulate an environment full of light, airiness and transparency.
+
+![Barajas](/media/pages/posts/unsorted/barajas.jpg)
+
+What interests me most about modern architecture such as that of Richard Rogers, Norman Foster and Zaha Hadid is in how it enables people to think in different ways, communicate and collaborate with others. Clear channels of information, thought and decision is something that I think we can all aspire to gain from good architecture in all forms from buildings, infrastructure and the web.
+----
+
+Tags: general
+----
+
+Date: 2013-08-24 00:00
+
+----
+
+Redirect: https://calumryan.com/blog/richard-rogers-ra-inside-out/

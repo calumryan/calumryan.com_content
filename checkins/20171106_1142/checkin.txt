@@ -1,0 +1,45 @@
+Title: November 6th, 2017
+
+----
+
+Text: Checked in at London Gatwick Airport (LGW)
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5a003f5f82644455a734f2d1
+
+----
+
+Longitude: -0.17425775527954
+
+----
+
+Latitude: 51.158703779449
+
+----
+
+Temperature: 
+
+----
+
+Weather Icon: 
+
+----
+
+Date: 2017-11-06 10:54
+
+----
+
+Redirect: https://calumryan.com/note/1142
+
+----
+
+UID: 1142

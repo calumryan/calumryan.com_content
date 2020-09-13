@@ -1,0 +1,45 @@
+Title: November 14th, 2019
+
+----
+
+Text: Checked in at Nouvo City Hotel (โรงแรมนูโวซิตี้)
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5dcd3eb21aac090008467dc5
+
+----
+
+Longitude: 100.49919771547
+
+----
+
+Latitude: 13.762909255935
+
+----
+
+Temperature: 28°C
+
+----
+
+Weather Icon: partly-cloudy-night
+
+----
+
+Date: 2019-11-14 11:46
+
+----
+
+Redirect: https://calumryan.com/note/3205
+
+----
+
+UID: 3205

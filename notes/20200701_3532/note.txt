@@ -1,0 +1,47 @@
+Title: July 1st, 2020
+
+----
+
+Text: Fun evening at Homebrew Website Club Europe/London online discussing personal websites with @ohhelloana @t and @w3bk3rn3l
+
+----
+
+Date: 2020-07-01 20:25
+
+----
+
+Bridgy: twitter
+
+----
+
+Feature-images:
+
+- hwc-july-1-small.png
+
+----
+
+Tags: indieweb
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uid: 3532

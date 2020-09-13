@@ -1,0 +1,56 @@
+Title: End of year review 2019
+----
+Description:
+Approaching the end of 2019 I look back on a year filled with some happy distractions away from the unending misery in UK politics and the climate crisis.
+----
+Thumbnail: media/pages/posts/unsorted/og/collage-2019.jpg
+----
+
+Og:  false
+
+----
+
+Text:
+## End of a decade
+This year I decided not only to review the year past but also my past decade. Rather than cram it all into one post I dedicated a whole post to reviewing [my 2010s](https://calumryan.com/blog/my-2010s).
+
+## Career
+Early on in 2019 I joined the team at [Helpful](https://helpfuldigital.com/) and since discovered a great bunch of friendly, supportive people there to work alongside. I've really enjoyed my first few months there and it's renewed my self-confidence in many ways: on a personal level, putting myself forward for public speaking opportunities and continuing with my organiser commitments in the [IndieWeb](https://indieweb.org/).
+
+## The B word
+Never before have I participated in a mass protest of any kind but in 2019 I felt so deeply enraged and saddened about our country's direction that I attended not one but two demonstrations in London. I was not alone: there were at least a million others out on the streets of London in March 2019 to protest against Brexit and in favour of a people's vote. Throughout 2019 there were vague glimmers of hope that our country's overall attitude might just be adjusting to seeing a swift disposal of Brexit. The results from the December General Election extinguished any of these hopes: the country is now more than ever in 2016 divided, angered, misinformed and committed to the meaningless self-harm act of Brexit in 2020.
+
+## IndieWebCamp
+Once again I returned to [Berlin](https://calumryan.com/blog/indiewebcamp-berlin-2019/) this year for IndieWebCamp and also closer to home for the welcome return of one in [Brighton](https://calumryan.com/blog/indiewebcamp-brighton-2019/). There was a mix of different people at both events with many I'd met before but also a few new faces to bring some fresh ideas and perspective to the IndieWeb. The main organisers there, [Tantek](http://tantek.com/) and [Aaron](https://aaronparecki.com/) in Berlin and then [Jeremy](https://aaronparecki.com/) in Brighton, did a great job of ensuring the events ran to schedule and gave everyone a chance to participate fairly.
+
+## Studying and talking user research
+This year I challenged myself to learn a completely new topic I knew very little about before and then give a talk about it. I decided I wanted to learn more about conducting user research, and more specifically usability testing. This has helped me to enhance and expand my capabilities with a broader perspective of website design and development. In April 2019 I went to Front-End London to very nervously give the first draft of my talk about [usability testing](https://noti.st/calumryan/FVFCYN/usability-testing). I finished the talk feeling very dejected and negative about my performance until a few months later I was invited to give the talk elsewhere. Consequently I'm once again feeling more positive about doing further public speaking at meetups or conferences in 2020.
+
+## Travel
+For 2019 I made a commitment to travel to a part of the world I'd never been to before which for me was Asia. I travelled to [Thailand](https://calumryan.com/blog/touring-northern-thailand/) in mid-November for a two-week holiday which seemed like a good time to visit. I'd perfect weather throughout with very few hick-ups or challenges on my trip. I came back feeling refreshed and better informed about a very different kind of culture and country. I've certainly a strong desire to revisit Thailand and beyond in the not too distant future.
+
+Closer to home my year in travel also included weekend breaks in [Vienna](https://calumryan.com/blog/vienna/) and Dublin. I travelled to Belgium to watch the first two stages of Le Tour de France in Brussels. Also I'd a handful of interesting day excursions to UK destinations including Harrogate, specifically for the World Cycling Championships, also to Bournemouth, Bristol and Ramsgate.
+
+## Health and fitness
+The weather in 2019 hasn't been favourable for my cycling and outdoor fitness habits. I've nevertheless managed to rack up the mileage on my bike during the brief dry spells over the spring and summer. My furthest solo ride in 2019 was for the Castle 100k sportive which I completed in just over four hours riding duration.
+
+![Collage of 2019 photos](/media/pages/posts/unsorted/collage-2019.jpg)
+
+## Looking forward to 2020
+Great pain, stress and sadness, caused by current political direction in the UK, will inevitably reach a new level in January of 2020. The country I've lived and grown up in over the past three decades will leave the European Union. I think it's going to be without doubt, a needlessly damaging, painful and challenging decade, or more, ahead for me as well as pretty much everyone else I know.
+
+Balancing out what matters in my own life most: health, my family, friends and work above Brexit will be what I will try to focus on the most. I've pencilled in a couple of short trips to Central Europe for 2020 along with some early-stage planning for a big excursion further afield towards the end of the year. As ever I'll aim get to at least a couple of places I've not visited before here and abroad.
+
+I will continue with efforts to research topics I'm unfamiliar with and look to talk at some more local meetups or conferences if I can. Continuing with the success of HWC London I'm also very excited and pleased to be co-organising the first IndieWebCamp London!
+
+Happy New Year everyone!
+----
+
+Tags: general
+----
+
+Date: 2020-01-01 00:00
+
+----
+
+Redirect: https://calumryan.com/blog/end-of-year-review-2019/

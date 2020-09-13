@@ -1,0 +1,45 @@
+Title: June 20th, 2019
+
+----
+
+Text: Checked in at Lamb And Trotter
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5d0bb73bc9f907002c601bff
+
+----
+
+Longitude: -0.09844277
+
+----
+
+Latitude: 51.517014
+
+----
+
+Temperature: 19°C
+
+----
+
+Weather Icon: partly-cloudy-day
+
+----
+
+Date: 2019-06-20 17:41
+
+----
+
+Redirect: https://calumryan.com/note/2809
+
+----
+
+UID: 2809

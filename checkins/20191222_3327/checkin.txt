@@ -1,0 +1,45 @@
+Title: December 22nd, 2019
+
+----
+
+Text: Checked in at Casa Burrito
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5dff75cb59c4f20008f03218
+
+----
+
+Longitude: -0.19023201121259
+
+----
+
+Latitude: 51.501834659309
+
+----
+
+Temperature: 9°C
+
+----
+
+Weather Icon: cloudy
+
+----
+
+Date: 2019-12-22 13:55
+
+----
+
+Redirect: https://calumryan.com/note/3327
+
+----
+
+UID: 3327

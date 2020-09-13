@@ -1,0 +1,49 @@
+Title: April 30th, 2019
+
+----
+
+Text: Checked in at Burrito Mama
+
+----
+
+Feature Image: fsq1RL4Mk.jpg
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5cc8810fe0c0c9002c3d6a8b
+
+----
+
+Longitude: -0.095633685442
+
+----
+
+Latitude: 51.513905808738
+
+----
+
+Temperature: 18°C
+
+----
+
+Weather Icon: partly-cloudy-day
+
+----
+
+Date: 2019-04-30 18:08
+
+----
+
+Redirect: https://calumryan.com/note/2600
+
+----
+
+UID: 2600

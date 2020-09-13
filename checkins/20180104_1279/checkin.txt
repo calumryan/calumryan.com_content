@@ -1,0 +1,45 @@
+Title: January 4th, 2018
+
+----
+
+Text: Checked in at Sun Inn
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5a4e274cc5b11c66c960ad29
+
+----
+
+Longitude: 0.88979426701376
+
+----
+
+Latitude: 51.315869408995
+
+----
+
+Temperature: 
+
+----
+
+Weather Icon: 
+
+----
+
+Date: 2018-01-04 13:08
+
+----
+
+Redirect: https://calumryan.com/note/1279
+
+----
+
+UID: 1279

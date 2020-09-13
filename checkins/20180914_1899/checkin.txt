@@ -1,0 +1,45 @@
+Title: September 14th, 2018
+
+----
+
+Text: Checked in at Starbucks
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5b9b6c9faa6c95002c8469fb
+
+----
+
+Longitude: 0.274037
+
+----
+
+Latitude: 51.194689
+
+----
+
+Temperature: 
+
+----
+
+Weather Icon: 
+
+----
+
+Date: 2018-09-14 09:09
+
+----
+
+Redirect: https://calumryan.com/note/1899
+
+----
+
+UID: 1899

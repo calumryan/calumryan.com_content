@@ -1,0 +1,45 @@
+Title: November 1st, 2018
+
+----
+
+Text: Checked in at Berlin Tegel Otto Lilienthal Airport (TXL) (Flughafen Berlin-Tegel „Otto Lilienthal“)
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5bdb0a249be522002b6a2648
+
+----
+
+Longitude: 13.289859143239
+
+----
+
+Latitude: 52.554227954354
+
+----
+
+Temperature: 13°C
+
+----
+
+Weather Icon: cloudy
+
+----
+
+Date: 2018-11-01 14:13
+
+----
+
+Redirect: https://calumryan.com/note/2074
+
+----
+
+UID: 2074

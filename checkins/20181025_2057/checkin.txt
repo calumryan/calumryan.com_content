@@ -1,0 +1,45 @@
+Title: October 25th, 2018
+
+----
+
+Text: Checked in at London Bridge Railway Station (LBG)
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5bd23ab3054e29002c2efef7
+
+----
+
+Longitude: -0.084785162473454
+
+----
+
+Latitude: 51.504324200864
+
+----
+
+Temperature: 5°C
+
+----
+
+Weather Icon: rain
+
+----
+
+Date: 2018-10-25 22:50
+
+----
+
+Redirect: https://calumryan.com/note/2057
+
+----
+
+UID: 2057

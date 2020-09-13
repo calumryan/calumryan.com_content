@@ -1,0 +1,45 @@
+Title: November 11th, 2017
+
+----
+
+Text: Checked in at Caffè Nero
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5a06b500c5b11c4af7ef23a2
+
+----
+
+Longitude: -0.13300478466652
+
+----
+
+Latitude: 51.527614437879
+
+----
+
+Temperature: 
+
+----
+
+Weather Icon: 
+
+----
+
+Date: 2017-11-11 08:29
+
+----
+
+Redirect: https://calumryan.com/note/1175
+
+----
+
+UID: 1175

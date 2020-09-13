@@ -1,0 +1,41 @@
+Title: October 12th, 2015
+
+----
+
+Text: A few words on Service Worker implementation success https://calumryan.com/blog/setup-service-worker/ 
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Temperature: 
+
+----
+
+Weather Icon: 
+
+----
+
+Date: 2015-10-12 05:00
+
+----
+
+Redirect: https://calumryan.com/note/171
+
+----
+
+UID: 171

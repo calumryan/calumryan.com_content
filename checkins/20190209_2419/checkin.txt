@@ -1,0 +1,45 @@
+Title: February 9th, 2019
+
+----
+
+Text: Checked in at Hungry Guy
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5c5ecf44e96d0c002c17079a
+
+----
+
+Longitude: 16.375128109823
+
+----
+
+Latitude: 48.211085791409
+
+----
+
+Temperature: 7°C
+
+----
+
+Weather Icon: partly-cloudy-day
+
+----
+
+Date: 2019-02-09 13:01
+
+----
+
+Redirect: https://calumryan.com/note/2419
+
+----
+
+UID: 2419

@@ -1,0 +1,49 @@
+Title: May 8th, 2020
+
+----
+
+Text: Checked in at Ashdown Forest
+
+----
+
+Feature Image: fsqfbMGpH.jpg
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5eb52d3f4d166a0007dfcf0d
+
+----
+
+Longitude: 0.10295549491161
+
+----
+
+Latitude: 51.078907804482
+
+----
+
+Temperature: 18°C
+
+----
+
+Weather Icon: cloudy
+
+----
+
+Date: 2020-05-08 10:58
+
+----
+
+Redirect: https://calumryan.com/note/3509
+
+----
+
+UID: 3509

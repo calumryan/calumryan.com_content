@@ -1,0 +1,49 @@
+Title: September 21st, 2019
+
+----
+
+Text: Checked in at Coal Drops Yard
+
+----
+
+Feature Image: fsqHbjG2L.jpg
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5d85f0af797c400007a3bf76
+
+----
+
+Longitude: -0.126345
+
+----
+
+Latitude: 51.536451
+
+----
+
+Temperature: 18°C
+
+----
+
+Weather Icon: clear-day
+
+----
+
+Date: 2019-09-21 10:43
+
+----
+
+Redirect: https://calumryan.com/note/3019
+
+----
+
+UID: 3019

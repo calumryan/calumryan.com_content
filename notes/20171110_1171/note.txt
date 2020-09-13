@@ -1,0 +1,41 @@
+Title: November 10th, 2017
+
+----
+
+Text: Make web performance part of the workflow for all involved on a project and that they're aware of the implications on page weight/load time for every page element/object. Great detailed talk by @addyosmani on \#webperf at \#ffconf
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Latitude: 50.833912
+
+----
+
+Longitude: -0.138503
+
+----
+
+Temperature: 12°C
+
+----
+
+Weather Icon: partly-cloudy-day
+
+----
+
+Date: 2017-11-10 12:53
+
+----
+
+Redirect: https://calumryan.com/note/1171
+
+----
+
+UID: 1171

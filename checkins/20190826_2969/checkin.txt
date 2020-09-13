@@ -1,0 +1,45 @@
+Title: August 26th, 2019
+
+----
+
+Text: Checked in at Benito's Hat
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5d63e2f3ec8d7a00083add80
+
+----
+
+Longitude: 0.014783707545963
+
+----
+
+Latitude: 51.405699812141
+
+----
+
+Temperature: 31°C
+
+----
+
+Weather Icon: clear-day
+
+----
+
+Date: 2019-08-26 14:47
+
+----
+
+Redirect: https://calumryan.com/note/2969
+
+----
+
+UID: 2969

@@ -1,0 +1,22 @@
+Title: – ARIA Serious‽
+Slides from @yatil's presentation justifying when to/not to use ARIA attributes
+
+----
+
+Permalink: https://noti.st/yatil/47fUQW/aria-serious
+
+----
+
+Date: 2018-05-10 06:29
+
+----
+
+Tags: accessibility, ARIA, btconf 
+
+----
+
+Redirect: https://calumryan.com/note/1595
+
+----
+
+UID: 1595

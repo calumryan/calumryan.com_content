@@ -1,0 +1,45 @@
+Title: May 5th, 2019
+
+----
+
+Text: Checked in at Kreuzburger
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5ccf3922febf31002c7b359d
+
+----
+
+Longitude: 13.422386249474
+
+----
+
+Latitude: 52.500467150491
+
+----
+
+Temperature: 9°C
+
+----
+
+Weather Icon: partly-cloudy-night
+
+----
+
+Date: 2019-05-05 20:27
+
+----
+
+Redirect: https://calumryan.com/note/2647
+
+----
+
+UID: 2647

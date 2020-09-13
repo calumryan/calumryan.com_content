@@ -1,0 +1,27 @@
+Title: December 16th, 2018
+
+----
+
+Text: https://www.gatsbyjs.org/docs/creating-global-styles/#how-to-add-global-styles-in-gatsby-using-css-in-js
+Version of emotion-js in use has issues in the compiling process. (Seem to be some related open PRs on Github already) 
+
+
+----
+
+Permalink: https://twitter.com/gatsbyjs/status/1074365934633050112
+
+----
+
+Date: 2018-12-16 20:38
+
+----
+
+Tags: 
+
+----
+
+Redirect: https://calumryan.com/note/2259
+
+----
+
+UID: 2259

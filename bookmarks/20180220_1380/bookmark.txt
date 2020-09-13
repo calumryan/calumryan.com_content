@@ -1,0 +1,23 @@
+Title: Messaging Between Tabs Using Service Worker by James Milner
+&quot;Think updating a balance after bank transfer on another tab, or close a EU cookies banner simultaneously across open clients&quot;
+https://www.loxodrome.io/post/tab-state-service-workers/
+
+----
+
+Permalink: https://www.loxodrome.io/post/tab-state-service-workers/
+
+----
+
+Date: 2018-02-20 09:29
+
+----
+
+Tags:  
+
+----
+
+Redirect: https://calumryan.com/note/1380
+
+----
+
+UID: 1380

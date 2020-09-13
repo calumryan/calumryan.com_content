@@ -1,0 +1,45 @@
+Title: June 18th, 2019
+
+----
+
+Text: Checked in at Charterhouse Square
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5d08df4a78fd9c00084cc60e
+
+----
+
+Longitude: -0.09955110452698
+
+----
+
+Latitude: 51.522473267078
+
+----
+
+Temperature: 18°C
+
+----
+
+Weather Icon: rain
+
+----
+
+Date: 2019-06-18 13:55
+
+----
+
+Redirect: https://calumryan.com/note/2802
+
+----
+
+UID: 2802

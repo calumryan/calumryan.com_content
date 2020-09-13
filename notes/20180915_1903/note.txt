@@ -1,0 +1,45 @@
+Title: September 15th, 2018
+
+----
+
+Text: Prime location for an \#indieweb \#micropub event in Broadstairs, Kent
+
+----
+
+Feature Image: IMG_20180915_160620~2.jpg
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Latitude: 51.3574587
+
+----
+
+Longitude: 1.4420836
+
+----
+
+Temperature: 18°C
+
+----
+
+Weather Icon: partly-cloudy-day
+
+----
+
+Date: 2018-09-15 16:31
+
+----
+
+Redirect: https://calumryan.com/note/1903
+
+----
+
+UID: 1903

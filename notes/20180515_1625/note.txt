@@ -1,0 +1,45 @@
+Title: May 15th, 2018
+
+----
+
+Text: Beautiful morning for \#EuropeanaTech onboard ssRotterdam
+
+----
+
+Feature Image: IMG_20180515_083149.jpg
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Latitude: 51.8976604
+
+----
+
+Longitude: 4.4739491
+
+----
+
+Temperature: 20°C
+
+----
+
+Weather Icon: clear-day
+
+----
+
+Date: 2018-05-15 08:41
+
+----
+
+Redirect: https://calumryan.com/note/1625
+
+----
+
+UID: 1625

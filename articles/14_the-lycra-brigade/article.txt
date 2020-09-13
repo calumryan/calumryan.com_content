@@ -1,0 +1,32 @@
+Title: The Lycra brigade
+----
+Description:
+A transition from mountain bike to road bike and baggy shorts to Lycra
+----
+
+Og: false
+
+----
+
+Thumbnail: /media/pages/posts/unsorted/velothon.jpg
+
+----
+
+Text:
+A year ago there’s no way I’d have considered participation in a mass cycling event like this year’s [Velothon Wales](http://www.velothon-wales.co.uk/en/) however this month I accomplished the 140km ride alongside 15,000 riders. Training for this led me to focus my fitness regime more closely and paid off in the end as even the steepest parts of the route didn’t break me although very tough in parts!
+
+It’s terribly unfortunate that some other riders ahead were forced off their bikes, with some injured severely, by tacks deliberately placed on the road in a vile attempt to sabotage the sportive.
+
+Cycling wasn’t something I ever thought of in the past as one of my major pastimes; but in recent years I’ve made the transition from mountain bike to road bike and baggy shorts to Lycra. Within reason I find it an affordable, accessible way to keep fit at my own convenience whilst also being able to see and experience the countryside around without a car.
+
+Further to my aim to get more involved and engaged with the web industry this year: I composed a piece for Net magazine this month. It’s in part thanks to fellow cycling enthusiasts combined web makers/designer/developers that the article was made possible for which I’m grateful of their support [@richardwiggins](https://twitter.com/richardwiggins) and [@Hicksdesign](https://twitter.com/Hicksdesign).
+----
+
+Tags: general
+----
+
+Date: 2015-06-16
+
+----
+
+Redirect: https://calumryan.com/blog/the-lycra-brigade/

@@ -1,0 +1,41 @@
+Title: November 6th, 2016
+
+----
+
+Text: Flights: booked, Airbnb: booked, looking forward to making it over to \#HomebrewWebsiteClub SF this September
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Latitude: 51.205476600000004
+
+----
+
+Longitude: 0.27524129999999997
+
+----
+
+Temperature: 21°C
+
+----
+
+Weather Icon: partly-cloudy-day
+
+----
+
+Date: 2016-11-06 21:26
+
+----
+
+Redirect: https://calumryan.com/note/270
+
+----
+
+UID: 270

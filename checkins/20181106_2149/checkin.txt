@@ -1,0 +1,45 @@
+Title: November 6th, 2018
+
+----
+
+Text: Checked in at Security Check Terminal B (Sicherheitskontrolle Terminal B)
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5be1b5bc16fa04002cf5647c
+
+----
+
+Longitude: 13.520011179228
+
+----
+
+Latitude: 52.388941238516
+
+----
+
+Temperature: 16°C
+
+----
+
+Weather Icon: clear-night
+
+----
+
+Date: 2018-11-06 15:39
+
+----
+
+Redirect: https://calumryan.com/note/2149
+
+----
+
+UID: 2149

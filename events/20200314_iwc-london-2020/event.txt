@@ -1,0 +1,49 @@
+Title: IndieWebCamp London 2020
+
+----
+
+Tags:
+
+----
+
+Latitude: 51.521825
+
+----
+
+Longitude: -0.0846738
+
+----
+
+Date: 2020-03-14 10:00
+
+----
+
+Date start: 2020-03-14 10:00:00 +0000
+
+----
+
+Date end: 2020-03-15 18:00:00 +0000
+
+----
+
+Timezone: GMT
+
+----
+
+City: London
+
+----
+
+Location: The Microsoft Reactor, 70 Wilson Street, London, EC2A 2DB
+
+----
+
+Speaker: 1
+
+----
+
+Redirect: https://calumryan.com/event/iwc-london-2020
+
+----
+
+UID: iwc-london-2020

@@ -1,0 +1,45 @@
+Title: November 6th, 2018
+
+----
+
+Text: Checked in at North Terminal
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5be1e7ebc4df1d002c51eafb
+
+----
+
+Longitude: -0.17696161437771
+
+----
+
+Latitude: 51.160810553346
+
+----
+
+Temperature: 13°C
+
+----
+
+Weather Icon: partly-cloudy-night
+
+----
+
+Date: 2018-11-06 19:13
+
+----
+
+Redirect: https://calumryan.com/note/2156
+
+----
+
+UID: 2156

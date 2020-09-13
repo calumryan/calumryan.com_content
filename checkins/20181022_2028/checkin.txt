@@ -1,0 +1,45 @@
+Title: October 22nd, 2018
+
+----
+
+Text: Checked in at Sinwellturm
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5bcde3a96a5950002c44274b
+
+----
+
+Longitude: 11.076407769058
+
+----
+
+Latitude: 49.457737542652
+
+----
+
+Temperature: 14°C
+
+----
+
+Weather Icon: clear-day
+
+----
+
+Date: 2018-10-22 15:50
+
+----
+
+Redirect: https://calumryan.com/note/2028
+
+----
+
+UID: 2028

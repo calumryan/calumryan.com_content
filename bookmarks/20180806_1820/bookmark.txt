@@ -1,0 +1,21 @@
+Title: A New Vue On JavaScript30
+
+----
+
+Permalink: https://davefollett.io/2018/08/01/a-new-vue-on-javascript30-getting-started/
+
+----
+
+Date: 2018-08-06 23:05
+
+----
+
+Tags: vuejs 
+
+----
+
+Redirect: https://calumryan.com/note/1820
+
+----
+
+UID: 1820

@@ -1,0 +1,50 @@
+Title: Removing posts
+----
+Description:
+I've made some changes to the way I remove a post to preserve the permalink and give a more meaningful, user-friendly response.
+----
+
+Og:  false
+
+----
+
+Text:
+Generally I don't need or wish to delete posts I've publish however on occasions it's necessary: because either the content has failed to syndicate to other sources properly or I wish to revoke an opinion or comment made in haste.
+
+In such cases I'd previously returned a 404 Not Found response for deleted posts. This not only went against recommended implementation but, now that I regularly [Send Webmentions](https://calumryan.com/learning/sending-webmentions); it's all the more important should I later decide to revoke a reply/RSVP or like that I return a clear, valid response on the page receiving the webmention.
+
+### Updating not deleting
+In the PHP class I used for adding, updating and removing posts I amended the existing delete function so that rather than clearing the entry completely; it just updates the post type to "removed". This not only keeps the permalink in place but should I later want to reinstate the post then all the contents is still within the database.
+
+### Sending a second Webmention
+Furthermore if the post type is a webmention then the target URL stored within the post is pinged again to tell it that the reply, RSVP or like has now been removed.
+
+### The front-end
+On the front-end I use a conditional statement above the template's content for rendering posts to check if it's been categorised as removed.
+
+```php
+if ( $resultsNotes->noteType == 'removed' ) :
+  header("HTTP/1.1 410 Gone");
+  //echo 'The requested page has been removed.';
+  require_once $_SERVER['DOCUMENT_ROOT'].'/410.php';
+  exit;
+endif;
+```
+
+Posts that have the "removed" type include the new header with the more appropriate response code 410 (Gone). Following this is a custom template included to override the browser's generic 410 response page.
+
+![Example of page displaying a 410 response](/media/pages/posts/unsorted/page-removed.jpg)
+
+### Interested in developing and publishing to your personal website?
+Why not join us at a [future Homebrew Website Club](https://indieweb.org/next-hwc) including [London](https://indieweb.org/next-hwc#UK) where we meet bi-weekly to work on, discuss ideas and exchange self-made, open-source tools and solutions for our personal sites.
+----
+
+Tags: learning
+
+----
+
+Date: 2017-03-26 00:00
+
+----
+
+Redirect: https://calumryan.com/learning/removing-posts/

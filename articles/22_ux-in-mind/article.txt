@@ -1,0 +1,28 @@
+Title: UX on the mind
+----
+Description:
+Tweaking my thought process in work and on the web, generally...
+----
+
+Og: false
+
+----
+
+Thumbnail:
+
+----
+
+Text:
+In recent printed publications, articles on the web, web community meetups and podcasts I've observed a certain increase in discussion over user experience than in previous years. It's not like we weren't thinking about or doing anything about it before, but as the industry continues to grow and get more competitive, then the needs increase for our industry to be more specialist and better focused business-wise and or organisationally.
+
+With this in mind I've been motivated to start researching and writing more about UX from the perspective of an agency-based front-end developer.
+----
+
+Tags: general
+----
+
+Date: 2016-04-24 00:00
+
+----
+
+Redirect: https://calumryan.com/blog/ux-in-mind/

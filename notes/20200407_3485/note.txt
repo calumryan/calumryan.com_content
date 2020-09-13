@@ -1,0 +1,41 @@
+Title: April 7th, 2020
+
+----
+
+Text: 📢 Tomorrow join us for \#HomebrewWebsiteClub Europe/London Online 📺 Zoom from 6pm (BST) 👉https://events.indieweb.org/2020/04/online-homebrew-website-club-europe-london-uMUI2gAyCQpR 👩‍💻 Quiet writing/coding hour from 6pm 🗣️ Meetup and demo from 7pm
+
+----
+
+Permalink: 
+
+----
+
+Tags: indieweb
+
+----
+
+Latitude: 51.2054481
+
+----
+
+Longitude: 0.2753402
+
+----
+
+Temperature: 15°C
+
+----
+
+Weather Icon: clear-day
+
+----
+
+Date: 2020-04-07 11:29
+
+----
+
+Redirect: https://calumryan.com/note/3485
+
+----
+
+UID: 3485

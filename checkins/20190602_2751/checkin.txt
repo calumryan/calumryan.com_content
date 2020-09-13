@@ -1,0 +1,49 @@
+Title: June 2nd, 2019
+
+----
+
+Text: Checked in at Malahide Beach
+
+----
+
+Feature Image: fsq514N2G.jpg
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5cf400f7fbcf0b002386b4d8
+
+----
+
+Longitude: -6.1416206953417
+
+----
+
+Latitude: 53.450562034041
+
+----
+
+Temperature: 15°C
+
+----
+
+Weather Icon: wind
+
+----
+
+Date: 2019-06-02 18:01
+
+----
+
+Redirect: https://calumryan.com/note/2751
+
+----
+
+UID: 2751

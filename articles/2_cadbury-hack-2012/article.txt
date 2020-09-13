@@ -1,0 +1,34 @@
+Title: Cadbury Hack 2012
+----
+
+Description:
+The Cadbury sponsored Hack & Jam event took place as part of the Digital Shoreditch 2012 festival. I was lucky enough to be chosen as one of a select few to participate in the two-day hackathon which took place at Google Campus, London.
+
+----
+
+Og: false
+
+----
+
+Text:
+The calibre of developers at Cadbury Hack was rather high. Amongst the participants was The Apprentice's 2012 candidate; Nick Holzherr, bringing with him a small army of developers to complete his part finished app called Whisk.
+
+The focus of the Hackathon was around Cadbury's Joyville promotional campaign which is tied in with the London 2012 Olympic and Paralympic games. We'd to develop a multi-platform mobile app, including for Android, which embraced the concept of joy and the Olympic games.
+
+Participants were supplied with large quantities of  chocolate to fuel their progress throughout the event as well as breakfast, lunch, dinner and, needless to say, plenty caffeine.
+
+On the Hackathon's final day all teams gathered in the main presentation room of Google Campus to present their apps. There were no less than 36 teams presenting in front the judges and participants; each with just three minutes to communicate their concept and demonstrate what they'd produced.
+
+Winners received £10k and full support from Cadbury to bring their concept to market for London 2012. Cadbury Hack winners included the apps Whisk, Feeel.it and Screen-a-licious.
+
+More details of the Cadbury Mobile Hack + Jam event winners and prizes over at: Digital Shoreditch's website.
+----
+
+Tags: general
+----
+
+Date: 2012-06-14 00:00
+
+----
+
+Redirect: https://calumryan.com/blog/cadbury-hack-2012/

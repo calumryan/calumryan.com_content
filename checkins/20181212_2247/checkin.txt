@@ -1,0 +1,45 @@
+Title: December 12th, 2018
+
+----
+
+Text: Checked in at Benito's Hat
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5c11500fa9e402002c5732bc
+
+----
+
+Longitude: -0.12592379248934
+
+----
+
+Latitude: 51.511133250178
+
+----
+
+Temperature: 4°C
+
+----
+
+Weather Icon: partly-cloudy-night
+
+----
+
+Date: 2018-12-12 18:14
+
+----
+
+Redirect: https://calumryan.com/note/2247
+
+----
+
+UID: 2247

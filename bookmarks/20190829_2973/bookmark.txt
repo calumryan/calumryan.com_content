@@ -1,0 +1,21 @@
+Title: WebKit: How Web Content Can Affect Power Usage
+
+----
+
+Permalink: https://webkit.org/blog/8970/how-web-content-can-affect-power-usage/
+
+----
+
+Date: 2019-08-29 14:16
+
+----
+
+Tags: WebPerf 
+
+----
+
+Redirect: https://calumryan.com/note/2973
+
+----
+
+UID: 2973

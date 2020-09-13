@@ -1,0 +1,45 @@
+Title: April 14th, 2018
+
+----
+
+Text: Checked in at John Harvey Tavern
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5ad1f8287269fe002c294e44
+
+----
+
+Longitude: 0.016512211614315
+
+----
+
+Latitude: 50.8738821514
+
+----
+
+Temperature: 
+
+----
+
+Weather Icon: 
+
+----
+
+Date: 2018-04-14 13:46
+
+----
+
+Redirect: https://calumryan.com/note/1479
+
+----
+
+UID: 1479

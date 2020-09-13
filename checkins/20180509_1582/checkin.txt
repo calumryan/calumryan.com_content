@@ -1,0 +1,45 @@
+Title: May 9th, 2018
+
+----
+
+Text: Checked in at Bar Alexander. Post btconf cocktails
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5af22f6ca4b51b002cb68026
+
+----
+
+Longitude: 6.769771233571
+
+----
+
+Latitude: 51.212521360385
+
+----
+
+Temperature: 
+
+----
+
+Weather Icon: 
+
+----
+
+Date: 2018-05-09 00:14
+
+----
+
+Redirect: https://calumryan.com/note/1582
+
+----
+
+UID: 1582

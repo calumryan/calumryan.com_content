@@ -1,0 +1,47 @@
+Title: July 15th, 2020
+
+----
+
+Text: Reminder: scoring 100 for accessibility with the Lighthouse automated tool doesn't necessarily mean your website is fully accessible and compliant with WCAG 2.1. Test manually and with people who have different disabilities. Repeat often.
+
+----
+
+Date: 2020-07-15 08:45
+
+----
+
+Bridgy: twitter
+
+----
+
+Uid: 3539
+
+----
+
+Feature-images:
+
+- screenshot-2020-07-14-at-13.32.47.png
+
+----
+
+Tags: a11y
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

@@ -1,0 +1,21 @@
+Title: Hand tremors and the giant-button-problem
+
+----
+
+Permalink: https://axesslab.com/hand-tremors/
+
+----
+
+Date: 2018-12-11 14:33
+
+----
+
+Tags: a11y, ux, touchscreen 
+
+----
+
+Redirect: https://calumryan.com/note/2242
+
+----
+
+UID: 2242

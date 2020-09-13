@@ -1,0 +1,25 @@
+Title: July 3rd, 2017
+
+----
+
+Text: Would be cool to see this working particularly as my blog runs on Jekyll but I cheated slightly, using PHP for short-form content, that's how I currently process sending Webmentions  (Responding to https://miklb.com/plans-for-jekyll-indieweb-project/)
+
+----
+
+Permalink: https://miklb.com/plans-for-jekyll-indieweb-project/
+
+----
+
+Date: 2017-07-03 19:16
+
+----
+
+Tags: 
+
+----
+
+Redirect: https://calumryan.com/note/834
+
+----
+
+UID: 834

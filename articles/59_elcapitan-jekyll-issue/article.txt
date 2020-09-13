@@ -1,0 +1,44 @@
+Title: Installing Jekyll after El Capitan update
+----
+Description:
+A short update on how I recently resolved installing and running Jekyll since updating my Mac to El Capitan
+----
+
+Og: false
+
+----
+
+Thumbnail:
+
+----
+
+Text:
+Using Terminal or the command line to install anything is just great when things go smoothly however more often than not a certain dependency is missing or a recent update elsewhere has conflicted with whatever it is you were running perfectly fine before.
+
+### And so to the issue
+Upon trying to install/reinstall Jekyll I got this error message:
+
+```ruby
+ERROR:  While executing gem ... (Errno::EPERM)
+Operation not permitted - /usr/bin/jekyll
+```
+
+### Solution
+The recent increased security changes in OS X El Capitan (called System Integrity Protection) now mean that in order to install Jekyll we need to explicitly specify a directory which isn't protected by this. The default location for installation is the Ruby > Gems directory however it's protected now. Therefore we specify a local directory:
+
+```ruby
+sudo gem install -n /usr/local/bin jekyll
+```
+
+Likewise the same command can be used for installing other Ruby Gems where this problem occurs.
+----
+
+Tags: learning
+
+----
+
+Date: 2016-03-05 00:00
+
+----
+
+Redirect: https://calumryan.com/learning/elcapitan-jekyll-issue/

@@ -1,0 +1,45 @@
+Title: November 11th, 2018
+
+----
+
+Text: Checked in at Warwick North Services (Welcome Break)
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5be822b1cad1b60039ea578a
+
+----
+
+Longitude: -1.5050067937598
+
+----
+
+Latitude: 52.216644924551
+
+----
+
+Temperature: 11°C
+
+----
+
+Weather Icon: partly-cloudy-day
+
+----
+
+Date: 2018-11-11 12:38
+
+----
+
+Redirect: https://calumryan.com/note/2171
+
+----
+
+UID: 2171

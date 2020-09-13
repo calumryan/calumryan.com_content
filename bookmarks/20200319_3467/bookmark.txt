@@ -1,0 +1,21 @@
+Title: Setting Height And Width On Images Is Important Again by @tunetheweb #WebPerf
+
+----
+
+Permalink: https://www.smashingmagazine.com/2020/03/setting-height-width-images-important-again/
+
+----
+
+Date: 2020-03-19 10:45
+
+----
+
+Tags: WebPerf, front-end, HTML 
+
+----
+
+Redirect: https://calumryan.com/note/3467
+
+----
+
+UID: 3467

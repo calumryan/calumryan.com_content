@@ -1,0 +1,45 @@
+Title: December 12th, 2019
+
+----
+
+Text: Checked in at Fitzroy Tavern. with Tim
+
+----
+
+Permalink: 
+
+----
+
+Tags: https://foursquare.com/user/922379
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5df297e4c4763400086f5b3b
+
+----
+
+Longitude: -0.13465286746341
+
+----
+
+Latitude: 51.518566904517
+
+----
+
+Temperature: 8°C
+
+----
+
+Weather Icon: rain
+
+----
+
+Date: 2019-12-12 19:41
+
+----
+
+Redirect: https://calumryan.com/note/3302
+
+----
+
+UID: 3302

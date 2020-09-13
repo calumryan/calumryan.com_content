@@ -1,0 +1,45 @@
+Title: May 4th, 2019
+
+----
+
+Text: Checked in at REWE. Frühstück
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5ccd33ab7a0eff0025449e58
+
+----
+
+Longitude: 13.43469119
+
+----
+
+Latitude: 52.50972795
+
+----
+
+Temperature: 6°C
+
+----
+
+Weather Icon: partly-cloudy-day
+
+----
+
+Date: 2019-05-04 07:39
+
+----
+
+Redirect: https://calumryan.com/note/2621
+
+----
+
+UID: 2621

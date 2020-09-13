@@ -1,0 +1,45 @@
+Title: November 5th, 2017
+
+----
+
+Text: Checked in at foo bar
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/59ff0cea037be122b1ef22c7
+
+----
+
+Longitude: 13.411162495294
+
+----
+
+Latitude: 52.502071401218
+
+----
+
+Temperature: 
+
+----
+
+Weather Icon: 
+
+----
+
+Date: 2017-11-05 13:06
+
+----
+
+Redirect: https://calumryan.com/note/1133
+
+----
+
+UID: 1133

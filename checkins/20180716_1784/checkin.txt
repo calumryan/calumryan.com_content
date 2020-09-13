@@ -1,0 +1,49 @@
+Title: July 16th, 2018
+
+----
+
+Text: Checked in at Nexmo London. London Web Standards
+
+----
+
+Feature Image: fsqtVLefr.jpg
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5b4cea68a0215b002c0e046a
+
+----
+
+Longitude: -0.085263998674246
+
+----
+
+Latitude: 51.523243868863
+
+----
+
+Temperature: 
+
+----
+
+Weather Icon: 
+
+----
+
+Date: 2018-07-16 19:56
+
+----
+
+Redirect: https://calumryan.com/note/1784
+
+----
+
+UID: 1784

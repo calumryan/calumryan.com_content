@@ -1,0 +1,45 @@
+Title: May 4th, 2019
+
+----
+
+Text: Session planning time at IndieWebCamp Berlin
+
+----
+
+Feature Image: IMG_20190504_120800.jpg
+
+----
+
+Permalink: 
+
+----
+
+Tags: IndieWebCamp, Berlin
+
+----
+
+Latitude: 52.4994962
+
+----
+
+Longitude: 13.4491793
+
+----
+
+Temperature: 9°C
+
+----
+
+Weather Icon: partly-cloudy-day
+
+----
+
+Date: 2019-05-04 11:22
+
+----
+
+Redirect: https://calumryan.com/note/2626
+
+----
+
+UID: 2626

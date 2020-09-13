@@ -1,0 +1,45 @@
+Title: March 29th, 2019
+
+----
+
+Text: Checked in at Hoxton Arches. Made in Brunel preview
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5c9e6b58840fc2002c257eea
+
+----
+
+Longitude: -0.0761631
+
+----
+
+Latitude: 51.5306342
+
+----
+
+Temperature: 14°C
+
+----
+
+Weather Icon: clear-night
+
+----
+
+Date: 2019-03-29 19:00
+
+----
+
+Redirect: https://calumryan.com/note/2531
+
+----
+
+UID: 2531

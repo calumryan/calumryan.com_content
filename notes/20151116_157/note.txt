@@ -1,0 +1,42 @@
+Title: November 16th, 2015
+
+----
+
+Text: Changing to HTTPS, the documentations improving but it's still pretty tough!
+https://calumryan.com/blog/changing-to-https/    
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Temperature: 
+
+----
+
+Weather Icon: 
+
+----
+
+Date: 2015-11-16 00:14
+
+----
+
+Redirect: https://calumryan.com/note/157
+
+----
+
+UID: 157

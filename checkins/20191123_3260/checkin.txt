@@ -1,0 +1,45 @@
+Title: November 23rd, 2019
+
+----
+
+Text: Checked in at 345 by Yor Wor Food &amp; Drink
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5dd8e7a27898e200070a00d6
+
+----
+
+Longitude: 100.55035857409
+
+----
+
+Latitude: 13.797907587092
+
+----
+
+Temperature: 33°C
+
+----
+
+Weather Icon: partly-cloudy-day
+
+----
+
+Date: 2019-11-23 08:02
+
+----
+
+Redirect: https://calumryan.com/note/3260
+
+----
+
+UID: 3260

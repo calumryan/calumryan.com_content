@@ -1,0 +1,49 @@
+Title: June 3rd, 2019
+
+----
+
+Text: My first arrival in the Republic of Ireland from the UK by air, not land, and somewhat surprised I had to show my passport. Missed seeing @BorderIrish, is this your technological solution?
+
+----
+
+Feature Image: sita-biometric-gates-slideshow-2.jpg
+
+----
+
+Image Alt: photo of an e-Gate at Dublin airport
+
+----
+
+Permalink: 
+
+----
+
+Tags: Brexit
+
+----
+
+Latitude: 53.3183274
+
+----
+
+Longitude: -6.3721192
+
+----
+
+Temperature: 10°C
+
+----
+
+Weather Icon: partly-cloudy-day
+
+----
+
+Date: 2019-06-03 07:18
+
+----
+
+Redirect: https://calumryan.com/note/2753
+
+----
+
+UID: 2753

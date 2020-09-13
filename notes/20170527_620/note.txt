@@ -1,0 +1,45 @@
+Title: May 27th, 2017
+
+----
+
+Text: Across the Medway
+
+----
+
+Feature Image: IMG_20170527_112531.jpg
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Latitude: 51.37656
+
+----
+
+Longitude: 0.47544
+
+----
+
+Temperature: 20°C
+
+----
+
+Weather Icon: clear-day
+
+----
+
+Date: 2017-05-27 16:00
+
+----
+
+Redirect: https://calumryan.com/note/620
+
+----
+
+UID: 620

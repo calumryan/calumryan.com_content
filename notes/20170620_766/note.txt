@@ -1,0 +1,41 @@
+Title: June 20th, 2017
+
+----
+
+Text: Back @skillsmatter 4 years on at their new venue  getting acquainted with React @ReactLondon_
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Latitude: 51.5184873
+
+----
+
+Longitude: -0.0862535
+
+----
+
+Temperature: 24°C
+
+----
+
+Weather Icon: clear-day
+
+----
+
+Date: 2017-06-20 19:56
+
+----
+
+Redirect: https://calumryan.com/note/766
+
+----
+
+UID: 766

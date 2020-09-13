@@ -1,0 +1,45 @@
+Title: May 31st, 2019
+
+----
+
+Text: Checked in at Smiths of Smithfield
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5cf11981a5a315002ca4fabf
+
+----
+
+Longitude: -0.10275731000649
+
+----
+
+Latitude: 51.51945350087
+
+----
+
+Temperature: 18°C
+
+----
+
+Weather Icon: partly-cloudy-day
+
+----
+
+Date: 2019-05-31 13:09
+
+----
+
+Redirect: https://calumryan.com/note/2734
+
+----
+
+UID: 2734

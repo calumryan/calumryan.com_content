@@ -1,0 +1,45 @@
+Title: March 9th, 2016
+
+----
+
+Text: Learnt to read Jekyll docs more in-depth tonight (thanks to Homebrew Website Club) https://calumryan.com/learning/solving-jekyll/
+
+----
+
+Feature Image: 2016-03-09 19.30.50.jpg
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Temperature: 
+
+----
+
+Weather Icon: 
+
+----
+
+Date: 2016-03-09 16:51
+
+----
+
+Redirect: https://calumryan.com/note/213
+
+----
+
+UID: 213

@@ -1,0 +1,21 @@
+Title: Semantics to Screen Readers – Melanie Richards
+
+----
+
+Permalink: https://alistapart.com/article/semantics-to-screen-readers
+
+----
+
+Date: 2019-02-28 17:31
+
+----
+
+Tags: a11y, semantics 
+
+----
+
+Redirect: https://calumryan.com/note/2461
+
+----
+
+UID: 2461

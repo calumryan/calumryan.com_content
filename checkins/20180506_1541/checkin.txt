@@ -1,0 +1,45 @@
+Title: May 6th, 2018
+
+----
+
+Text: Checked in at sipgate GmbH
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5aeeb14af0ca9500320337e3
+
+----
+
+Longitude: 6.7562946510037
+
+----
+
+Latitude: 51.211535054126
+
+----
+
+Temperature: 
+
+----
+
+Weather Icon: 
+
+----
+
+Date: 2018-05-06 08:39
+
+----
+
+Redirect: https://calumryan.com/note/1541
+
+----
+
+UID: 1541

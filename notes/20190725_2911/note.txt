@@ -1,0 +1,41 @@
+Title: July 25th, 2019
+
+----
+
+Text: ✅ Looking forward to attending @LondonCSS next month!
+
+----
+
+Permalink: 
+
+----
+
+Tags: LondonCSS, css
+
+----
+
+Latitude: 51.51911194085782
+
+----
+
+Longitude: -0.0989224800649878
+
+----
+
+Temperature: 33°C
+
+----
+
+Weather Icon: clear-day
+
+----
+
+Date: 2019-07-25 11:50
+
+----
+
+Redirect: https://calumryan.com/note/2911
+
+----
+
+UID: 2911

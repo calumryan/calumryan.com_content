@@ -1,0 +1,45 @@
+Title: November 22nd, 2019
+
+----
+
+Text: Checked in at Chowpati
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5dd7e1199e406100075c091a
+
+----
+
+Longitude: 100.557821
+
+----
+
+Latitude: 13.741955
+
+----
+
+Temperature: 30°C
+
+----
+
+Weather Icon: clear-night
+
+----
+
+Date: 2019-11-22 13:22
+
+----
+
+Redirect: https://calumryan.com/note/3255
+
+----
+
+UID: 3255

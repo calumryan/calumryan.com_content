@@ -1,0 +1,21 @@
+Title: The Myths of Color Contrast Accessibility (via @uxmovement)
+
+----
+
+Permalink: https://uxmovement.com/buttons/the-myths-of-color-contrast-accessibility/
+
+----
+
+Date: 2019-11-06 12:14
+
+----
+
+Tags: a11y, css 
+
+----
+
+Redirect: https://calumryan.com/note/3190
+
+----
+
+UID: 3190

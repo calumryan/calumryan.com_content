@@ -1,0 +1,41 @@
+Title: February 27th, 2018
+
+----
+
+Text: Latest additions to Jekyll plugin for sending/receiving webmentions via Webmention.io now includes support for RSVPs and collections plus many other features added in the past year https://github.com/aarongustafson/jekyll-webmention_io
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Latitude: 53.102383499999995
+
+----
+
+Longitude: -2.3181274999999997
+
+----
+
+Temperature: -2°C
+
+----
+
+Weather Icon: partly-cloudy-night
+
+----
+
+Date: 2018-02-27 00:02
+
+----
+
+Redirect: https://calumryan.com/note/1387
+
+----
+
+UID: 1387

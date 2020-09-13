@@ -1,0 +1,45 @@
+Title: September 8th, 2018
+
+----
+
+Text: Checked in at Kimchee
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5b93bc2bacb37f002c45dc31
+
+----
+
+Longitude: -0.11637996437945
+
+----
+
+Latitude: 51.518207272666
+
+----
+
+Temperature: 
+
+----
+
+Weather Icon: 
+
+----
+
+Date: 2018-09-08 13:10
+
+----
+
+Redirect: https://calumryan.com/note/1887
+
+----
+
+UID: 1887

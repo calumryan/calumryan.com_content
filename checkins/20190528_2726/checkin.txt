@@ -1,0 +1,45 @@
+Title: May 28th, 2019
+
+----
+
+Text: Checked in at Nelson Arms
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5ced92310e32390038ba48b9
+
+----
+
+Longitude: 0.26469586886378
+
+----
+
+Latitude: 51.192759965493
+
+----
+
+Temperature: 13°C
+
+----
+
+Weather Icon: partly-cloudy-night
+
+----
+
+Date: 2019-05-28 20:55
+
+----
+
+Redirect: https://calumryan.com/note/2726
+
+----
+
+UID: 2726

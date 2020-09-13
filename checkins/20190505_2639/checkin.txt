@@ -1,0 +1,45 @@
+Title: May 5th, 2019
+
+----
+
+Text: Checked in at Sankt-Michael-Kirche
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5cce903ebd4009002c2af4ac
+
+----
+
+Longitude: 13.419359922409
+
+----
+
+Latitude: 52.507203539552
+
+----
+
+Temperature: 7°C
+
+----
+
+Weather Icon: clear-day
+
+----
+
+Date: 2019-05-05 08:26
+
+----
+
+Redirect: https://calumryan.com/note/2639
+
+----
+
+UID: 2639

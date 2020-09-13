@@ -1,0 +1,49 @@
+Title: February 22nd, 2020
+
+----
+
+Text: Checked in at Artisan
+
+----
+
+Feature Image: fsqI7kAqx.jpg
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5e5134234312080008c911eb
+
+----
+
+Longitude: -0.24507069912586
+
+----
+
+Latitude: 51.493529615495
+
+----
+
+Temperature: 11°C
+
+----
+
+Weather Icon: wind
+
+----
+
+Date: 2020-02-22 14:01
+
+----
+
+Redirect: https://calumryan.com/note/3419
+
+----
+
+UID: 3419

@@ -1,0 +1,41 @@
+Title: November 4th, 2018
+
+----
+
+Text: Post something to Switchboard test \#1
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Temperature: 
+
+----
+
+Weather Icon: 
+
+----
+
+Date: 2018-11-04 14:38
+
+----
+
+Redirect: https://calumryan.com/note/2109
+
+----
+
+UID: 2109

@@ -1,0 +1,27 @@
+Title: RSS
+
+----
+
+svg: icon-rss
+
+----
+
+Text:
+
+Subscribe to a selection of posts on my RSS feeds:
+
+----
+
+Links:
+- 
+  title: Notes
+  url: /feeds/notes/atom
+-
+  title: Bookmarks
+  url: /feeds/bookmarks/atom
+-
+  title: Articles
+  url: /feeds/articles/atom
+-
+  title: Everything
+  url: /feeds/atom

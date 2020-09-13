@@ -1,0 +1,41 @@
+Title: January 21st, 2018
+
+----
+
+Text: Still seem to be some way off having a standardised way to present weather data in posts as a microformat but pleased to see a trend following https://indieweb.org/weather
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Latitude: 51.2054724
+
+----
+
+Longitude: 0.27526839999999997
+
+----
+
+Temperature: 6°C
+
+----
+
+Weather Icon: rain
+
+----
+
+Date: 2018-01-21 18:46
+
+----
+
+Redirect: https://calumryan.com/note/1316
+
+----
+
+UID: 1316

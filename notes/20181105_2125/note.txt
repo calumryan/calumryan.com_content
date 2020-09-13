@@ -1,0 +1,45 @@
+Title: November 5th, 2018
+
+----
+
+Text: The amazingly knowledgeable, prepared @LeonieWatson speaking on screen readers and performance at \#A11yClub Berlin
+
+----
+
+Feature Image: a11y.jpg
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Latitude: 52.5015456
+
+----
+
+Longitude: 13.449558
+
+----
+
+Temperature: 13°C
+
+----
+
+Weather Icon: partly-cloudy-day
+
+----
+
+Date: 2018-11-05 10:29
+
+----
+
+Redirect: https://calumryan.com/note/2125
+
+----
+
+UID: 2125

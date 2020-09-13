@@ -1,0 +1,48 @@
+Title: Learning React Day 1
+----
+Description:
+First day in my learning log to understand and apply React into future personal and work-related Web projects.
+
+----
+
+Og:  false
+
+----
+
+Text:
+I've struggled to date reasoning why I should learn a JavaScript library that's considerably abstracted from the core language and, on face value, seems to mess around a lot with your HTML and CSS code. This learning process will I hope clarify my understanding of React and help me to identify where it could be helpful in existing and future problems I face building for the Web.
+
+Back to 2015: the origins of React were widely documented and applied for usage in native applications on platforms such as iOS and Android where it was and remains in reference and documentation as React Native.
+
+When we look at React in the context of building for the Web there are some key differences and additions for how the language is applied and assisted with to work with Web/internet technologies. This, in part, is so that it can efficiently control the HTML DOM, handle existing Web-based package managers and convert language to a readable format for both existing and older Web browsers.
+
+React is probably the first framework I've used that's predominantly engineered for <em>declarative</em> programming as opposed to <em>imperative</em> programming, as I've typically done in frameworks like jQuery. This means that rather than coding out line after line <em>how</em> a function should operate, instead I'd generally just write a single line function to state <em>what</em> should happen. It's then assumed the framework has the knowledge to know how to proceed with this instruction.
+
+It's beneficial to write code with a declarative approach not only to save time but also have:
+
+* Reduced chance of bugs
+* Overall less code
+* More readable code
+* Mutable code (code that's less likely to change)
+
+In this initial session I've learnt four parts of the ecosystem in React that are commonly applied for building on the Web.
+
+* React Router (typically used for navigation control)
+* Webpack (used for code bundling)
+* Babel (compiling React into readable JS that's cross-browser compatible, not only for modern Web browsers)
+* AXIOS (In the context of the Web this is useful for HTTTP requests)
+
+I've also come across JavaScript XML that's referred to as simply <em>JSX</em>. What looks like HTML loosely written into JavaScript is actually a standard part of the process in writing React components. Again this goes back to efficiency over separation of HTML and JS so that the framework can update and render page content quickly and smoothly.
+
+### Reference + reading
+React Training [React Fundamentals](https://online.reacttraining.com/courses/enrolled/50507)
+----
+
+Tags: learning
+----
+
+Date: 2017-05-29 00:00
+
+----
+
+Redirect: https://calumryan.com/learning/learning-react-day-1/

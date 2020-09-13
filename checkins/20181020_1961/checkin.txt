@@ -1,0 +1,45 @@
+Title: October 20th, 2018
+
+----
+
+Text: Checked in at IndieWebCamp Nuremberg
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5bcae32c0e5da800393b4c2c
+
+----
+
+Longitude: 11.106807
+
+----
+
+Latitude: 49.475105
+
+----
+
+Temperature: 
+
+----
+
+Weather Icon: 
+
+----
+
+Date: 2018-10-20 09:11
+
+----
+
+Redirect: https://calumryan.com/note/1961
+
+----
+
+UID: 1961

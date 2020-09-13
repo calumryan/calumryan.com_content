@@ -1,0 +1,41 @@
+Title: January 22nd, 2020
+
+----
+
+Text: What's my website's environmental impact? https://calumryan.com/blog/whats-my-websites-environmental-impact/
+
+----
+
+Permalink: 
+
+----
+
+Tags: WebPerf, PWA, environment
+
+----
+
+Latitude: 51.50999006648069
+
+----
+
+Longitude: -0.12706865539928533
+
+----
+
+Temperature: 5°C
+
+----
+
+Weather Icon: cloudy
+
+----
+
+Date: 2020-01-22 20:23
+
+----
+
+Redirect: https://calumryan.com/note/3377
+
+----
+
+UID: 3377

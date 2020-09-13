@@ -1,0 +1,42 @@
+Title: Talking PWAs at UX Camp Brighton
+----
+Description:
+Next month I'm running a short session at UX Camp Brighton introducing and discussing progressive web apps (PWAs).
+
+----
+
+Og:  false
+
+----
+
+Text:
+This will be a collaborative session in which we plan out and discuss ways to improve the user experience of existing websites through progressively enhancing them to become comparable to a native app, or even, better than a native app!
+
+I'll be introducing some common characteristics of PWAs such as:
+
+* **Availabilty** offline/poor quality connections (utilising ServiceWorkers)
+* **Discoverability** in search engines (via Manifest)
+* **Re-engagement** through push notifications
+* **Installability** adding a home screen icon
+
+A few topics of conversation that might arise from this process could include:
+
+* To what extent do the UI features of your PWA match those of the user's platform versus a separately designed UI?
+* Should you convert the entire website into a PWA or keep a separate version to serve desktop users?
+* What UI features of native apps would you like *...and could feasibly incorporate into a PWA*?
+
+**I hope from this session that together we learn what benefits, limitations and challenges there are in designing PWAs.**
+
+### Reference + reading
+* A fantastic source for inspiration with an ever growing list of PWAs now live [PWA Rocks](https://pwa.rocks/)
+* Inspiration and research for this session, a post written by Jason Grigsby, [Designing Responsive Progressive Web Apps](https://cloudfour.com/thinks/designing-responsive-progressive-web-apps/)
+----
+
+Tags: general
+----
+
+Date: 2017-02-21 00:00
+
+----
+
+Redirect: https://calumryan.com/blog/talking-pwas-ux/

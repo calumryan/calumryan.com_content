@@ -1,0 +1,45 @@
+Title: September 14th, 2019
+
+----
+
+Text: Checked in at Red Lion Square Gardens
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5d7ca5aa5ef1db00076ee215
+
+----
+
+Longitude: -0.11885418069516
+
+----
+
+Latitude: 51.519262182179
+
+----
+
+Temperature: 21°C
+
+----
+
+Weather Icon: clear-day
+
+----
+
+Date: 2019-09-14 09:32
+
+----
+
+Redirect: https://calumryan.com/note/3008
+
+----
+
+UID: 3008

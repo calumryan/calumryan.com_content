@@ -1,0 +1,41 @@
+Title: July 27th, 2018
+
+----
+
+Text: Dual fan setup inside the home office today 30℃ and rising
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Latitude: 51.205404599999994
+
+----
+
+Longitude: 0.27537269999999997
+
+----
+
+Temperature: 30°C
+
+----
+
+Weather Icon: clear-day
+
+----
+
+Date: 2018-07-27 00:00
+
+----
+
+Redirect: https://calumryan.com/note/1803
+
+----
+
+UID: 1803

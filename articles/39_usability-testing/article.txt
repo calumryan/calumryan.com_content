@@ -1,0 +1,88 @@
+Title: Usability Testing
+----
+
+Description:
+Testing usability of a digital product takes on a wide variety of test types and feedback processes that I hope to elaborate on in this article. Designers, developers, product owners and anyone with a vested interested should all partake in this process, from defining the tests to measuring the success and failures of different usability testing.
+
+----
+
+Og:  false
+
+----
+
+Text:
+Firstly my background in usability testing: over the past decade I've worked on countless digital products, predominantly websites and applications, some for commercial purpose and others for academic study. Predominantly these have been team-based projects where there's a strong focus on close, continuous collaboration to design and build the products as efficiently and well designed for usability as possible given any constraints such as time and budget.
+
+### Valuing usability
+It seems simple but all too easily not achieved, a digital product in part or as a whole should provide a good user experience. Good usability testing forms the foundations for a well designed digital product that users can achieve tasks with easily and efficiently.
+
+The Nielsen Norman Group defines the term usability as:
+
+<blockquote cite="https://www.nngroup.com/articles/usability-101-introduction-to-usability/">
+&ldquo;Usability is a quality attribute that assesses how easy user interfaces are to use&rdquo;
+</blockquote><br>
+
+Crucially digital products live and die by how usable they are and within a very short space of time users will leave if they find it difficult to use. In the event that you don't match or offer something even better than the alternatives users will leave and go to them.
+
+### Components of usability
+Treating usability as a measurable quality attribute there are five quality components that we can judge a product by:
+
+- <strong>Learnability</strong><br><em>It shouldn't be necessary on something like a website to have to spend a long time learning the interface. Making it as quick as possible to learn makes this better for usability.</em>
+- <strong>Efficiency</strong><br><em>Can a task can be done with ease and quickness? On the Web this can depend on aspects like good performance and a well designed interface which is inclusive for users with all types of disability.</em>
+- <strong>Memorability</strong><br><em>It should be possible for returning visitors, even after a long period, to remember how to use your product without having to relearn it. Customisable themes and features that a user has control of such as via a personal account might make this even easier.</em>
+- <strong>Errors</strong><br><em>Discovering what errors a user makes when using your products provides insight into areas to improve and how much it can help recover the user when errors do occur.</em>
+- <strong>Satisfaction</strong><br><em>Are the aesthetics visually pleasing? In the context of Web design, I see important things like colour contrast and page layout might be measured on this attribute.</em>
+
+### A compromise for not usability testing?
+A compromise for not having the time or budget to test usability in your digital product is, in part, to adopt tried and tested approaches when it comes to designing your interfaces and choice of underlying technology. There may be other factors to consider but ultimately if you can't provide a better validated user experience than what is already available then there's a high chance of failure in trying to launch untested concepts.
+
+Designing usability tests shouldn't be an afterthought in the overall schedule of a project's delivery but at its core. Digital products like websites might also be considered as having ongoing requirements, to test and improve usability as the technology they're delivered on rapidly changes in form factor and specification.
+
+### Methods of user testing
+Deciding a suitable approach for user testing can depend a lot on the product itself being designed but also the team creating it and what kind of users you can find to test the product's usability. There may be budgetary limits that make one approach more feasible than others as well as practical challenges that make one set of tests more appropriate than others.
+
+#### Explorative
+In this approach some or all of a digital product's proposed design is presented to the user. This is typically in the form of wireframes from which the reactions of users are fed back into a cycle of iterative tests and reporting results. It's an approach employed commonly in agile methods where the end goals of a project are generally subject to continuous adaptation and evolution of individual stages, modules or components contained within a digital product.
+
+#### Comparative
+This experimental approach can involve producing two or more variations of a concept from which users rate against each other to establish positive and negative aspects of the user experience in each. It can provide a useful way to combine the best features of different variations and likewise highlight any areas to improve upon.
+
+#### Thinking aloud with feedback
+Usability testing can often involve actively monitoring users as they complete a series of tasks when using a digital product like a website or app. Some automated tools can assist in this process but verbal feedback from the user could be the most useful in gathering practical information about how the user experience can be improved.
+
+#### Remote
+When it comes to testing usability remotely there are one of two variations that can be used. Both offer the opportunity to test a product over a wide demographic in different timezones, languages and affecting environmental factors.
+
+<strong><em>Synchronous remote testing</em></strong> can be the most tricky as it requires real-time testing of a product, typically over a live streamed video link that shows the user and the visuals of any device being used. Much the same as thinking aloud feedback, the process involves getting direct feedback from users as they use the product. It can be less convenient than other methods for all involved in conducting the test session.
+
+<strong><em>Asynchronous</em></strong> can be considered the more convenient of the two approaches here, in that tests can be sent to users around the world for them to do in their own time. Occasionally automated software may be utilised here to gather statistical feedback in addition to any direct feedback the user is requested to send on their experience.
+
+#### Hallway
+Hallway user testing is very much dependent on the voluntary participation of users often in public/communal spaces who are just passing by. Typically portable devices like smartphones, tablets or laptops may be used to present the product immediately in front of users at different locations. Feedback can then be gathered with relative speed and little cost but may also depend on an active awareness of things like how diverse a crowd of users may be found within a select location(s).
+
+#### Wireframing
+Wireframe prototypes can often be the starting point for a concept that needs to be visualised in some way that others can review and critic where necessary. It can be done on paper or through digital publishing software to create illustrations and schematic diagrams of how the user might be expected to navigate through and achieve one or a series of tasks.
+
+#### Assessment
+Slightly daunting though it may sound at first, this approach will normally be run as a background usability test with real-time monitoring of a user's progress and reactions in completing a set series of tests on a developed prototype of the digital product. Feedback can be gathered quickly to establish main areas of improvement that need addressing ahead of final production.
+
+#### Review-based
+In the later stages of usability testing being able to bring onboard experienced, expert testers can offer the opportunity of gathering solid, reliable feedback about a range of major as well as minor usability issues. Expert reviewers may already have defined their own tests and have suitable automated tools for deeply interrogating your product's usability with many potential use cases.
+
+### In summary
+Future-proofing your digital product's design comes in part thanks to good planning of usability tests that cater for changing trends in user needs and the technology available. Understanding user needs for your digital products today versus two years from now could mean a lot of rethinking down the line so having an ongoing usability testing strategy may be of critical importance when designing for adaptability and predicted lifespan.
+
+Starting to define usability tests as early as possible provides a much more solid roadmap for planning and delivering a digital products that will achieve the purpose it was set out to do. From that you're able to base decisions on solid research and evidence, as opposed to assumptions about users and products designed round features, when they should be designed round users and their needs.
+
+### Reference + reading
+- [Usability 101: Introduction to Usability by Jakob Nielsen](https://www.nngroup.com/articles/usability-101-introduction-to-usability/)
+----
+
+Tags: general
+----
+
+Date: 2017-11-16 00:00
+
+----
+
+Redirect: https://calumryan.com/blog/usability-testing/

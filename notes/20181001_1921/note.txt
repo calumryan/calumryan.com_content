@@ -1,0 +1,42 @@
+Title: October 1st, 2018
+
+----
+
+Text: Support and contribute to open source it's \#Hacktoberfest
+nudge.. https://github.com/calumryan/indieweb-guides/issues/1
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Temperature: 
+
+----
+
+Weather Icon: 
+
+----
+
+Date: 2018-10-01 22:43
+
+----
+
+Redirect: https://calumryan.com/note/1921
+
+----
+
+UID: 1921

@@ -1,0 +1,49 @@
+Title: June 28th, 2019
+
+----
+
+Text: Time to talk patterns, design systems and the web! \#PatternsDay 2019 kicking off in Brighton ☀️
+
+----
+
+Feature Image: IMG_20190628_100005.jpg
+
+----
+
+Image Alt: Jeremy Keith introducing Patterns Day at Duke of York cinema in Brighton
+
+----
+
+Permalink: 
+
+----
+
+Tags: PatternsDay
+
+----
+
+Latitude: 50.8338645
+
+----
+
+Longitude: -0.1385108
+
+----
+
+Temperature: 18°C
+
+----
+
+Weather Icon: partly-cloudy-day
+
+----
+
+Date: 2019-06-28 10:29
+
+----
+
+Redirect: https://calumryan.com/note/2827
+
+----
+
+UID: 2827

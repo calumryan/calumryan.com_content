@@ -1,0 +1,21 @@
+Title: An accessibility analysis of the top 1,000,000 home pages – an in-depth evaluation of how good/bad the web is doing for meeting accessibility needs
+
+----
+
+Permalink: https://webaim.org/projects/million/
+
+----
+
+Date: 2019-03-15 07:49
+
+----
+
+Tags: a11y 
+
+----
+
+Redirect: https://calumryan.com/note/2493
+
+----
+
+UID: 2493

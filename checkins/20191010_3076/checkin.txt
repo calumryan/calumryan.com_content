@@ -1,0 +1,45 @@
+Title: October 10th, 2019
+
+----
+
+Text: Checked in at Two Brewers
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5d9f5f5a2e390100083dd72e
+
+----
+
+Longitude: -0.0928938
+
+----
+
+Latitude: 51.5224884
+
+----
+
+Temperature: 16°C
+
+----
+
+Weather Icon: partly-cloudy-day
+
+----
+
+Date: 2019-10-10 17:42
+
+----
+
+Redirect: https://calumryan.com/note/3076
+
+----
+
+UID: 3076

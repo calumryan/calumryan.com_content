@@ -1,0 +1,45 @@
+Title: December 27th, 2019
+
+----
+
+Text: Checked in at Caffè Nero
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5e06037d0dc96b0008bd1cdd
+
+----
+
+Longitude: -0.33058707237965
+
+----
+
+Latitude: 51.062899576077
+
+----
+
+Temperature: 8°C
+
+----
+
+Weather Icon: partly-cloudy-day
+
+----
+
+Date: 2019-12-27 13:13
+
+----
+
+Redirect: https://calumryan.com/note/3332
+
+----
+
+UID: 3332

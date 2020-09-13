@@ -1,0 +1,41 @@
+Title: August 22nd, 2018
+
+----
+
+Text: All alone at \#HWCLondon tonight reviewing over more ServiceWorker changes to improve the offline experience
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Latitude: 51.51009
+
+----
+
+Longitude: -0.1271725
+
+----
+
+Temperature: 21°C
+
+----
+
+Weather Icon: cloudy
+
+----
+
+Date: 2018-08-22 19:11
+
+----
+
+Redirect: https://calumryan.com/note/1850
+
+----
+
+UID: 1850

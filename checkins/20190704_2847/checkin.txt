@@ -1,0 +1,45 @@
+Title: July 4th, 2019
+
+----
+
+Text: Checked in at The Fine Line
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5d1e234fd6e62900098b37a5
+
+----
+
+Longitude: -0.094054588954918
+
+----
+
+Latitude: 51.513558277228
+
+----
+
+Temperature: 27°C
+
+----
+
+Weather Icon: partly-cloudy-day
+
+----
+
+Date: 2019-07-04 17:03
+
+----
+
+Redirect: https://calumryan.com/note/2847
+
+----
+
+UID: 2847

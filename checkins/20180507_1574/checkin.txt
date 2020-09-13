@@ -1,0 +1,45 @@
+Title: May 7th, 2018
+
+----
+
+Text: Checked in at Pizzeria Lupo
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5af0c8a35a2c91002c7c9d85
+
+----
+
+Longitude: 6.7756037772992
+
+----
+
+Latitude: 51.226422501016
+
+----
+
+Temperature: 
+
+----
+
+Weather Icon: 
+
+----
+
+Date: 2018-05-07 22:44
+
+----
+
+Redirect: https://calumryan.com/note/1574
+
+----
+
+UID: 1574

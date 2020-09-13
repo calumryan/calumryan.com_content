@@ -1,0 +1,45 @@
+Title: December 29th, 2019
+
+----
+
+Text: Checked in at Crossrail Place Roof Garden
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5e0899d467e9cb000768bd4f
+
+----
+
+Longitude: -0.016822266761863
+
+----
+
+Latitude: 51.505964682765
+
+----
+
+Temperature: 8°C
+
+----
+
+Weather Icon: partly-cloudy-day
+
+----
+
+Date: 2019-12-29 12:19
+
+----
+
+Redirect: https://calumryan.com/note/3335
+
+----
+
+UID: 3335

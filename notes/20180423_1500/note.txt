@@ -1,0 +1,41 @@
+Title: April 23rd, 2018
+
+----
+
+Text: Volunteered some of my time to a local community group to setup a small self-maintainable static generated website. Content with Facebook's walled garden as their only web presence, their response: they feel a website's unnecessary. 😔 
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Temperature: 
+
+----
+
+Weather Icon: 
+
+----
+
+Date: 2018-04-23 09:28
+
+----
+
+Redirect: https://calumryan.com/note/1500
+
+----
+
+UID: 1500

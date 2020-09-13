@@ -1,0 +1,45 @@
+Title: October 3rd, 2017
+
+----
+
+Text: Checked in at Financial Times. London Web Performance
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/59d3c86bdec1d63cb1944365
+
+----
+
+Longitude: -0.094546952384232
+
+----
+
+Latitude: 51.507692888366
+
+----
+
+Temperature: 
+
+----
+
+Weather Icon: 
+
+----
+
+Date: 2017-10-03 18:27
+
+----
+
+Redirect: https://calumryan.com/note/1013
+
+----
+
+UID: 1013

@@ -1,0 +1,45 @@
+Title: October 6th, 2017
+
+----
+
+Text: Checked in at The Skiff
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/59d77518e185f328e15c483b
+
+----
+
+Longitude: -0.13849854469299
+
+----
+
+Latitude: 50.829164274926
+
+----
+
+Temperature: 
+
+----
+
+Weather Icon: 
+
+----
+
+Date: 2017-10-06 13:20
+
+----
+
+Redirect: https://calumryan.com/note/1018
+
+----
+
+UID: 1018

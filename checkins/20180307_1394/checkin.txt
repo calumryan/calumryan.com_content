@@ -1,0 +1,45 @@
+Title: March 7th, 2018
+
+----
+
+Text: Checked in at Financial Times. London Web Perf
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5aa040a135d3fc2d11bef6ba
+
+----
+
+Longitude: -0.094546952384232
+
+----
+
+Latitude: 51.507692888366
+
+----
+
+Temperature: 
+
+----
+
+Weather Icon: 
+
+----
+
+Date: 2018-03-07 19:42
+
+----
+
+Redirect: https://calumryan.com/note/1394
+
+----
+
+UID: 1394

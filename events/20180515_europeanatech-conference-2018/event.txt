@@ -1,0 +1,45 @@
+Title: EuropeanaTech Conference 2018
+
+----
+
+Tags:
+
+----
+
+Latitude: 51.897904
+
+----
+
+Longitude: 4.4728108
+
+----
+
+Date: 2018-05-15 09:00
+
+----
+
+Date start: 2018-05-15 09:00:00 +0100
+
+----
+
+Date end: 2018-05-16 18:00:00 +0100
+
+----
+
+Timezone: CEST
+
+----
+
+City: Rotterdam
+
+----
+
+Location: ss Rotterdam
+
+----
+
+Redirect: https://calumryan.com/event/europeanatech-conference-2018
+
+----
+
+UID: europeanatech-conference-2018

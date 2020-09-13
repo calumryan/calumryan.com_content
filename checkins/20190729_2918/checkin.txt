@@ -1,0 +1,45 @@
+Title: July 29th, 2019
+
+----
+
+Text: Checked in at Tonbridge School Centre
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5d3f364f0003470008c263d1
+
+----
+
+Longitude: 0.26890546518888
+
+----
+
+Latitude: 51.201348553983
+
+----
+
+Temperature: 18°C
+
+----
+
+Weather Icon: clear-night
+
+----
+
+Date: 2019-07-29 19:09
+
+----
+
+Redirect: https://calumryan.com/note/2918
+
+----
+
+UID: 2918

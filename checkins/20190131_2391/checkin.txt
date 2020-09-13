@@ -1,0 +1,45 @@
+Title: January 31st, 2019
+
+----
+
+Text: Checked in at UNIQLO
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5c5344999e3b65002c82c6d8
+
+----
+
+Longitude: -0.13707888853145
+
+----
+
+Latitude: 51.510066756571
+
+----
+
+Temperature: 2°C
+
+----
+
+Weather Icon: rain
+
+----
+
+Date: 2019-01-31 18:55
+
+----
+
+Redirect: https://calumryan.com/note/2391
+
+----
+
+UID: 2391

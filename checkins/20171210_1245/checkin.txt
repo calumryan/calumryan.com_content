@@ -1,0 +1,45 @@
+Title: December 10th, 2017
+
+----
+
+Text: Checked in at Fenwicks
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5a2d5dd5a35dce75151642e9
+
+----
+
+Longitude: 0.26468155345092
+
+----
+
+Latitude: 51.134991499243
+
+----
+
+Temperature: 
+
+----
+
+Weather Icon: 
+
+----
+
+Date: 2017-12-10 16:16
+
+----
+
+Redirect: https://calumryan.com/note/1245
+
+----
+
+UID: 1245

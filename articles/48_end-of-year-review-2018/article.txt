@@ -1,0 +1,61 @@
+Title: End of year review 2018
+----
+Description:
+Approaching the end of 2018 I've been reflecting on a year filled with challenges and considering new opportunities professionally and personally.
+
+----
+
+Thumbnail: media/pages/posts/unsorted/og/profile-2018.jpg
+
+----
+
+Og:  false
+
+----
+
+Text:
+### Self-publishing
+On my own website I've been doing a lot more in terms of sharing the sites I visit, read and bookmark. In the past year I've published, shared and syndicated approximately 100 bookmarks and 40 likes using my own website with its own hand-crafted CMS which I continue to improve and expand on.
+
+### IndieWebCamp
+Once again I was in Germany three times this year for [IndieWebCamp](https://indieweb.org) in Düsseldorf and Nuremberg. Although some what unplanned, I also later decided to attend Berlin again so that I could participate in the first ever European meeting for organisers. Furthermore there were a great range of folks attending IndieWebCamp Berlin this year from both sides of the Atlantic. Consequently there was a fantastic choice of topics discussed on day one and some really impressive demos presented for day two.
+
+### Accessibility Club
+Also whilst in Berlin I took the opportunity to attend the superbly organised [Accessibility Club](https://accessibility-club.org/) which I found out about through [Joschi](https://jkphl.is). The subject of web accessibility is an area I've become more aware of in recent years. Along with attending [Alistair's](https://twitter.com/dugboticus), [London Accessibility Meetup](https://www.meetup.com/London-Accessibility-Meetup/), Accessibility Club Berlin helped influence me in setting out to understand more and advocate for better awareness and appreciation of making the web more accessible.
+
+### Homebrew Website Club
+Organising [HWC London](http://hwclondon.co.uk), I've found it pleasing to see the event continue to bring in new and past attendees throughout 2018 including [Ana](https://www.ohhelloana.blog/), [Carl](https://chrisburnell.com), [Jonas](https://blog.voss.co) and [Neil](https://doubleloop.net/). The regular events help drive my commitment to work on a piece of code or usability tweak for my website and the opportunity to discuss what improvements others are making on their own websites.
+
+### Re-decentralising the web
+Working on my own website and efforts to inform others on re-decentralising parts of the web has been one of my main areas of focus including a talk I gave at [London Web Standards](https://londonwebstandards.org/2018/06/lws-18-june-2018-lwsjun18/). After much deliberation I've since gone on to delete my account on two popular social network platforms that I'd been with for many years. In place I've been focusing on building similar or better features for my own website.
+
+### A new chapter for Codebar
+The new chapter of [Codebar Kent](http://www.codebar.io/kent) has been a welcome addition to my monthly calendar of events - thanks to [Mike](https://twitter.com/MikeMasey) for organising. I've managed to attend a couple so far and found it a very rewarding, educational experience coaching students from a variety of backgrounds.
+
+### Fitness and travel
+Keeping up with my fitness this year I decided to take part in the somewhat gruelling West Riding Classic cycling sportive in April. The North Yorkshire scenery, quiet roads and weather conditions made for a perfect ride. I was least expecting the long and sharp bending descents particularly approaching the villages of Malham and Settle but thankfully my bike's brakes were up to the job.
+
+Of the four trips I made outside the UK this year to Germany, The Netherlands and briefly Belgium only one involved flying, the rest were by train. Not only were these trips much more environmentally friendly but I enjoyed the overall journey more. Being able to observe scenery country-to-country along the way in space and comfort, plus being able to reach cities more directly really can make for a much more memorable, enjoyable trip.
+
+![Collage of 2018 photos](/media/pages/posts/unsorted/collage-2018.jpg)
+
+### Looking forward to 2019
+The year ahead fills me with thoughts and hopes. For my own plans professionally I'm feeling positive. I'm concerned and less hopeful for when the full effects of Brexit take hold in the country I've lived and grown up in over the past three decades leaves the EU.
+
+Leaving aside politics and events which I have little or no control over, my focus in 2019 will be to evaluate and improve on my approach for automating repetitive, error-prone tasks in my coding and general workflow. Meanwhile I plan to:
+
+- Contribute more to open-source projects, highlighting usability and accessibility issues along with other improvements.
+- Continue organising and supporting the IndieWeb community through HWC London and, I hope, at least one IndieWebCamp somewhere.
+- Continue my volunteering efforts to coach others how to code and solve problems at Codebar.
+- Research some topics with my own perspective to give a new talk on at a meetup.
+- Visit at least a few places, and maybe even countries, I've never been to before.
+----
+
+Tags: general
+----
+
+Date: 2019-01-01 00:00
+
+----
+
+Redirect: https://calumryan.com/blog/end-of-year-review-2018/

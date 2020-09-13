@@ -1,0 +1,21 @@
+Title: Reluctant Gatekeeping: The Problem With Full Stack by @heydonworks 
+
+----
+
+Permalink: http://www.heydonworks.com/article/reluctant-gatekeeping-the-problem-with-full-stack
+
+----
+
+Date: 2018-12-03 23:03
+
+----
+
+Tags: javascript, html, fullstack, programming, development 
+
+----
+
+Redirect: https://calumryan.com/note/2228
+
+----
+
+UID: 2228

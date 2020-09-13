@@ -1,0 +1,49 @@
+Title: May 31st, 2019
+
+----
+
+Text: Checked in at London Luton Airport (LTN)
+
+----
+
+Feature Image: fsqaQueyG.jpg
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5cf1695efc9e940039a2e36b
+
+----
+
+Longitude: -0.3752779985841
+
+----
+
+Latitude: 51.879711198425
+
+----
+
+Temperature: 19°C
+
+----
+
+Weather Icon: partly-cloudy-day
+
+----
+
+Date: 2019-05-31 18:50
+
+----
+
+Redirect: https://calumryan.com/note/2735
+
+----
+
+UID: 2735

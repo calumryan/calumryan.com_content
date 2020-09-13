@@ -1,0 +1,45 @@
+Title: November 2nd, 2018
+
+----
+
+Text: Checked in at Tiergarten
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5bdc1e1d51950e002c5b9217
+
+----
+
+Longitude: 13.354754304462
+
+----
+
+Latitude: 52.510128815984
+
+----
+
+Temperature: 11°C
+
+----
+
+Weather Icon: clear-day
+
+----
+
+Date: 2018-11-02 09:51
+
+----
+
+Redirect: https://calumryan.com/note/2082
+
+----
+
+UID: 2082

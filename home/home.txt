@@ -1,0 +1,20 @@
+Title: Home
+
+----
+
+Special:
+
+I'm (link: /about text: Calum Ryan), I develop, design, speak and write about websites, focusing on **accessibility**, **inclusivity** and **performance**.
+
+I work for (link: https://www.dxw.com/ text: dxw). Also I participate and help organise events in the (link: https://indieweb.org/ text: IndieWeb) community.
+
+----
+
+Description: Website of Calum Ryan - making websites, focusing on accessibility, inclusivity and performance.
+
+----
+
+Logo:
+
+# Calum Ryan
+I design, build and write about stuff for the web.

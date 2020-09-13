@@ -1,0 +1,45 @@
+Title: September 8th, 2018
+
+----
+
+Text: Checked in at Caffè Nero
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5b937c40d905160025dec545
+
+----
+
+Longitude: -0.12270478339557
+
+----
+
+Latitude: 51.514207949043
+
+----
+
+Temperature: 
+
+----
+
+Weather Icon: 
+
+----
+
+Date: 2018-09-08 08:37
+
+----
+
+Redirect: https://calumryan.com/note/1885
+
+----
+
+UID: 1885

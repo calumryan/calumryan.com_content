@@ -1,0 +1,45 @@
+Title: December 27th, 2018
+
+----
+
+Text: Checked in at Foyles
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5c24bc187b385f002ccb5ea5
+
+----
+
+Longitude: 0.474546
+
+----
+
+Latitude: 51.733803
+
+----
+
+Temperature: 6°C
+
+----
+
+Weather Icon: partly-cloudy-day
+
+----
+
+Date: 2018-12-27 11:48
+
+----
+
+Redirect: https://calumryan.com/note/2294
+
+----
+
+UID: 2294

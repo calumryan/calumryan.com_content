@@ -1,0 +1,21 @@
+Title: &quot;we must start to see inaccessible and slow websites for what they are: a form of cruelty&quot; – from Accessibility and web performance are not features, they’re the baseline  (via @robinrendle)
+
+----
+
+Permalink: https://css-tricks.com/accessibility-and-web-performance-are-not-features-theyre-the-baseline/
+
+----
+
+Date: 2019-08-20 14:12
+
+----
+
+Tags: a11y, webperf 
+
+----
+
+Redirect: https://calumryan.com/note/2957
+
+----
+
+UID: 2957

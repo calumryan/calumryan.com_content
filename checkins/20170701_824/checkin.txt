@@ -1,0 +1,45 @@
+Title: July 1st, 2017
+
+----
+
+Text: Checked in at Guildford
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5957542deacf45366a126c89
+
+----
+
+Longitude: -0.57636752740195
+
+----
+
+Latitude: 51.236999865776
+
+----
+
+Temperature: 
+
+----
+
+Weather Icon: 
+
+----
+
+Date: 2017-07-01 08:50
+
+----
+
+Redirect: https://calumryan.com/note/824
+
+----
+
+UID: 824

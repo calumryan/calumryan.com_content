@@ -1,0 +1,41 @@
+Title: December 24th, 2018
+
+----
+
+Text: Heartened by the interest and engagement we've helped develop for IndieWeb @HWCLondon over the past 2 years. Reinforced by posts like this by Jonas.. https://blog.voss.co/2018/festive-indieweb-and-selfhosting
+
+----
+
+Permalink: https://blog.voss.co/2018/festive-indieweb-and-selfhosting
+
+----
+
+Tags: 
+
+----
+
+Latitude: 51.2054912
+
+----
+
+Longitude: 0.275104
+
+----
+
+Temperature: 4°C
+
+----
+
+Weather Icon: clear-night
+
+----
+
+Date: 2018-12-24 18:58
+
+----
+
+Redirect: https://calumryan.com/note/2280
+
+----
+
+UID: 2280

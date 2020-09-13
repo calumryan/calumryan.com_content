@@ -1,0 +1,21 @@
+Title: Web Performance 101 - a concise overview of measuring your website's performance
+
+----
+
+Permalink: https://3perf.com/talks/web-perf-101/
+
+----
+
+Date: 2018-11-02 23:05
+
+----
+
+Tags: webperf, performance, http 
+
+----
+
+Redirect: https://calumryan.com/note/2094
+
+----
+
+UID: 2094

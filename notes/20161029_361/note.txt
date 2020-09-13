@@ -1,0 +1,41 @@
+Title: October 29th, 2016
+
+----
+
+Text: Spreading the word on a better web \#indieweb at \#MozFest London today
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Latitude: 51.5017857
+
+----
+
+Longitude: 0.0054046
+
+----
+
+Temperature: 14°C
+
+----
+
+Weather Icon: partly-cloudy-day
+
+----
+
+Date: 2016-10-29 15:29
+
+----
+
+Redirect: https://calumryan.com/note/361
+
+----
+
+UID: 361

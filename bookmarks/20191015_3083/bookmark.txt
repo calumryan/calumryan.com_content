@@ -1,0 +1,21 @@
+Title: Managing accessibility in open source CMSes: a write-up (via @hdv)
+
+----
+
+Permalink: https://hiddedevries.nl/en/blog/2019-09-03-managing-accessibility-in-open-source-cmses-a-write-up
+
+----
+
+Date: 2019-10-15 09:16
+
+----
+
+Tags: a11y 
+
+----
+
+Redirect: https://calumryan.com/note/3083
+
+----
+
+UID: 3083

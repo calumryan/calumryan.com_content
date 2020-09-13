@@ -1,0 +1,49 @@
+Title: May 23rd, 2019
+
+----
+
+Text: Machine learning for something useful
+
+----
+
+Feature Image: IMG_20190523_132346.jpg
+
+----
+
+Image Alt: Cocktails made by robots
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Latitude: 51.519049
+
+----
+
+Longitude: -0.0929149
+
+----
+
+Temperature: 23°C
+
+----
+
+Weather Icon: partly-cloudy-day
+
+----
+
+Date: 2019-05-23 13:31
+
+----
+
+Redirect: https://calumryan.com/note/2708
+
+----
+
+UID: 2708

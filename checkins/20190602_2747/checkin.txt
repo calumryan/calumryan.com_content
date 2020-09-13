@@ -1,0 +1,45 @@
+Title: June 2nd, 2019
+
+----
+
+Text: Checked in at Dublin Connolly Railway Station
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5cf3940b3149b9002cecc641
+
+----
+
+Longitude: -6.2489711958381
+
+----
+
+Latitude: 53.351913261768
+
+----
+
+Temperature: 17°C
+
+----
+
+Weather Icon: partly-cloudy-day
+
+----
+
+Date: 2019-06-02 10:16
+
+----
+
+Redirect: https://calumryan.com/note/2747
+
+----
+
+UID: 2747

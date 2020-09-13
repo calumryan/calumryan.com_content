@@ -1,0 +1,49 @@
+Title: October 23rd, 2018
+
+----
+
+Text: Checked in at Paris Est Railway Station (Gare SNCF de Paris Est)
+
+----
+
+Feature Image: fsqo6miw9.jpg
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5bcf4870628c83002c16617f
+
+----
+
+Longitude: 2.3592348187287
+
+----
+
+Latitude: 48.877180731083
+
+----
+
+Temperature: 16°C
+
+----
+
+Weather Icon: clear-day
+
+----
+
+Date: 2018-10-23 17:12
+
+----
+
+Redirect: https://calumryan.com/note/2039
+
+----
+
+UID: 2039

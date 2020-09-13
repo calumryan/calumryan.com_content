@@ -1,0 +1,45 @@
+Title: standards.next
+
+----
+
+Tags:
+
+----
+
+Latitude: 53.47136
+
+----
+
+Longitude: -2.23872
+
+----
+
+Date: 2012-03-03 13:00
+
+----
+
+Date start: 2012-03-03 13:00:00 +0000
+
+----
+
+Date end: 2012-03-03 18:00:00 +0000
+
+----
+
+Timezone: GMT
+
+----
+
+City: Manchester
+
+----
+
+Location: Manchester Metropolitan University, Oxford Road, Manchester
+
+----
+
+Redirect: https://calumryan.com/event/standards-next
+
+----
+
+UID: standards-next

@@ -1,0 +1,25 @@
+Title: November 18th, 2018
+
+----
+
+Text: Might lazily arrive in to a W3C spec as a progressive enhancement at some point but still some way off 👉 https://calibreapp.com/blog/2018-08-16-native-lazy-load
+
+----
+
+Permalink: https://twitter.com/JamesLMilner/status/1064287332457693192
+
+----
+
+Date: 2018-11-18 23:08
+
+----
+
+Tags: html, webperf, lazyload, w3c
+
+----
+
+Redirect: https://calumryan.com/note/2188
+
+----
+
+UID: 2188

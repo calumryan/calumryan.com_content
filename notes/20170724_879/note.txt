@@ -1,0 +1,41 @@
+Title: July 24th, 2017
+
+----
+
+Text: Peter O'Shaughnessy writes about a few goodies we can all benefit from in PWAs https://medium.com/samsung-internet-dev/heres-what-you-get-for-free-with-a-progressive-web-app-74b7ac5bdb3a
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Temperature: 
+
+----
+
+Weather Icon: 
+
+----
+
+Date: 2017-07-24 10:25
+
+----
+
+Redirect: https://calumryan.com/note/879
+
+----
+
+UID: 879

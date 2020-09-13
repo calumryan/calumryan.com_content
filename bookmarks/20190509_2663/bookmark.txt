@@ -1,0 +1,21 @@
+Title: &quot;You do most of the stuff you’d do on Facebook, Twitter, Instagram, etc, including interacting with other people, but on a site that you control, with full ownership of all the things you post.&quot;
+
+----
+
+Permalink: https://doubleloop.net/2019/05/01/bridging-the-indieweb-and-the-fediverse-with-bridgy-fed-part-1/
+
+----
+
+Date: 2019-05-09 11:16
+
+----
+
+Tags: indieweb 
+
+----
+
+Redirect: https://calumryan.com/note/2663
+
+----
+
+UID: 2663

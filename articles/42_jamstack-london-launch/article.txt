@@ -1,0 +1,35 @@
+Title: JAMstack London Launch
+----
+Description:
+Last night I attended the first JAMstack London meetup starting with talks from Jessica Parsons and Phil Hawksworth from Netlify.
+
+----
+
+Og:  false
+
+----
+
+Text:
+I first started using parts of the [JAMstack](https://jamstack.org/) (JavaScript, APIs, and Markup) for a couple of small projects developed as static generated websites in Jekyll around four years ago. Even this blog and much of my website is built on Jekyll. In all this time I'd not heard the term JAMstack used before so this meetup was a great opportunity to learn about it!
+
+The focus in this meetup was very much on Netlify's own [CMS](https://www.netlifycms.org/) built to work with any static site generator. Yes this might sound like the meetup was primarily a sales pitch event but it was not like this in my opinion. I felt it followed a balanced approach throughout that educated more so on the principles and combination of different technologies we can use for static generated websites over many different <abbr title="Content Delivery Network">CDN</abbr>/static hosting providers.
+
+[Jessica Parsons](https://www.verythorough.com/), a documentation engineer at Netlify, spoke about Post-Monolithic Content Management. She delved into the history of creating her own website from the early days of using WordPress as a host and CMS, through to present day using a static hosting provider.
+
+The challenges for non-technical users in earlier implementations of static generated websites are today much improved with options like Netlify's CMS which can be setup with just a few clicks. Version controlled hosting services like Github can be linked up with the interface, built into the CMS, making it easier for anyone to track changes, manage drafts and publish new content without ever having to touch a command line interface or even understand using Git.
+
+I've heard [Phil Hawksworth](https://www.hawksworx.com/) speak before on the subject of static generated websites and CMS at the amazing [Beyond Tellerrand](https://beyondtellerrand.com/events/duesseldorf-2017/speakers/phil-hawksworth) conference last year. Phil has a great interest and enthusiasm on the topic and understands the ins and outs of running and hosting static generated websites. His talk highlighted various ways to consider using static hosting providers for things you might think were not possible such as submitting, receiving and handling complex data sets.
+
+One of the main takeaways from this talk and Jessica's was that we shouldn't get too stuck in the mindset of depending on a single CMS architecture. Rather we should think about a stack of modular technologies which, when combined, can do a lot more with greater resillience and flexibility for almost limitless purposes.
+
+The launch event was certainly well worth attending and I look forward to seeing the series of JAMstack London meetups continue.
+----
+
+Tags: general
+----
+
+Date: 2018-02-06 00:00
+
+----
+
+Redirect: https://calumryan.com/blog/jamstack-london-launch/

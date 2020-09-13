@@ -1,0 +1,62 @@
+Title: IndieWebCamp Brighton 2019
+----
+Description: IndieWebCamp was back in Brighton again this month for a weekend of talks, discussion and making, along with a meeting for IndieWeb organisers the day before.
+
+----
+
+Thumbnail: media/pages/posts/unsorted/og/brighton-og.jpg
+
+----
+
+Og:  false
+
+----
+
+Text:
+## Organisers
+On this occasion for IndieWebCamp Organisers most of the discussion was limited to setup and planning for the Brighton event. We discussed the previous IndieWebCamp New York event to see what could be improved such as venues, introductions and the overall schedule.
+
+![Organisers at IndieWebCamp Brighton 2019](https://indieweb.org/images/thumb/b/b8/2019-10-18-Brighton-organizers.jpg/800px-2019-10-18-Brighton-organizers.jpg)
+
+## Day 1 - discussions
+On the discussions day we started as usual with intros and demos from all the attendees. Following on from that we moved on to session planning: inviting everyone to propose a session, if they wanted to, and add it to the session grid.
+
+The first session I attended was [Search your content](https://indieweb.org/2019/Brighton/searching), looking at how we all implement search on our websites. Much of the discussion focused on the types of content open to search and whether there are any privacy issues.
+
+I don't often propose a session but on this occasion I decided to propose one focussing on the [JAMstack](https://indieweb.org/2019/Brighton/jamstack) (JavaScript APIs and Mark-up). Only a couple of people turned up for this session, perhaps an unpopular topic or I should have chosen a better time slot! There is, however, a great deal of interest and active work evident in the community for approaches which embrace JAMstack methodology. I've been following the efforts of people including [Max](https://mxb.dev/), [Paul](https://paulrobertlloyd.com/) and [Zach](https://www.zachleat.com/) who are all implementing different ways to combine the JAMstack with IndieWeb approaches including [Webmentions](https://indieweb.org/Webmention) and [Micropub](https://indieweb.org/micropub).
+
+Next up I attended the session [Local first, offline first vs no cloud and multidevices](https://indieweb.org/2019/Brighton/localoffline). The discussion delved quite deeply into the technicalities of handling content offline or locally and defining points to synchronise data. At this point I struggled to follow some of the discussion, nevertheless it did raise some interesting considerations I might have for handling my website's data offline.
+
+I sat the next session out having burnt out slightly with all the different detailed discussions. I think a break after three sessions in a row is perhaps wise for future schedule planning.
+
+Following that there was in fact an ad hoc break of sessions inserted to the schedule and then I went to [Photos and videos](https://indieweb.org/2019/Brighton/photovideo). Here the discussion mainly focused on posts that only contain a photo and how to mark them up in HTML. Having a photo post-type is quite common for a lot of websites although how it's interpreted as machine readable content is quite open to variation. I felt this discussion of handling photos became overly focused on a couple of use case technicalities and plumbing, instead of expanding the discussion to look at handling multimedia on websites as a broader topic.
+
+![Participants for IndieWebCamp Brighton Day 1](https://media.aaronpk.com/2019/10/file-20191025125205-5546.jpg)
+
+## Day 2 - making
+Back for the second day most of us, but not everyone, made it along for the making day in which attendees work together or independently to get things working on their websites. I'd some ambitious plans to rebuild my website in [Eleventy](https://www.11ty.io/) but that wouldn't have been achievable in just a few hours so settled for addressing some smaller issues with my existing website configuration.
+
+My main task was to extend the functionality of my micropub endpoint so that I could bookmark, like and repost content without logging-in to my website's CMS every time. To begin with I needed to do some debugging to find out what content is posted to my website from other sources. To achieve this I made a new field in my database to store the entire contents of a post request and convert it to JSON.
+
+By lunchtime I'd successfully debugged this and was able to get to work testing out a micropub browser plugin called [Omnibear](https://omnibear.com/). This plugin allows posts of short-form content, reposts, likes and replies of anything online. After a little more tweaking to my self-made CMS I had something working to demo.
+
+With around half an hour to spare I decided to do something else for my website and implement a dark theme for my website. This was somewhat of a rush job going through all my stylesheet's Sass files adding filters, colour properties and new media queries in under 30 minutes but I had a second thing to demo as a result. I followed the examples of [Jeremy](https://adactio.com/journal/15941) and [Melanie](https://melanie-richards.com/): also implementing an adjustment for images to make them darker and easier on the eye.
+
+![Participants working on hack day projects for IndieWebCamp Brighton Day 2](/media/pages/posts/unsorted/brighton-2019.jpg)
+
+## Final thoughts
+As a co-organiser of [HWC London](https://hwclondon.co.uk/) I'm keen to help in the outreach and advance planning of future events to bring in a more diverse crowd of people to future IndieWebCamps. It's great to see so many familiar faces coming back again and again to attend IndieWebCamps, though I also really love to meet and hear from newcomers who aren't all from a predominantly technical background. All in all I’m pleased I was able to attend IndieWebCamp Brighton this year and can't wait to help plan and attend my next in 2020 which for me will likely be Düsseldorf.
+
+### Reference + reading
+- [IndieWeb](https://indieweb.org/)
+- [Photos and content - IndieWebCamp Brighton 2019](https://indieweb.org/2019/Brighton)
+----
+
+Tags: general
+----
+
+Date: 2019-10-20 00:00
+
+----
+
+Redirect: https://calumryan.com/blog/indiewebcamp-brighton-2019/

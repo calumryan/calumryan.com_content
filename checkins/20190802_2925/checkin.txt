@@ -1,0 +1,45 @@
+Title: August 2nd, 2019
+
+----
+
+Text: Checked in at Bishops Finger
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5d4470e671568100085bda4a
+
+----
+
+Longitude: -0.10190178601113
+
+----
+
+Latitude: 51.518585865043
+
+----
+
+Temperature: 25°C
+
+----
+
+Weather Icon: partly-cloudy-day
+
+----
+
+Date: 2019-08-02 18:20
+
+----
+
+Redirect: https://calumryan.com/note/2925
+
+----
+
+UID: 2925

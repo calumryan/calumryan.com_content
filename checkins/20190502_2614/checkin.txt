@@ -1,0 +1,49 @@
+Title: May 2nd, 2019
+
+----
+
+Text: Checked in at MEININGER hotel Berlin East Side Galary. Concrete suite
+
+----
+
+Feature Image: fsqzoogga.jpg
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5ccb14a7c8b2fb002c3db83b
+
+----
+
+Longitude: 13.436145630401
+
+----
+
+Latitude: 52.508522517827
+
+----
+
+Temperature: 13°C
+
+----
+
+Weather Icon: partly-cloudy-day
+
+----
+
+Date: 2019-05-02 17:02
+
+----
+
+Redirect: https://calumryan.com/note/2614
+
+----
+
+UID: 2614

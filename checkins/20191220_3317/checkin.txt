@@ -1,0 +1,45 @@
+Title: December 20th, 2019
+
+----
+
+Text: Checked in at Bristol Temple Meads Railway Station (BRI) (TPB)
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5dfca5188bf324000778f393
+
+----
+
+Longitude: -2.5805892030688
+
+----
+
+Latitude: 51.449338468916
+
+----
+
+Temperature: 8°C
+
+----
+
+Weather Icon: rain
+
+----
+
+Date: 2019-12-20 10:40
+
+----
+
+Redirect: https://calumryan.com/note/3317
+
+----
+
+UID: 3317

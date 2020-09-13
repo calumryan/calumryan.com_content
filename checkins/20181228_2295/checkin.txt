@@ -1,0 +1,45 @@
+Title: December 28th, 2018
+
+----
+
+Text: Checked in at Finch Eatery No. 27
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5c262f6154b7a900252c4060
+
+----
+
+Longitude: -0.3685456
+
+----
+
+Latitude: 50.81184
+
+----
+
+Temperature: 10°C
+
+----
+
+Weather Icon: partly-cloudy-day
+
+----
+
+Date: 2018-12-28 14:12
+
+----
+
+Redirect: https://calumryan.com/note/2295
+
+----
+
+UID: 2295

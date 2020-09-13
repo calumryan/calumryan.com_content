@@ -1,0 +1,41 @@
+Title: June 8th, 2019
+
+----
+
+Text: Improvised a shortened version of my usability talk minus a working projector connection and hence slides at \#bccant this morning. Full version, with hopefully working tech, next week at Front End Kent https://www.meetup.com/Front-End-Kent/events/261896001/
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Latitude: 51.3000286
+
+----
+
+Longitude: 1.0707597
+
+----
+
+Temperature: 17°C
+
+----
+
+Weather Icon: wind
+
+----
+
+Date: 2019-06-08 13:07
+
+----
+
+Redirect: https://calumryan.com/note/2771
+
+----
+
+UID: 2771

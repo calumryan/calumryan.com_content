@@ -1,0 +1,21 @@
+Title: &quot;Perhaps more of us would use the latest and greatest code if it was well documented&quot; - The Real Dark Web by Charlie Owen
+
+----
+
+Permalink: https://www.sonniesedge.net/posts/real-dark-web/
+
+----
+
+Date: 2019-07-30 23:49
+
+----
+
+Tags: front-end, web, process 
+
+----
+
+Redirect: https://calumryan.com/note/2921
+
+----
+
+UID: 2921

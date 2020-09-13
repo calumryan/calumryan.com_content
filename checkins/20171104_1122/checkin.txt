@@ -1,0 +1,45 @@
+Title: November 4th, 2017
+
+----
+
+Text: Checked in at Indiewebcamp Berlin 2017
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/59fd87376fa81f45ffaf7883
+
+----
+
+Longitude: 13.411833
+
+----
+
+Latitude: 52.502007
+
+----
+
+Temperature: 
+
+----
+
+Weather Icon: 
+
+----
+
+Date: 2017-11-04 09:24
+
+----
+
+Redirect: https://calumryan.com/note/1122
+
+----
+
+UID: 1122

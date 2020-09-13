@@ -1,0 +1,45 @@
+Title: September 11th, 2019
+
+----
+
+Text: Checked in at De Hems
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5d792ca73e228800083a06b8
+
+----
+
+Longitude: -0.13137239361804
+
+----
+
+Latitude: 51.512109192053
+
+----
+
+Temperature: 18°C
+
+----
+
+Weather Icon: partly-cloudy-night
+
+----
+
+Date: 2019-09-11 18:19
+
+----
+
+Redirect: https://calumryan.com/note/2995
+
+----
+
+UID: 2995

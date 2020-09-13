@@ -1,0 +1,45 @@
+Title: November 7th, 2019
+
+----
+
+Text: Checked in at 21 West
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5dc3de2bc1f4e90008de9404
+
+----
+
+Longitude: -0.10129
+
+----
+
+Latitude: 51.517756
+
+----
+
+Temperature: 7°C
+
+----
+
+Weather Icon: partly-cloudy-day
+
+----
+
+Date: 2019-11-07 09:04
+
+----
+
+Redirect: https://calumryan.com/note/3191
+
+----
+
+UID: 3191

@@ -1,0 +1,49 @@
+Title: June 3rd, 2019
+
+----
+
+Text: 🌊 Slán Baile Átha Cliath
+
+----
+
+Feature Image: IMG_20190603_134357.jpg
+
+----
+
+Image Alt: Dublin port looking out to the ferry named Epsilon
+
+----
+
+Permalink: 
+
+----
+
+Tags: travel
+
+----
+
+Latitude: 53.2748059
+
+----
+
+Longitude: -6.2046254
+
+----
+
+Temperature: 15°C
+
+----
+
+Weather Icon: partly-cloudy-day
+
+----
+
+Date: 2019-06-03 14:03
+
+----
+
+Redirect: https://calumryan.com/note/2758
+
+----
+
+UID: 2758

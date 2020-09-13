@@ -1,0 +1,44 @@
+Title: Handheld 2013
+----
+Description:
+Handheld Conf 2013 - where people spoke, sang and discussed handheld for the web.
+----
+
+Og: false
+
+----
+
+Thumbnail: /media/pages/posts/unsorted/handheld.jpg
+
+----
+
+Text:
+This year’s Handheld Conference took place at a much larger venue, Canolfan Mileniwm Cymru or in English: The Welsh Millennium Centre. After an impressive intro, including the Welsh National Anthem played on electric guitar, the host, Craig Lockwood, handed over to a series of equally impressive speakers.
+
+![Welsh Millenium Centre](/media/pages/posts/unsorted/welsh-millennium-centre.jpg)
+
+**Jeremy Keith** of ClearLeft in Brighton spoke about creating long lasting websites that are future proof as well as offering a reasonable experience for users of older web browsing technologies. We should focus on functionality rather than perfect consistency in the appearance of our work on different platforms/browsers.
+
+**Jon Hicks** presented some interesting implementations of iconography for the web and creating your own none-complex and recognisable icons for the web. This is the way forward for both designers and developers to be looking versus the time consuming process of designing and coding CSS sprites for a multitude of different device resolutions.
+
+**Mark Boulton** spoke of the importance in conquering new ground everyday on the web and leaving a clear path for those who follow our path in terms of a career or study.
+
+**Brendan Dawes** presented some interesting examples of visualising data through 3D printing and programming artistic animations. His examples were visually very impressive and brought alive data which would otherwise be somewhat dull to look at such as the number of kills made personally by Bond in every film over the past 60 years.
+
+**Ling Valentine** gave a talk titled When responsive sites work as well as a chocolate iPhone. She performed the whole talk standing inside a Dalek. This was more a comedy act than anything else but nevertheless there were some serious points to consider about content strategy for different devices along with Responsive Web Design and performance.
+
+**Andy Clark** has had a lot of experience creating the right client sign-off process. Involving clients early on in the design process is paramount. There shouldn’t be just one big reveal to the client of a design once it’s ‘finished’; instead there should be focus on presenting individual elements of a design like typography, icon sets and colours first.
+
+Clients like to feel they own the design and see it working: hence mocking up a prototype early on which they can sample and interact with is a good way to approach this process. Continual feedback through open discussion, such as through Skype/Hangouts, is better than having clients send frustrated emails back and forth towards the end of a design and development process.
+
+Concluding the conference was a nice touch of Welshness with a male voice choir singing “We’ll keep a welcome in the hillside”. It was a fabulous event although with less focus on application development and technologies as the year before. All credit to those involved including the organisers Craig Lockwood and Amie Lockwood.
+----
+
+Tags: general
+----
+
+Date: 2013-12-08 00:00
+
+----
+
+Redirect: https://calumryan.com/blog/handheld-2013/

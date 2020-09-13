@@ -1,0 +1,49 @@
+Title: February 11th, 2020
+
+----
+
+Text: Checked in at The Guinea
+
+----
+
+Feature Image: fsq9IfPSx.jpg
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5e43199ca22f410008399dd5
+
+----
+
+Longitude: 0.26695489883423
+
+----
+
+Latitude: 51.133612163237
+
+----
+
+Temperature: 4°C
+
+----
+
+Weather Icon: clear-night
+
+----
+
+Date: 2020-02-11 21:16
+
+----
+
+Redirect: https://calumryan.com/note/3402
+
+----
+
+UID: 3402

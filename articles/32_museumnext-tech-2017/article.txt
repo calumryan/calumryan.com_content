@@ -1,0 +1,64 @@
+Title: MuseumNext Tech 2017
+----
+Description:
+This week I attended my first MuseumNext Tech event at the W.M. Blumental Academy which is part of the Jewish Museum in Berlin. The one-day conference brought together a broad network of museum professionals and digital specialists throughout Europe and possibly beyond.
+
+----
+
+Og:  false
+
+----
+
+Text:
+### Accessible museums
+Marleen Hartjes from the [Van Abbemuseum](https://vanabbemuseum.nl) in Eindhoven delivered an excellent talk on having inclusive, accessible museums.
+
+Van Abbemuseum invested in human-sized remotely-controllable robots. It's a tried and tested technology combined with web cameras so that visitors who cannot be there in-person can still experience the museum in a way that is similar to actually being there.
+
+<div class="embed">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xfubfNlA2Yw?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
+
+The facility is built round the needs of remote visitors so that they have control over where the robot camera goes via their personal computer. Appointments can be made for a fee to use the robot remotely with provision of a human tour guide at the museum to talk about exhibits as robot is moved around by its remote user.
+
+There are many different scenarios in which it's not easy or possible for visitors to physically be at the museum. A growing older population who cannot travel so easily and or have a disability. There are also schools without the budget for transporting a whole class to the museum and also those from other countries who cannot get a travel visa to visit in-person.
+
+### Making the case for investment
+Throughout the conference it seemed apparent from many of the talks that the pace of technological change within the museum space is relatively slow. There's often the need to justify costs, inform and retain valuable stakeholders who may ultimately back all or part of the funding needed for implementing new technologies.
+
+Europeana's Network chair, Merete Sanderhoff spoke about the [Playbook](https://pro.europeana.eu/post/europeana-impact-assessment-playbook) guide which is focused on giving planned/in-process projects more impact when it comes to getting a good return on investment.
+
+Responding to hardships in funding for cultural institutions the free facility presents recipes which specifically link cultural heritage to investable merits like supporting communities, improving welfare, new business opportunities and other connected benefits to society.
+
+### Openness and user ownership
+Technology in the form of the web, apps and connected devices have all contributed to helping museums deliver more user-control in the way cultural heritage is displayed and engaged with. Peter Gorgels of [Rijks Museum](https://www.rijksmuseum.nl), Amsterdam discussed some of the ways that they've embraced these technologies such as their Rijkstudio platform.
+
+Contents from the platform is free to download and provides the means for everybody to make their own collections. Effectively anyone can be a museum director with such a facility and provides creative freedom.
+
+In recent years Rijks Museum has modernised over multiple aspects not just in its physical space but through promoting what it's about in terms of openness and what it has to offer out in the public space including a local shopping mall and the Amsterdam's airport. By taking this approach the museum has been able to engage more Effectively with the local community as well as tourists arriving into the country.
+
+<div class="embed">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/a6W2ZMpsxhg?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
+
+### Digital transformation
+There's an ongoing need for museums to build and maintain their online audience which is increasingly greater than visitors in-person.
+
+Offline, technologies like Virtual Reality (VR) headsets are being trialled in selective use cases where the equipment's provision and space is economically viable such as at London's Tate gallery. User testing is extremely important in such cases to ensure the technology isn't having an adverse affect on visitor engagement and overall enjoyment of the virtual space.
+
+The technology isn't necessarily a replacement for other technology like audio tour guides but for use in instances where VR is the most suitable solution to an exhibition. It's not without its criticisms in the industry. It can't be described as a fully inclusive technology since it doesn't offer many (if any) good fallbacks for impaired users unable to use it.
+
+Stefania Boiano and Guiliano Gaia from Invisible Studio spoke about the development of chatbot technology with its initial fallbacks when first introduced into the museum space. As artificial intelligence has greatly improved in recent years this has once again provided the opportunity for designing more a engaging chatbot experience: using a plot-based scenario for visitors geared at youth audiences.
+
+### Overall
+It was my first time at a MuseumNext event and, although I don't know this industry sector well, I did find it very relevant and relatable to the commercial-based work I do currently in the web industry. Considering a digital-first approach takes on many of the thought processes I'm familiar with when considering mobile-first in the context of designing for the web. Highly accessible, inclusive and user-focused projects are something we all need to be concerned of and focused on adhering to the best of our abilities with constant awareness and collective discussion on how to do better.
+----
+
+Tags: general
+----
+
+Date: 2017-01-02 00:00
+
+----
+
+Redirect: https://calumryan.com/blog/museumnext-tech-2017/

@@ -1,0 +1,45 @@
+Title: October 5th, 2019
+
+----
+
+Text: Checked in at Empire Cinemas
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5d98ebe97870300008e2c476
+
+----
+
+Longitude: -0.13201215965864
+
+----
+
+Latitude: 51.508798552442
+
+----
+
+Temperature: 14°C
+
+----
+
+Weather Icon: partly-cloudy-night
+
+----
+
+Date: 2019-10-05 20:15
+
+----
+
+Redirect: https://calumryan.com/note/3061
+
+----
+
+UID: 3061

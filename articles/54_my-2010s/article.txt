@@ -1,0 +1,93 @@
+Title: My 2010s
+----
+Description:
+A decade-end review of my life to date seems almost too much to achieve in a digestible short read but here we go!"
+----
+Thumbnail: media/pages/posts/unsorted/og/2010s.jpg
+----
+Og:  false
+----
+
+Text:
+## 2010
+At the start of the decade I attended my first ever technology-related meetup suitably named [The First London Web Meetup of the Second Internet Decade](https://www.meetup.com/londonweb/events/12197160/). Here I met some of my first Twitter followers who were, and remain, respected members of the web industry including [Umar Hansa](https://twitter.com/umaar) and [Nathan O'Hanlon](https://twitter.com/nathanlon). From just this one small meetup at a pub in Putney I went on to meet hundreds more people in the web industry and craft a positive way forward for my career in the web.
+
+In early 2010 I launched a new personal website called [Zizz Fusion](https://web.archive.org/web/20140209145313/http://www.zizzfusion.com/) - don't ask why I came up with that name, it just seemed good to me at the time! This certainly wasn't the first personal website I'd launched but certainly the longest lasting before I regrettably scrapped it without a full backup in 2014. Thereafter I settled on just having calumryan.com as my only personal website. I'm still very much proud of the design and build I implemented for Zizz Fusion and it helped set the foundations in my skill-set for much of my work today.
+
+During 2010 I'd happy times working on my university work placement year in the heart of Soho at the excellent but now closed-down charity, [Film Education](http://filmeducation.org/).
+
+My first trip to Vancouver took place in May 2010. To this day I remember it well because it was genuinely an awe-inspiring experience and my first solo visit to another continent. Canada was then and remains one of my favourite countries on the planet.
+
+![Left to right me in Vancouver, Vancouver Island and wearing graduation mortarboard](/media/pages/posts/unsorted/decade/2011.jpg)
+
+## 2011
+Four years after studying for a degree in Multimedia Technology and Design at Brunel University I astonished myself in, not only completing without being thrown out for intellectual incompetency, but also walking away with First Class Honours. A few months later I relocated south to Tonbridge to take up my first graduate job in Sevenoaks. In the same year I also lost my pet dog Berthe who I'd grown up with. She was like a sibling to me and missed very much.
+
+![Left to right Kent coast, Multi-Mania conference, bicycle](/media/pages/posts/unsorted/decade/2012-2.jpg)
+
+![London Olympic stadium](/media/pages/posts/unsorted/decade/2012.jpg)
+
+## 2012
+Throughout 2012 I did a lot of exploring my local area round Kent by mountain bike. I attended one of my first ever conferences in Spring 2012 at [Multi-Mania](https://web.archive.org/web/20120503095558/http://www.multi-mania.be/2012/conference/), Kortrijk. Not only was it free to attend but everything about it seemed inspiring, informative and amazingly well organised. It was here that I first saw talks from leading web industry figures including [Jeremy Keith](https://adactio.com/) and [Vitaly Friedman](https://twitter.com/smashingmag).
+
+For me the London Olympics and Paralympics defined 2012 and to some extent defined the decade, before considering Brexit! I was lucky enough to attend some of the events including a couple at the Olympic Park in Stratford. Not long after this I began to take a stronger interest in cycling. I went to watch the final stages of La Vuelta in Madrid, as well as the Tour of Britain in Guildford and took up road cycling as a way to keep fit and healthy. Cycling of all kinds has remained a regular interest of mine and routine throughout the decade.
+
+![People in a pub at Sevenoaks Web Scene meetup](/media/pages/posts/unsorted/decade/2015-2.jpg)
+
+## 2013
+This was a mixed year of fortunes including being made redundant, moving to a new job and new house share. Not a great deal else is memorable from 2013 and I can think of little else to say here about it here. One of my few highlights from 2013 was attending a new meetup in called Sevenoaks Web Scene which I'm proud to see has flourished ever since with a lovely bunch of supportive, friendly people.
+
+![Left to right Florence cathedral, Tour de France in Yorkshire, Commonwealth Games stadium in Glasgow](/media/pages/posts/unsorted/decade/2014.jpg)
+
+## 2014
+The year kicked-off with my first trip abroad in a long time: to Florence. It was my first trip to Italy and one of my most memorable to date. Later in 2014 I went with my family to watch a couple of major sporting events including the Tour de France Grand Départ in Yorkshire and the Commonwealth Games in Glasgow. This was also the year I began a long, painful, expensive process lasting over a year to get myself on the property ladder. I went to my first [IndieWebCamp in 2014](https://indieweb.org/2014/UK) and took a close interest in the IndieWeb ever since then.
+
+![Left to right me at Copenhagen waterfront, Kent oast house, me near Salisbury](/media/pages/posts/unsorted/decade/2015.jpg)
+
+## 2015
+Leading on from 2014 I finally signed contracts in the Spring of 2015 for my first property. It had been a huge roller coaster of emotions and stress, but after a long period of unhappiness, I finally had my own place to call home. Not long after that I took part in my first cycling sportive at the Velothon Wales. In the autumn I won some tickets through the London Web Standards meetup for the [Coldfront conference](https://calumryan.com/blog/coldfront-2015/) in Copenhagen which offered me the chance to see round this great Scandinavian city for the very first time.
+
+![Left to right me at the Firth of Forth railway bridge, first HWC London, San Francisco Golden Gate Bridge](/media/pages/posts/unsorted/decade/2016.jpg)
+
+## 2016
+In 2016 I struck up the courage to give public speaking a go and got accepted to give a talk about the IndieWeb at [Front-end London](http://www.frontendlondon.co.uk/). As with my more recent talk there, I initially felt nervous and very unhappy at my performance but had some positive feedback later on. I then went on to give the same talk at other events with more confidence and better preparation. This was also the year I started a [Homebrew Website Club](https://hwclondon.co.uk/) in London which has since flourished with the help of great people including [Ana](https://ohhelloana.blog/) and [Neil](https://doubleloop.net/).
+
+Sadly 2016 was also the year of the UK's referendum to leave the European Union. Without exaggeration the result day was one of the worst, saddest days in my life - not counting when or if we do actually leave completely in 2020!
+
+A distraction from domestic affairs: I took myself on a two-week long holiday to [Canada and the USA](https://calumryan.com/blog/two-weeks-on-the-west-coast/) in 2016 taking in Vancouver, San Francisco, Yosemite National Park and Seattle.
+
+![Left to right canal in central Amsterdam, Beyond Tellerrand conference D�sseldorf, Nuremberg workshop with Jeremy Keith](/media/pages/posts/unsorted/decade/2017.jpg)
+
+## 2017
+I spent quite a large part of 2017 travelling to new destinations for both work and leisure purposes which included Amsterdam, Rotterdam, Düsseldorf, Nuremberg, Berlin and Belfast. This was also the first year I'd the opportunity to attend my first [Beyond Tellerrand](https://beyondtellerrand.com/) conference in Düsseldorf along with an IndieWebCamp there too.
+
+![Left to right me outside the Brussels European Parliament, Erasmus bridge in Rotterdam, me shaking hands with Philip Saa](/media/pages/posts/unsorted/decade/2018.jpg)
+
+## 2018
+The year 2018 felt almost a repeat of 2017 in many ways with much of the same schedule for conferences to attend including Beyond Tellerrand Düsseldorf and three IndieWebCamps in Germany. I focused a lot on updating my skills in web development during 2018 and also made my first visit to FFConf in Brighton. In cycling I completed my first sportive in North Yorkshire, taking on the steep, twisting climbs and slopes on the West Riding Classic 60 mile route.
+
+![Left to right Neil and Ana at HWC London, Brighton IWC organisers](/media/pages/posts/unsorted/decade/2019.jpg)
+
+## 2019
+Just before writing this post I reviewed [my 2019 in detail](https://calumryan.com/blog/end-of-year-review-2019/) so nothing further to add or duplicate here!
+
+![Left to right Vienna city hall, Coastline railway near Bray, Pro cyclists at the London Classic, me at Chiang Mai train station](/media/pages/posts/unsorted/decade/2019-2.jpg)
+
+## Concluding thoughts
+Looking back over a ten year period there's so many aspects I could easily say now I'd have done differently, perhaps more quickly, with more consideration or maybe not at all. Thinking positively I'm proud of my achievements such as getting a degree, pushing myself to travel to distant countries, give talks at events and meet new people there.
+
+Overall I wouldn't say I'm either disappointed with where I've got to, nor content with everything in my life as it is right now. For the next ten years I find it all the more challenging to say exactly which direction things will go on a personal level, largely because of the direction my country of residence is heading politically and morally. Added to that the more recent urgency that has emerged of tackling our climate crisis is something I'm deeply concerned about.
+
+Focusing even more on my health, friendships, relationships and happiness in my personal life will, without doubt, always come first outside of things which I have no or very little control of in the rest of the  world. Doing my bit for the environment will at least give me some satisfaction. I'll try to fly less, continue using public transport rather than private transport, consume fewer non-recyclable products and find other ways to reduce my overall impact on our very fragile environment.
+
+Here's to the roaring 20s!
+----
+
+Tags: general
+----
+
+Date: 2020-01-01 00:00
+
+----
+
+Redirect: https://calumryan.com/blog/my-2010s/

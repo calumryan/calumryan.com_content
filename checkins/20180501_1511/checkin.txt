@@ -1,0 +1,45 @@
+Title: May 1st, 2018
+
+----
+
+Text: Checked in at Yoyo Design Ltd
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5ae8c8c512f0a9002ce238b0
+
+----
+
+Longitude: 0.26691198348999
+
+----
+
+Latitude: 51.133504444499
+
+----
+
+Temperature: 
+
+----
+
+Weather Icon: 
+
+----
+
+Date: 2018-05-01 21:06
+
+----
+
+Redirect: https://calumryan.com/note/1511
+
+----
+
+UID: 1511

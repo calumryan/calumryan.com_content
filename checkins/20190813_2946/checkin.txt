@@ -1,0 +1,49 @@
+Title: August 13th, 2019
+
+----
+
+Text: Checked in at Barbican Centre
+
+----
+
+Feature Image: fsqw6RNMT.jpg
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5d52a8f92d40c800087a9c3a
+
+----
+
+Longitude: -0.093942
+
+----
+
+Latitude: 51.519855
+
+----
+
+Temperature: 19°C
+
+----
+
+Weather Icon: partly-cloudy-day
+
+----
+
+Date: 2019-08-13 13:11
+
+----
+
+Redirect: https://calumryan.com/note/2946
+
+----
+
+UID: 2946

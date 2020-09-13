@@ -1,0 +1,45 @@
+Title: October 21st, 2017
+
+----
+
+Text: Is there a future for the \#Decentralized web? Discussing social media and the IndieWeb movement at \#MozFest 28/10 http://bit.ly/2gY2LkE
+
+----
+
+Feature Image: mozfest.jpg
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Latitude: 51.205431499999996
+
+----
+
+Longitude: 0.27532809999999996
+
+----
+
+Temperature: 14°C
+
+----
+
+Weather Icon: rain
+
+----
+
+Date: 2017-10-21 15:48
+
+----
+
+Redirect: https://calumryan.com/note/1066
+
+----
+
+UID: 1066

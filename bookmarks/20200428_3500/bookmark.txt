@@ -1,0 +1,21 @@
+Title: Hamburger Menus and Hidden Navigation Hurt UX Metrics
+
+----
+
+Permalink: https://www.nngroup.com/articles/hamburger-menus/
+
+----
+
+Date: 2020-04-28 17:56
+
+----
+
+Tags: ux, front-end, hamburger 
+
+----
+
+Redirect: https://calumryan.com/note/3500
+
+----
+
+UID: 3500

@@ -1,0 +1,45 @@
+Title: January 18th, 2020
+
+----
+
+Text: Checked in at Waterstones
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5e2324209a6df500082350e4
+
+----
+
+Longitude: -0.21656773371691
+
+----
+
+Latitude: 51.463327490411
+
+----
+
+Temperature: 7°C
+
+----
+
+Weather Icon: clear-day
+
+----
+
+Date: 2020-01-18 15:28
+
+----
+
+Redirect: https://calumryan.com/note/3370
+
+----
+
+UID: 3370

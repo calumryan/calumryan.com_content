@@ -1,0 +1,45 @@
+Title: November 4th, 2018
+
+----
+
+Text: Checked in at Spätzleexpress
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5bdf3ffe3fcee8002c0c8563
+
+----
+
+Longitude: 13.428184374371
+
+----
+
+Latitude: 52.498734757292
+
+----
+
+Temperature: 11°C
+
+----
+
+Weather Icon: partly-cloudy-night
+
+----
+
+Date: 2018-11-04 18:52
+
+----
+
+Redirect: https://calumryan.com/note/2116
+
+----
+
+UID: 2116

@@ -1,0 +1,45 @@
+Title: FEL Epic
+
+----
+
+Tags:
+
+----
+
+Latitude: 51.52956
+
+----
+
+Longitude: -0.1063
+
+----
+
+Date: 2014-10-04 11:00
+
+----
+
+Date start: 2014-10-04 11:00:00 +0100
+
+----
+
+Date end: 2014-10-04 19:00:00 +0100
+
+----
+
+Timezone: BST
+
+----
+
+City: London
+
+----
+
+Location: Sadler's Wells Theatre, Rosebery Avenue, Clerkenwell, London, EC1
+
+----
+
+Redirect: https://calumryan.com/event/fel-epic
+
+----
+
+UID: fel-epic

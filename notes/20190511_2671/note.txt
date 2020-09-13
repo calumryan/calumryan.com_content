@@ -1,0 +1,49 @@
+Title: May 11th, 2019
+
+----
+
+Text: Another week, another sessions grid. \#bclxi
+
+----
+
+Feature Image: IMG_20190511_121636.jpg
+
+----
+
+Image Alt: Sessions grid at BarCamp London 11
+
+----
+
+Permalink: 
+
+----
+
+Tags: BarCamp
+
+----
+
+Latitude: 51.5213274
+
+----
+
+Longitude: -0.0897009
+
+----
+
+Temperature: 14°C
+
+----
+
+Weather Icon: rain
+
+----
+
+Date: 2019-05-11 12:41
+
+----
+
+Redirect: https://calumryan.com/note/2671
+
+----
+
+UID: 2671

@@ -1,0 +1,41 @@
+Title: February 23rd, 2016
+
+----
+
+Text: Shockingly many post-IE6 developed corporate websites seem these days to break in anything other than Blink engine browsers
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Temperature: 
+
+----
+
+Weather Icon: 
+
+----
+
+Date: 2016-02-23 17:00
+
+----
+
+Redirect: https://calumryan.com/note/200
+
+----
+
+UID: 200

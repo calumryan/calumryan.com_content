@@ -1,0 +1,41 @@
+Title: May 14th, 2019
+
+----
+
+Text: Why we need to respect that constraints are good for designing/developing for the web to address user needs better. This is an amazingly well researched and presented talk by @sonniesedge at \#btconf Düsseldorf 👇🏻 https://vimeo.com/channels/beyondtellerrand/335856612
+
+----
+
+Permalink: 
+
+----
+
+Tags: UX, front-end, btconf, user-centric, design
+
+----
+
+Latitude: 51.5191708551104
+
+----
+
+Longitude: -0.09897529407441644
+
+----
+
+Temperature: 17°C
+
+----
+
+Weather Icon: partly-cloudy-day
+
+----
+
+Date: 2019-05-14 12:54
+
+----
+
+Redirect: https://calumryan.com/note/2684
+
+----
+
+UID: 2684

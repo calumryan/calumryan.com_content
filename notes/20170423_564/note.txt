@@ -1,0 +1,45 @@
+Title: April 23rd, 2017
+
+----
+
+Text: Brough Castle
+
+----
+
+Feature Image: IMG_20170422_160410.jpg
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Latitude: 54.481
+
+----
+
+Longitude: -2.348
+
+----
+
+Temperature: 7°C
+
+----
+
+Weather Icon: partly-cloudy-day
+
+----
+
+Date: 2017-04-23 00:32
+
+----
+
+Redirect: https://calumryan.com/note/564
+
+----
+
+UID: 564

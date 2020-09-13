@@ -1,0 +1,45 @@
+Title: October 18th, 2019
+
+----
+
+Text: Checked in at Gatwick Airport Railway Station (GTW). 5 minutes transfer, next stop Brighton
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5da9b6d08511da0008cae40d
+
+----
+
+Longitude: -0.16109384217387
+
+----
+
+Latitude: 51.156770487981
+
+----
+
+Temperature: 13°C
+
+----
+
+Weather Icon: partly-cloudy-day
+
+----
+
+Date: 2019-10-18 13:57
+
+----
+
+Redirect: https://calumryan.com/note/3092
+
+----
+
+UID: 3092

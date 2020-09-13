@@ -1,0 +1,45 @@
+Title: June 11th, 2019
+
+----
+
+Text: Checked in at Barbican Centre
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5cff9ea7a2a6ce002c3113a0
+
+----
+
+Longitude: -0.093942
+
+----
+
+Latitude: 51.519855
+
+----
+
+Temperature: 18°C
+
+----
+
+Weather Icon: partly-cloudy-day
+
+----
+
+Date: 2019-06-11 13:29
+
+----
+
+Redirect: https://calumryan.com/note/2778
+
+----
+
+UID: 2778

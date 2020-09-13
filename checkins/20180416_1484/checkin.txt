@@ -1,0 +1,45 @@
+Title: April 16th, 2018
+
+----
+
+Text: Checked in at 2 Finsbury Avenue. LWS
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5ad4eaa06a5950002c4af6f9
+
+----
+
+Longitude: -0.084738694
+
+----
+
+Latitude: 51.52002
+
+----
+
+Temperature: 
+
+----
+
+Weather Icon: 
+
+----
+
+Date: 2018-04-16 19:25
+
+----
+
+Redirect: https://calumryan.com/note/1484
+
+----
+
+UID: 1484

@@ -1,0 +1,45 @@
+Title: January 25th, 2020
+
+----
+
+Text: Checked in at Costa Coffee
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5e2c68b64086390008335907
+
+----
+
+Longitude: 0.11206191107718
+
+----
+
+Latitude: 51.39301114116
+
+----
+
+Temperature: 8°C
+
+----
+
+Weather Icon: partly-cloudy-day
+
+----
+
+Date: 2020-01-25 16:11
+
+----
+
+Redirect: https://calumryan.com/note/3383
+
+----
+
+UID: 3383

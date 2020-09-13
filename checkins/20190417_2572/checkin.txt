@@ -1,0 +1,45 @@
+Title: April 17th, 2019
+
+----
+
+Text: Checked in at MOD Pizza
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5cb788c8ea1e44002ca2af2c
+
+----
+
+Longitude: -0.1291308504383
+
+----
+
+Latitude: 51.510010588367
+
+----
+
+Temperature: 14°C
+
+----
+
+Weather Icon: partly-cloudy-night
+
+----
+
+Date: 2019-04-17 21:12
+
+----
+
+Redirect: https://calumryan.com/note/2572
+
+----
+
+UID: 2572

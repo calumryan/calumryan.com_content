@@ -1,0 +1,41 @@
+Title: October 20th, 2019
+
+----
+
+Text: Wrapping up a more than expected productive weekend at IndieWebCamp Brighton. Working micropub endpoint additions ☑️ Dark mode website theme live ☑️
+
+----
+
+Permalink: 
+
+----
+
+Tags: Indieweb, Indiewebcamp
+
+----
+
+Latitude: 50.8212635
+
+----
+
+Longitude: -0.1432775
+
+----
+
+Temperature: 12°C
+
+----
+
+Weather Icon: partly-cloudy-day
+
+----
+
+Date: 2019-10-20 17:48
+
+----
+
+Redirect: https://calumryan.com/note/3140
+
+----
+
+UID: 3140

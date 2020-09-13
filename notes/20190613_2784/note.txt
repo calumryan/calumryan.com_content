@@ -1,0 +1,49 @@
+Title: June 13th, 2019
+
+----
+
+Text: Thanks to @LisowskaAn @barryf and @loopdouble for braving the weather conditions last night for @HWCLondon's third anniversary 🎉 \#indieweb
+
+----
+
+Feature Image: IMG_20190612_200417.jpg
+
+----
+
+Image Alt: Ania Lisowska, Barry Frost, Calum Ryan and Neil Mather inside at ProvenDough cafe, London Covent Garden
+
+----
+
+Permalink: 
+
+----
+
+Tags: hwclondon
+
+----
+
+Latitude: 51.5191608
+
+----
+
+Longitude: -0.098903
+
+----
+
+Temperature: 14°C
+
+----
+
+Weather Icon: partly-cloudy-day
+
+----
+
+Date: 2019-06-13 09:37
+
+----
+
+Redirect: https://calumryan.com/note/2784
+
+----
+
+UID: 2784

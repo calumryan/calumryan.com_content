@@ -1,0 +1,21 @@
+Title: Relearn CSS layout: Every Layout - clean, simple, clear presentation of typical UI layouts 
+
+----
+
+Permalink: https://every-layout.dev
+
+----
+
+Date: 2019-06-14 19:46
+
+----
+
+Tags: css, ui 
+
+----
+
+Redirect: https://calumryan.com/note/2791
+
+----
+
+UID: 2791

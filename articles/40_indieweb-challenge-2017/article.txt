@@ -1,0 +1,29 @@
+Title: IndieWeb Challenge 2017
+----
+Description:
+The IndieWeb Challenge is to collectively ship something IndieWeb-related every day of December, as described on the IndieWeb Wiki.
+----
+
+Og:  false
+
+----
+
+Text:
+For my challenge I'm focusing on getting an open-source project finished and ready for others to help contribute to that I started at IndieWebCamp earlier this year.
+
+You can track progress on my [Github repository](https://github.com/calumryan/indieweb/commits/master). With the exception of a couple of commitments over the festive period I plan to push something there every day this month. Begining the month I registered the domain for my project [indiewebguides.org](https://indiewebguides.org/). So far this month I've reworked the UI, drafted some content for the guides and resolved some accessibility issues.
+
+I also have another IndieWeb-related tool in the early stages of development which is an IndieWeb component library inspired by [Paul Robert Lloyd's](https://paulrobertlloyd.com/) component library for [24 ways](https://github.com/24ways/frontend) based on [Fractal](https://fractal.build/).
+
+### Reference + reading
+- [IndieWeb Challenge](https://indieweb.org/2017-12-indieweb-challenge)
+----
+
+Tags: general
+----
+
+Date: 2017-12-04 00:00
+
+----
+
+Redirect: https://calumryan.com/blog/indieweb-challenge-2017/

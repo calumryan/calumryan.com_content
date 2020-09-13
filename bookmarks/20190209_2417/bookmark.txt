@@ -1,0 +1,21 @@
+Title: Chris discussing a maintainable approach and workflow for managing and documenting his codebase
+
+----
+
+Permalink: https://chrisburnell.com/article/lets-look-back/
+
+----
+
+Date: 2019-02-09 07:21
+
+----
+
+Tags: front-end, sass, gulp, workflow 
+
+----
+
+Redirect: https://calumryan.com/note/2417
+
+----
+
+UID: 2417

@@ -1,0 +1,45 @@
+Title: January 10th, 2020
+
+----
+
+Text: Checked in at Starbucks
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5e18478ce7df1100088933a7
+
+----
+
+Longitude: 0.274037
+
+----
+
+Latitude: 51.194689
+
+----
+
+Temperature: 5°C
+
+----
+
+Weather Icon: partly-cloudy-day
+
+----
+
+Date: 2020-01-10 09:44
+
+----
+
+Redirect: https://calumryan.com/note/3354
+
+----
+
+UID: 3354

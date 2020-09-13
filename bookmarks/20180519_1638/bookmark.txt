@@ -1,0 +1,21 @@
+Title: My struggle to learn react by Brad Frost
+
+----
+
+Permalink: http://bradfrost.com/blog/post/my-struggle-to-learn-react
+
+----
+
+Date: 2018-05-19 00:40
+
+----
+
+Tags: react, learning 
+
+----
+
+Redirect: https://calumryan.com/note/1638
+
+----
+
+UID: 1638

@@ -1,0 +1,41 @@
+Title: August 30th, 2019
+
+----
+
+Text: Form design principles: label your submit buttons with something other than &quot;Submit&quot;. Clearly state what happens when a user clicks the button whether it's to move to the next step, signup to something, complete a purchase or send a message \#a11y \#usability
+
+----
+
+Permalink: 
+
+----
+
+Tags: a11y, usability
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Temperature: 
+
+----
+
+Weather Icon: 
+
+----
+
+Date: 2019-08-30 11:02
+
+----
+
+Redirect: https://calumryan.com/note/2977
+
+----
+
+UID: 2977

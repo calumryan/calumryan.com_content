@@ -1,0 +1,50 @@
+Title: Three months into using Flexbox
+----
+Description:
+A summary of my experiences and challenges in using Flexbox
+----
+
+Og: false
+
+----
+
+Thumbnail:
+
+----
+
+Text:
+<strong>This article is a summary of my experiences in starting to use Flexbox, for both work and personal projects, and what challenges I’ve faced before and after implementing it. If you’re looking simply to learn about how to use Flexbox then I highly recommend you head over to this [great Flexbox tutorial on CSS Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/).</strong>
+
+### Rallying support for Flexbox
+
+Like many I’d heard of Flexbox a few years ago; when excitement about it’s release was somewhat dampened by concerns over cross-browser support which at the time wasn’t great. Chris Coyier, author of CSS Tricks, amongst others, have gradually helped strengthen confidence in the community in its use.
+
+### Why we needed Flexbox
+
+Frequently we’re faced with design challenges of making different blocks of floated content align to each other and share the same height. Flexbox has presentation features to achieve all of this in CSS plus lots of other goodies like reordering blocks of HTML differently than in the markup which is great for presenting an alternative layout order for smaller devices like mobile and tablets.
+
+Prior to Flexbox I’d a limited choice of options to achieve such layouts: using JavaScript plugins or in pre-responsive/smartphone days then it might just be acceptable to use tables.
+
+### Cautionary advice
+
+Early on I made a simple mistake using Flexbox which had me head scratching for a while. Blocks within a Flexbox container weren’t aligning to the top but instead offset vertically near the middle of the container. The Flexbox properties implemented weren’t at fault, I’d used <em>align-items</em>  and <em>justify-content</em> but my pre-Flexbox CSS properties <strong>were</strong> as I’d use <em>margin:auto</em> which applies centred positioning on all sides. Hence Flexbox was, as it’s meant to, positioning the block in the middle of the container on all axis. This fix was as simple as: <em>margin: 0 auto</em>
+
+It’s worth remembering that Flexbox is just like any other set of CSS properties that are easily conflicted or affected by other parts of the CSS document; depending on how you manage global-based properties versus those within scope. As with anything it’s important you follow a test driven development methodology at every stage of implementing such new features.
+
+### Why I waited
+As stated already my main concerns with Flexbox early on was that not enough browsers fully supported it and also that it would take time to learn and test which; wasn’t ideal for production websites with tight delivery schedules.
+
+Cross-browser support is rapidly improving for Flexbox now and thanks to CSS extensions like Sass or LESS it’s a lot easier to support all browsers through pre-fixes. Combined with features detection libraries, like [Modernizr](https://modernizr.com/), it’s easier to create fallbacks to support the dwindling number of users stuck on Internet Explorer 10 or other limited support browsers.
+
+### In conclusion
+This year will surely see the biggest shift yet in using Flexbox as the default in many CSS layouts. I believe Flexbox is here to stay and with the right techniques and planning can offer a huge amount of power to present flexible layouts. There are of course alternative/complimentary coding methods such as Grid championed in recent articles and talks, in part, by [Rachel Andrews](https://24ways.org/2015/grid-flexbox-box-alignment-our-new-system-for-layout/). I’ve yet to explore Grid’s potential uses which I’ll probably explore in a future post here.
+----
+
+Tags: learning
+----
+
+Date: 2018-10-28 00:00
+
+----
+
+Redirect: https://calumryan.com/learning/three-months-into-using-flexbox/

@@ -1,0 +1,45 @@
+Title: November 26th, 2018
+
+----
+
+Text: Checked in at 33 holborn. London a11y meetup
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5bfc3c1ce9b9a5002583fdd2
+
+----
+
+Longitude: -0.10804078943263
+
+----
+
+Latitude: 51.517732748247
+
+----
+
+Temperature: 6°C
+
+----
+
+Weather Icon: partly-cloudy-night
+
+----
+
+Date: 2018-11-26 18:31
+
+----
+
+Redirect: https://calumryan.com/note/2210
+
+----
+
+UID: 2210

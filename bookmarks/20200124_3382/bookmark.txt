@@ -1,0 +1,21 @@
+Title: &quot;Try device-agnostic words that describe the action, irrespective of the interface: Choose / Select / View&quot; - Standards for Writing Accessibly by Michael J. Metts, Andy Welfle
+
+----
+
+Permalink: https://alistapart.com/article/standards-for-writing-accessibly
+
+----
+
+Date: 2020-01-24 10:12
+
+----
+
+Tags: a11y, devices 
+
+----
+
+Redirect: https://calumryan.com/note/3382
+
+----
+
+UID: 3382

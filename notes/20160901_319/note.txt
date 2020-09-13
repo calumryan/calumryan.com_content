@@ -1,0 +1,41 @@
+Title: September 1st, 2016
+
+----
+
+Text: Booked to see some fella called @nedboulting ramble on about cycling on what will probably be a cold, wet, dark November evening in Clapham
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Latitude: 51.205489
+
+----
+
+Longitude: 0.2752715
+
+----
+
+Temperature: 21°C
+
+----
+
+Weather Icon: clear-day
+
+----
+
+Date: 2016-09-01 23:10
+
+----
+
+Redirect: https://calumryan.com/note/319
+
+----
+
+UID: 319

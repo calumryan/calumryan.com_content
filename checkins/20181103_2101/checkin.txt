@@ -1,0 +1,45 @@
+Title: November 3rd, 2018
+
+----
+
+Text: Checked in at U Leinestraße
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5bde0a44037be1002c4719a7
+
+----
+
+Longitude: 13.428068027613
+
+----
+
+Latitude: 52.473451534621
+
+----
+
+Temperature: 6°C
+
+----
+
+Weather Icon: clear-night
+
+----
+
+Date: 2018-11-03 20:51
+
+----
+
+Redirect: https://calumryan.com/note/2101
+
+----
+
+UID: 2101

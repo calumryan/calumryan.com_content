@@ -1,0 +1,45 @@
+Title: May 12th, 2017
+
+----
+
+Text: Airbnb-ing Rotterdam style
+
+----
+
+Feature Image: rotterdam.jpg
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Latitude: 51.9030765
+
+----
+
+Longitude: 4.4585399
+
+----
+
+Temperature: 13°C
+
+----
+
+Weather Icon: partly-cloudy-night
+
+----
+
+Date: 2017-05-12 02:40
+
+----
+
+Redirect: https://calumryan.com/note/582
+
+----
+
+UID: 582

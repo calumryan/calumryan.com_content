@@ -1,0 +1,45 @@
+Title: December 14th, 2018
+
+----
+
+Text: Representing the current state of Brexit negotiations in a simple Hello world example using JavaScript
+
+----
+
+Feature Image: code-example.png
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Temperature: 
+
+----
+
+Weather Icon: 
+
+----
+
+Date: 2018-12-14 01:05
+
+----
+
+Redirect: https://calumryan.com/note/2250
+
+----
+
+UID: 2250

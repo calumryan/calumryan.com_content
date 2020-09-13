@@ -1,0 +1,49 @@
+Title: IndieWebCamp Berlin 2017
+
+----
+
+Tags:
+
+----
+
+Latitude: 52.502062
+
+----
+
+Longitude: 13.411204
+
+----
+
+Date: 2017-11-04 09:00
+
+----
+
+Date start: 2017-11-04 09:00:00 +0000
+
+----
+
+Date end: 2017-11-05 18:00:00 +0000
+
+----
+
+Timezone: CET
+
+----
+
+City: Berlin
+
+----
+
+Location: Contentful GmbH, Ritterstraße 12-14, 10969 Berlin, Germany
+
+----
+
+Speaker: 1
+
+----
+
+Redirect: https://calumryan.com/event/indiewebcamp-berlin-2017
+
+----
+
+UID: indiewebcamp-berlin-2017

@@ -1,0 +1,45 @@
+Title: April 7th, 2019
+
+----
+
+Text: Checked in at Rocket Complex. WCLDN
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5ca9e589cad1b6002cdfc94e
+
+----
+
+Longitude: -0.11081531337475
+
+----
+
+Latitude: 51.55163549734
+
+----
+
+Temperature: 11°C
+
+----
+
+Weather Icon: rain
+
+----
+
+Date: 2019-04-07 12:56
+
+----
+
+Redirect: https://calumryan.com/note/2551
+
+----
+
+UID: 2551

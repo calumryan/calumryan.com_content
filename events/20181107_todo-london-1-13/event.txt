@@ -1,0 +1,45 @@
+Title: TODO London 1.13
+
+----
+
+Tags:
+
+----
+
+Latitude: 51.520283
+
+----
+
+Longitude: -0.085516
+
+----
+
+Date: 2018-11-07 18:30
+
+----
+
+Date start: 2018-11-07 18:30:00 +0000
+
+----
+
+Date end: 2018-11-07 20:30:00 +0000
+
+----
+
+Timezone: GMT
+
+----
+
+City: London
+
+----
+
+Location: 29 Wilson St, London EC2M 2SJ, UK
+
+----
+
+Redirect: https://calumryan.com/event/todo-london-1-13
+
+----
+
+UID: todo-london-1-13

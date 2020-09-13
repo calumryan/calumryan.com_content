@@ -1,0 +1,21 @@
+Title: Making FOUC less obvious with font style matcher tool to compare sizing against fallback fonts
+
+----
+
+Permalink: https://meowni.ca/font-style-matcher
+
+----
+
+Date: 2019-09-06 15:55
+
+----
+
+Tags: css, webfont 
+
+----
+
+Redirect: https://calumryan.com/note/2986
+
+----
+
+UID: 2986

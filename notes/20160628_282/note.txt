@@ -1,0 +1,45 @@
+Title: June 28th, 2016
+
+----
+
+Text: The remain camp @frontendlondon
+
+----
+
+Feature Image: IMG_20160630_223943.jpg
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Latitude: 51.533798
+
+----
+
+Longitude: -0.099651
+
+----
+
+Temperature: 16°C
+
+----
+
+Weather Icon: partly-cloudy-night
+
+----
+
+Date: 2016-06-28 04:01
+
+----
+
+Redirect: https://calumryan.com/note/282
+
+----
+
+UID: 282

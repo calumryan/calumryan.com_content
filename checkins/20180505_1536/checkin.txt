@@ -1,0 +1,45 @@
+Title: May 5th, 2018
+
+----
+
+Text: Checked in at Beef Brothers
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5aedea2e89b06a002c7491c7
+
+----
+
+Longitude: 6.7755334593836
+
+----
+
+Latitude: 51.226598328971
+
+----
+
+Temperature: 
+
+----
+
+Weather Icon: 
+
+----
+
+Date: 2018-05-05 18:30
+
+----
+
+Redirect: https://calumryan.com/note/1536
+
+----
+
+UID: 1536

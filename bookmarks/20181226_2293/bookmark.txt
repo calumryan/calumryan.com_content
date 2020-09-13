@@ -1,0 +1,21 @@
+Title: Build a static site generator in 40 lines with Node.js
+
+----
+
+Permalink: https://blog.dmatoso.com/build-static-site-generator-nodejs-8969ebe34b22
+
+----
+
+Date: 2018-12-26 18:14
+
+----
+
+Tags: static-site, jam-stack, node 
+
+----
+
+Redirect: https://calumryan.com/note/2293
+
+----
+
+UID: 2293

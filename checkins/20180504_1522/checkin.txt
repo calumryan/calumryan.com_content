@@ -1,0 +1,45 @@
+Title: May 4th, 2018
+
+----
+
+Text: Checked in at Pizzeria Rialto
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5aeca8e573fe25002ccbddb2
+
+----
+
+Longitude: 6.773495
+
+----
+
+Latitude: 51.2269
+
+----
+
+Temperature: 
+
+----
+
+Weather Icon: 
+
+----
+
+Date: 2018-05-04 19:39
+
+----
+
+Redirect: https://calumryan.com/note/1522
+
+----
+
+UID: 1522

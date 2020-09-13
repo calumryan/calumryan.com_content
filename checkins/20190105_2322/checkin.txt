@@ -1,0 +1,45 @@
+Title: January 5th, 2019
+
+----
+
+Text: Checked in at Ole &amp; Steen. Focus time
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5c309b9d92e7a9002c1d6d38
+
+----
+
+Longitude: -0.14386014403332
+
+----
+
+Latitude: 51.497037469834
+
+----
+
+Temperature: 5°C
+
+----
+
+Weather Icon: partly-cloudy-day
+
+----
+
+Date: 2019-01-05 11:57
+
+----
+
+Redirect: https://calumryan.com/note/2322
+
+----
+
+UID: 2322

@@ -1,0 +1,21 @@
+Title: The Cupper Documentation Builder – &quot;a documentation builder for inclusive designers and those trying to be inclusive designers&quot; https://thepaciellogroup.github.io/cupper
+
+----
+
+Permalink: https://thepaciellogroup.github.io/cupper
+
+----
+
+Date: 2018-03-28 17:37
+
+----
+
+Tags:  
+
+----
+
+Redirect: https://calumryan.com/note/1450
+
+----
+
+UID: 1450

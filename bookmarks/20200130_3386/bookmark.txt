@@ -1,0 +1,21 @@
+Title: How Smashing Magazine Manages Content: Migration From WordPress To JAMstack
+
+----
+
+Permalink: https://www.smashingmagazine.com/2020/01/migration-from-wordpress-to-jamstack/
+
+----
+
+Date: 2020-01-30 15:11
+
+----
+
+Tags: WordPress, JAMStack, CMS 
+
+----
+
+Redirect: https://calumryan.com/note/3386
+
+----
+
+UID: 3386

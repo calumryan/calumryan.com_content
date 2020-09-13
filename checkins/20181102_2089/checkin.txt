@@ -1,0 +1,45 @@
+Title: November 2nd, 2018
+
+----
+
+Text: Checked in at S Treptower Park
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5bdc4c6d340a58002ce8c46c
+
+----
+
+Longitude: 13.461537912341
+
+----
+
+Latitude: 52.493595463264
+
+----
+
+Temperature: 13°C
+
+----
+
+Weather Icon: partly-cloudy-day
+
+----
+
+Date: 2018-11-02 13:09
+
+----
+
+Redirect: https://calumryan.com/note/2089
+
+----
+
+UID: 2089

@@ -1,0 +1,49 @@
+Title: November 17th, 2018
+
+----
+
+Text: Checked in at W Peckham
+
+----
+
+Feature Image: fsqbrlUun.jpg
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5bf030bcaa6c950036e3291c
+
+----
+
+Longitude: 0.35470170603128
+
+----
+
+Latitude: 51.248347933492
+
+----
+
+Temperature: 9°C
+
+----
+
+Weather Icon: clear-day
+
+----
+
+Date: 2018-11-17 15:16
+
+----
+
+Redirect: https://calumryan.com/note/2186
+
+----
+
+UID: 2186

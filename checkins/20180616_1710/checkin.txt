@@ -1,0 +1,45 @@
+Title: June 16th, 2018
+
+----
+
+Text: Checked in at The Glades
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5b25367ad0a149002c4b744f
+
+----
+
+Longitude: 0.016264915466309
+
+----
+
+Latitude: 51.404319291952
+
+----
+
+Temperature: 
+
+----
+
+Weather Icon: 
+
+----
+
+Date: 2018-06-16 17:10
+
+----
+
+Redirect: https://calumryan.com/note/1710
+
+----
+
+UID: 1710

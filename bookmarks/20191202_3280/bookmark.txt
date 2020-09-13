@@ -1,0 +1,21 @@
+Title: 24 Ways: Making a Better Custom Select Element 
+
+----
+
+Permalink: https://24ways.org/2019/making-a-better-custom-select-element/
+
+----
+
+Date: 2019-12-02 14:51
+
+----
+
+Tags: a11y, forms 
+
+----
+
+Redirect: https://calumryan.com/note/3280
+
+----
+
+UID: 3280

@@ -1,0 +1,41 @@
+Title: December 18th, 2018
+
+----
+
+Text: A handful of Flexbox properties which come in handy for fixing over-stretched content and other layout issues in IE11: align-self: center | flex-basis: auto | flex-shrink: 0
+
+----
+
+Permalink: 
+
+----
+
+Tags: flexbox, css, ie11
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Temperature: 
+
+----
+
+Weather Icon: 
+
+----
+
+Date: 2018-12-18 12:14
+
+----
+
+Redirect: https://calumryan.com/note/2265
+
+----
+
+UID: 2265

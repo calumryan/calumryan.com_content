@@ -1,0 +1,41 @@
+Title: January 14th, 2017
+
+----
+
+Text: Attempting to understand the logic of storage heaters
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Latitude: 51.205417499999996
+
+----
+
+Longitude: 0.27517939999999996
+
+----
+
+Temperature: 3°C
+
+----
+
+Weather Icon: clear-day
+
+----
+
+Date: 2017-01-14 16:02
+
+----
+
+Redirect: https://calumryan.com/note/446
+
+----
+
+UID: 446

@@ -1,0 +1,41 @@
+Title: May 4th, 2019
+
+----
+
+Text: IndieWebCamp Berlin livestream https://v.mozilla.com/flex.html?roomdirect.html&amp;key=uRIeFq6SA8
+
+----
+
+Permalink: 
+
+----
+
+Tags: Berlin, IndieWebCamp
+
+----
+
+Latitude: 52.4994985
+
+----
+
+Longitude: 13.4492342
+
+----
+
+Temperature: 8°C
+
+----
+
+Weather Icon: partly-cloudy-day
+
+----
+
+Date: 2019-05-04 09:52
+
+----
+
+Redirect: https://calumryan.com/note/2625
+
+----
+
+UID: 2625

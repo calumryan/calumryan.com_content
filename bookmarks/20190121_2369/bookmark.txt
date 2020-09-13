@@ -1,0 +1,21 @@
+Title: Well rounded article questioning the role of a front-end developer in 2019: The Great Divide – &quot;front-end developer isn't communicating what it needs to as an effective job title&quot;.
+
+----
+
+Permalink: https://css-tricks.com/the-great-divide/
+
+----
+
+Date: 2019-01-21 21:34
+
+----
+
+Tags: front-end, industry, javascript, web development 
+
+----
+
+Redirect: https://calumryan.com/note/2369
+
+----
+
+UID: 2369

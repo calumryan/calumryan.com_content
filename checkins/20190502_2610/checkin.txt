@@ -1,0 +1,45 @@
+Title: May 2nd, 2019
+
+----
+
+Text: Checked in at Gate 112. First time departure over the bridge at Gatwick
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5ccad0f6f709c1002c055091
+
+----
+
+Longitude: -0.1776053481752
+
+----
+
+Latitude: 51.156134119149
+
+----
+
+Temperature: 16°C
+
+----
+
+Weather Icon: partly-cloudy-day
+
+----
+
+Date: 2019-05-02 12:13
+
+----
+
+Redirect: https://calumryan.com/note/2610
+
+----
+
+UID: 2610

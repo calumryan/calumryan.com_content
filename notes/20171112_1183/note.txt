@@ -1,0 +1,41 @@
+Title: November 12th, 2017
+
+----
+
+Text: Standby, renewing SSL certificate, this might be painful..
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Temperature: 
+
+----
+
+Weather Icon: 
+
+----
+
+Date: 2017-11-12 21:11
+
+----
+
+Redirect: https://calumryan.com/note/1183
+
+----
+
+UID: 1183

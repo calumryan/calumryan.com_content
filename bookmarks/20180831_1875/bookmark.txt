@@ -1,0 +1,21 @@
+Title: Conversational Semantics
+
+----
+
+Permalink: https://alistapart.com/article/conversational-semantics
+
+----
+
+Date: 2018-08-31 21:09
+
+----
+
+Tags: html, aria, semantics 
+
+----
+
+Redirect: https://calumryan.com/note/1875
+
+----
+
+UID: 1875

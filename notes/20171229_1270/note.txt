@@ -1,0 +1,41 @@
+Title: December 29th, 2017
+
+----
+
+Text: Making a start on CSS Grid-ifying homepage
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Temperature: 
+
+----
+
+Weather Icon: 
+
+----
+
+Date: 2017-12-29 20:42
+
+----
+
+Redirect: https://calumryan.com/note/1270
+
+----
+
+UID: 1270

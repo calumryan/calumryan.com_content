@@ -1,0 +1,45 @@
+Title: April 27th, 2019
+
+----
+
+Text: Checked in at Bournemouth Beach
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5cc4431e471d6e003a0d3fe7
+
+----
+
+Longitude: -1.8747342538802
+
+----
+
+Latitude: 50.716386719026
+
+----
+
+Temperature: 13°C
+
+----
+
+Weather Icon: wind
+
+----
+
+Date: 2019-04-27 12:55
+
+----
+
+Redirect: https://calumryan.com/note/2597
+
+----
+
+UID: 2597

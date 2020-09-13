@@ -1,0 +1,45 @@
+Title: May 5th, 2018
+
+----
+
+Text: Checked in at H Wupperstraße
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5aed5325911fc4002c3aada1
+
+----
+
+Longitude: 6.7571821109974
+
+----
+
+Latitude: 51.214638164085
+
+----
+
+Temperature: 
+
+----
+
+Weather Icon: 
+
+----
+
+Date: 2018-05-05 07:45
+
+----
+
+Redirect: https://calumryan.com/note/1527
+
+----
+
+UID: 1527

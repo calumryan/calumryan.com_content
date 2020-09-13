@@ -1,0 +1,45 @@
+Title: November 1st, 2018
+
+----
+
+Text: Checked in at H Flughafen Tegel
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5bdb0bb2cf72a0002cd8f940
+
+----
+
+Longitude: 13.292154330022
+
+----
+
+Latitude: 52.553904152117
+
+----
+
+Temperature: 13°C
+
+----
+
+Weather Icon: cloudy
+
+----
+
+Date: 2018-11-01 14:20
+
+----
+
+Redirect: https://calumryan.com/note/2075
+
+----
+
+UID: 2075

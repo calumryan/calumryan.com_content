@@ -1,0 +1,45 @@
+Title: November 3rd, 2017
+
+----
+
+Text: Checked in at H U Eberswalder Straße
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/59fc3e3fa8792145600b07df
+
+----
+
+Longitude: 13.411822915077
+
+----
+
+Latitude: 52.540446163598
+
+----
+
+Temperature: 
+
+----
+
+Weather Icon: 
+
+----
+
+Date: 2017-11-03 10:00
+
+----
+
+Redirect: https://calumryan.com/note/1110
+
+----
+
+UID: 1110

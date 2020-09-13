@@ -1,0 +1,35 @@
+Title: Coldfront 2015
+----
+
+Description:
+Frontend conference roundup from Copenhagen
+----
+
+Og: false
+
+----
+
+Thumbnail: /media/pages/posts/unsorted/coldfront.png
+
+----
+
+Text:
+This year I’d the surprise opportunity to attend Coldfront Conference in Copenhagen thanks to a competition run by London Web Standards meetup and some generous organisers of the event. The 1913 built Grand Theater was the venue for Coldfront which offered a pleasant and very comfortable space to view the eight speakers present their talks on frontend and web related talks.
+
+![Copenhagen](/media/pages/posts/unsorted/copenhagen.jpg)
+
+The talks ranged in depth on matters from building for offline, performance-led thinking to responsive design techniques for a broad range of coding components and design patterns. Added to that we heard the latest on Microsoft’s latest browser, Edge, which has significantly stripped down and re-engineered its rendering engine with consequential performance changes, feature support and speed.
+
+In more than a few talks the topic of Service Workers came up with confidence in the tone of the speakers that it is now a feature of the web to consider implementing. Alongside this there were also some indications that HTTP/2 may now be on the cards for developers in terms of strategic thinking for how future websites and applications consume and deliver content more efficiently.
+
+Following the conference I’d the great pleasure of touring the city with fellow Londoner: Marek Lenik. Copenhagen is a truly remarkable city to explore on foot or water by frequent boat tours. The architecture is a balanced mix of new and old building pleasantly complementing each other. Cycling seems the primary form of private transport throughout the city with large segregated cycling lanes on almost every major road making it a much happier, cleaner and safe place to work and live in.
+----
+
+Tags: general
+----
+
+Date: 2015-09-05 00:00
+
+----
+
+Redirect: https://calumryan.com/blog/coldfront-2015/

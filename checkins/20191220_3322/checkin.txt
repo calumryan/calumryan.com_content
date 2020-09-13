@@ -1,0 +1,45 @@
+Title: December 20th, 2019
+
+----
+
+Text: Checked in at M Shed
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5dfcb92d3e5413000830642f
+
+----
+
+Longitude: -2.5981549538301
+
+----
+
+Latitude: 51.447706136867
+
+----
+
+Temperature: 7°C
+
+----
+
+Weather Icon: partly-cloudy-night
+
+----
+
+Date: 2019-12-20 12:06
+
+----
+
+Redirect: https://calumryan.com/note/3322
+
+----
+
+UID: 3322

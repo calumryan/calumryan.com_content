@@ -1,0 +1,45 @@
+Title: June 3rd, 2019
+
+----
+
+Text: Checked in at Freshii
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5cf501c0788044002b4f4901
+
+----
+
+Longitude: -6.2282567
+
+----
+
+Latitude: 53.348415
+
+----
+
+Temperature: 14°C
+
+----
+
+Weather Icon: cloudy
+
+----
+
+Date: 2019-06-03 12:17
+
+----
+
+Redirect: https://calumryan.com/note/2755
+
+----
+
+UID: 2755

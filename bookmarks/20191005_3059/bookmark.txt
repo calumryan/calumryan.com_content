@@ -1,0 +1,21 @@
+Title: Automated (and Guided!) Accessibility Audits with axe Pro (via @css)
+
+----
+
+Permalink: https://css-tricks.com/automated-and-guided-accessibility-audits-with-axe-pro/
+
+----
+
+Date: 2019-10-05 16:45
+
+----
+
+Tags: a11y 
+
+----
+
+Redirect: https://calumryan.com/note/3059
+
+----
+
+UID: 3059

@@ -1,0 +1,22 @@
+Title: Great example of implementing CSS Grid and clean, modern JavaScript methods for making an Advent Calendar of events by @hello_anwen 👏🏻 
+https://codepen.io/hello_anwen/full/mQBdmx
+
+----
+
+Permalink: https://codepen.io/hello_anwen/full/mQBdmx
+
+----
+
+Date: 2018-12-19 10:35
+
+----
+
+Tags: css, javascript, christmas, grid, brighton, sass 
+
+----
+
+Redirect: https://calumryan.com/note/2268
+
+----
+
+UID: 2268

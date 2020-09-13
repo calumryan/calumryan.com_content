@@ -1,0 +1,41 @@
+Title: May 18th, 2018
+
+----
+
+Text: My second \#btconf Düsseldorf https://calumryan.com/blog/my-second-btconf-duesseldorf/
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Latitude: 51.2054992
+
+----
+
+Longitude: 0.2752189
+
+----
+
+Temperature: 11°C
+
+----
+
+Weather Icon: partly-cloudy-day
+
+----
+
+Date: 2018-05-18 09:25
+
+----
+
+Redirect: https://calumryan.com/note/1636
+
+----
+
+UID: 1636

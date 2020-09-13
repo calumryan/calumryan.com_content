@@ -1,0 +1,45 @@
+Title: June 3rd, 2019
+
+----
+
+Text: Checked in at Holyhead Ferry Terminal
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5cf538b40e3239002bb5176e
+
+----
+
+Longitude: -4.6286804922168
+
+----
+
+Latitude: 53.308989766789
+
+----
+
+Temperature: 15°C
+
+----
+
+Weather Icon: wind
+
+----
+
+Date: 2019-06-03 16:11
+
+----
+
+Redirect: https://calumryan.com/note/2759
+
+----
+
+UID: 2759

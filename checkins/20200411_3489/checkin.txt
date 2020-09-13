@@ -1,0 +1,49 @@
+Title: April 11th, 2020
+
+----
+
+Text: Checked in at Turners Hill
+
+----
+
+Feature Image: fsqPe1Dvj.jpg
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5e91d26331f4700008079149
+
+----
+
+Longitude: -0.085048241262818
+
+----
+
+Latitude: 51.103718883551
+
+----
+
+Temperature: 22°C
+
+----
+
+Weather Icon: partly-cloudy-day
+
+----
+
+Date: 2020-04-11 15:21
+
+----
+
+Redirect: https://calumryan.com/note/3489
+
+----
+
+UID: 3489

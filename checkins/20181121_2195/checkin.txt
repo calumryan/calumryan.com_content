@@ -1,0 +1,45 @@
+Title: November 21st, 2018
+
+----
+
+Text: Checked in at Leon
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5bf5adcb83e380002ca257e2
+
+----
+
+Longitude: -0.075991712359014
+
+----
+
+Latitude: 51.519864794656
+
+----
+
+Temperature: 3°C
+
+----
+
+Weather Icon: clear-night
+
+----
+
+Date: 2018-11-21 19:11
+
+----
+
+Redirect: https://calumryan.com/note/2195
+
+----
+
+UID: 2195

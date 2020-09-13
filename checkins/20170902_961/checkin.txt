@@ -1,0 +1,45 @@
+Title: September 2nd, 2017
+
+----
+
+Text: Checked in at Starbucks
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/59aa897d0fe7a029c512cd1d
+
+----
+
+Longitude: 1.156231
+
+----
+
+Latitude: 52.057754
+
+----
+
+Temperature: 
+
+----
+
+Weather Icon: 
+
+----
+
+Date: 2017-09-02 11:35
+
+----
+
+Redirect: https://calumryan.com/note/961
+
+----
+
+UID: 961

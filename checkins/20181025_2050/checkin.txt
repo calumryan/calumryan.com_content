@@ -1,0 +1,45 @@
+Title: October 25th, 2018
+
+----
+
+Text: Checked in at Tonbridge Railway Station (TON)
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5bd243c2f05ca8002de59632
+
+----
+
+Longitude: 0.26974357046837
+
+----
+
+Latitude: 51.191619820123
+
+----
+
+Temperature: 5°C
+
+----
+
+Weather Icon: clear-night
+
+----
+
+Date: 2018-10-25 23:29
+
+----
+
+Redirect: https://calumryan.com/note/2050
+
+----
+
+UID: 2050

@@ -1,0 +1,49 @@
+Title: June 1st, 2019
+
+----
+
+Text: Checked in at Shoe Lane Coffee
+
+----
+
+Feature Image: fsqVSLl8o.jpg
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5cf24636c47cf9002ccb023b
+
+----
+
+Longitude: -6.2550745264858
+
+----
+
+Latitude: 53.34714746952
+
+----
+
+Temperature: 15°C
+
+----
+
+Weather Icon: rain
+
+----
+
+Date: 2019-06-01 10:32
+
+----
+
+Redirect: https://calumryan.com/note/2740
+
+----
+
+UID: 2740

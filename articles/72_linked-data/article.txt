@@ -1,0 +1,67 @@
+Title: Linked Data
+----
+Description:
+Introductory overview of the history behind Linked Data on the web and what standards exist to represent linked data today.
+----
+
+Og:  false
+
+----
+
+Text:
+The web builds upon different forms of linked data from its very beginnings with search engines to the present day explosion of startups, corporations and organisations. Many are processing and consuming an infinite quantity of machine-readable data. Today linked data is in use all over the web making connections between people, objects, places and other entities.
+
+Data in its rawest, unprocessed form can be extremely hard to consume if not impossible for anyone to understand. For the majority of anyone or anything that uses the web it's essential that this data is organised and connected together in a logical format that's consumable and easy to share. Linked data needs to be machine-readable and inter-operable over multiple platforms and devices.
+
+The term "Linked Data" was coined in 2006 by Tim Berners-Lee as part of the Semantic Web project. Back then what the web lacked was a strong capability to understand the data people were throwing at it and come back with meaningful, intelligent and usable results. Having an interface between data and knowledge is to some extent what many of the data giants like Google and Facebook have set out to achieve.
+
+### Knowledge Graph
+Google introduced Knowledge Graph to significantly enhance results from its search engine in 2012. Over time it has become one of the most prominent examples of Linked Data development on the web. Alongside a standard list of search results is the Infobox, located above or to the right-hand side. This provides a structured, digestible answer to a user's search request based on content crawled from a range of websites, typically that includes Wikidata and Wikipedia.
+
+![Example search result of Queen Victoria in Knowledge Graph](/media/pages/posts/unsorted/knowledge-graph.png)
+
+### Open Graph protocol
+The Open Graph protocol was introduced in 2010 by Facebook in an attempt to make web pages share the same functionality already found within their own platform. Since then Open Graph has expanded into many uses, both within the main content of a webpage as well as the head content, with additional meta tags and properties. The protocol is based on RDFa which itself is an extension of HTML5: providing the support to markup HTML documents with linked data properties like people, events and reviews.
+
+### RDFa
+<abbr title="Resource Description Framework Attributes">RDFa</abbr> provides a convenient way to publish linked data using HTML5 attributes. In fact pretty much anything created in XML-based documents such as SVG or other variations of HTML can use it and still be consumed as linked data markup.
+
+Search engines and social media platforms find it easier to handle your content if it's constructed in an RDFa format. This make it easier to index and digest the content into specific types of presentation, channels or search engine results.
+
+E-commerce is one such example where online retailers, search engines and price comparison websites have embraced the opportunities of RDFa. The same products can be compared over multiple stores that have implemented RDFa markup for properties like price, shipping costs, reviews and availability. Linking all of this data together means that comparisons can be made between competing stores as well as overall product ratings and other features benefical to consumers and traders alike.
+
+### JSON-LD
+The use of <abbr title="JavaScript Object Notation">JSON</abbr> is commonplace on many web services, <abbr title="Application programming interface">API</abbr>s and technologies to transfer and present structured data. How this data is related to other data works much the same way as we link pages together through <abbr title="Universal Resource Identifier">URI</abbr>s. JSON Linked Data (JSON-LD) proposes a standard way to express linked data, written in JSON using the identifiers `@context`, `@id` and optionally: a type, language or value.
+
+### Annotation
+The Web Annotation specification, now a W3C standard, is an example of expressing relationships between documents on the web and using RDFa to achieve this. It goes beyond just the basic document identifiers of RDFa including refined properties to identify specific sub sections of a web document known as selectors and resource segments. This make it ideal for annotating web articles and enables multiple people to collaborate on drafting and publishing content through the web.
+
+### What excites me most about linked data: history!
+In recent years the uses of linked data in the <abbr title="galleries, libraries, archives, and museums">GLAM</abbr> industry has been gathering pace. We've the potential for linking together our arts, culture and historical exhibits in ways never done before both on the web and beyond. Linking data this way can help us to un-puzzle and learn more from our past as well as inform our future.
+
+In recent years GLAMs have growingly embraced the web as a platform to present and open up their archives and collections. Archive datasets are becoming more publicly available, not only for end users, but also academics, researchers and developers to handle and collate the data more easily on the web or other platforms.
+
+### Linked data: the future
+Like it or not today we live with an enormous quantity of data that's ever increasing. How we manage all of this data is important now more than ever. Data on the web needs to be linked together in ways that don't infringe on our privacy. Neither should we have our data locked away in silos we have little or no control over.
+
+Defining standards and implementing code to improve the way we link data on the web can offer more than a solution to unscrambling complex, raw data for purely technical, profiteering or business orientated goals. With the right collaboration of ideas, compassion and people it can help contribute to solving real-world problems; like eradicating diseases, helping make new scientific discoveries and tackling the ever increasing pressures on our environment.
+
+### Reference + reading
+
+- [JSON for Linking Data](https://json-ld.org/)
+- [Video: Non-technical introduction to Linked Data](https://www.youtube.com/watch?v=4x_xzT5eF5Q)
+- [Video: JSON-LD explained](https://www.youtube.com/watch?v=vioCbTo3C-4)
+- [Open Graph](https://www.computerhope.com/jargon/o/open-graph.htm)
+- [W3C RDFa](https://www.w3.org/TR/rdfa-primer/)
+- [rdfa.info](http://rdfa.info)
+- [Web Annotation: The Web’s Conversation Layer](https://www.youtube.com/watch?v=VnAs1_aNSWI)
+----
+
+Tags: learning
+----
+
+Date: 2018-10-16 00:00
+
+----
+
+Redirect: https://calumryan.com/learning/linked-data/

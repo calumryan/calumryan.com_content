@@ -1,0 +1,21 @@
+Title: Myspace loses all content uploaded before 2016
+
+----
+
+Permalink: https://www.theguardian.com/technology/2019/mar/18/myspace-loses-all-content-uploaded-before-2016
+
+----
+
+Date: 2019-03-18 16:12
+
+----
+
+Tags: indieweb, data loss 
+
+----
+
+Redirect: https://calumryan.com/note/2502
+
+----
+
+UID: 2502

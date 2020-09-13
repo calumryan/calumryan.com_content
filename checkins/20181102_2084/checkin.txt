@@ -1,0 +1,45 @@
+Title: November 2nd, 2018
+
+----
+
+Text: Checked in at coffeemamas
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5bdc2df8e1f228002cdbc174
+
+----
+
+Longitude: 13.349305
+
+----
+
+Latitude: 52.524283
+
+----
+
+Temperature: 12°C
+
+----
+
+Weather Icon: clear-day
+
+----
+
+Date: 2018-11-02 10:59
+
+----
+
+Redirect: https://calumryan.com/note/2084
+
+----
+
+UID: 2084

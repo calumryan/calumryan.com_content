@@ -1,0 +1,45 @@
+Title: December 12th, 2019
+
+----
+
+Text: Checked in at Helpful Technology
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5df22c1125934900071b262b
+
+----
+
+Longitude: -0.098773
+
+----
+
+Latitude: 51.519175
+
+----
+
+Temperature: 8°C
+
+----
+
+Weather Icon: cloudy
+
+----
+
+Date: 2019-12-12 12:01
+
+----
+
+Redirect: https://calumryan.com/note/3298
+
+----
+
+UID: 3298

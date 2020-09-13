@@ -1,0 +1,105 @@
+Title: Learning React Day 2
+
+----
+
+Description: 
+Second day in my learning log to understand and apply React into future personal and work-related Web projects.
+
+----
+
+Og:  false
+
+----
+
+Text:
+Following up from my previous [learning log entry](https://calumryan.com/learning/learning-react-day-1/) I've started to build my first React component learning through [React Fundamentals](https://online.reacttraining.com/courses/enrolled/50507). One of the key ingredients of a React component are <strong>Props</strong> which form a parameter within functions to control what content is displayed such as an image path, a piece of text or numeric value.
+
+We can use <strong>PropTypes</strong> within React to validate props and determine their type which might be a string, number, function or boolean value. PropTypes are no longer an inherent feature of the core React module so just like with any other module it now needs importing anywhere it's used.
+
+```js
+  import PropTypes from 'prop-types';
+```
+<br>
+
+### Understanding 'this' keyword
+At this point we dip out from language specific to React and review the purpose of 'this' from a wider context.
+
+The 'this' keyword is something I'm quite familiar with in usage beyond React and a fundamental part in learning to use JavaScript and pretty much any of its abstracted libraries. In the context of React its purpose is no different however the frequent use of functions that bind data between objects and other functions mean its all the more important to understand what the 'this' keyword is bound to.
+
+Four types of binding exist and each have their uses in React:
+
+* **Implicit Binding** *'this' is passed as an argument or for when a value is returned*
+* **Explicit Binding** *Indicates what the context of 'this' will be using call, apply or bind*
+* **new Binding** *'this' is bound to the new object being constructed*
+* **window Binding** *When 'this' is bound to the window object or undefined if in strict mode*
+
+Using the right binding method(s) will be of particular use for building React components to ensure the correct state is being set between different objects in the DOM such as active menu items and responding to interactions by the user in the case of dynamic forms. The more interacting components we have and the more content/data each contain/process: the more each of these binding methods are required to pass different arguments, change contexts and communicate to other functions inside and outside of component being built.
+
+### In practice
+The example written up here follows on from a tutorial I worked through by Tyler McGinnis linked to in this post's references below. I went one further step to modify the way an active state is applied using a class name rather than inline styling.
+
+```js
+var React = require('react');
+
+class Popular extends React.Component {
+
+  // Constructor passes props - in this case the default language is set to 'All
+  constructor(props){
+    super(props);
+    this.state = {
+      selectedLanguage: 'All
+    };
+
+    // 1st 'this' keyword bound to 'this' bound through function below to set context
+    this.updateLanguage = this.updateLanguage.bind(this);
+  }
+
+  // Invoke type binding selected state
+  updateLanguage(lang) {
+    this.setState(function () {
+      return {
+        selectedLanguage: lang,
+      }
+    });
+  }
+  render(){
+
+    // Object of languages to output in list object below
+    var languages = ['All', 'JavaScript', 'Ruby', 'Java', 'CSS', 'Python'];
+
+    return (
+      <ul className='languages'>
+      {languages.map(function (lang) {
+          return (
+            // List item written in JSX
+            <li
+              // Assign active class name
+              className={lang === this.state.selectedLanguage ? 'lang-active' : null}
+              // Each time clicked pass lang to function
+              onClick={this.updateLanguage.bind(null, lang)}
+              key={lang}>
+                {lang}
+            </li>
+          )
+        }, this)}
+      </ul>
+    )
+  }
+}
+```
+<br>
+
+### Reference + reading
+React Training [React Fundamentals](https://online.reacttraining.com/courses/enrolled/50507)
+
+----
+
+Tags: learning
+
+----
+
+Date: 2017-06-04 00:00
+
+----
+
+Redirect: https://calumryan.com/learning/learning-react-day-2/

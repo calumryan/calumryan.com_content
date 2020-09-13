@@ -1,0 +1,41 @@
+Title: May 5th, 2019
+
+----
+
+Text: Rebuilt and launched beta for IndieWebGuides hand-crafted with @eleven_ty https://indiewebguides.org
+
+----
+
+Permalink: 
+
+----
+
+Tags: indieweb, eleventy
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Temperature: 
+
+----
+
+Weather Icon: 
+
+----
+
+Date: 2019-05-05 14:13
+
+----
+
+Redirect: https://calumryan.com/note/2644
+
+----
+
+UID: 2644

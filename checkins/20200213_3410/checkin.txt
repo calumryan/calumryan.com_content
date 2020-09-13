@@ -1,0 +1,45 @@
+Title: February 13th, 2020
+
+----
+
+Text: Checked in at London Euston Railway Station (EUS)
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5e458f09a4014a00080ae1d0
+
+----
+
+Longitude: -0.133484247413
+
+----
+
+Latitude: 51.528255315986
+
+----
+
+Temperature: 6°C
+
+----
+
+Weather Icon: clear-night
+
+----
+
+Date: 2020-02-13 18:01
+
+----
+
+Redirect: https://calumryan.com/note/3410
+
+----
+
+UID: 3410

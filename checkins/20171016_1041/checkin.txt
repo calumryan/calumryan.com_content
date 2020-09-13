@@ -1,0 +1,45 @@
+Title: October 16th, 2017
+
+----
+
+Text: Checked in at GSMA. W3C AB
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/59e4fd02a795bd1e539e6f3a
+
+----
+
+Longitude: -0.090144965976266
+
+----
+
+Latitude: 51.512297532702
+
+----
+
+Temperature: 
+
+----
+
+Weather Icon: 
+
+----
+
+Date: 2017-10-16 19:40
+
+----
+
+Redirect: https://calumryan.com/note/1041
+
+----
+
+UID: 1041

@@ -1,0 +1,45 @@
+Title: November 1st, 2018
+
+----
+
+Text: Checked in at Starbucks
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5bdade07894eac002b6b3089
+
+----
+
+Longitude: -0.178904
+
+----
+
+Latitude: 51.160158
+
+----
+
+Temperature: 12°C
+
+----
+
+Weather Icon: partly-cloudy-day
+
+----
+
+Date: 2018-11-01 11:05
+
+----
+
+Redirect: https://calumryan.com/note/2071
+
+----
+
+UID: 2071

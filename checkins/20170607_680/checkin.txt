@@ -1,0 +1,45 @@
+Title: June 7th, 2017
+
+----
+
+Text: Checked in at Barden Lake
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/593838886fa81f6988d4d228
+
+----
+
+Longitude: 0.25037311309589
+
+----
+
+Latitude: 51.191615753345
+
+----
+
+Temperature: 
+
+----
+
+Weather Icon: 
+
+----
+
+Date: 2017-06-07 23:31
+
+----
+
+Redirect: https://calumryan.com/note/680
+
+----
+
+UID: 680

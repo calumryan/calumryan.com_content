@@ -1,0 +1,49 @@
+Title: August 12th, 2020
+
+----
+
+Text: Mozilla's MDN and DevTools teams cut: it's a sad day for building and documenting the Web to be more open, accessible and diverse. A huge loss of skills and talent which we as a community need to help ensure isn't lost forever
+
+----
+
+Locator: 
+
+----
+
+Date: 2020-08-12 13:45
+
+----
+
+Bridgy: twitter
+
+----
+
+Uid: 3546
+
+----
+
+Feature-images: 
+
+----
+
+Tags: firefox, devtools
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

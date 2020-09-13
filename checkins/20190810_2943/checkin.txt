@@ -1,0 +1,45 @@
+Title: August 10th, 2019
+
+----
+
+Text: Checked in at The Glades
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5d4edfd16c618200083cb321
+
+----
+
+Longitude: 0.016264915466309
+
+----
+
+Latitude: 51.404319291952
+
+----
+
+Temperature: 20°C
+
+----
+
+Weather Icon: partly-cloudy-day
+
+----
+
+Date: 2019-08-10 16:16
+
+----
+
+Redirect: https://calumryan.com/note/2943
+
+----
+
+UID: 2943

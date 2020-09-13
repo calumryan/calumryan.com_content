@@ -1,0 +1,45 @@
+Title: November 5th, 2018
+
+----
+
+Text: Checked in at H Ersatzverkehr
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5be06dccf62e09002c838a8b
+
+----
+
+Longitude: 13.446166
+
+----
+
+Latitude: 52.502973
+
+----
+
+Temperature: 14°C
+
+----
+
+Weather Icon: cloudy
+
+----
+
+Date: 2018-11-05 16:20
+
+----
+
+Redirect: https://calumryan.com/note/2129
+
+----
+
+UID: 2129

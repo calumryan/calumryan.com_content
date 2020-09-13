@@ -1,0 +1,42 @@
+Title: February 6th, 2018
+
+----
+
+Text: JAMstack London Launch
+https://calumryan.com/blog/jamstack-london-launch \#JAMstackLDN
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Latitude: 51.205455799999996
+
+----
+
+Longitude: 0.2753155
+
+----
+
+Temperature: 2°C
+
+----
+
+Weather Icon: partly-cloudy-day
+
+----
+
+Date: 2018-02-06 10:07
+
+----
+
+Redirect: https://calumryan.com/note/1354
+
+----
+
+UID: 1354

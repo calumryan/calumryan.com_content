@@ -1,0 +1,53 @@
+Title: Usability testing at Founders and Coders
+
+----
+
+Tags: speaker
+
+----
+
+Latitude: 51.56365
+
+----
+
+Longitude: -0.10781
+
+----
+
+Date: 2020-01-08 17:00
+
+----
+
+Date start: 2020-01-08 17:00:00 +0000
+
+----
+
+Date end: 2020-01-08 18:00:00 +0000
+
+----
+
+Timezone: GMT
+
+----
+
+City: London
+
+----
+
+Location: Space4, 2nd Floor, 113-115 Fonthill Road, Finsbury Park, London N4 3HF
+
+----
+
+Speaker: 1
+
+----
+
+Redirect: https://calumryan.com/event/founders-and-coders
+
+----
+
+View slides: https://noti.st/calumryan/SDJFrp/usability-testing
+
+----
+
+UID: founders-and-coders

@@ -1,0 +1,45 @@
+Title: February 1st, 2018
+
+----
+
+Text: Checked in at Government Digital Service. W3C: Meet the TAG
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5a735ee9bed48368119b008e
+
+----
+
+Longitude: -0.073058733587778
+
+----
+
+Latitude: 51.514580972032
+
+----
+
+Temperature: 
+
+----
+
+Weather Icon: 
+
+----
+
+Date: 2018-02-01 18:39
+
+----
+
+Redirect: https://calumryan.com/note/1339
+
+----
+
+UID: 1339

@@ -1,0 +1,45 @@
+Title: November 16th, 2019
+
+----
+
+Text: Checked in at Bangkok Bus Terminal (Chatuchak) (สถานีขนส่งผู้โดยสารกรุงเทพฯ (จตุจักร))
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5dcf46a01550570008525335
+
+----
+
+Longitude: 100.54854558932
+
+----
+
+Latitude: 13.813148628196
+
+----
+
+Temperature: 27°C
+
+----
+
+Weather Icon: clear-day
+
+----
+
+Date: 2019-11-16 00:45
+
+----
+
+Redirect: https://calumryan.com/note/3214
+
+----
+
+UID: 3214

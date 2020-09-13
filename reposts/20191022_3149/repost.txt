@@ -1,0 +1,25 @@
+Title: October 22nd, 2019
+
+----
+
+Text: Easier dark mode development with devtools (Chromium)
+
+----
+
+Permalink: https://twitter.com/rem/status/1186588852460367875
+
+----
+
+Date: 2019-10-22 11:52
+
+----
+
+Tags: css, front-end, dark-mode
+
+----
+
+Redirect: https://calumryan.com/note/3149
+
+----
+
+UID: 3149

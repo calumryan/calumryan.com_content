@@ -1,0 +1,21 @@
+Title: How to Accessibly Split Text
+
+----
+
+Permalink: 
+
+----
+
+Date: 2019-08-28 16:53
+
+----
+
+Tags: html, css 
+
+----
+
+Redirect: https://calumryan.com/note/2972
+
+----
+
+UID: 2972

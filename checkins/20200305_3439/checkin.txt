@@ -1,0 +1,45 @@
+Title: March 5th, 2020
+
+----
+
+Text: Checked in at Sage Gateshead
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5e615df5d01b410008831131
+
+----
+
+Longitude: -1.6022462086098
+
+----
+
+Latitude: 54.967864931038
+
+----
+
+Temperature: 1°C
+
+----
+
+Weather Icon: partly-cloudy-night
+
+----
+
+Date: 2020-03-05 20:15
+
+----
+
+Redirect: https://calumryan.com/note/3439
+
+----
+
+UID: 3439

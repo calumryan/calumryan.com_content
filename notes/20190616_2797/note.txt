@@ -1,0 +1,49 @@
+Title: June 16th, 2019
+
+----
+
+Text: Look very very closely just to the right of the Moon, that tiny speck is Jupiter
+
+----
+
+Feature Image: IMG_20190616_231346.jpg
+
+----
+
+Image Alt: Night sky looking at the Moon and Jupiter
+
+----
+
+Permalink: 
+
+----
+
+Tags: Space
+
+----
+
+Latitude: 51.2054578
+
+----
+
+Longitude: 0.2754008
+
+----
+
+Temperature: 14°C
+
+----
+
+Weather Icon: partly-cloudy-night
+
+----
+
+Date: 2019-06-16 23:36
+
+----
+
+Redirect: https://calumryan.com/note/2797
+
+----
+
+UID: 2797

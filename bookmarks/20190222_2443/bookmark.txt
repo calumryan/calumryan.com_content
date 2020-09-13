@@ -1,0 +1,21 @@
+Title: Common web accessibility mistakes made by developers and emphasising the importance of testing your website with users - &quot;Developers make assumptions about what will be easier for a screen reader user&quot;
+
+----
+
+Permalink: http://adrianroselli.com/2019/02/uncanny-a11y.html
+
+----
+
+Date: 2019-02-22 08:03
+
+----
+
+Tags: a11y, front-end 
+
+----
+
+Redirect: https://calumryan.com/note/2443
+
+----
+
+UID: 2443

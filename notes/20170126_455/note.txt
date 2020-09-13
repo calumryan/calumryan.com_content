@@ -1,0 +1,45 @@
+Title: January 26th, 2017
+
+----
+
+Text: HWC London back up and running fortnightly for 2017 \#indieweb
+
+----
+
+Feature Image: IMG_20170125_193838.jpg
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Latitude: 51.5100419
+
+----
+
+Longitude: -0.1269625
+
+----
+
+Temperature: 1°C
+
+----
+
+Weather Icon: cloudy
+
+----
+
+Date: 2017-01-26 00:26
+
+----
+
+Redirect: https://calumryan.com/note/455
+
+----
+
+UID: 455

@@ -1,0 +1,45 @@
+Title: November 2nd, 2018
+
+----
+
+Text: Visual pointer for IndieWebCamp Berlin tomorrow at Mozilla (level 3) - look out for the IndieWebCamp/Mozilla flags road-side and head all the way down the driveway.
+
+----
+
+Feature Image: mozberlin.jpg
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Latitude: 52.499573899999994
+
+----
+
+Longitude: 13.449372799999999
+
+----
+
+Temperature: 12°C
+
+----
+
+Weather Icon: partly-cloudy-night
+
+----
+
+Date: 2018-11-02 15:46
+
+----
+
+Redirect: https://calumryan.com/note/2091
+
+----
+
+UID: 2091

@@ -1,0 +1,49 @@
+Title: UX Camp Brighton
+
+----
+
+Tags:
+
+----
+
+Latitude: 50.82947
+
+----
+
+Longitude: -0.13723
+
+----
+
+Date: 2017-03-25 10:00
+
+----
+
+Date start: 2017-03-25 10:00:00 +0000
+
+----
+
+Date end: 2017-03-25 18:00:00 +0000
+
+----
+
+Timezone: GMT
+
+----
+
+City: Brighton
+
+----
+
+Location: The Skiff
+
+----
+
+Speaker: 1
+
+----
+
+Redirect: https://calumryan.com/event/ux-camp-brighton
+
+----
+
+UID: ux-camp-brighton

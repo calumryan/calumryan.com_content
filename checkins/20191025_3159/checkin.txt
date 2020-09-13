@@ -1,0 +1,45 @@
+Title: October 25th, 2019
+
+----
+
+Text: Checked in at Whitecross Street Market
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5db2ea6013aa4f0008da944d
+
+----
+
+Longitude: -0.093173729519
+
+----
+
+Latitude: 51.523483423514
+
+----
+
+Temperature: 15°C
+
+----
+
+Weather Icon: rain
+
+----
+
+Date: 2019-10-25 13:28
+
+----
+
+Redirect: https://calumryan.com/note/3159
+
+----
+
+UID: 3159

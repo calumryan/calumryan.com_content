@@ -1,0 +1,41 @@
+Title: August 14th, 2017
+
+----
+
+Text: Quick amateur attempt this evening at SVG animating the London Eye https://codepen.io/calumryan/pen/KvXBQY ..forgot rotate the capsules too!
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Temperature: 
+
+----
+
+Weather Icon: 
+
+----
+
+Date: 2017-08-14 21:32
+
+----
+
+Redirect: https://calumryan.com/note/936
+
+----
+
+UID: 936

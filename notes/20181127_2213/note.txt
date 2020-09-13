@@ -1,0 +1,41 @@
+Title: November 27th, 2018
+
+----
+
+Text: How difficult would it be for cookie dialogues with 50+ checkboxes to look AND work properly? .. with a label like &quot;Check/Uncheck all cookies&quot; instead of a misleading Accept all button (actually a checkbox toggle) \#darkpatterns
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Latitude: 51.2054949
+
+----
+
+Longitude: 0.2752993
+
+----
+
+Temperature: 6°C
+
+----
+
+Weather Icon: rain
+
+----
+
+Date: 2018-11-27 13:33
+
+----
+
+Redirect: https://calumryan.com/note/2213
+
+----
+
+UID: 2213

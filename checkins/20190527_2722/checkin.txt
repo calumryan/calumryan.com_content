@@ -1,0 +1,49 @@
+Title: May 27th, 2019
+
+----
+
+Text: Checked in at Windmill Hill
+
+----
+
+Feature Image: fsqv3A2r6.jpg
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5cebe8dda6031c002caec345
+
+----
+
+Longitude: -0.2718834549276
+
+----
+
+Latitude: 51.948331749701
+
+----
+
+Temperature: 17°C
+
+----
+
+Weather Icon: partly-cloudy-day
+
+----
+
+Date: 2019-05-27 14:40
+
+----
+
+Redirect: https://calumryan.com/note/2722
+
+----
+
+UID: 2722

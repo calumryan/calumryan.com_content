@@ -1,0 +1,45 @@
+Title: June 11th, 2019
+
+----
+
+Text: Checked in at Helpful Technology
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5cff9626646e38002c73bbe1
+
+----
+
+Longitude: -0.098773
+
+----
+
+Latitude: 51.519175
+
+----
+
+Temperature: 17°C
+
+----
+
+Weather Icon: partly-cloudy-day
+
+----
+
+Date: 2019-06-11 12:53
+
+----
+
+Redirect: https://calumryan.com/note/2777
+
+----
+
+UID: 2777

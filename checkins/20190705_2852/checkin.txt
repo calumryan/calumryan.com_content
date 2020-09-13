@@ -1,0 +1,49 @@
+Title: July 5th, 2019
+
+----
+
+Text: Checked in at Domus Brauhaus
+
+----
+
+Feature Image: fsq0sceao.jpg
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5d1f8933f0384f000831c5f9
+
+----
+
+Longitude: 4.702556798584
+
+----
+
+Latitude: 50.878394820925
+
+----
+
+Temperature: 14°C
+
+----
+
+Weather Icon: partly-cloudy-night
+
+----
+
+Date: 2019-07-05 18:30
+
+----
+
+Redirect: https://calumryan.com/note/2852
+
+----
+
+UID: 2852

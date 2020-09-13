@@ -1,0 +1,45 @@
+Title: May 12th, 2018
+
+----
+
+Text: Checked in at Foodhallen
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5af6e39dc21cb1002cbae13c
+
+----
+
+Longitude: 4.868240438051
+
+----
+
+Latitude: 52.366944407967
+
+----
+
+Temperature: 
+
+----
+
+Weather Icon: 
+
+----
+
+Date: 2018-05-12 13:52
+
+----
+
+Redirect: https://calumryan.com/note/1609
+
+----
+
+UID: 1609

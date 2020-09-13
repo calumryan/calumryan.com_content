@@ -1,0 +1,45 @@
+Title: June 3rd, 2019
+
+----
+
+Text: Checked in at Holyhead Railway Station (HHD)
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5cf53c7033e118002cca5486
+
+----
+
+Longitude: -4.6303046106157
+
+----
+
+Latitude: 53.308206779692
+
+----
+
+Temperature: 14°C
+
+----
+
+Weather Icon: wind
+
+----
+
+Date: 2019-06-03 16:27
+
+----
+
+Redirect: https://calumryan.com/note/2760
+
+----
+
+UID: 2760

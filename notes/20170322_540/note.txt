@@ -1,0 +1,45 @@
+Title: March 22nd, 2017
+
+----
+
+Text: Testing out the marked as safe feature on Facebook
+
+----
+
+Feature Image: safetynotice.png
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Latitude: 51.510152999999995
+
+----
+
+Longitude: -0.1271455
+
+----
+
+Temperature: 9°C
+
+----
+
+Weather Icon: partly-cloudy-night
+
+----
+
+Date: 2017-03-22 22:21
+
+----
+
+Redirect: https://calumryan.com/note/540
+
+----
+
+UID: 540

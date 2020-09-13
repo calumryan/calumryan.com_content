@@ -1,0 +1,45 @@
+Title: October 23rd, 2018
+
+----
+
+Text: Checked in at Stuttgart Hauptbahnhof. À Paris!
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5bcf192986f4cc002cd506ed
+
+----
+
+Longitude: 9.183204306954
+
+----
+
+Latitude: 48.78488292504
+
+----
+
+Temperature: 15°C
+
+----
+
+Weather Icon: partly-cloudy-day
+
+----
+
+Date: 2018-10-23 13:50
+
+----
+
+Redirect: https://calumryan.com/note/2037
+
+----
+
+UID: 2037

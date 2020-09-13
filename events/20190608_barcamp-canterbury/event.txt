@@ -1,0 +1,45 @@
+Title: BarCamp Canterbury 6
+
+----
+
+Latitude: 51.29952
+
+----
+
+Longitude: 1.06908
+
+----
+
+Date: 2019-06-08 10:00
+
+----
+
+Date start: 2019-06-08 10:00:00 +0100
+
+----
+
+Date end: 2019-06-08 18:00:00 +0100
+
+----
+
+Timezone: BST
+
+----
+
+City: Canterbury
+
+----
+
+Location: Woolf College, Giles Lane, CT2 7BQ, Canterbury
+
+----
+
+Speaker: 1
+
+----
+
+Redirect: https://calumryan.com/event/barcamp-canterbury
+
+----
+
+UID: barcamp-canterbury

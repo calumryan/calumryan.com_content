@@ -1,0 +1,45 @@
+Title: September 3rd, 2019
+
+----
+
+Text: Checked in at Gray's Inn Gardens
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5d6e5bdd0d9898000846cbf8
+
+----
+
+Longitude: -0.11389058741803
+
+----
+
+Latitude: 51.520335040837
+
+----
+
+Temperature: 20°C
+
+----
+
+Weather Icon: partly-cloudy-day
+
+----
+
+Date: 2019-09-03 13:26
+
+----
+
+Redirect: https://calumryan.com/note/2983
+
+----
+
+UID: 2983

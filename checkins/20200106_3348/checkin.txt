@@ -1,0 +1,45 @@
+Title: January 6th, 2020
+
+----
+
+Text: Checked in at Homebrew Website Club. IWC London planning
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5e138e977b8cdc000861281b
+
+----
+
+Longitude: -0.12700729
+
+----
+
+Latitude: 51.509827
+
+----
+
+Temperature: 6°C
+
+----
+
+Weather Icon: partly-cloudy-night
+
+----
+
+Date: 2020-01-06 19:46
+
+----
+
+Redirect: https://calumryan.com/note/3348
+
+----
+
+UID: 3348

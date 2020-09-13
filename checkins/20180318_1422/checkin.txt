@@ -1,0 +1,45 @@
+Title: March 18th, 2018
+
+----
+
+Text: Checked in at Costa Coffee
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5aae57f1d807ee485053969c
+
+----
+
+Longitude: 0.25989398
+
+----
+
+Latitude: 51.14342
+
+----
+
+Temperature: 
+
+----
+
+Weather Icon: 
+
+----
+
+Date: 2018-03-18 12:13
+
+----
+
+Redirect: https://calumryan.com/note/1422
+
+----
+
+UID: 1422

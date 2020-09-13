@@ -1,0 +1,21 @@
+Title: Using CSS Grid for galleries: &quot;make a photo gallery responsive quickly and using very few lines of CSS&quot;
+
+----
+
+Permalink: https://medium.com/deemaze-software/css-grid-responsive-layouts-and-components-eee1badd5a2f
+
+----
+
+Date: 2018-05-11 19:11
+
+----
+
+Tags: css grid, layouts, gallery 
+
+----
+
+Redirect: https://calumryan.com/note/1603
+
+----
+
+UID: 1603

@@ -1,0 +1,45 @@
+Title: November 25th, 2019
+
+----
+
+Text: Checked in at Suvarnabhumi Airport (BKK) (ท่าอากาศยานสุวรรณภูมิ)
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5ddb49500da2d40008c6998a
+
+----
+
+Longitude: 100.75108841405
+
+----
+
+Latitude: 13.691966435606
+
+----
+
+Temperature: 32°C
+
+----
+
+Weather Icon: clear-day
+
+----
+
+Date: 2019-11-25 03:24
+
+----
+
+Redirect: https://calumryan.com/note/3269
+
+----
+
+UID: 3269

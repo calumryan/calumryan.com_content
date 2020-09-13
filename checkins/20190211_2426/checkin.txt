@@ -1,0 +1,45 @@
+Title: February 11th, 2019
+
+----
+
+Text: Checked in at Black Boy
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5c6176541953f3002c6323d4
+
+----
+
+Longitude: 0.19201406261928
+
+----
+
+Latitude: 51.271177428298
+
+----
+
+Temperature: 8°C
+
+----
+
+Weather Icon: partly-cloudy-day
+
+----
+
+Date: 2019-02-11 13:19
+
+----
+
+Redirect: https://calumryan.com/note/2426
+
+----
+
+UID: 2426

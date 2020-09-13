@@ -1,0 +1,21 @@
+Title: Content Author Accessibility Preview plugin
+
+----
+
+Permalink: https://wordpress.org/plugins/content-author-accessibility-preview/
+
+----
+
+Date: 2019-04-07 19:15
+
+----
+
+Tags: wordpress, a11y 
+
+----
+
+Redirect: https://calumryan.com/note/2552
+
+----
+
+UID: 2552

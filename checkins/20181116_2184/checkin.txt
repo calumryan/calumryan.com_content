@@ -1,0 +1,45 @@
+Title: November 16th, 2018
+
+----
+
+Text: Checked in at Old Fire Station
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5bef14a0e9b9a50025a1b5d5
+
+----
+
+Longitude: 0.2745329338989
+
+----
+
+Latitude: 51.197283541877
+
+----
+
+Temperature: 9°C
+
+----
+
+Weather Icon: partly-cloudy-night
+
+----
+
+Date: 2018-11-16 19:04
+
+----
+
+Redirect: https://calumryan.com/note/2184
+
+----
+
+UID: 2184

@@ -1,0 +1,45 @@
+Title: January 14th, 2020
+
+----
+
+Text: Checked in at Barbican Centre
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5e1dc4cf4d92fb00081ead29
+
+----
+
+Longitude: -0.093942
+
+----
+
+Latitude: 51.519855
+
+----
+
+Temperature: 12°C
+
+----
+
+Weather Icon: rain
+
+----
+
+Date: 2020-01-14 13:40
+
+----
+
+Redirect: https://calumryan.com/note/3363
+
+----
+
+UID: 3363

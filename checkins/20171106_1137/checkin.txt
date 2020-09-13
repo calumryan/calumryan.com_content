@@ -1,0 +1,45 @@
+Title: November 6th, 2017
+
+----
+
+Text: Checked in at Bahnhof Berlin-Schönefeld Flughafen
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5a00091ca9e40225881f79e4
+
+----
+
+Longitude: 13.512926101685
+
+----
+
+Latitude: 52.391446768306
+
+----
+
+Temperature: 
+
+----
+
+Weather Icon: 
+
+----
+
+Date: 2017-11-06 07:02
+
+----
+
+Redirect: https://calumryan.com/note/1137
+
+----
+
+UID: 1137

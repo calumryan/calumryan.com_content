@@ -1,0 +1,41 @@
+Title: October 28th, 2017
+
+----
+
+Text: Slides from Introducing the IndieWeb movement session at \#MozFest17 this morning https://calumryan.com/talks/mozfest17
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Latitude: 51.5016131
+
+----
+
+Longitude: 0.005268699999999999
+
+----
+
+Temperature: 16°C
+
+----
+
+Weather Icon: partly-cloudy-day
+
+----
+
+Date: 2017-10-28 16:04
+
+----
+
+Redirect: https://calumryan.com/note/1083
+
+----
+
+UID: 1083

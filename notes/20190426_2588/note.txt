@@ -1,0 +1,41 @@
+Title: April 26th, 2019
+
+----
+
+Text: Slides from my talk last night on website usability testing @FrontEndLondon are now available on my website and also recently published to Notist https://noti.st/calumryan/C7aLla
+
+----
+
+Permalink: 
+
+----
+
+Tags: talk, announcement, usability-testing
+
+----
+
+Latitude: 51.51920173702604
+
+----
+
+Longitude: -0.09902665387884074
+
+----
+
+Temperature: 15°C
+
+----
+
+Weather Icon: partly-cloudy-day
+
+----
+
+Date: 2019-04-26 12:40
+
+----
+
+Redirect: https://calumryan.com/note/2588
+
+----
+
+UID: 2588

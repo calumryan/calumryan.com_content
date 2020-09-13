@@ -1,0 +1,45 @@
+Title: June 5th, 2019
+
+----
+
+Text: Checked in at Conde Nast International. 1st workshop at Codebar London
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5cf7ffd8588e36002c3c45e7
+
+----
+
+Longitude: -0.12218515368129
+
+----
+
+Latitude: 51.509065531262
+
+----
+
+Temperature: 18°C
+
+----
+
+Weather Icon: partly-cloudy-day
+
+----
+
+Date: 2019-06-05 18:46
+
+----
+
+Redirect: https://calumryan.com/note/2763
+
+----
+
+UID: 2763

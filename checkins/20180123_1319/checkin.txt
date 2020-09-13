@@ -1,0 +1,45 @@
+Title: January 23rd, 2018
+
+----
+
+Text: Checked in at The Skiff
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5a673571a9fe12286770c356
+
+----
+
+Longitude: -0.13849854469299
+
+----
+
+Latitude: 50.829164274926
+
+----
+
+Temperature: 
+
+----
+
+Weather Icon: 
+
+----
+
+Date: 2018-01-23 13:15
+
+----
+
+Redirect: https://calumryan.com/note/1319
+
+----
+
+UID: 1319

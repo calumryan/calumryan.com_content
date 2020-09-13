@@ -1,0 +1,49 @@
+Title: October 23rd, 2018
+
+----
+
+Text: Checked in at Nürnberg Hauptbahnhof. Bis bald Nürnberg
+
+----
+
+Feature Image: fsqmEc7PE.jpg
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5bcee8ef6fd626002c26067c
+
+----
+
+Longitude: 11.082329750061
+
+----
+
+Latitude: 49.445347049147
+
+----
+
+Temperature: 9°C
+
+----
+
+Weather Icon: cloudy
+
+----
+
+Date: 2018-10-23 10:25
+
+----
+
+Redirect: https://calumryan.com/note/2033
+
+----
+
+UID: 2033

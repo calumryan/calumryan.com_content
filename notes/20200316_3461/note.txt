@@ -1,0 +1,41 @@
+Title: March 16th, 2020
+
+----
+
+Text: Thankful to everyone who participated @IndieWebCamp London online this past weekend. Met a friendly, diverse range of folks, discussed, learnt, made stuff for our websites. No different to any other IWC except we all did it from of our own homes
+
+----
+
+Permalink: 
+
+----
+
+Tags: indieweb
+
+----
+
+Latitude: 51.2054354761795
+
+----
+
+Longitude: 0.2751970014011026
+
+----
+
+Temperature: 10°C
+
+----
+
+Weather Icon: clear-day
+
+----
+
+Date: 2020-03-16 11:13
+
+----
+
+Redirect: https://calumryan.com/note/3461
+
+----
+
+UID: 3461

@@ -1,0 +1,45 @@
+Title: November 2nd, 2018
+
+----
+
+Text: Checked in at Sadhu
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5bdc9d8a5f68b9002cd82243
+
+----
+
+Longitude: 13.443195459512
+
+----
+
+Latitude: 52.499355470937
+
+----
+
+Temperature: 8°C
+
+----
+
+Weather Icon: partly-cloudy-night
+
+----
+
+Date: 2018-11-02 18:55
+
+----
+
+Redirect: https://calumryan.com/note/2092
+
+----
+
+UID: 2092

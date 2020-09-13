@@ -1,0 +1,41 @@
+Title: August 23rd, 2018
+
+----
+
+Text: Getting to the point of why web accessibility matters and what's being done to improve it. Two brilliant, faultless talks @a11ylondon tonight with @Horlix and @heydonworks
+
+----
+
+Permalink: 
+
+----
+
+Tags: a11ylondon
+
+----
+
+Latitude: 51.5173681
+
+----
+
+Longitude: -0.1084502
+
+----
+
+Temperature: 18°C
+
+----
+
+Weather Icon: partly-cloudy-night
+
+----
+
+Date: 2018-08-23 20:46
+
+----
+
+Redirect: https://calumryan.com/note/1855
+
+----
+
+UID: 1855

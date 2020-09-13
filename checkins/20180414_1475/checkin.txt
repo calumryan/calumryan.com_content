@@ -1,0 +1,45 @@
+Title: April 14th, 2018
+
+----
+
+Text: Checked in at Waitrose
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5ad1d26f3fcee8002c96017d
+
+----
+
+Longitude: 0.014269674836891
+
+----
+
+Latitude: 50.874774608199
+
+----
+
+Temperature: 
+
+----
+
+Weather Icon: 
+
+----
+
+Date: 2018-04-14 11:05
+
+----
+
+Redirect: https://calumryan.com/note/1475
+
+----
+
+UID: 1475

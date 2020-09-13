@@ -1,0 +1,40 @@
+Title: ES6 Array.from function
+----
+Description:
+A useful ES6 function for converting an object into an array.
+
+----
+
+Og:  false
+
+----
+
+Text:
+The `Array.from()` function in ES6 easily turns most objects recognised as a group of items into a standard array which you can then use other helpful ES6 functions on like **map()**.
+
+```html
+<div class="burritos">
+	<p>Pulled pork</p>
+	<p>Beef</p>
+	<p>Chicken</p>
+	<p>Vegie</p>
+</div>
+```
+
+```js
+const burritos = document.querySelectorAll('.burritos > p');
+const burritosArray = Array.from( burritos);
+const names = burritosArray.map( burrito => burrito.textContent );
+
+console.log(names);
+```
+----
+
+Tags: learning
+----
+
+Date: 2017-11-26 00:00
+
+----
+
+Redirect: https://calumryan.com/learning/es6-array-from/

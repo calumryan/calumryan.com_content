@@ -1,0 +1,21 @@
+Title: Improved tracking prevention abilities via cookies and storage access for WebKit – https://webkit.org/blog/8311/intelligent-tracking-prevention-2-0
+
+----
+
+Permalink: 
+
+----
+
+Date: 2018-06-04 21:20
+
+----
+
+Tags: cookies, storage, tracking 
+
+----
+
+Redirect: https://calumryan.com/note/1681
+
+----
+
+UID: 1681

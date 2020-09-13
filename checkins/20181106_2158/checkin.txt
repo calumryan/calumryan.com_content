@@ -1,0 +1,45 @@
+Title: November 6th, 2018
+
+----
+
+Text: Checked in at Gatwick Shuttle
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5be1e8fa6dcf040039b3607e
+
+----
+
+Longitude: -0.16508871293728
+
+----
+
+Latitude: 51.159850533473
+
+----
+
+Temperature: 13°C
+
+----
+
+Weather Icon: partly-cloudy-night
+
+----
+
+Date: 2018-11-06 19:18
+
+----
+
+Redirect: https://calumryan.com/note/2158
+
+----
+
+UID: 2158

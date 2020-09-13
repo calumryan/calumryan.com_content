@@ -1,0 +1,26 @@
+Title: January 19th, 2018
+
+----
+
+Text: Optimising Booking.com for the iPhone X display with CSS. Will be interesting to see if this is applied for other edge-to-edge devices.. 
+https://booking.design/how-we-adapted-the-booking-com-mobile-site-for-the-iphone-x-notch-e880fa00e989
+
+----
+
+Permalink: https://booking.design/how-we-adapted-the-booking-com-mobile-site-for-the-iphone-x-notch-e880fa00e989
+
+----
+
+Date: 2018-01-19 09:54
+
+----
+
+Tags: 
+
+----
+
+Redirect: https://calumryan.com/note/1312
+
+----
+
+UID: 1312

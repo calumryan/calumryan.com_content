@@ -1,0 +1,22 @@
+Title: Accessibility for Vestibular Disorders 
+&quot;I would rather jump on one of those 20-G centrifuges astronauts use than look at a website with parallax scrolling.&quot; – @fcorradini
+
+----
+
+Permalink: https://alistapart.com/article/accessibility-for-vestibular
+
+----
+
+Date: 2019-04-07 10:29
+
+----
+
+Tags: a11y, parallax, Vestibular 
+
+----
+
+Redirect: https://calumryan.com/note/2550
+
+----
+
+UID: 2550

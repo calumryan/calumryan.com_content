@@ -1,0 +1,45 @@
+Title: IndieWebCamp Brighton 2015
+
+----
+
+Tags:
+
+----
+
+Latitude: 50.82095
+
+----
+
+Longitude: -0.14314
+
+----
+
+Date: 2015-07-11 11:00
+
+----
+
+Date start: 2015-07-11 11:00:00 +0100
+
+----
+
+Date end: 2015-07-12 19:00:00 +0100
+
+----
+
+Timezone: BST
+
+----
+
+City: Brighton
+
+----
+
+Location: 68 Middle Street, Brighton, East Sussex, BN1 1AL
+
+----
+
+Redirect: https://calumryan.com/event/iwc-brighton-2015
+
+----
+
+UID: iwc-brighton-2015

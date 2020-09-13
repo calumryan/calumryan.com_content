@@ -1,0 +1,21 @@
+Title: &quot;Whenever you stumble upon an interesting thought on another site, write about it and link to it.&quot; | An in-depth article about protecting the open web and having a personal website – Into the Personal-Website-Verse by @m_ott
+
+----
+
+Permalink: https://matthiasott.com/articles/into-the-personal-website-verse
+
+----
+
+Date: 2019-05-12 18:30
+
+----
+
+Tags: indieweb 
+
+----
+
+Redirect: https://calumryan.com/note/2677
+
+----
+
+UID: 2677

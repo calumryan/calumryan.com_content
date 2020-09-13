@@ -1,0 +1,41 @@
+Title: Solving Jekyll
+----
+
+Description:
+Using the Jekyll configuration to stop server-side files getting cleared each time a new build is generated
+----
+
+Og: false
+
+----
+
+Thumbnail:
+
+----
+
+Text:
+Since last year I've been able to publish updates with images to my own site and syndicate to Twitter no problem. As a novice to both Jekyll and Git I'd not understood entirely why I was loosing all the images uploaded each time I pushed a new build.
+
+### What was happening?
+Well quite simply each time a new build is pushed to my server: Jekyll regenerates the entire site based on my local setup which hasn't any of the images I'd uploaded.
+
+My interim solution was to make a point of downloading all of the images on my server prior to pushing any new builds, every time! This wasn't ideal so I read deeper into documentation for both Git workflow and Jekyll.
+
+### The <em>better</em> solution...
+It was staring me right in the face and only required one line of code; however getting the syntax correct is crucial for the directory path which isn't widely demonstrated.
+
+```java
+keep_files: ['uploads/images']
+```
+
+This is added to <em>_config.yml</em> and simply specifies which files or folders to keep in place when regenerating a Jekyll build. In my case the folder is <em>uploads/images</em>.
+----
+
+Tags: learning
+----
+
+Date: 2016-03-09 00:00
+
+----
+
+Redirect: https://calumryan.com/learning/solving-jekyll/

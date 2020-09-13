@@ -1,0 +1,45 @@
+Title: January 6th, 2020
+
+----
+
+Text: Checked in at MOD Pizza
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5e138eac16b3be00085cab63
+
+----
+
+Longitude: -0.1291308504383
+
+----
+
+Latitude: 51.510010588367
+
+----
+
+Temperature: 6°C
+
+----
+
+Weather Icon: partly-cloudy-night
+
+----
+
+Date: 2020-01-06 19:46
+
+----
+
+Redirect: https://calumryan.com/note/3347
+
+----
+
+UID: 3347

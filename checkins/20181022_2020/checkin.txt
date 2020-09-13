@@ -1,0 +1,49 @@
+Title: October 22nd, 2018
+
+----
+
+Text: Checked in at Kongresshalle
+
+----
+
+Feature Image: fsqub3kWk.jpg
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5bcda7edc876c8002c24ea8f
+
+----
+
+Longitude: 11.112437967697
+
+----
+
+Latitude: 49.433901456534
+
+----
+
+Temperature: 10°C
+
+----
+
+Weather Icon: clear-day
+
+----
+
+Date: 2018-10-22 11:35
+
+----
+
+Redirect: https://calumryan.com/note/2020
+
+----
+
+UID: 2020

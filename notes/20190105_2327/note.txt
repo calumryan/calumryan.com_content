@@ -1,0 +1,41 @@
+Title: January 5th, 2019
+
+----
+
+Text: Planning to give Hugo static site generator a try for a small documentation project incorporating search, chapters and Microformats - Already using Hugo? ...your thoughts please
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Temperature: 
+
+----
+
+Weather Icon: 
+
+----
+
+Date: 2019-01-05 20:00
+
+----
+
+Redirect: https://calumryan.com/note/2327
+
+----
+
+UID: 2327

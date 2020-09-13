@@ -1,0 +1,9 @@
+Title: Checkins
+
+----
+
+Intro: This page lists all checkins
+
+----
+
+svg: icon-location

@@ -1,0 +1,45 @@
+Title: October 21st, 2018
+
+----
+
+Text: Checked in at Schleifweg
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5bccb3ac33e118002c29599d
+
+----
+
+Longitude: 11.0933895
+
+----
+
+Latitude: 49.470676
+
+----
+
+Temperature: 10°C
+
+----
+
+Weather Icon: clear-night
+
+----
+
+Date: 2018-10-21 18:13
+
+----
+
+Redirect: https://calumryan.com/note/2014
+
+----
+
+UID: 2014

@@ -1,0 +1,3 @@
+Title: Bookmarks
+----
+svg: icon-bookmark

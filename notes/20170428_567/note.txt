@@ -1,0 +1,41 @@
+Title: April 28th, 2017
+
+----
+
+Text: Brilliant well presented, detailed talk introducing \#ServiceWorkers by @lithinn at \#FEL tonight
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Latitude: 51.5323392
+
+----
+
+Longitude: -0.0990899
+
+----
+
+Temperature: 9°C
+
+----
+
+Weather Icon: partly-cloudy-night
+
+----
+
+Date: 2017-04-28 01:22
+
+----
+
+Redirect: https://calumryan.com/note/567
+
+----
+
+UID: 567

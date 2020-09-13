@@ -1,0 +1,45 @@
+Title: October 22nd, 2018
+
+----
+
+Text: Checked in at U Rathenauplatz
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5bcdc0244940bc002c881f3c
+
+----
+
+Longitude: 11.08851921911
+
+----
+
+Latitude: 49.457423469952
+
+----
+
+Temperature: 14°C
+
+----
+
+Weather Icon: clear-day
+
+----
+
+Date: 2018-10-22 13:18
+
+----
+
+Redirect: https://calumryan.com/note/2024
+
+----
+
+UID: 2024

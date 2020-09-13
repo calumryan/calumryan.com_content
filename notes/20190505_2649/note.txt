@@ -1,0 +1,41 @@
+Title: May 5th, 2019
+
+----
+
+Text: Demos, wrap-up from this weekend's IndieWebCamp Berlin https://www.youtube.com/watch?v=1vNuH20GGMw 
+
+----
+
+Permalink: 
+
+----
+
+Tags: IndieWebCamp, Berlin
+
+----
+
+Latitude: 52.5084179739466
+
+----
+
+Longitude: 13.435546249116479
+
+----
+
+Temperature: 6°C
+
+----
+
+Weather Icon: partly-cloudy-night
+
+----
+
+Date: 2019-05-05 21:45
+
+----
+
+Redirect: https://calumryan.com/note/2649
+
+----
+
+UID: 2649

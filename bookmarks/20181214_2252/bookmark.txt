@@ -1,0 +1,21 @@
+Title: A working approach for keeping ACF and WordPress Gutenberg in harmony
+
+----
+
+Permalink: https://philkurth.com.au/articles/structured-objects-in-a-post-gutenberg-world-using-acf
+
+----
+
+Date: 2018-12-14 09:36
+
+----
+
+Tags: wordpress, gutenberg 
+
+----
+
+Redirect: https://calumryan.com/note/2252
+
+----
+
+UID: 2252

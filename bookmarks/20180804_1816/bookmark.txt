@@ -1,0 +1,21 @@
+Title: Passing Data Between React Components
+
+----
+
+Permalink: https://medium.com/@ruthmpardee/passing-data-between-react-components-103ad82ebd17
+
+----
+
+Date: 2018-08-04 12:31
+
+----
+
+Tags: reactjs, props, data 
+
+----
+
+Redirect: https://calumryan.com/note/1816
+
+----
+
+UID: 1816

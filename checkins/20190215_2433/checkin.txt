@@ -1,0 +1,45 @@
+Title: February 15th, 2019
+
+----
+
+Text: Checked in at Barbican Centre
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5c66c347d4cc980039b9ada5
+
+----
+
+Longitude: -0.093534179507081
+
+----
+
+Latitude: 51.519576937656
+
+----
+
+Temperature: 13°C
+
+----
+
+Weather Icon: clear-day
+
+----
+
+Date: 2019-02-15 13:48
+
+----
+
+Redirect: https://calumryan.com/note/2433
+
+----
+
+UID: 2433

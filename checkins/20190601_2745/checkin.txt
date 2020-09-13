@@ -1,0 +1,49 @@
+Title: June 1st, 2019
+
+----
+
+Text: Checked in at The Blue Light
+
+----
+
+Feature Image: fsqGQoZge.jpg
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5cf2b4a3b9b37b002cdf6cab
+
+----
+
+Longitude: -6.2313023544551
+
+----
+
+Latitude: 53.254712959702
+
+----
+
+Temperature: 17°C
+
+----
+
+Weather Icon: partly-cloudy-day
+
+----
+
+Date: 2019-06-01 18:23
+
+----
+
+Redirect: https://calumryan.com/note/2745
+
+----
+
+UID: 2745

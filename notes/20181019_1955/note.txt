@@ -1,0 +1,45 @@
+Title: October 19th, 2018
+
+----
+
+Text: Back in the beautiful autumn colours of Nuremberg
+
+----
+
+Feature Image: nuremberg.jpg
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Latitude: 49.4585629
+
+----
+
+Longitude: 11.095389899999999
+
+----
+
+Temperature: 18°C
+
+----
+
+Weather Icon: clear-day
+
+----
+
+Date: 2018-10-19 14:28
+
+----
+
+Redirect: https://calumryan.com/note/1955
+
+----
+
+UID: 1955

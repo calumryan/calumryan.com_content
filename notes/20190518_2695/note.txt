@@ -1,0 +1,41 @@
+Title: May 18th, 2019
+
+----
+
+Text: Are you using @eleven_ty for your personal website? ..then why not submit a pull request on IndieWebGuides to add some step-by-step details on getting started with Eleventy for building your personal website 📖👇 https://indiewebguides.org/browse/eleventy/
+
+----
+
+Permalink: 
+
+----
+
+Tags: indieweb, indiewebguides
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Temperature: 
+
+----
+
+Weather Icon: 
+
+----
+
+Date: 2019-05-18 14:49
+
+----
+
+Redirect: https://calumryan.com/note/2695
+
+----
+
+UID: 2695

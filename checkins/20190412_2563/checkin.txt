@@ -1,0 +1,45 @@
+Title: April 12th, 2019
+
+----
+
+Text: Checked in at Havet
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5cb085da2aff31002cad6d12
+
+----
+
+Longitude: 0.27502467728981
+
+----
+
+Latitude: 51.187051032725
+
+----
+
+Temperature: 9°C
+
+----
+
+Weather Icon: partly-cloudy-day
+
+----
+
+Date: 2019-04-12 13:34
+
+----
+
+Redirect: https://calumryan.com/note/2563
+
+----
+
+UID: 2563

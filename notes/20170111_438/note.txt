@@ -1,0 +1,45 @@
+Title: January 11th, 2017
+
+----
+
+Text: Coding an caffeinating this morning in the atmospheric @65mmcoffee
+
+----
+
+Feature Image: IMG_20170111_102335.jpg
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Latitude: 51.2055705
+
+----
+
+Longitude: 0.2753634
+
+----
+
+Temperature: 9°C
+
+----
+
+Weather Icon: partly-cloudy-day
+
+----
+
+Date: 2017-01-11 15:54
+
+----
+
+Redirect: https://calumryan.com/note/438
+
+----
+
+UID: 438

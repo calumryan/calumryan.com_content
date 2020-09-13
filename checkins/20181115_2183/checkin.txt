@@ -1,0 +1,45 @@
+Title: November 15th, 2018
+
+----
+
+Text: Checked in at Charing Cross Railway Station (CHX)
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5bede724dab4b1002c03271f
+
+----
+
+Longitude: -0.12458324432373
+
+----
+
+Latitude: 51.508074696287
+
+----
+
+Temperature: 11°C
+
+----
+
+Weather Icon: partly-cloudy-night
+
+----
+
+Date: 2018-11-15 21:37
+
+----
+
+Redirect: https://calumryan.com/note/2183
+
+----
+
+UID: 2183

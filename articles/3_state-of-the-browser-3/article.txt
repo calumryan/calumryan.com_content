@@ -1,0 +1,70 @@
+Title: State of the Browser 3
+----
+
+Description:
+Annual conference bringing together everyone who makes the web
+
+----
+
+Og: false
+
+----
+
+Thumbnail: /media/pages/posts/unsorted/stateofthebrowser.png
+
+----
+
+Text:
+**This month has been non-stop with plenty of interesting talks and conferences to attend but this has undoubtedly been one my favourite so far this year. State of the Browser (SOTB) is an annual one-day conference focusing on the web browser from both design and development perspectives.**
+
+![Speaker lineup](/media/pages/posts/unsorted/sotb1.jpg)
+
+SOTB is hosted at Ravensbourne College which is a stunning new building located on the Greenwich Peninsula, immediately next door to The O2 and Emirates Air Line terminal. The event brings together official representatives/evangelists of all the main web browsers out there including Firefox, Chrome, Internet Explorer and Opera (nobody from Safari turned up).
+
+### WebKit Monoculture isn't breaking the web: you are
+
+We kicked-off with a session from **Alp Toker** on the WebKit Monoculture headlined by the latest stat that the WebKit layout engine now claims 47.6% of the browser market share. Alp spoke initially on the fear that this popular engine is quickly becoming the next potential nightmare for developers after IE6. The difference however is defined by a simple fact:
+
+> "The WebKit open source project is a massive generator of web browser diversity"
+
+In conclusion to this argument for WebKit, rather than against it, was that the engine has exceeded our expectations through usage on countless platforms and utilisation of many extraordinary features. Less a monoculture, more a WebKit multiculture!
+
+### Internet Explorer - Touch the web
+
+**Martin Beeby** from Microsoft talks to developers about HTML5, Windows 8 and the web. This event was no exception as Martin took us through a whole suite of touch-based coding techniques and considerations for touch-based devices. One of his key points was that:
+
+> “Touch Does Not Equal Mobile”
+
+Touch devices now come in all sorts of forms in addition to mobile phones and tablets. We have internet TVs with touch interfaces and notebooks combining a touch screen, keyboard and touch pad/mouse/stylus. Knowing how to accommodate all of these inputs within code isn’t just the concern of C++ programmers, now with HTML5 web components and sockets, it’s also in the realms of feasibility for web developers to produce HTML5-based applications for virtually any web-enabled platform.
+
+### State of the Mobile Web
+
+**Paul Kinlan** from Chrome briefly talked about understanding the state of the mobile web and the fact that where it is going is critically important for us as web developer as well as the businesses and clients we work for. Native application developers may have found their bounty initially in touch-based mobile but it’s still very much a platform of potential work for the web developer. All the stats prove that the browser has, is and will be the most used application on mobile including smartphones, tablets and previous generation mobile devices.
+
+Following lunch there was a choice of breakout sessions for delegates to choose from...
+
+Taking a break from development-speak; I attended a session by user interface engineer, **Ben MacGowan**, on “The trends and next steps of RWD”. The rapid emergence of responsive-design websites is, in his opinion, also bringing about a repetition in web history from the 2000s as we see countless websites which all look the same and all do the same thing the moment you resize the window. What’s needed sooner rather than later is greater innovation from designers in their train of thought on how they approach responsive web design (RWD). Also RWD should build on the layouts and consideration from native applications; however as Ben put it coherently:
+
+> “Learn from native apps don't mimic native apps”
+
+In the second break-out session I chose to attend **Jake Archibold’s** session on “Rendering without lumpy bits” which highlighted many common browser performance issues caused by heavy graphic processing demands. Most web developers will be familiar with tools such as FireBug to not only inspect and test code, but also to analyse the performance of elements such as animated objects. Jake suggested some small but hugely useful pieces of code which can help to improve webpage performance in a range of browsers, including mobile browsers, which are often slower than on desktop due to hardware constraints and limited battery power.
+
+### ..and finally
+
+Rounding off the day we had the award winning digital artist and speaker, **Seb Lee-Delisle**, live coding in less than 30 minutes, a 1980s-style remake of a popular computer game using just HTML, JavaScript and CSS. Suitably the game shooter and target objects were all icon representations of Opera, Firefox, Safari, Chrome and Internet Explorer.
+
+To conclude our day: the representatives/evangelists from each of the main web browsers formed a Q&A panel on the main stage, taking questions from delegates both present and viewing worldwide via the livestream. Christian Heilmann of Firefox and Martin Beeby of Microsoft made some good points in answer to a collection of questions regarding the openness of the web platform. They each emphasised the importance of the web developer’s role to produce openly accessible applications available to the many and not the few; as is not the priority for native-build, platform-specific smartphone/tablet applications.
+
+Christian also emphasised the need to start using CSS transitions more as the correct way to manipulate DOM elements rather than using jQuery’s Animate function which is generally considered wrong and bad for performance particularly on mobile devices.
+
+**Thanks go to the SOTB organisers London Web Standards who put this immense event on annually and the venue hosts, Ravensbourne College.**
+----
+
+Tags: general
+----
+
+Date: 2013-04-21 00:00
+
+----
+
+Redirect: https://calumryan.com/blog/state-of-the-browser-3/

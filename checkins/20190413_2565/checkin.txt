@@ -1,0 +1,45 @@
+Title: April 13th, 2019
+
+----
+
+Text: Checked in at Royal Victoria Place
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5cb1fb8fb37e2b002c59f008
+
+----
+
+Longitude: 0.26610889063635
+
+----
+
+Latitude: 51.134861354484
+
+----
+
+Temperature: 6°C
+
+----
+
+Weather Icon: partly-cloudy-day
+
+----
+
+Date: 2019-04-13 16:09
+
+----
+
+Redirect: https://calumryan.com/note/2565
+
+----
+
+UID: 2565

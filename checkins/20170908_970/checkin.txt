@@ -1,0 +1,45 @@
+Title: September 8th, 2017
+
+----
+
+Text: Checked in at Bread and Milk
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/59b248010d173f42340ea558
+
+----
+
+Longitude: -0.1377597536276
+
+----
+
+Latitude: 50.828267279262
+
+----
+
+Temperature: 
+
+----
+
+Weather Icon: 
+
+----
+
+Date: 2017-09-08 08:34
+
+----
+
+Redirect: https://calumryan.com/note/970
+
+----
+
+UID: 970

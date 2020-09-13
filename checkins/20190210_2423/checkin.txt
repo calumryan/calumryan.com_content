@@ -1,0 +1,45 @@
+Title: February 10th, 2019
+
+----
+
+Text: Checked in at Vienna International Airport (VIE) (Flughafen Wien-Schwechat)
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5c5fd0748ad62e002c826429
+
+----
+
+Longitude: 16.56304011052
+
+----
+
+Latitude: 48.119681121723
+
+----
+
+Temperature: 0°C
+
+----
+
+Weather Icon: cloudy
+
+----
+
+Date: 2019-02-10 07:19
+
+----
+
+Redirect: https://calumryan.com/note/2423
+
+----
+
+UID: 2423

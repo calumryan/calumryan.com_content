@@ -1,0 +1,45 @@
+Title: January 13th, 2018
+
+----
+
+Text: Checked in at Levi's
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5a59e4fbff190261e452b5f3
+
+----
+
+Longitude: 0.016822814941406
+
+----
+
+Latitude: 51.405149200277
+
+----
+
+Temperature: 
+
+----
+
+Weather Icon: 
+
+----
+
+Date: 2018-01-13 10:52
+
+----
+
+Redirect: https://calumryan.com/note/1300
+
+----
+
+UID: 1300

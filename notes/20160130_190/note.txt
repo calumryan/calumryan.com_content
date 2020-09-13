@@ -1,0 +1,43 @@
+Title: January 30th, 2016
+
+----
+
+Text: Slides from my talk last night @FrontEndLondon https://calumryan.com/talks/fel-280116/
+Thanks to all at FEL
+Credits to @t, @adactio + \#indieweb community
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Temperature: 
+
+----
+
+Weather Icon: 
+
+----
+
+Date: 2016-01-30 01:51
+
+----
+
+Redirect: https://calumryan.com/note/190
+
+----
+
+UID: 190

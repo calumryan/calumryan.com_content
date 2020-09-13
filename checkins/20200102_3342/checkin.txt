@@ -1,0 +1,45 @@
+Title: January 2nd, 2020
+
+----
+
+Text: Checked in at Helpful Technology
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5e0deda3aa25220008cb95b2
+
+----
+
+Longitude: -0.098773
+
+----
+
+Latitude: 51.519175
+
+----
+
+Temperature: 9°C
+
+----
+
+Weather Icon: cloudy
+
+----
+
+Date: 2020-01-02 13:18
+
+----
+
+Redirect: https://calumryan.com/note/3342
+
+----
+
+UID: 3342

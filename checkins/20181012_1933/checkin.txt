@@ -1,0 +1,45 @@
+Title: October 12th, 2018
+
+----
+
+Text: Checked in at Bread and Milk
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5bc052c4d1a402002cb00f33
+
+----
+
+Longitude: -0.13790735295961
+
+----
+
+Latitude: 50.828229059595
+
+----
+
+Temperature: 
+
+----
+
+Weather Icon: 
+
+----
+
+Date: 2018-10-12 08:52
+
+----
+
+Redirect: https://calumryan.com/note/1933
+
+----
+
+UID: 1933

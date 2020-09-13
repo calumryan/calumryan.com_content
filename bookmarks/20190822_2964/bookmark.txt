@@ -1,0 +1,21 @@
+Title: Using inputmode for inputs instead of type
+
+----
+
+Permalink: https://css-tricks.com/everything-you-ever-wanted-to-know-about-inputmode/
+
+----
+
+Date: 2019-08-22 17:34
+
+----
+
+Tags: html, front-end 
+
+----
+
+Redirect: https://calumryan.com/note/2964
+
+----
+
+UID: 2964

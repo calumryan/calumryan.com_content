@@ -1,0 +1,45 @@
+Title: November 6th, 2018
+
+----
+
+Text: Checked in at London Gatwick Airport (LGW). Sharp descent, sore ears
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5be1e3055bc27d0025292258
+
+----
+
+Longitude: -0.17425775527954
+
+----
+
+Latitude: 51.158703779449
+
+----
+
+Temperature: 14°C
+
+----
+
+Weather Icon: partly-cloudy-night
+
+----
+
+Date: 2018-11-06 18:52
+
+----
+
+Redirect: https://calumryan.com/note/2153
+
+----
+
+UID: 2153

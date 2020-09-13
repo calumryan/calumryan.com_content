@@ -1,0 +1,41 @@
+Title: June 24th, 2019
+
+----
+
+Text: Website devs/designers/testers: install axe's browser extension (for Firefox/Chrome/Android) / axe-cli and make sure you're testing for AND fixing accessibility issues on all of your web projects from start to finish https://www.deque.com/axe/
+
+----
+
+Permalink: 
+
+----
+
+Tags: a11y, tools
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Temperature: 
+
+----
+
+Weather Icon: 
+
+----
+
+Date: 2019-06-24 11:35
+
+----
+
+Redirect: https://calumryan.com/note/2815
+
+----
+
+UID: 2815

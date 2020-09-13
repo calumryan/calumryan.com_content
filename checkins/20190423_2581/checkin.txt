@@ -1,0 +1,45 @@
+Title: April 23rd, 2019
+
+----
+
+Text: Checked in at Paul
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5cbec5d160d11b002cd10915
+
+----
+
+Longitude: -0.10183639780802
+
+----
+
+Latitude: 51.519761751885
+
+----
+
+Temperature: 15°C
+
+----
+
+Weather Icon: partly-cloudy-day
+
+----
+
+Date: 2019-04-23 08:59
+
+----
+
+Redirect: https://calumryan.com/note/2581
+
+----
+
+UID: 2581

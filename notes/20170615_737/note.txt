@@ -1,0 +1,41 @@
+Title: June 15th, 2017
+
+----
+
+Text: Strange load time delay/freeze for @Twitter Lite PWA following redesign, removed and replaced on home screen to resolve
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Latitude: 51.5226835
+
+----
+
+Longitude: -0.08561690000000001
+
+----
+
+Temperature: 22°C
+
+----
+
+Weather Icon: partly-cloudy-day
+
+----
+
+Date: 2017-06-15 16:54
+
+----
+
+Redirect: https://calumryan.com/note/737
+
+----
+
+UID: 737

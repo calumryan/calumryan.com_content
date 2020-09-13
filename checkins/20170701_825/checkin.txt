@@ -1,0 +1,45 @@
+Title: July 1st, 2017
+
+----
+
+Text: Checked in at Dorking
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/595767f4ea1e44166c43762b
+
+----
+
+Longitude: -0.3259185374806
+
+----
+
+Latitude: 51.234062597075
+
+----
+
+Temperature: 
+
+----
+
+Weather Icon: 
+
+----
+
+Date: 2017-07-01 10:14
+
+----
+
+Redirect: https://calumryan.com/note/825
+
+----
+
+UID: 825

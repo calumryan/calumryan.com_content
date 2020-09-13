@@ -1,0 +1,21 @@
+Title: Auto trigger deploys on Netlify with Zapier
+
+----
+
+Permalink: https://flaviocopes.com/netlify-auto-deploy/
+
+----
+
+Date: 2019-06-19 20:33
+
+----
+
+Tags: deployment, trigger, netlify, ssg, JAMStack, Zapier 
+
+----
+
+Redirect: https://calumryan.com/note/2807
+
+----
+
+UID: 2807

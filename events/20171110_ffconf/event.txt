@@ -1,0 +1,45 @@
+Title: FFConf 2017
+
+----
+
+Tags:
+
+----
+
+Latitude: 50.834013
+
+----
+
+Longitude: -0.138315
+
+----
+
+Date: 2017-11-10 09:00
+
+----
+
+Date start: 2017-11-10 09:00:00 +0000
+
+----
+
+Date end: 2017-11-10 18:00:00 +0000
+
+----
+
+Timezone: GMT
+
+----
+
+City: Brighton
+
+----
+
+Location: Duke of York’s Picturehouse, Brighton, Preston Road, Brighton, BN1 4NA
+
+----
+
+Redirect: https://calumryan.com/event/ffconf
+
+----
+
+UID: ffconf

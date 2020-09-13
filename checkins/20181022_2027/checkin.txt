@@ -1,0 +1,45 @@
+Title: October 22nd, 2018
+
+----
+
+Text: Checked in at Burggraben (Vestnertorgraben)
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5bcde160cd441c002cf003a9
+
+----
+
+Longitude: 11.074497699738
+
+----
+
+Latitude: 49.458902254317
+
+----
+
+Temperature: 14°C
+
+----
+
+Weather Icon: clear-day
+
+----
+
+Date: 2018-10-22 15:40
+
+----
+
+Redirect: https://calumryan.com/note/2027
+
+----
+
+UID: 2027

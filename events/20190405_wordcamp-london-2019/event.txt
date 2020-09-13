@@ -1,0 +1,45 @@
+Title: WordCamp London 2019
+
+----
+
+Tags:
+
+----
+
+Latitude: 51.5516203
+
+----
+
+Longitude: -0.1129037
+
+----
+
+Date: 2019-04-05 09:00
+
+----
+
+Date start: 2019-04-05 09:00:00 +0100
+
+----
+
+Date end: 2019-04-07 18:00:00 +0100
+
+----
+
+Timezone: BST
+
+----
+
+City: London
+
+----
+
+Location: London Metropolitan University, 166-220 Holloway Rd, London, N7 8DB
+
+----
+
+Redirect: https://calumryan.com/event/wordcamp-london-2019
+
+----
+
+UID: wordcamp-london-2019

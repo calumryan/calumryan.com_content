@@ -1,0 +1,41 @@
+Title: December 10th, 2017
+
+----
+
+Text: Productive Sunday morning resolved why website wasn't redirecting http&gt;https ..server firewall ports 🔥
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Temperature: 
+
+----
+
+Weather Icon: 
+
+----
+
+Date: 2017-12-10 11:01
+
+----
+
+Redirect: https://calumryan.com/note/1243
+
+----
+
+UID: 1243

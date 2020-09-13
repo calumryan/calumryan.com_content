@@ -1,0 +1,45 @@
+Title: December 4th, 2018
+
+----
+
+Text: Checked in at Barbican Centre. Free workspace
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5c06b6373d4791002c0d03dd
+
+----
+
+Longitude: -0.093491582072967
+
+----
+
+Latitude: 51.51958781703
+
+----
+
+Temperature: 6°C
+
+----
+
+Weather Icon: partly-cloudy-night
+
+----
+
+Date: 2018-12-04 17:15
+
+----
+
+Redirect: https://calumryan.com/note/2229
+
+----
+
+UID: 2229

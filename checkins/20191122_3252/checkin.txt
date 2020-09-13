@@ -1,0 +1,45 @@
+Title: November 22nd, 2019
+
+----
+
+Text: Checked in at MRT Sanam Chai (BL31) (MRT สนามไชย)
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5dd79b74d7c81b0008c14fcd
+
+----
+
+Longitude: 100.49464702606
+
+----
+
+Latitude: 13.74426766848
+
+----
+
+Temperature: 33°C
+
+----
+
+Weather Icon: partly-cloudy-day
+
+----
+
+Date: 2019-11-22 08:25
+
+----
+
+Redirect: https://calumryan.com/note/3252
+
+----
+
+UID: 3252

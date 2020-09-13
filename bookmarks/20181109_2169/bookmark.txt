@@ -1,0 +1,21 @@
+Title: Resolving OSX Shell Path issues
+
+----
+
+Permalink: https://coolestguidesontheplanet.com/add-shell-path-osx/
+
+----
+
+Date: 2018-11-09 00:00
+
+----
+
+Tags: osx, shell, path, terminal 
+
+----
+
+Redirect: https://calumryan.com/note/2169
+
+----
+
+UID: 2169

@@ -1,0 +1,45 @@
+Title: May 4th, 2019
+
+----
+
+Text: Excellent first day sessions at IndieWebCamp Berlin with some extra attendees including the awesome @sonniesedge!
+
+----
+
+Feature Image: IMG_20190504_113342.jpg
+
+----
+
+Permalink: 
+
+----
+
+Tags: Berlin, IndieWebCamp
+
+----
+
+Latitude: 52.4992812
+
+----
+
+Longitude: 13.4432764
+
+----
+
+Temperature: 10°C
+
+----
+
+Weather Icon: clear-day
+
+----
+
+Date: 2019-05-04 18:19
+
+----
+
+Redirect: https://calumryan.com/note/2631
+
+----
+
+UID: 2631

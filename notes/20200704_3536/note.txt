@@ -1,0 +1,45 @@
+Title: July 4th, 2020
+
+----
+
+Text: Adding some webmention magic to my new website
+
+----
+
+Date: 2020-07-04 14:35
+
+----
+
+Bridgy: twitter
+
+----
+
+Uid: 3536
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

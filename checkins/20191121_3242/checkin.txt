@@ -1,0 +1,45 @@
+Title: November 21st, 2019
+
+----
+
+Text: Checked in at Starbucks (สตาร์บัคส์)
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5dd5ec442c172e00088d02ae
+
+----
+
+Longitude: 99.00021882836
+
+----
+
+Latitude: 18.783791752772
+
+----
+
+Temperature: 27°C
+
+----
+
+Weather Icon: clear-day
+
+----
+
+Date: 2019-11-21 01:45
+
+----
+
+Redirect: https://calumryan.com/note/3242
+
+----
+
+UID: 3242

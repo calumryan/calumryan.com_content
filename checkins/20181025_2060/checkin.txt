@@ -1,0 +1,45 @@
+Title: October 25th, 2018
+
+----
+
+Text: Checked in at Leon
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5bd1f9c98496ca002c070218
+
+----
+
+Longitude: -0.087820713127067
+
+----
+
+Latitude: 51.518966478307
+
+----
+
+Temperature: 5°C
+
+----
+
+Weather Icon: rain
+
+----
+
+Date: 2018-10-25 18:13
+
+----
+
+Redirect: https://calumryan.com/note/2060
+
+----
+
+UID: 2060

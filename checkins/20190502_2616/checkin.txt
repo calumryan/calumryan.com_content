@@ -1,0 +1,45 @@
+Title: May 2nd, 2019
+
+----
+
+Text: Checked in at Bahnhof Berlin Alexanderplatz
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5ccb3ec716ef67003963d0dd
+
+----
+
+Longitude: 13.411380462818
+
+----
+
+Latitude: 52.521592244773
+
+----
+
+Temperature: 12°C
+
+----
+
+Weather Icon: partly-cloudy-night
+
+----
+
+Date: 2019-05-02 20:02
+
+----
+
+Redirect: https://calumryan.com/note/2616
+
+----
+
+UID: 2616

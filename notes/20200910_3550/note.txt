@@ -1,0 +1,55 @@
+Title: September 10th, 2020
+
+----
+
+Text: Dearly miss meetups like @LondonCSS and seeing everyone irl ..but all credit to everyone keeping them going in some form online through this very tough and challenging period in all our lives
+
+----
+
+Locator:
+
+lat: 51.1889529
+lon: 0.2735876
+city: Tonbridge and Malling
+country: United Kingdom
+postcode: TN9 2AN
+
+----
+
+Date: 2020-09-10 22:00
+
+----
+
+Bridgy: twitter
+
+----
+
+Uid: 3550
+
+----
+
+Feature-images: 
+
+----
+
+Tags: coronavirus, london
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

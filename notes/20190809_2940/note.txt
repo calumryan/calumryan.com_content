@@ -1,0 +1,41 @@
+Title: August 9th, 2019
+
+----
+
+Text: 📢 Heads up to all those interested in open web services, software, and technologies to empower yourself, IndieWeb and BarCamp events: IndieWebCamp Brighton is returning this October 19th-20th and registration is now open! ✏️ https://indieweb.org/2019/Brighton
+
+----
+
+Permalink: 
+
+----
+
+Tags: indieweb, Brighton
+
+----
+
+Latitude: 51.205479519999976
+
+----
+
+Longitude: 0.2751981599999999
+
+----
+
+Temperature: 22°C
+
+----
+
+Weather Icon: partly-cloudy-day
+
+----
+
+Date: 2019-08-09 11:44
+
+----
+
+Redirect: https://calumryan.com/note/2940
+
+----
+
+UID: 2940

@@ -1,0 +1,49 @@
+Title: IndieWebCamp Nürnberg 2018
+
+----
+
+Tags:
+
+----
+
+Latitude: 49.4751629
+
+----
+
+Longitude: 11.104592
+
+----
+
+Date: 2018-10-20 10:00
+
+----
+
+Date start: 2018-10-20 10:00:00 +0100
+
+----
+
+Date end: 2018-10-21 18:00:00 +0100
+
+----
+
+Timezone: CEST
+
+----
+
+City: Nürnberg
+
+----
+
+Location: Klingenhofstraße 5, 90411
+
+----
+
+Speaker: 1
+
+----
+
+Redirect: https://calumryan.com/event/indiewebcamp-nurnburg-2018
+
+----
+
+UID: indiewebcamp-nurnburg-2018

@@ -1,0 +1,45 @@
+Title: December 1st, 2018
+
+----
+
+Text: Checked in at Costa Coffee
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5c0259b428374e002ca07631
+
+----
+
+Longitude: -0.089059127027724
+
+----
+
+Latitude: 51.519667854791
+
+----
+
+Temperature: 10°C
+
+----
+
+Weather Icon: rain
+
+----
+
+Date: 2018-12-01 09:51
+
+----
+
+Redirect: https://calumryan.com/note/2221
+
+----
+
+UID: 2221

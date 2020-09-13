@@ -1,0 +1,45 @@
+Title: May 1st, 2018
+
+----
+
+Text: Checked in at Fuggles Beer Café
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5ae8d77c86bc49002ca93983
+
+----
+
+Longitude: 0.26328620300986
+
+----
+
+Latitude: 51.135470165007
+
+----
+
+Temperature: 
+
+----
+
+Weather Icon: 
+
+----
+
+Date: 2018-05-01 22:09
+
+----
+
+Redirect: https://calumryan.com/note/1512
+
+----
+
+UID: 1512

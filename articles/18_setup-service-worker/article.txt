@@ -1,0 +1,39 @@
+Title: Setup a Service Worker
+----
+
+Description:
+Without much pain I've now setup a ServiceWorker!
+----
+
+Og: false
+
+----
+
+Thumbnail:
+
+----
+
+Text:
+A couple of weeks ago at my first attendance of the [Homebrew Website Club](https://indiewebcamp.com/Homebrew_Website_Club) in Brighton I brought forward plans to add a Service Worker to me website. I only recently installed an SSL certificate which is essential to being able to use Service Workers on any website.
+
+With only a few lines of JavaScript: the Service Worker method is a fairly easy process to get implemented on the front-end of any website suitably setup with SSL for encryption purposes.
+
+I first wanted to identify some good examples of how to maintain and limit an efficient level of cache before setting one up on my own site. Typically a scenario where I'd see ServiceWorkers of most use is on smartphones being in used in a variety of locations where internet connectivity fluctuates.
+
+Since 2012 the London Underground is a great example of this fluctuation where there's next to no WiFi signal in the tunnels but near perfect signal at most stations. There's just enough time for a page or two of content to load during a 30-60 second station stop but much less after time taken off for the device to reconnect and assign an IP address at each station.
+
+Smartphones in general have a relatively small amount of memory for cached items hence it's essential we get the limit feature working well when implementing ServiceWorkers.
+
+A few articles on the web present some simple but effective functions to iterate through all cached items and remove anything over a set limit. [Brandon Rozek](https://brandonrozek.com/2015/11/limiting-cache-service-workers-revisited/) and [Jeremy Keith](https://adactio.com/journal/9888) for example have implemented such functions to not only manage amounts of cache but types of cache: differentiating between pages/images/assets.
+
+We're very much still in the infancy of the Service Worker implementation. For the future I think it's going to offer so much potential for offline-first strategies in websites. Perhaps it will quell speculation of apps taking the foreground forever more when it comes to offline experiences on handheld devices as well as desktop and other web consumable technology.
+----
+
+Tags: general
+----
+
+Date: 2015-12-13 00:00
+
+----
+
+Redirect: https://calumryan.com/blog/setup-service-worker/

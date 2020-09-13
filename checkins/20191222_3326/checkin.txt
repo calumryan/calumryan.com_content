@@ -1,0 +1,45 @@
+Title: December 22nd, 2019
+
+----
+
+Text: Checked in at Whole Foods Market
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5dff74a32468940008f3d778
+
+----
+
+Longitude: -0.19033167170443
+
+----
+
+Latitude: 51.5019954322
+
+----
+
+Temperature: 9°C
+
+----
+
+Weather Icon: cloudy
+
+----
+
+Date: 2019-12-22 13:50
+
+----
+
+Redirect: https://calumryan.com/note/3326
+
+----
+
+UID: 3326

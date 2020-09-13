@@ -1,0 +1,21 @@
+Title: Chrome DevTools: Generate a JavaScript expression to get a DOM node by @umaar 👍
+
+----
+
+Permalink: https://umaar.com/dev-tips/185-copy-js-path/
+
+----
+
+Date: 2019-01-14 11:26
+
+----
+
+Tags: javascript, selector, devtools 
+
+----
+
+Redirect: https://calumryan.com/note/2355
+
+----
+
+UID: 2355

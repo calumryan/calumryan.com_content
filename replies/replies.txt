@@ -1,0 +1,5 @@
+Title: Replies
+----
+Intro: This page lists all available replies
+----
+svg: icon-reply

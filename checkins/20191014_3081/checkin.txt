@@ -1,0 +1,45 @@
+Title: October 14th, 2019
+
+----
+
+Text: Checked in at Google UK. London PWA
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5da4b0e17f4d19000883dde2
+
+----
+
+Longitude: -0.12574806671675
+
+----
+
+Latitude: 51.533232249843
+
+----
+
+Temperature: 16°C
+
+----
+
+Weather Icon: fog
+
+----
+
+Date: 2019-10-14 18:31
+
+----
+
+Redirect: https://calumryan.com/note/3081
+
+----
+
+UID: 3081

@@ -1,0 +1,45 @@
+Title: November 2nd, 2018
+
+----
+
+Text: Checked in at Witty's Bio-Currywurst
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5bdc414a2db4a9002c9846e9
+
+----
+
+Longitude: 13.388204137679
+
+----
+
+Latitude: 52.520319768235
+
+----
+
+Temperature: 14°C
+
+----
+
+Weather Icon: partly-cloudy-day
+
+----
+
+Date: 2018-11-02 12:21
+
+----
+
+Redirect: https://calumryan.com/note/2087
+
+----
+
+UID: 2087

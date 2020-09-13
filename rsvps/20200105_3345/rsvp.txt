@@ -1,0 +1,29 @@
+Title: January 5th, 2020
+
+----
+
+Text: Attending IndieWebCamp London 2020
+
+----
+
+Permalink: https://2020.indieweb.org/london
+
+----
+
+Date: 2020-01-05 15:54
+
+----
+
+Tags: 
+
+----
+
+Response: yes
+
+----
+
+Redirect: https://calumryan.com/note/3345
+
+----
+
+UID: 3345

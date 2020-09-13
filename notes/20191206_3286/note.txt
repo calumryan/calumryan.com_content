@@ -1,0 +1,49 @@
+Title: December 6th, 2019
+
+----
+
+Text: Festive baking class at Borough Market this morning
+
+----
+
+Feature Image: baking-2019.jpg
+
+----
+
+Image Alt: Freshly baked mince pies and amaretti biscuits on a round wooden board
+
+----
+
+Permalink: 
+
+----
+
+Tags: baking, London
+
+----
+
+Latitude: 51.5121723
+
+----
+
+Longitude: -0.1382266
+
+----
+
+Temperature: 11°C
+
+----
+
+Weather Icon: cloudy
+
+----
+
+Date: 2019-12-06 17:23
+
+----
+
+Redirect: https://calumryan.com/note/3286
+
+----
+
+UID: 3286

@@ -1,0 +1,45 @@
+Title: November 25th, 2017
+
+----
+
+Text: Checked in at Paul
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5a19475cee628b6fd8e0a503
+
+----
+
+Longitude: -1.2572516897366
+
+----
+
+Latitude: 51.752090765073
+
+----
+
+Temperature: 
+
+----
+
+Weather Icon: 
+
+----
+
+Date: 2017-11-25 10:35
+
+----
+
+Redirect: https://calumryan.com/note/1207
+
+----
+
+UID: 1207

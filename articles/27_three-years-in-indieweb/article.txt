@@ -1,0 +1,40 @@
+Title: Three years in learning about IndieWeb
+----
+Description:
+A little over three years since I first learnt about the IndieWeb movement I’ve grown to understand and participate further in its purpose: to bring people together in developing their own websites and control the content they author.
+----
+
+Og: false
+
+----
+
+Thumbnail:
+
+----
+
+Text:
+I first heard about the movement through an event publicised via [Brighton’s Digital Festival](http://brightondigitalfestival.co.uk/) in 2013 but had reservations over how technically involved it might be and unsure how related it was to my interests in website development and usability. The following year I plucked up the courage to attend having prepared some points to look over on my personal website. Long before this it has been a hobby project of mine ever since the year 2000 albeit in different forms and domains/hosting arrangements.
+
+For my initial IndieWebCamp in 2014 I mainly observed and listened to what others were doing with their personal websites and I made frequent reference to the IndieWebCamp wiki for terms such as Micropub, Webmentions, IndieAuth and POSSE. As with all new terminology it’s helpful to have well documented resources like a [Wiki](https://indieweb.org/) to learn at your own pace what it all means without being too overwhelmed.
+
+Fast forward two years to 2016 and I’ve more or less grasped the terminology frequently discussed at IndieWebCamps and the more regular meets at Homebrew Website Clubs (HWC). I've implemented a number of features on my website including Webmention support, setup an SSL certificate and post text, images, location and weather to my homepage feed and automatically POSSE to Twitter.
+
+Re-enforcing my understanding and raising awareness of the movement; I’ve in the past year given a [talk](https://calumryan.com/talks/fel-280116/) at local web-focused meet-ups about IndieWeb’s principles and what standards and approaches are being discussed or implemented as high up as by W3C members.
+
+Actively participating in the movement has been an objective of mine to not only raise awareness of what the movement and community is about but also to further my skills in web development, user experience and public-speaking skills.
+
+This year I started running a monthly London-based HWC and have attended others including Brighton HWC, plus internationally, managed to drop-in on the San Francisco HWC. It’s great to contrast between the different locations for these events: to meet new people, hear from different perspectives and see what they’re working on or discuss matters relating to IndieWeb.
+
+The IndieWeb community is formed of a diverse range of people all with one common goal to own and be in full control of what they publish to the web. It’s an open, friendly community for all to join regardless of ability or confidence in creating their own presence on the web.
+
+## I encourage anyone to attend a future HWC or IndieWebCamp - optionally bring your laptop or web authoring technology but most importantly come with eagerness to talk about, write about, make or learn something new on the web!
+----
+
+Tags: general
+----
+
+Date: 2016-09-27 00:00
+
+----
+
+Redirect: https://calumryan.com/blog/three-years-in-indieweb/

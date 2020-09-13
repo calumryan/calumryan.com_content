@@ -1,0 +1,41 @@
+Title: February 26th, 2017
+
+----
+
+Text: BBC Store Downloader app a sorry reflection of iPlayer in terms of tested use cases and UI both layout and graphics rendering
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Temperature: 
+
+----
+
+Weather Icon: 
+
+----
+
+Date: 2017-02-26 22:33
+
+----
+
+Redirect: https://calumryan.com/note/527
+
+----
+
+UID: 527

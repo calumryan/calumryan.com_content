@@ -1,0 +1,45 @@
+Title: July 5th, 2019
+
+----
+
+Text: Checked in at Ibis Hotel
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5d1f60acd25e6a000858ee05
+
+----
+
+Longitude: 4.6975048849361
+
+----
+
+Latitude: 50.880173399152
+
+----
+
+Temperature: 27°C
+
+----
+
+Weather Icon: clear-day
+
+----
+
+Date: 2019-07-05 15:37
+
+----
+
+Redirect: https://calumryan.com/note/2851
+
+----
+
+UID: 2851

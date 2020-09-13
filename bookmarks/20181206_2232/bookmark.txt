@@ -1,0 +1,21 @@
+Title: VueConf Toronto talks
+
+----
+
+Permalink: https://www.vuemastery.com/conferences/vueconf-toronto-2018/visualizations-using-svg-canvs-webgl/
+
+----
+
+Date: 2018-12-06 08:27
+
+----
+
+Tags:  
+
+----
+
+Redirect: https://calumryan.com/note/2232
+
+----
+
+UID: 2232

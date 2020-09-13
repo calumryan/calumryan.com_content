@@ -1,0 +1,49 @@
+Title: July 6th, 2019
+
+----
+
+Text: Le Tour Brussels Grand Départ
+
+----
+
+Feature Image: IMG_20190706_111044.jpg
+
+----
+
+Image Alt: Crowds surrounding Le Tour team coaches outside in Brussels
+
+----
+
+Permalink: 
+
+----
+
+Tags: cycling, letour
+
+----
+
+Latitude: 50.8378471
+
+----
+
+Longitude: 4.362045
+
+----
+
+Temperature: 25°C
+
+----
+
+Weather Icon: partly-cloudy-day
+
+----
+
+Date: 2019-07-06 12:15
+
+----
+
+Redirect: https://calumryan.com/note/2859
+
+----
+
+UID: 2859

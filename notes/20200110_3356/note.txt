@@ -1,0 +1,41 @@
+Title: January 10th, 2020
+
+----
+
+Text: The joys of living with a wild climate in 2020 using 1940s heating tech: night storage heaters! Remembering to check the weather forecast every single night and adjusting accordingly. Get it wrong and home's either a sauna or freezer for next 15hrs
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Latitude: 51.205384249072694
+
+----
+
+Longitude: 0.27509881360854543
+
+----
+
+Temperature: 4°C
+
+----
+
+Weather Icon: clear-night
+
+----
+
+Date: 2020-01-10 17:40
+
+----
+
+Redirect: https://calumryan.com/note/3356
+
+----
+
+UID: 3356

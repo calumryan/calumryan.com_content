@@ -1,0 +1,45 @@
+Title: November 3rd, 2018
+
+----
+
+Text: Checked in at Mozilla Berlin. IndieWebCamp day 1
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5bdd59d665211f002c4758b1
+
+----
+
+Longitude: 13.449271786344
+
+----
+
+Latitude: 52.499467118508
+
+----
+
+Temperature: 8°C
+
+----
+
+Weather Icon: partly-cloudy-day
+
+----
+
+Date: 2018-11-03 08:18
+
+----
+
+Redirect: https://calumryan.com/note/2096
+
+----
+
+UID: 2096

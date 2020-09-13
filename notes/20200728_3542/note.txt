@@ -1,0 +1,56 @@
+Title: July 28th, 2020
+
+----
+
+Text: Cycled many many miles this week ..honest but #GarminDown and missing a USB-C dongle
+
+----
+
+Locator:
+
+lat: 51.4534691
+lon: -0.1022835
+city: London Borough of Lambeth
+country: United Kingdom
+postcode: SE24 0GF
+address: Milkwood Road
+
+----
+
+Date: 2020-07-28 14:10
+
+----
+
+Bridgy: twitter
+
+----
+
+Uid: 3542
+
+----
+
+Feature-images: 
+
+----
+
+Tags: cycling
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

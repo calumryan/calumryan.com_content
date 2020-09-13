@@ -1,0 +1,41 @@
+Title: January 17th, 2019
+
+----
+
+Text: CMS accessibility is approached not just as a theme layer matter at Drupal but from the core - great talk tonight by @mgifford at London Accessibility meetup
+
+----
+
+Permalink: 
+
+----
+
+Tags: a11y, cms, Drupal
+
+----
+
+Latitude: 51.5172699
+
+----
+
+Longitude: -0.1080447
+
+----
+
+Temperature: 1°C
+
+----
+
+Weather Icon: partly-cloudy-night
+
+----
+
+Date: 2019-01-17 20:57
+
+----
+
+Redirect: https://calumryan.com/note/2360
+
+----
+
+UID: 2360

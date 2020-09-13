@@ -1,0 +1,32 @@
+Title: Site updates November
+----
+Description:
+A work in progress summary to date
+----
+
+Og: false
+
+----
+
+Thumbnail:
+
+----
+
+Text:
+Continuing on from my last [update](https://calumryan.com/learning/site-updates-october/) I've completed a long needed change to how posts are displayed on my homepage feed. It’s now possible to view more posts with Javascript (JS) enabled one at a time on the same page. Unlike the infinite scroll UI, found on social networks like Facebook and Twitter, I wanted to maintain access to the page footer so opted for a manual trigger for more posts to display.
+
+Maintaining that I follow the principles of progressive enhancement: if JS fails to load then the fallback is a link near the bottom to a single archive page showing all posts as I had previously.
+
+To get posts loading on the same page I implemented the XMLHttpRequest function in JS that’s now widely supported minus older versions of IE. This triggers a call through AJAX for the database to load in post entries by their ID. The most time consuming part of this was writing the JS (without frameworks) to construct elements and append the post contents into the page. I have yet to enhance this with some preloading functionality to address variations in performance over different connection types.
+
+I was satisfied that what I learnt from this process has refreshed my skills in coding pure JS without resorting to heavy frameworks for a relatively simple enhancement.
+----
+
+Tags: general
+----
+
+Date: 2016-11-02 00:00
+
+----
+
+Redirect: https://calumryan.com/blog/site-updates-november/

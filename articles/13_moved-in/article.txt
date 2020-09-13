@@ -1,0 +1,30 @@
+Title: Moved In
+----
+
+Description:
+Eight months of waiting, my April update
+----
+
+Og: false
+
+----
+
+Thumbnail:
+
+----
+
+Text:
+After eight months of feeling in a state of limbo, waiting on an onward property chain which broke three times, I’m now in my new home in the Garden of England: Kent. This has been a significant step in my life with much planning, budgeting and some degree of anxiety over future plans.
+
+Looking ahead it will be a physically challenging period training as much as I can in the lead up to [Velothon Wales](http://www.velothon-wales.co.uk/en/) - where I’ll be attempting the full 140km route amongst vast numbers of other cyclists.
+----
+
+Tags: general
+
+----
+
+Date: 2015-04-03 00:00
+
+----
+
+Redirect: https://calumryan.com/blog/moved-in

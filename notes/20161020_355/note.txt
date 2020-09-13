@@ -1,0 +1,41 @@
+Title: October 20th, 2016
+
+----
+
+Text: Just another painful day working with Windows
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Latitude: 51.2055058
+
+----
+
+Longitude: 0.275226
+
+----
+
+Temperature: 12°C
+
+----
+
+Weather Icon: partly-cloudy-day
+
+----
+
+Date: 2016-10-20 16:22
+
+----
+
+Redirect: https://calumryan.com/note/355
+
+----
+
+UID: 355

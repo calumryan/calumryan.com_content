@@ -1,0 +1,41 @@
+Title: January 8th, 2017
+
+----
+
+Text: Given up battling with Facebook's API and tried out Bridgy so now what I post syndicates out to both Twitter and Facebook in one publish!
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Latitude: 51.205451
+
+----
+
+Longitude: 0.275196
+
+----
+
+Temperature: 8°C
+
+----
+
+Weather Icon: partly-cloudy-night
+
+----
+
+Date: 2017-01-08 01:03
+
+----
+
+Redirect: https://calumryan.com/note/435
+
+----
+
+UID: 435

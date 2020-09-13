@@ -1,0 +1,49 @@
+Title: May 7th, 2018
+
+----
+
+Text: Checked in at Capitol Theater
+
+----
+
+Feature Image: fsqToDb6f.jpg
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5af004c3237dee002c5fa86f
+
+----
+
+Longitude: 6.8002791372173
+
+----
+
+Latitude: 51.223763421535
+
+----
+
+Temperature: 
+
+----
+
+Weather Icon: 
+
+----
+
+Date: 2018-05-07 08:48
+
+----
+
+Redirect: https://calumryan.com/note/1570
+
+----
+
+UID: 1570

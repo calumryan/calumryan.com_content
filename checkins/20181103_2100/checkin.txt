@@ -1,0 +1,45 @@
+Title: November 3rd, 2018
+
+----
+
+Text: Checked in at U Kottbusser Tor. U8
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5bde08d751950e002c655157
+
+----
+
+Longitude: 13.418383598328
+
+----
+
+Latitude: 52.499059586664
+
+----
+
+Temperature: 6°C
+
+----
+
+Weather Icon: clear-night
+
+----
+
+Date: 2018-11-03 20:45
+
+----
+
+Redirect: https://calumryan.com/note/2100
+
+----
+
+UID: 2100

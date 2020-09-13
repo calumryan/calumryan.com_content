@@ -1,0 +1,21 @@
+Title: Don’t Use The Placeholder Attribute (via @smashingmag)
+
+----
+
+Permalink: https://www.smashingmagazine.com/2018/06/placeholder-attribute/
+
+----
+
+Date: 2018-06-20 20:59
+
+----
+
+Tags:  
+
+----
+
+Redirect: https://calumryan.com/note/1723
+
+----
+
+UID: 1723

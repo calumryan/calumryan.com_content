@@ -1,0 +1,45 @@
+Title: June 3rd, 2019
+
+----
+
+Text: Checked in at Dublin Heuston Railway Station. Station sightseeing
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5cf4e80700b068002dd7be36
+
+----
+
+Longitude: -6.2928631528817
+
+----
+
+Latitude: 53.346511026696
+
+----
+
+Temperature: 14°C
+
+----
+
+Weather Icon: partly-cloudy-day
+
+----
+
+Date: 2019-06-03 10:27
+
+----
+
+Redirect: https://calumryan.com/note/2754
+
+----
+
+UID: 2754

@@ -1,0 +1,49 @@
+Title: March 12th, 2020
+
+----
+
+Text: Enjoying the cozy venue choice for tonight's @LondonCSS - streaming loud and clear 📺👌🏻
+
+----
+
+Feature Image: IMG_20200312_185211__01__01.jpg
+
+----
+
+Image Alt: View inside lounge of television
+
+----
+
+Permalink: 
+
+----
+
+Tags: css, London, front-end
+
+----
+
+Latitude: 51.205389364525196
+
+----
+
+Longitude: 0.2751303642773028
+
+----
+
+Temperature: 7°C
+
+----
+
+Weather Icon: partly-cloudy-night
+
+----
+
+Date: 2020-03-12 19:07
+
+----
+
+Redirect: https://calumryan.com/note/3453
+
+----
+
+UID: 3453

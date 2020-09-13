@@ -1,0 +1,45 @@
+Title: December 6th, 2018
+
+----
+
+Text: Checked in at West Street Vineyard
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5c0975be92e7a9002c8c319c
+
+----
+
+Longitude: 0.67810924779906
+
+----
+
+Latitude: 51.869857441571
+
+----
+
+Temperature: 12°C
+
+----
+
+Weather Icon: rain
+
+----
+
+Date: 2018-12-06 19:17
+
+----
+
+Redirect: https://calumryan.com/note/2233
+
+----
+
+UID: 2233

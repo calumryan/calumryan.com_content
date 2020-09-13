@@ -1,0 +1,41 @@
+Title: April 18th, 2019
+
+----
+
+Text: 📢 Back @FrontEndLondon next week testing the ground with a new talk on \#UsabilityTesting for the web http://frontendlondon.co.uk
+
+----
+
+Permalink: 
+
+----
+
+Tags: announcement, frontendlondon
+
+----
+
+Latitude: 51.519176106213784
+
+----
+
+Longitude: -0.09905454799337315
+
+----
+
+Temperature: 14°C
+
+----
+
+Weather Icon: partly-cloudy-day
+
+----
+
+Date: 2019-04-18 10:37
+
+----
+
+Redirect: https://calumryan.com/note/2573
+
+----
+
+UID: 2573

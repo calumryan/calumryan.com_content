@@ -1,0 +1,21 @@
+Title: Using CSS Grid for vertical and horizontal content layouts by @shadeed9
+
+----
+
+Permalink: https://ishadeed.com/article/vertical-horizontal-lines
+
+----
+
+Date: 2019-06-14 10:21
+
+----
+
+Tags: css, grid 
+
+----
+
+Redirect: https://calumryan.com/note/2787
+
+----
+
+UID: 2787

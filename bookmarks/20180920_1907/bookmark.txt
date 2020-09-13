@@ -1,0 +1,21 @@
+Title: Lesser-known HTML, often helpful for writing technical documentation and content with better accessibility, meaning and contrast
+
+----
+
+Permalink: https://css-tricks.com/html-elements-unite-the-voltron-like-powers-of-combining-elements/
+
+----
+
+Date: 2018-09-20 00:00
+
+----
+
+Tags: html 
+
+----
+
+Redirect: https://calumryan.com/note/1907
+
+----
+
+UID: 1907

@@ -1,0 +1,6 @@
+Title: Search
+----
+Text:
+Sorry no results found.
+----
+svg: icon-search

@@ -1,0 +1,45 @@
+Title: September 30th, 2017
+
+----
+
+Text: Checked in at Belfast International Airport (BFS)
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/59cf60a0b8fd9d4bfbfb9a38
+
+----
+
+Longitude: -6.2168562412262
+
+----
+
+Latitude: 54.661539500468
+
+----
+
+Temperature: 
+
+----
+
+Weather Icon: 
+
+----
+
+Date: 2017-09-30 10:15
+
+----
+
+Redirect: https://calumryan.com/note/1007
+
+----
+
+UID: 1007

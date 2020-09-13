@@ -1,0 +1,45 @@
+Title: December 8th, 2017
+
+----
+
+Text: Checked in at The Skiff
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5a2a8ee6772fbc04111c2b7a
+
+----
+
+Longitude: -0.13849854469299
+
+----
+
+Latitude: 50.829164274926
+
+----
+
+Temperature: 
+
+----
+
+Weather Icon: 
+
+----
+
+Date: 2017-12-08 13:08
+
+----
+
+Redirect: https://calumryan.com/note/1240
+
+----
+
+UID: 1240

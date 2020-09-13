@@ -1,0 +1,49 @@
+Title: October 23rd, 2018
+
+----
+
+Text: Checked in at Paris Nord Railway Station (Gare SNCF de Paris Nord)
+
+----
+
+Feature Image: fsqxbQB4W.jpg
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5bcf4eab628c83002c1a8006
+
+----
+
+Longitude: 2.3552754260707
+
+----
+
+Latitude: 48.880551771384
+
+----
+
+Temperature: 15°C
+
+----
+
+Weather Icon: clear-day
+
+----
+
+Date: 2018-10-23 17:39
+
+----
+
+Redirect: https://calumryan.com/note/2040
+
+----
+
+UID: 2040

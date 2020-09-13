@@ -1,0 +1,45 @@
+Title: June 18th, 2019
+
+----
+
+Text: Checked in at Franco Manca
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5d091ef631a7120007647de9
+
+----
+
+Longitude: -0.12277987896741
+
+----
+
+Latitude: 51.510908608489
+
+----
+
+Temperature: 18°C
+
+----
+
+Weather Icon: partly-cloudy-day
+
+----
+
+Date: 2019-06-18 18:27
+
+----
+
+Redirect: https://calumryan.com/note/2803
+
+----
+
+UID: 2803

@@ -1,0 +1,41 @@
+Title: January 23rd, 2020
+
+----
+
+Text: Tweety-web people at conferences, love seeing all your photos but hardly any of you are making them accessible! You should know better by now, add alternative text! \#naconf https://blog.twitter.com/en_us/a/2016/accessible-images-for-everyone.html
+
+----
+
+Permalink: 
+
+----
+
+Tags: a11y
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Temperature: 
+
+----
+
+Weather Icon: 
+
+----
+
+Date: 2020-01-23 16:15
+
+----
+
+Redirect: https://calumryan.com/note/3378
+
+----
+
+UID: 3378

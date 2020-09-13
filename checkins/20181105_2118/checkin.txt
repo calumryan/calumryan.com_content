@@ -1,0 +1,45 @@
+Title: November 5th, 2018
+
+----
+
+Text: Checked in at Spreespeicher. A11Y Conference
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5bdff120a35dce002c1fb1a8
+
+----
+
+Longitude: 13.448864221573
+
+----
+
+Latitude: 52.501701475282
+
+----
+
+Temperature: 12°C
+
+----
+
+Weather Icon: cloudy
+
+----
+
+Date: 2018-11-05 07:28
+
+----
+
+Redirect: https://calumryan.com/note/2118
+
+----
+
+UID: 2118

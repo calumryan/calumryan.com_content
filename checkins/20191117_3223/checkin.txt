@@ -1,0 +1,45 @@
+Title: November 17th, 2019
+
+----
+
+Text: Checked in at 7-Eleven (เซเว่น อีเลฟเว่น)
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5dd0e5ed5b806b00084695e6
+
+----
+
+Longitude: 99.708379042237
+
+----
+
+Latitude: 17.018704019777
+
+----
+
+Temperature: 32°C
+
+----
+
+Weather Icon: clear-day
+
+----
+
+Date: 2019-11-17 06:17
+
+----
+
+Redirect: https://calumryan.com/note/3223
+
+----
+
+UID: 3223

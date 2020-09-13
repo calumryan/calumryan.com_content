@@ -1,0 +1,45 @@
+Title: September 14th, 2019
+
+----
+
+Text: Checked in at Conway Hall
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5d7ca8a29769230008337874
+
+----
+
+Longitude: -0.11826575222691
+
+----
+
+Latitude: 51.51999098674
+
+----
+
+Temperature: 15°C
+
+----
+
+Weather Icon: clear-day
+
+----
+
+Date: 2019-09-14 09:45
+
+----
+
+Redirect: https://calumryan.com/note/3006
+
+----
+
+UID: 3006

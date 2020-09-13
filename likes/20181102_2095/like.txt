@@ -1,0 +1,21 @@
+Title: November 2nd, 2018
+
+----
+
+Permalink: https://www.aaron-gustafson.com/notebook/pwa-qa/
+
+----
+
+Date: 2018-11-02 23:13
+
+----
+
+Tags: pwa, manifest
+
+----
+
+Redirect: https://calumryan.com/note/2095
+
+----
+
+UID: 2095

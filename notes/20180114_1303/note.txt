@@ -1,0 +1,43 @@
+Title: January 14th, 2018
+
+----
+
+Text: Listing some new guides and content for IndieWeb Guides (a work in progress)
+Pull requests welcome!
+https://indiewebguides.org
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Latitude: 51.2054786
+
+----
+
+Longitude: 0.27517769999999997
+
+----
+
+Temperature: 4°C
+
+----
+
+Weather Icon: partly-cloudy-night
+
+----
+
+Date: 2018-01-14 18:15
+
+----
+
+Redirect: https://calumryan.com/note/1303
+
+----
+
+UID: 1303

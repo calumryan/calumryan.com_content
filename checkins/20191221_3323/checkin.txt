@@ -1,0 +1,49 @@
+Title: December 21st, 2019
+
+----
+
+Text: Checked in at 65mm Coffee
+
+----
+
+Feature Image: fsqOd9XlX.jpg
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5dfdf9dd19ac3200081933e1
+
+----
+
+Longitude: 0.274447
+
+----
+
+Latitude: 51.195487
+
+----
+
+Temperature: 10°C
+
+----
+
+Weather Icon: partly-cloudy-day
+
+----
+
+Date: 2019-12-21 10:54
+
+----
+
+Redirect: https://calumryan.com/note/3323
+
+----
+
+UID: 3323

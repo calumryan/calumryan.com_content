@@ -1,0 +1,41 @@
+Title: April 14th, 2016
+
+----
+
+Text: \#ODCamp \#intro Front-ender / UX / sometimes talk about \#indieweb
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Latitude: 51.4513128
+
+----
+
+Longitude: -2.5976233
+
+----
+
+Temperature: 
+
+----
+
+Weather Icon: 
+
+----
+
+Date: 2016-04-14 14:42
+
+----
+
+Redirect: https://calumryan.com/note/254
+
+----
+
+UID: 254

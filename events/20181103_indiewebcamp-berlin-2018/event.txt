@@ -1,0 +1,49 @@
+Title: IndieWebCamp Berlin 2018
+
+----
+
+Tags:
+
+----
+
+Latitude: 52.4999
+
+----
+
+Longitude: 13.4494
+
+----
+
+Date: 2018-11-03 09:00
+
+----
+
+Date start: 2018-11-03 09:00:00 +0000
+
+----
+
+Date end: 2018-11-04 18:00:00 +0000
+
+----
+
+Timezone: CET
+
+----
+
+City: Berlin
+
+----
+
+Location: Mozilla Berlin
+
+----
+
+Speaker: 1
+
+----
+
+Redirect: https://calumryan.com/event/indiewebcamp-berlin-2018
+
+----
+
+UID: indiewebcamp-berlin-2018

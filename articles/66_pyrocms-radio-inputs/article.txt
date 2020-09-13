@@ -1,0 +1,52 @@
+Title: PyroCMS radio inputs
+----
+
+Description:
+How I added the radio input type to forms in PyroCMS with the Contact plugin.
+
+----
+
+Og:  false
+
+----
+
+Text:
+Recently on a work assignment it became necessary to modify the existing form to include radio buttons. The existing documentation for PyroCMS wasn't quite clear on how to do this so I've put together this brief example of how I did it. The key point to understand here is that the plugin uses the type <strong>anomaly.field_type.select</strong>, <em>not radio</em>, as the type property when setting fields in the twig template. You can later set the <strong>mode</strong> property as radio.
+
+```java
+{% raw %}
+  {%  set form = form('example').fields({
+      'querytype': {
+          'label': 'Query type',
+          'required': true,
+          'type': 'anomaly.field_type.select',
+          'config' : {
+            'options' : {
+              'opt1' : 'Option 1',
+              'opt2' : 'Option 2
+            },
+          },
+          'default_value' : 'opt1',
+          'mode'          : 'radio
+      }
+  })
+  %}
+
+  {{ form.open|raw }}
+   <label for="opt1"><input id="opt1" class="form-check-input" name="querytype" value="opt1" type="radio"> Option 1</label>
+   <label for="opt2"><input id="opt2" class="form-check-input" name="querytype" value="opt2" type="radio"> Option 2</label>
+  {{ form.actions|raw }}
+  {{ form.close|raw }}
+{% endraw %}
+```
+
+----
+
+Tags: learning
+----
+
+Date: 2017-04-26 00:00
+
+----
+
+Redirect: https://calumryan.com/learning/pyrocms-radio-inputs/

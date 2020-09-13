@@ -1,0 +1,45 @@
+Title: September 2nd, 2018
+
+----
+
+Text: Checked in at Costa Coffee
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5b8bbdf64acb19002c342c1d
+
+----
+
+Longitude: 0.62175983
+
+----
+
+Latitude: 51.16796
+
+----
+
+Temperature: 
+
+----
+
+Weather Icon: 
+
+----
+
+Date: 2018-09-02 11:39
+
+----
+
+Redirect: https://calumryan.com/note/1877
+
+----
+
+UID: 1877

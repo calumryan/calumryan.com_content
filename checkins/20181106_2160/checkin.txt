@@ -1,0 +1,45 @@
+Title: November 6th, 2018
+
+----
+
+Text: Checked in at Gatwick Airport Railway Station (GTW). Hello Brexitland!
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5be1ec44838e59003b7ba7ec
+
+----
+
+Longitude: -0.16101470277846
+
+----
+
+Latitude: 51.156758860747
+
+----
+
+Temperature: 13°C
+
+----
+
+Weather Icon: partly-cloudy-night
+
+----
+
+Date: 2018-11-06 19:32
+
+----
+
+Redirect: https://calumryan.com/note/2160
+
+----
+
+UID: 2160

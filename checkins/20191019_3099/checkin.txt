@@ -1,0 +1,45 @@
+Title: October 19th, 2019
+
+----
+
+Text: Checked in at Brighton Smokehouse
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5daaf86cd81bfb00087b2b90
+
+----
+
+Longitude: -0.14222346
+
+----
+
+Latitude: 50.82001
+
+----
+
+Temperature: 14°C
+
+----
+
+Weather Icon: partly-cloudy-day
+
+----
+
+Date: 2019-10-19 12:50
+
+----
+
+Redirect: https://calumryan.com/note/3099
+
+----
+
+UID: 3099

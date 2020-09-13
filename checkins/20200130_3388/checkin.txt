@@ -1,0 +1,45 @@
+Title: January 30th, 2020
+
+----
+
+Text: Checked in at Made by Many
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5e33243704bddc000705a69c
+
+----
+
+Longitude: -0.099432910419901
+
+----
+
+Latitude: 51.532517145905
+
+----
+
+Temperature: 10°C
+
+----
+
+Weather Icon: cloudy
+
+----
+
+Date: 2020-01-30 18:45
+
+----
+
+Redirect: https://calumryan.com/note/3388
+
+----
+
+UID: 3388

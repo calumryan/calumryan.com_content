@@ -1,0 +1,45 @@
+Title: August 23rd, 2016
+
+----
+
+Text: August HWC London with @barryf \#indieweb
+
+----
+
+Feature Image: hwc-august-2016.jpg
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Latitude: 51.510121
+
+----
+
+Longitude: -0.1270984
+
+----
+
+Temperature: 27°C
+
+----
+
+Weather Icon: partly-cloudy-day
+
+----
+
+Date: 2016-08-23 22:16
+
+----
+
+Redirect: https://calumryan.com/note/315
+
+----
+
+UID: 315

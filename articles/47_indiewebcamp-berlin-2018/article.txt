@@ -1,0 +1,50 @@
+Title: IndieWebCamp Berlin 2018
+----
+Description: Last weekend I was at IndieWebCamp Berlin not long after attending IndieWebCamp Nuremberg. Each event, whilst similar in format, takes on a slightly different dynamic, in my opinion, through the people that attend, the location and the topics discussed.
+
+----
+
+Og:  false
+
+----
+
+Text:
+Usually everyone in attendance at IndieWebCamps has their own insights and contributions to make whether they're a web designer, developer, content writer, something in between or completely different.
+
+The day before IndieWebCamp I also attended the organisers meeting in-person for the first time. I think this was probably the largest one to date with people from both sides of the Atlantic, English Channel and Baltic in attendance. We discussed everything from managing and funding events, community diversity to single point of Aaron (SPOA) failures.
+
+The first day of IndieWebCamp saw a balanced turnout of new as well as past attendees. Pretty much everyone was happy to introduce themselves and their websites to start the day. After that sessions were proposed and scheduled over four rooms which made for some tricky decisions on which to attend.
+
+![Sticky notes on a schedule board](/media/pages/posts/unsorted/board.jpg)
+
+After a quick lunch with some of the attendees I dropped in on the first session about social e-readers. Aaron Parecki was demoing his recent development of [Aperture](http://aperture.p3k.io) for the distributed management of feeds. Then we looked at certain examples of desktop and mobile Microsub client applications like Monocle and Indigenous for Android and iOS.
+
+Later I joined in on the session about digital archiving in which there was a detailed and quite technical discussion on how to store, structure and archive data. There were varied opinions about types of media to use for archiving data and whether to depend on cheap organic storage mediums versus more modern, expensive storage which can often be leased and based in remote locations.
+
+Following that I went into the session about displaying webmentions on your website and how to manage unwanted responses. I found it interesting to observe how different community member choose to filter out certain types of responses, either manually or through automated means, such as implementing the Vouch protocol.
+
+Services for static site was the last session of the day which I attended. A sizeable proportion of the attendees had used a static site generator for building their website, myself included. Being able to implement things like Webmentions and Microsub for static sites typically involves using a plugin or custom-built script linked to external clients to handle such features along with [Brid.gy](http://brid.gy). We had a good, ranging discussion on what these services were and any limitations they have.
+
+On the second day I worked on a couple of tasks for my website beginning with one more complex change followed by a less challenging task. Inspired by the talks of the previous day on social e-readers, and how many community members now use them, I decided to work on improving the different feeds available on my website.
+
+![People sitting at tables working on laptops](/media/pages/posts/unsorted/hack-day.jpg)
+
+I started by looking into the WebSub protocol for understanding how distributed publishing-subscribing works. Although I didn't quite get there by the end of the day, I did manage to link my feed to a server which supports real-time notifications. I reworked my existing feed to customise the output with short-form content including posts, bookmarks, likes and event RSVPs.
+
+Whilst I spent the main chunk of my day working on this, I also spared some time to tidy up some unfinished tasks from previous Homebrew Website Club events. This included getting my website’s offline event listener to work and display a nice, user friendly notice whenever your internet connection drops.
+
+Furthermore, I added a list of all my available feeds in the footer and added a subscribe button link, kind of similar to having a Twitter follow button, in the header. Ideally I'd like users to be able to follow me at the click of a button without needing to manually lookup what feed URL they need to add into their reader.
+
+For my bonus task of the day I called up the year 2000 and got back a webring to add to my website. Thankfully some other people in the IndieWeb community have come together to recreate a webring code snippet specifically for all that share the interest for having your own website.
+
+- [IndieWebCamp Berlin 2018](https://indieweb.org/2018/Berlin)
+----
+
+Tags: general
+----
+
+Date: 2018-11-11 00:00
+
+----
+
+Redirect: https://calumryan.com/blog/indiewebcamp-berlin-2018/

@@ -1,0 +1,45 @@
+Title: June 6th, 2017
+
+----
+
+Text: Checked in at Waitrose
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5936e65f67e5f25daafd0840
+
+----
+
+Longitude: 0.27545934059461
+
+----
+
+Latitude: 51.194236193791
+
+----
+
+Temperature: 
+
+----
+
+Weather Icon: 
+
+----
+
+Date: 2017-06-06 23:29
+
+----
+
+Redirect: https://calumryan.com/note/675
+
+----
+
+UID: 675

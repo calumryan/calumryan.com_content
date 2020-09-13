@@ -1,0 +1,49 @@
+Title: October 19th, 2019
+
+----
+
+Text: Checked in at Street Thai Restaurant. with Tantek, Jeremy, Seb, aaronpk, Rosemary
+
+----
+
+Feature Image: fsqFTtLEw.jpg
+
+----
+
+Permalink: 
+
+----
+
+Tags: https://foursquare.com/user/476, https://adactio.com/, https://seblog.nl/, https://aaronparecki.com/, https://rosemaryorchard.com/
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5dab4baef22dd000089e1f18
+
+----
+
+Longitude: -0.14032958031269
+
+----
+
+Latitude: 50.821973029357
+
+----
+
+Temperature: 13°C
+
+----
+
+Weather Icon: partly-cloudy-night
+
+----
+
+Date: 2019-10-19 18:45
+
+----
+
+Redirect: https://calumryan.com/note/3104
+
+----
+
+UID: 3104

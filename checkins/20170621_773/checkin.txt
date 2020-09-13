@@ -1,0 +1,45 @@
+Title: June 21st, 2017
+
+----
+
+Text: Checked in at Costa Coffee
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/594aa8631c675b37befb62aa
+
+----
+
+Longitude: 0.26355933181191
+
+----
+
+Latitude: 51.134541607218
+
+----
+
+Temperature: 
+
+----
+
+Weather Icon: 
+
+----
+
+Date: 2017-06-21 18:09
+
+----
+
+Redirect: https://calumryan.com/note/773
+
+----
+
+UID: 773

@@ -1,0 +1,21 @@
+Title: Static Indieweb Sites: Syndicating Content
+
+----
+
+Permalink: https://mxb.at/blog/syndicating-content-to-twitter-with-netlify-functions/
+
+----
+
+Date: 2019-01-07 22:21
+
+----
+
+Tags: ssg, jamstack, indieweb, POSSE 
+
+----
+
+Redirect: https://calumryan.com/note/2336
+
+----
+
+UID: 2336

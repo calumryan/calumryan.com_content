@@ -1,0 +1,21 @@
+Title: Handling Sass scope with a more elegant solution with self
+
+----
+
+Permalink: https://css-tricks.com/using-sass-control-scope-bem-naming
+
+----
+
+Date: 2018-07-04 20:55
+
+----
+
+Tags: sass, css, scope, bem 
+
+----
+
+Redirect: https://calumryan.com/note/1758
+
+----
+
+UID: 1758

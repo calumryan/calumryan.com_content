@@ -1,0 +1,32 @@
+Title: Refresh and preparation
+----
+
+Description:
+----
+
+Og: false
+
+----
+
+Thumbnail:
+
+----
+
+Text:
+The past year has as they say “flown by”: in part down to an almost non-stop schedule of time-cumbersome, challenging projects at work but also thanks to a lengthy, less than pleasant experience attempting to jump on the UK property ladder (which isn’t over yet!).
+
+Determined not to be bogged down by the drawn-out woes of my property buying adventure; I have attempted to find distractions to protect my sanity at least.
+
+Since the beginning of the year I’ve stepped up my level of engagement in the web industry. I’ve discovered many new conferences, meetup groups and individuals as a result which are a great help in providing inspiration and support to improving my work practises, morale and general outlook of the industry. Going forward I feel compelled to contribute back to the industry more where I can and continue to be fully engaged in the industry’s evolution.
+
+In the past I spent a lot of personal time creating and maintaining my own WordPress website however in recent years my time and attention for this dwindled. Due to this and low visitor numbers I recently made the decision to close the site. In recent weeks I’ve refreshed my web presence with hopefully a more maintainable, light-weight and performance optimised personal website.
+----
+
+Tags: general
+----
+
+Date: 2015-01-01 00:00
+
+----
+
+Redirect: https://calumryan.com/blog/refresh-and-preparation/

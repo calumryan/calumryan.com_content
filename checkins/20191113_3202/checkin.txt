@@ -1,0 +1,45 @@
+Title: November 13th, 2019
+
+----
+
+Text: Checked in at Terminal 2 - The Queen's Terminal
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5dcc4d8691b6a900084c9a4b
+
+----
+
+Longitude: -0.44994592666626
+
+----
+
+Latitude: 51.46991585425
+
+----
+
+Temperature: 5°C
+
+----
+
+Weather Icon: partly-cloudy-night
+
+----
+
+Date: 2019-11-13 18:37
+
+----
+
+Redirect: https://calumryan.com/note/3202
+
+----
+
+UID: 3202

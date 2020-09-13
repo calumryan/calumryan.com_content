@@ -1,0 +1,41 @@
+Title: January 14th, 2019
+
+----
+
+Text: Enjoying the use of IndieWeb-enabled readers like Monocle and combining that with Aperture. Looking to attempt to design, build and host something myself hopefully by the end of a future IndieWebCamp!
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Temperature: 
+
+----
+
+Weather Icon: 
+
+----
+
+Date: 2019-01-14 20:45
+
+----
+
+Redirect: https://calumryan.com/note/2356
+
+----
+
+UID: 2356

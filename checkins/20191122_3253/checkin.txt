@@ -1,0 +1,49 @@
+Title: November 22nd, 2019
+
+----
+
+Text: Checked in at Ibis Hotel Nana
+
+----
+
+Feature Image: fsqs31dk1.jpg
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5dd7b34ab6345b00071e8168
+
+----
+
+Longitude: 100.55324240919
+
+----
+
+Latitude: 13.738230969616
+
+----
+
+Temperature: 31°C
+
+----
+
+Weather Icon: partly-cloudy-day
+
+----
+
+Date: 2019-11-22 10:07
+
+----
+
+Redirect: https://calumryan.com/note/3253
+
+----
+
+UID: 3253

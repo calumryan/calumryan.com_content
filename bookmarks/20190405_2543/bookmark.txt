@@ -1,0 +1,21 @@
+Title: Workshop testing for web accessibility
+
+----
+
+Permalink: https://training.wp-accessible.org/
+
+----
+
+Date: 2019-04-05 10:52
+
+----
+
+Tags: a11y, tool, resources, wordpress 
+
+----
+
+Redirect: https://calumryan.com/note/2543
+
+----
+
+UID: 2543

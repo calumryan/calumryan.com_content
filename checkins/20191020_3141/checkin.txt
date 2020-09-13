@@ -1,0 +1,45 @@
+Title: October 20th, 2019
+
+----
+
+Text: Checked in at The Hop Poles. with Tantek, Jeremy, Seb, aaronpk, Rosemary
+
+----
+
+Permalink: 
+
+----
+
+Tags: https://foursquare.com/user/476, https://adactio.com/, https://seblog.nl/, https://aaronparecki.com/, https://rosemaryorchard.com/
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5dac92fc39a52a00084851ec
+
+----
+
+Longitude: -0.14327536989681
+
+----
+
+Latitude: 50.821309783571
+
+----
+
+Temperature: 11°C
+
+----
+
+Weather Icon: partly-cloudy-night
+
+----
+
+Date: 2019-10-20 18:01
+
+----
+
+Redirect: https://calumryan.com/note/3141
+
+----
+
+UID: 3141

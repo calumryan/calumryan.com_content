@@ -1,0 +1,21 @@
+Title: Web Platform News - useful breakdown of snippets and guidance on HTML/CSS/Js
+
+----
+
+Permalink: https://webplatform.news/issues
+
+----
+
+Date: 2018-11-13 09:22
+
+----
+
+Tags: css, js, html, performance 
+
+----
+
+Redirect: https://calumryan.com/note/2177
+
+----
+
+UID: 2177

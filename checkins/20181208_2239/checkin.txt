@@ -1,0 +1,45 @@
+Title: December 8th, 2018
+
+----
+
+Text: Checked in at Brewhouse &amp; Kitchen
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5c0bf0c6d69ed0002cd25b4f
+
+----
+
+Longitude: -0.1057032156057
+
+----
+
+Latitude: 51.531884671222
+
+----
+
+Temperature: 12°C
+
+----
+
+Weather Icon: rain
+
+----
+
+Date: 2018-12-08 16:26
+
+----
+
+Redirect: https://calumryan.com/note/2239
+
+----
+
+UID: 2239

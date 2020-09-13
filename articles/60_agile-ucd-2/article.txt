@@ -1,0 +1,53 @@
+Title: Agile Planning &amp; User-Centered Design week 2
+----
+Description:
+In this second article I’ll briefly explore how applying a user-stories based approach to projects provides a much more effective way to manage and deliver websites.
+----
+
+Og: false
+
+----
+
+Thumbnail:
+
+----
+
+Text:
+The typical/traditional approach I’ve seen in the web industry to planning out delivery of a website begins with the specification and or a set of requirements from the outset. Between this stage and the acceptance of designs and or developed features what takes place is predominantly hidden from the client or end-user.
+
+### How can we improve the process with user stories?
+With user stories we shift over the focus of acceptance from an entire website or application to what are generally smaller parts and turn these into user stories. Everyone involved (e.g. client, developer, designer) is then able to set or define more attainable criteria to judge completion of individual parts of the overall website or application.
+
+User stories should take us away from plainly written requirements that are written only once and instead draw everyone into a dialogue of communication where things are discussed and scrutinised continually.
+
+### Clear descriptions not technical jargon
+From this approach it’s the client who takes responsibility in defining what user stories are and how many. It’s important to recognise that this approach is more about the client being clear in what they require without technical jargon. On occasions this isn’t only the technical team who falls into the trap of technical jargon but also clients who may have seen similar features on another website and make up stories dominated by technical features rather than descriptive user stories.
+
+### Iterations
+Throughout the  process of planning user stories it’s necessary to determine which stories can be collated and form an iteration. Every iteration should be a point of release for parts of the website that the client or end-user can see, test and accept or reject before proceeding to another iteration. Not every iteration may result in features released but opportunities to reconsider importance or priority of certain features in the website.
+
+### Story Independence
+When deciding on the priority and order of one user story in priority to the other, as well as the overall iterations, then dependancy is an important factor. Independence of user stories ultimately makes it easier to estimate how long different stories will take to complete. This will often mean more stories as more features are broken down into more and more detail. The risks of developing features that delay another can be identified early on without impacting on the overall iteration and or project. If necessary risky or related features might be collated into a different iteration, put on a backlog, delayed or removed entirely from the project.
+
+### Flexibility
+User stories, unlike a set of requirements, give us more flexibility to adapt or change the story having discussed it together with everyone involved in its design and delivery. With everyone from the client to the developer involved it’s easier to see how individual stories may or may not have a use in the overall solution. This could have significant impacts on both the time and budget going forward.
+
+The rapid and not so rapid changes in web standards all present opportunities and considerations in exercising flexibility for creating future-proof user stories; that might in future utilise a different framework or set of technologies as browser support widens and new web-enabled platforms enter the market.
+
+## Summary
+<strong>We’ve so far looked into just a few of the reasons why a user-stories based approach in agile planning can offer a more effective way to a user-centered design process. Next up I’ll be exploring the user in detail with the focus on planning when serving a wide range of users in different environments.</strong>
+
+<em>Check back soon for more and in the meantime tweet, email, reply on Medium or send a Webmention if you’ve a comment or suggestion on my series of articles.</em>
+
+### Reference + reading
+Mike Cohn (2004). <em>User Stories Applied for agile software development: Addison Wesley</em>
+----
+
+Tags: learning
+----
+
+Date: 2016-03-13 00:00
+
+----
+
+Redirect: https://calumryan.com/learning/agile-ucd-2/

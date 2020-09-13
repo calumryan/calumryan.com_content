@@ -1,0 +1,45 @@
+Title: November 10th, 2018
+
+----
+
+Text: Checked in at Dover Cruise Terminal. Return of the Unknown
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5be6f2e356c89f002c779f34
+
+----
+
+Longitude: 1.316094
+
+----
+
+Latitude: 51.112745
+
+----
+
+Temperature: 14°C
+
+----
+
+Weather Icon: partly-cloudy-day
+
+----
+
+Date: 2018-11-10 15:01
+
+----
+
+Redirect: https://calumryan.com/note/2170
+
+----
+
+UID: 2170

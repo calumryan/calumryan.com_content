@@ -1,0 +1,47 @@
+Title: November 21st, 2017
+
+----
+
+Text: Visual Studio people:
+
+How do you stop added line breaks being added when pasting in CSS from browser inspector?
+
+----
+
+Feature Image: Screen Shot 2017-11-21 at 12.41.57.png
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Temperature: 
+
+----
+
+Weather Icon: 
+
+----
+
+Date: 2017-11-21 12:46
+
+----
+
+Redirect: https://calumryan.com/note/1199
+
+----
+
+UID: 1199

@@ -1,0 +1,45 @@
+Title: January 30th, 2020
+
+----
+
+Text: Checked in at Brewhouse &amp; Kitchen
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5e331d35ece33f000794d8b1
+
+----
+
+Longitude: -0.1057032156057
+
+----
+
+Latitude: 51.531884671222
+
+----
+
+Temperature: 13°C
+
+----
+
+Weather Icon: cloudy
+
+----
+
+Date: 2020-01-30 18:15
+
+----
+
+Redirect: https://calumryan.com/note/3387
+
+----
+
+UID: 3387

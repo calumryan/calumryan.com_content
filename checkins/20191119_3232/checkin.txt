@@ -1,0 +1,45 @@
+Title: November 19th, 2019
+
+----
+
+Text: Checked in at PeoplePlace Hotel
+
+----
+
+Permalink: 
+
+----
+
+Tags: 
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/5dd39f45d206ab000831c83a
+
+----
+
+Longitude: 99.002015240232
+
+----
+
+Latitude: 18.781827398996
+
+----
+
+Temperature: 32°C
+
+----
+
+Weather Icon: partly-cloudy-day
+
+----
+
+Date: 2019-11-19 07:52
+
+----
+
+Redirect: https://calumryan.com/note/3232
+
+----
+
+UID: 3232
