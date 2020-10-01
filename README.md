@@ -1,1 +1,1 @@
-# Content repository for content on calumryan.com
+# Content repository for calumryan.com
