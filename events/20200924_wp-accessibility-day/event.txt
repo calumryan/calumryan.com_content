@@ -1,8 +1,8 @@
-Title: WP Accessibility Day
+Title: WP Accessibility Day 2020
 
 ----
 
-Text: Making accessible accessibility reports
+Text: **Talk title:** Making accessible accessibility reports
 
 ----
 
@@ -22,7 +22,7 @@ Gallery:
 
 ----
 
-Date-start: 2020-09-03 11:00:00 +0000
+Date-start: 2020-10-02 11:00:00 +0000
 
 ----
 
@@ -43,3 +43,11 @@ Location: Online
 ----
 
 Speaker: 1
+
+----
+
+View slides: https://noti.st/calumryan/ommFNm/making-accessible-accessibility-reports
+
+----
+
+View video: https://www.youtube.com/watch?v=V0yJ_qJBvoc&t=14852s
