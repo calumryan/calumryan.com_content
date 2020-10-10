@@ -1,0 +1,21 @@
+Title: Quicker webpage load with CSS content-visibility
+
+----
+
+Date: 2020-10-09 09:25
+
+----
+
+Permalink: https://dev.to/dailydevtips1/i-made-my-website-28ms-faster-with-content-visibility-466e
+
+----
+
+Tags: css, WebPerf
+
+----
+
+Bridgy: twitter
+
+----
+
+Uid: 3550
