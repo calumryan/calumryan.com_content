@@ -1,0 +1,51 @@
+Title: October 5th, 2020
+
+----
+
+Text: Enable accessibility as an option? Is this really the best approach for making an accessible website in 2020 @wagamama_uk #a11y
+
+----
+
+Locator: 
+
+----
+
+Date: 2020-10-05 15:55
+
+----
+
+Bridgy: twitter
+
+----
+
+Uid: 3556
+
+----
+
+Feature-images:
+
+- screenshot_20201005-155443__01.jpg
+
+----
+
+Tags: a11y
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
