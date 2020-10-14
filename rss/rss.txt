@@ -15,13 +15,13 @@ Subscribe to a selection of posts on my RSS feeds:
 Links:
 - 
   title: Notes
-  url: /feeds/notes/atom
+  url: /feeds/notes/rss
 -
   title: Bookmarks
-  url: /feeds/bookmarks/atom
+  url: /feeds/bookmarks/rss
 -
   title: Articles
-  url: /feeds/articles/atom
+  url: /feeds/articles/rss
 -
   title: Everything
-  url: /feeds/atom
+  url: /feeds/all/rss
