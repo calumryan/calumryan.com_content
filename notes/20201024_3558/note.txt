@@ -1,0 +1,49 @@
+Title: October 24th, 2020
+
+----
+
+Text: 📣 Reminder: I'm making a new website, curating a list of accessible websites which meet the latest WCAG 2.1 success criteria to level AA or above. Think yours does? ..then reply or DM me the address for me to test it out!
+
+----
+
+Locator: 
+
+----
+
+Date: 2020-10-24 19:10
+
+----
+
+Bridgy: twitter
+
+----
+
+Uid: 3558
+
+----
+
+Feature-images: 
+
+----
+
+Tags: a11y
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
