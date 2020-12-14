@@ -1,0 +1,43 @@
+Title: Part 4 of learning WCAG 2.1 - Robust
+
+----
+
+Text:
+
+The fourth part of WCAG 2.1 (Web Content Accessibility Guidelines) refers to a single set of criteria encompassing techniques and failures for how code is implemented. 
+
+(link: https://www.w3.org/WAI/WCAG21/Understanding/parsing.html text: Parsing 4.1.1) (level A) covers many aspects of a website's code so that it can be interpreted and parsed correctly by browsers, assistive technologies and other user agents. Much of this depends on webpages being validated according to HTML specifications which includes correctly starting and closing elements and not having duplicate values for ID attributes.
+
+Another level A criterion is (link: https://www.w3.org/WAI/WCAG21/Understanding/name-role-value.html text: 4.1.2 Name, Role, Value) thats purpose is to ensure components such as form components, iframes and interactive features, like media players, can be navigated and controlled by the user without difficulty. Ways to meet the criterion could include labelling form components with accessible names and adding a title to iframes.
+
+A recent addition to the specifications in 2.1 is (link: https://www.w3.org/WAI/WCAG21/Understanding/status-messages.html text: 4.1.3 Status Messages) which is applicable to activities taking place within a webpage where there's a change or update to content. This should be coded in such a way that assistive technologies with screen reader capabilities can interpret and inform the user in a timely manner. There are common scenarios such as a shopping cart feature where this might be applicable when items are added or removed without the page reloading. Similarly, for content such as navigation and accordions there should be a clear indication for when the content or section area is collapsed or expanded.
+
+----
+
+Date: 2020-11-26 09:55
+
+----
+
+Author:
+
+- V00CCy0l
+
+----
+
+Tags: a11y, learning, WAS
+
+----
+
+Redirect: 
+
+----
+
+Description: What's included in the robust category of WCAG 2.1
+
+----
+
+Gallery: 
+
+----
+
+Bridgy: 

@@ -1,0 +1,57 @@
+Title: December 12th, 2020
+
+----
+
+Text:
+
+🎉 This week three more submissions audited and showcased on https://a11ywebsites.com 
+
+@WhizzKidz
+@adactio (for The Session)
+@lucidfox
+
+\#a11y
+
+----
+
+Locator: 
+
+----
+
+Date: 2020-12-12 17:50
+
+----
+
+Bridgy: 
+
+----
+
+Uid: 3566
+
+----
+
+Feature-images: 
+
+----
+
+Tags: a11y
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

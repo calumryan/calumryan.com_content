@@ -1,0 +1,49 @@
+Title: December 8th, 2020
+
+----
+
+Text: What does web accessibility mean to you?
+
+----
+
+Locator: 
+
+----
+
+Date: 2020-12-08 16:05
+
+----
+
+Bridgy: twitter
+
+----
+
+Uid: 3565
+
+----
+
+Feature-images: 
+
+----
+
+Tags: a11y
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

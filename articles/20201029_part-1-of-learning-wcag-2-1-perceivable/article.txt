@@ -1,0 +1,62 @@
+Title: Part 1 of learning WCAG 2.1 - Perceivable
+
+----
+
+Text:
+
+This first part of the WCAG 2.1 (Web Content Accessibility Guidelines) refers to four criteria that require web interfaces to be perceivable. Broken down into sub-categories the perceivable guideline includes text alternatives, time-based media, adaptable and distinguishable.
+
+Let's take a look at a few of the guidelines within each:
+
+## Text alternatives
+(link: https://www.w3.org/WAI/WCAG21/Understanding/non-text-content.html text: 1.1.1 Non-text Content) is commonly not met for websites where media such as unlabelled form controls, images, video or audio isn't presented with an accessible alternative. Assistive technologies such as screen readers, magnifiers and alternative keyboards or pointing devices have a hard time of interpreting non-text content where no alternative techniques have been used to present the content in an accessible format.
+
+## Time-based Media
+(link: https://www.w3.org/WAI/WCAG21/Understanding/audio-only-and-video-only-prerecorded.html text: 1.2.1 Audio-only and Video-only (Prerecorded)) comes under the time-based media criteria and often overlooked when publishing content such as introductory video and podcasts. People who have difficulty perceiving visual content because of deafness, blindness or a combination of both are often excluded from being able to access such content because there is no text format to read from such as audio transcript or alternative text content for a video including text and graphics.
+
+(link: https://www.w3.org/WAI/WCAG21/Understanding/captions-live.html text: 1.2.4 Captions (Live)) detailed information is needed during a live video event of who is speaking, sound effects and what anyone is saying. This AA level criterion sets out that live captions must be provided in text form so that users who maybe deaf can follow the content in real time without delay or ambiguity of what is happening in the video.
+
+## Adaptable
+(link: https://www.w3.org/WAI/WCAG21/Understanding/info-and-relationships.html text: 
+1.3.1 Info and Relationships) covers many aspects of webpage structure which can be easily missed or developed incorrectly. This typically includes making sure headings are in the correct order, table layouts have properly formatted table headings and for forms that all the labels include the `for` attribute linked to a form control such as a checkbox or text field. Checking these are done correctly helps to make the structure of a webpage programmatically determined which helps users with all kinds of assistive technology to navigate and read the webpage.
+
+(link: https://www.w3.org/WAI/WCAG21/Understanding/meaningful-sequence.html text: 1.3.2 Meaningful Sequence) is a criterion we use to assess how a page is structured compared to how it looks when rendered on in a user agent such as a web browser or screen reader. Using appropriate HTML elements like tables and definition lists can help in achieving this without a dependence on CSS to understand it.
+
+An addition to the guidelines brought in with 2.1 was (link: https://www.w3.org/WAI/WCAG21/Understanding/orientation.html text: 1.3.4 Orientation). This specifies that regardless of what orientation a user is viewing the content in, that it remains accessible. Hand-held devices like mobiles are an obvious example for where this is necessary but also for users in wheelchairs who may have specially adapted screens.
+
+## Distinguishable
+Colour choices between text and backgrounds are a common failure for not meeting (link: https://www.w3.org/WAI/WCAG21/Understanding/contrast-minimum.html text: 1.4.3 Contrast (Minimum)). There's a very broad spectrum of vision impairment levels that this caters for that necessitates careful colour choices and choosing typography with appropriate sizing and boldness.
+
+Another recent addition in WCAG 2.1 is (link: https://www.w3.org/WAI/WCAG21/Understanding/reflow.html text: 1.4.10 Reflow) which is relevant in the context of responsive layouts and content which can be enlarged. This is to ensure there is no loss of tracking or flowing beyond the confines of the window or viewport's maximum size, without the need to scroll horizontally.
+
+(link: https://www.w3.org/WAI/WCAG21/Understanding/content-on-hover-or-focus.html text: 1.4.13 Content on Hover or Focus) was also introduced in WCAG 2.1. This centres around trigger interactions made with keyboard focus or pointer hover to toggle the visibility of hidden content on a page for a sufficient period of time such as pop-ups or dropdown menus. This is important because people with varied levels of cognitive and physical disability may require more time to focus on a trigger and view the content.
+
+----
+
+Date: 2020-10-29 12:15
+
+----
+
+Author:
+
+- V00CCy0l
+
+----
+
+Tags: a11y, learning, WAS
+
+----
+
+Redirect: 
+
+----
+
+Description: What's included in the perceivable category of WCAG 2.1
+
+----
+
+Gallery: 
+
+----
+
+Bridgy: 

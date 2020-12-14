@@ -1,0 +1,51 @@
+Title: November 16th, 2020
+
+----
+
+Text: When the developers of SmartTV apps leave out a function for adding ellipses on long titles
+
+----
+
+Locator: 
+
+----
+
+Date: 2020-11-16 18:40
+
+----
+
+Bridgy: twitter
+
+----
+
+Uid: 3560
+
+----
+
+Feature-images:
+
+- youtube-titles.jpg
+
+----
+
+Tags: coronavirus, UI
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

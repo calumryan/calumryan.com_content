@@ -1,0 +1,21 @@
+Title: Placeholder style animated labels
+
+----
+
+Date: 2020-11-17 09:20
+
+----
+
+Permalink: https://codepen.io/ainalem/full/GRqPwoz
+
+----
+
+Tags: css, html
+
+----
+
+Bridgy: 
+
+----
+
+Uid: 3554

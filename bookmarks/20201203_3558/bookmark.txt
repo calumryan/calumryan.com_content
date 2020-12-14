@@ -1,0 +1,21 @@
+Title: State of CSS Survey
+
+----
+
+Date: 2020-12-03 11:55
+
+----
+
+Permalink: https://2020.stateofcss.com
+
+----
+
+Tags: css, front-end
+
+----
+
+Bridgy: twitter
+
+----
+
+Uid: 3558

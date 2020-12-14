@@ -1,0 +1,75 @@
+Title: Part 2 of learning WCAG 2.1 - Operable
+
+----
+
+Text:
+
+This second part of the WCAG 2.1 (Web Content Accessibility Guidelines) refers to five sets of criteria focused on making interfaces and their components operable. This helps ensure users dependent on different input devices or limited motor abilities can still use the interface without getting trapped or locked out from completing certain tasks.
+
+Here's a selection of the operable criteria:
+
+## Keyboard Accessible
+
+(link: https://www.w3.org/WAI/WCAG21/Understanding/keyboard.html text: 2.1.1 Keyboard) is an A level requirement in the criteria primarily addressed at ensuring people who have low or no vision abilities as well anyone with motor abilities, such as hand tremors can use a keyboard to navigate and interact with a website in its entirety. This extends to documents such as PDFs through requiring all content, forms and other structural elements can be accessed and within a logical order.
+
+(link: https://www.w3.org/WAI/WCAG21/Understanding/no-keyboard-trap.html text: 2.1.2 No Keyboard Trap) follows on from the previous criterion typically used to assess components like modals or pop-ups where there's a possibility of keyboard users being unable to access or exit it.
+
+(link: https://www.w3.org/WAI/WCAG21/Understanding/character-key-shortcuts.html text: 2.1.4 Character Key Shortcuts) was added in to the 2.1 guidelines. The intent of this criterion focuses on keyboard shortcuts and the need for an interface to provide alternatives if it has custom shortcuts built-in, so they can be disabled or remapped. This is of particular relevance where speech users may already have reserved a certain number of key-based commands.
+
+## Enough Time
+
+(link: https://www.w3.org/WAI/WCAG21/Understanding/timing-adjustable.html text: 2.2.1 Timing Adjustable) caters for a wide range of disabilities including blindness, dexterity and cognitive impairments. Web interfaces must provide enough time to interact with content without limits if possible. If necessary to have limits then there need to be ways to disable or extend these limits along with careful consideration for what parts of the interface have to be time limited. Enough warning and information should be visible to the user if there limits along with if they're due to expire soon.
+
+(link: https://www.w3.org/WAI/WCAG21/Understanding/pause-stop-hide.html text: 2.2.2 Pause, Stop, Hide) is also an A level requirement in the criteria intent on keeping web content distraction free and with operable mechanisms for content that's time-based such as movies to pause and start it at a specified point. It also covers components like slideshows and content that's updated in real time such as stock price updates or ongoing news stories.
+
+(link: https://www.w3.org/WAI/WCAG21/Understanding/timeouts.html text: 2.2.6 Timeouts) is a level AAA requirement introduced in the 2.1 guidelines intent on providing sufficient information to users about any timeout for data the page stores whilst it's kept open. It's aimed at helping users with attention, memory or language related disabilities who may need hours or even days to complete a process such as a transaction or registration process.
+
+## Seizures and Physical Reactions
+
+(link: https://www.w3.org/WAI/WCAG21/Understanding/animation-from-interactions.html text: 2.3.3 Animation from Interactions) is another level AAA requirement introduced in the 2.1 guidelines intent on preventing triggers including distraction, headaches and nausea from occurring as a result of animations on web pages. Any animation or transitions should be disabled globally when the user has reduced motion preferences specified to disable them.
+
+## Navigable
+
+(link: https://www.w3.org/WAI/WCAG21/Understanding/bypass-blocks.html text: 2.4.1 Bypass Blocks) has the intent of allowing users to navigate to the main content of a web page or other sections more easily. This may be achieved through links that bypass certain parts that are repeated over every page such as navigation links and header graphics.
+
+(link: https://www.w3.org/WAI/WCAG21/Understanding/focus-order.html text: 2.4.3 Focus Order) states that content must be navigable with a keyboard sequentially that's meaningful and logical. Modals are a particular type of components where focus order needs extra attention to ensure focus is correctly restored when it's open or closed. Likewise, form fields may need to be checked to ensure focus order is correct and logical without skipping sections or illogical.
+
+(link: https://www.w3.org/WAI/WCAG21/Understanding/focus-visible.html text: 2.4.7 Focus Visible) follows on from other focus criteria to state what is an acceptable level of visibility for a focus state. Commonly focus states are difficult to see or disabled which means it's difficult for users who rely on a keyboard to operate a webpage to see where they are. The focus state must not only be visible but have sufficient contrast be that a significantly different background, outline or border colour from the non-focussed state.
+
+## Input Modalities
+
+(link: https://www.w3.org/WAI/WCAG21/Understanding/label-in-name.html text: 2.5.3 Label in Name) has the intent of giving consistent, visible labels to interface components such as radio buttons and checkboxes. The visible label and accessible name should be semantically correct; providing reference between both the reference and target or containing both within a meaningful, valid HTML structure such as an input nested within a label.
+
+(link: https://www.w3.org/WAI/WCAG21/Understanding/target-size.html text: 2.5.5 Target Size) is a level AAA requirement necessitating that interfaces have a minimum target size of 44 by 44 CSS pixels. This is applicable to many types of impairment including mobile or touch screen interaction which can be an issue for pretty much anyone. It can also be necessary to help users who have mobility impairments such as Parkinson's, motor movements or vision impairment.
+
+(link: https://www.w3.org/WAI/WCAG21/Understanding/concurrent-input-mechanisms.html text: 2.5.6 Concurrent Input Mechanisms) is a more recent addition in the 2.1 guidelines. Its intent is to ensure that all interactions are possible for whichever mode of input is used or switched to for interacting with web content. Users should be able to switch between using a  keyboard, touch interaction and pointer devices without issue or limitation to a certain input mechanism.
+
+----
+
+Date: 2020-10-29 14:25
+
+----
+
+Author:
+
+- V00CCy0l
+
+----
+
+Tags: a11y, WAS, learning
+
+----
+
+Redirect: 
+
+----
+
+Description: What's included in the operable category of WCAG 2.1
+
+----
+
+Gallery: 
+
+----
+
+Bridgy: 

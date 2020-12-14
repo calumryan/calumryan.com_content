@@ -1,0 +1,49 @@
+Title: December 7th, 2020
+
+----
+
+Text: No doubting Apple puts a lot of effort into building accessible products but sadly for its website there's a few too many easy-fix accessibility WCAG conformance issues for me to consider showcasing apple.com on A11Y Websites #a11y #accessibility
+
+----
+
+Locator: 
+
+----
+
+Date: 2020-12-07 12:45
+
+----
+
+Bridgy: twitter
+
+----
+
+Uid: 3564
+
+----
+
+Feature-images: 
+
+----
+
+Tags: a11y
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

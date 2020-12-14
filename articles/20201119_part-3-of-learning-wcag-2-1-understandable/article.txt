@@ -1,0 +1,59 @@
+Title: Part 3 of learning WCAG 2.1 - Understandable
+
+----
+
+Text:
+
+The third part of WCAG 2.1 (Web Content Accessibility Guidelines) refers to three sets of criteria focused on having an understandable user interface.
+
+## Readable
+
+At the beginning of every page, document or PDF and throughout all the content it should be clear what human language is being used so it can be programmatically determined for screen readers and user agents. At a minimum, for level A, (link: https://www.w3.org/WAI/WCAG21/Understanding/language-of-page.html text: 3.1.1 Language of Page) requires the default language to be specified. Additionally, there's the criterion (link: https://www.w3.org/WAI/WCAG21/Understanding/language-of-parts.html text: 3.1.2 Language of Parts), at level AA, that requires content written in multiple languages to appropriately identified in code for webpages or with properties if in a PDF.
+
+The first set of understandable criteria centre round readability, namely for unusual and abbreviated words all of which are only required if seeking to achieve level AAA. The criteria include (link: https://www.w3.org/WAI/WCAG21/Understanding/reading-level.html text: 3.1.5 Reading Level) which necessitates short summaries or more digestible options along with illustrations or symbols to portray otherwise hard to read, high volume blocks of text. Other related criteria include (link: https://www.w3.org/WAI/WCAG21/Understanding/abbreviations.html text: 3.1.4 Abbreviations) and (link: https://www.w3.org/WAI/WCAG21/Understanding/unusual-words.html text: 3.1.3 Unusual Words).
+
+## Predictable
+
+Next are criteria looking at predictability and whether different interactions with a web page have predictable outcomes. (link: https://www.w3.org/WAI/WCAG21/Understanding/on-focus.html text: 3.2.1 On Focus) requires that the focus state is maintained in the correct, expected place when, for example, using scripts to navigate a user to a different part of the page.
+
+(link: https://www.w3.org/WAI/WCAG21/Understanding/change-on-request.html text: 3.2.5 Change on Request) is a level AAA criterion which requires interface that may update content or refresh it automatically, based on user changes, to provide a mechanism to manually update and inform the user. Additionally, any updates should not redirect the page without informing them.
+
+## Input Assistance
+
+The final set of understandable criteria centre round Input Assistance in ensuring users are assisted to avoid and correct mistakes. 
+
+At minimum for level A is (link: https://www.w3.org/WAI/WCAG21/Understanding/error-identification.html text: 3.3.1 Error Identification) that requires interface to clearly indicate to users when a field or other form control isn't filled in correctly on the client side. The error(s) needs to be described sufficiently to help them correct it and clear indication if the field is required.
+
+All form controls should be appropriately marked up with an HTML label that's associated with it correctly using `id` and `for` or else with correct ARIA (Accessible Rich Informative Applications) properties when using non-native components. These requirements and more are set out in (link: https://www.w3.org/WAI/WCAG21/Understanding/labels-or-instructions.html text: 3.3.2 Labels or Instructions).
+
+(link: https://www.w3.org/WAI/WCAG21/Understanding/error-suggestion.html text: 3.3.3 Error Suggestion) is a level AA requirement outlining clear, understandable reasons for an error and approaches for the user to correct errors such as example values and any other additional help.
+
+----
+
+Date: 2020-11-19 11:55
+
+----
+
+Author:
+
+- V00CCy0l
+
+----
+
+Tags: a11y, WAS, learning
+
+----
+
+Redirect: 
+
+----
+
+Description: What's included in the understandable category of WCAG 2.1
+
+----
+
+Gallery: 
+
+----
+
+Bridgy: 

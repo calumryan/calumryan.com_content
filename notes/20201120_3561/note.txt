@@ -1,0 +1,49 @@
+Title: November 20th, 2020
+
+----
+
+Text: Using Firefox as the default browser in 2020 it's glaringly obvious to see how few developers/designers use or test websites in anything other than Chrome and other WebKit-based browsers (Sad face)
+
+----
+
+Locator: 
+
+----
+
+Date: 2020-11-20 09:55
+
+----
+
+Bridgy: twitter
+
+----
+
+Uid: 3561
+
+----
+
+Feature-images: 
+
+----
+
+Tags: css, html, javascript, front-end
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

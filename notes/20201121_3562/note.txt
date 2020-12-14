@@ -1,0 +1,53 @@
+Title: November 21st, 2020
+
+----
+
+Text:
+
+📣 New site launch!
+https://www.a11ywebsites.com
+Showcase of accessible websites
+
+----
+
+Locator: 
+
+----
+
+Date: 2020-11-21 17:05
+
+----
+
+Bridgy: 
+
+----
+
+Uid: 3562
+
+----
+
+Feature-images: 
+
+----
+
+Tags: a11y
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

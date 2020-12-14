@@ -1,0 +1,21 @@
+Title: Guide to aria-label usage
+
+----
+
+Date: 2020-12-01 15:00
+
+----
+
+Permalink: https://iainbean.com/posts/2020/an-opinionated-guide-to-accessibility-testing/
+
+----
+
+Tags: a11y
+
+----
+
+Bridgy: twitter
+
+----
+
+Uid: 3557

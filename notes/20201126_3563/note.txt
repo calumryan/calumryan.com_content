@@ -1,0 +1,49 @@
+Title: November 26th, 2020
+
+----
+
+Text: Seeing some great new submissions come in already for A11Y Websites showcase! Look out for additions over the next couple of days I'll be adding to (link: https://a11ywebsites.com text: a11ywebsites.com)
+
+----
+
+Locator: 
+
+----
+
+Date: 2020-11-26 11:25
+
+----
+
+Bridgy: twitter
+
+----
+
+Uid: 3563
+
+----
+
+Feature-images: 
+
+----
+
+Tags: a11y
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
