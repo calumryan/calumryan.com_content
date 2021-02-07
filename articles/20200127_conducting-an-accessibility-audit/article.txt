@@ -1,0 +1,91 @@
+Title: Conducting a web accessibility audit
+
+----
+
+Text:
+
+This article isn’t an exhaustive list of every single procedure or checklist item to take in an accessibility audit, but rather a summary of aspects I feel are most essential in considering how to approach an audit, having conducted some in the past couple of years.
+
+One click automated tools, such as [Lighthouse](https://developers.google.com/web/tools/lighthouse/), are a quick, simple way to check a website's level of accessibility. They certainly aren't however the only form of checks you should perform for your accessibility audit.
+
+Understanding how different users interact with websites, no matter what their disability, is essential in determining how you perform an audit. Begin your audit with a review of typical, real world use cases or goals that actual users want to achieve from using the website. This way you have a starting point to assess any challenge points or barriers. In the terminology of user experience this is often considered a collection of user stories or scenarios.
+
+## Automated testing
+For automated testing I usually start with a couple of extensions installed in my browser: AXE and WAVE.
+
+The [WAVE extension](https://wave.webaim.org/extension/) adds on overlay to the webpage being tested which outlines all elements of the page such as landmarks, headings, anchors and aria properties. Alongside this WAVE highlights any problems categorised as either warnings or errors. This can include issues such as poor contrast, empty elements and incorrect use of markup.
+
+[AXE](https://www.deque.com/axe/) is usually my first choice of testing tools since it analyses the page in a lot of detail with a clear breakdown of all the issues categorised as minor, moderate, serious or critical. This can make decisions further down the line on which issues to prioritise in fixing easier. Furthermore, its creator, Deque University provides a wealth of information about the issues on its website with references to what challenges the issue presents to users and some helpful documentation on the best practice approach.
+
+## Manual testing
+For manual testing I refer to the US government's [18F Accessibility Guide](https://accessibility.18f.gov/) which outlines individual page elements to look over and many tools to help measure accessibility further.
+
+Content structure and layout is another important area of manual testing to consider how things like cognitive ability may be affected. Most, if not all of us, face challenges throughout our lives in how we handle and process large quantities of information. When conducting manual tests I look at whether the content is easily navigable, digestible and formatted in such a way that’s easy enough to consume for a variety of age groups and non-experts in a certain subject.
+
+For further reading on this subject I recommend [Cognitive Accessibility 101](http://jkg3.com/Journal/cognitive-accessibility-101-part-1-what-is-cognitive-accessibility) by Jamie Knight.
+
+To test how screen readers interpret a website I firstly use VoiceOver for Mac. This helps me to identify, initially, how much of the structure is accessible and areas that lack readable content or semantic structure. On mobile devices there’s gesture variants of these including VoiceOver on iOS and Talkback on Android.
+
+Attempting to navigate the website and complete tasks without even looking at the screen will help to simulate this experience more accurately. I also look out for elements of the page that lack visible focus states when navigating through page elements and in what order they’re read out.
+
+Windows platform users have the choice of testing with the included Narrator screen reader as well as software from NVDA and JAWS. Where there’s explicit justification, reason or a request for testing with all of these screen readers  then I perform checks with all of them.
+
+Using each screen reader and all its individual commands takes some regular experience and getting used to, so I refer to a list of shortcuts and gesture instructions available to [view or download from Deque University](https://dequeuniversity.com/screenreaders/)
+
+## Four typical faults
+Often conducting my audits I can see obvious issues in a design almost immediately and recognise areas likely to have faults or fragile features which present minor, moderate or critical flaws in accessibility.
+
+1. Colour contrast issues top the list in terms of both regularity of occurrence and are relatively easy to fix. Such issues are often blamed on colour schemes linked to a brand or priorities to maintain a certain aesthetic over the importance of accessibility. I check with [whocanuse.com](https://whocanuse.com/) to see how different colour combinations present issues for a variety of different vision impairment issues.
+2. Semantic markup, broken tags and incorrect use of HTML comes second as a typical fault I find when auditing websites. HTML5 introduced many new and meaningful ways to markup different content. Not all web developers fully understand how to use them correctly.
+3. Sliders (or carousels) and single page applications (SPAs) along with other hidden content come third as very common features in a lot of websites. Rarely are websites coded in such a way that makes them fully accessible because of poor choices in semantic markup and ways to control them.
+4. Failure in being fully responsive and resizeable is also a very common issues I come across in my audits. Typically, I find a website is designed for a desktop layout and nothing else. This is despite, in 2020, over 50% of web traffic to a website often being through mobile or other small screen devices! My audits also often highlight viewport scaling as explicitly disabled which prevents users from being able to zoom-in or scale the page to their required preference.
+
+## User testing with accessibility
+There’s no complete substitute for fully testing your website without getting actual users to try it out. Ideally this includes a range of users with different disabilities, so that it’s possible to see how different combinations of impairment may highlight less obvious or unpredicted shortcomings in a website’s design.
+
+Having different users test out a website will also help give a range of different perspectives on what’s most important to them and how well, or not, they interpret the design and functionality.
+
+As with all types of user testing it’s important to understand how to conduct it in a way that gives an accurate representation of how easy it is to use the website without pressuring, influencing or guiding the user in how to complete set tasks.
+
+## Final thoughts
+Whilst I find it frustrating to discover so many websites have so many accessibility flaws, I also find it satisfying to help identify and resolve them. We need to empathise more with those that face the most challenges in using the web today, by way of temporary or long-term impairment, to fully understand why it really matters to have a fully accessible website.
+
+Disability on the web often doesn’t exist without us introducing it. This is too frequently due to poor skills in design, coding, project planning and overall foresight. The web is open, it’s meant for everyone and to be inherently accessible for all if we follow the correct design principles, using the correct markup for the purpose and taking care to test it over different form factors and use cases.
+
+Conducting an accessibility audit shouldn’t be a one-off exercise, as with any type of usability testing, it needs to be done often as well as early on in the process of launching a website.
+
+----
+
+Date: 2020-01-27 00:00
+
+----
+
+Author: 
+
+----
+
+Tags: general
+
+----
+
+Redirect: https://calumryan.com/blog/conducting-an-accessibility-audit/
+
+----
+
+Description: Auditing a website to measure how accessible it is takes on an extensive range of manual and automated tests to cover all aspects of usability.
+
+----
+
+Gallery: 
+
+----
+
+Bridgy: 
+
+----
+
+Thumbnail: media/pages/posts/unsorted/og/access-audit.jpg
+
+----
+
+Og: false

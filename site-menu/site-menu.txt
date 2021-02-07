@@ -19,52 +19,65 @@ Links:
 - 
   title: About
   url: /about
+  special: ""
   icon: ""
 - 
   title: Articles
   url: /articles
+  special: featured
   icon: post
 - 
   title: Notes
   url: /notes
+  special: featured
   icon: note
 - 
   title: Checkins
   url: /checkins
+  special: ""
   icon: location
 - 
   title: Bookmarks
   url: /bookmarks
+  special: featured
   icon: bookmark
 - 
   title: RSVPs
   url: /rsvps
+  special: ""
   icon: rsvp-yes
 - 
   title: Replies
   url: /replies
+  special: ""
   icon: reply
 - 
   title: Events
   url: /events
+  special: ""
   icon: calendar
 - 
   title: Likes
   url: /likes
+  special: ""
   icon: like
 - 
   title: Reposts
   url: /reposts
+  special: ""
   icon: repost
 - 
   title: Speaking
   url: /speaking
+  special: ""
   icon: speaker
 - 
   title: CV
   url: /cv
+  special: ""
   icon: cv
 - 
   title: RSS
   url: /rss
+  special: ""
   icon: rss

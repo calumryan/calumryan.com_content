@@ -1,0 +1,64 @@
+Title: December 23rd, 2020
+
+----
+
+Text: Testing weather
+
+----
+
+Locator:
+
+lat: 54.1296244
+lon: -2.7714886
+city: Lancaster
+country: United Kingdom
+postcode: LA5 9EX
+address: Warton Road
+
+----
+
+Date: 2020-12-23 16:30:00
+
+----
+
+Bridgy: 
+
+----
+
+Uid: 3568
+
+----
+
+Weather-icon: light-rain
+
+----
+
+Temperature: 6°C
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

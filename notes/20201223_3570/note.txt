@@ -1,0 +1,63 @@
+Title: December 23rd, 2020
+
+----
+
+Text: This afternoon's Covid-19 Christmas holiday activities included reinstating the display of current weather conditions where I am on short-form posts
+
+----
+
+Locator:
+
+lat: 53.0960614
+lon: -2.3046307
+city: Alsager
+country: United Kingdom
+postcode: ST7 2BJ
+
+----
+
+Date: 2020-12-23 17:10:00
+
+----
+
+Bridgy: 
+
+----
+
+Uid: 3570
+
+----
+
+Weather-icon: heavy-intensity-rain
+
+----
+
+Temperature: 6°C
+
+----
+
+Feature-images: 
+
+----
+
+Tags: weather
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

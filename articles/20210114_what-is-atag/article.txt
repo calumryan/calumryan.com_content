@@ -1,0 +1,69 @@
+Title: What is ATAG?
+
+----
+
+Text:
+
+ATAG is an abbreviation for a web standard named Authoring Tool Accessibility Guidelines. It has two main parts:
+
+- Part A focuses on the level of accessibility in the interface of authoring tools for the web such as a content management system (CMS) or a content publishing platform such as YouTube.
+- Part B focuses on helping to make sure content produced from such systems or platforms is accessible.
+
+Like with their associated WCAG guidelines, ATAG are divided up into different subsections:
+
+## Make the authoring tool user interface accessible (part A)
+
+An authoring tool should meet accessibility guidelines set out in WCAG 2.0 ranging from single to triple level success criteria. This is applicable not only to web-based interfaces, but non-web-based applications such as a piece of software installed on a desktop computer or mobile device.
+
+Any images featuring in the authoring tool should be accessible to assistive technologies. This includes having alternative text in code that is output by the tool for presentation on the web as well as any presentation of images in the user interface of a non-web-based editor.
+
+Every effort needs to be made to ensure an editing interface has sufficient options to include all the associated content for making time-based media like videos and audio files accessible to the content author. For videos with captions there's a criterion to require that these are rendered correctly when a user has inserted a video with the authoring tool. 
+
+The editing interface should be accessible in a way that ensure all aspects can be accessed with a keyboard and navigate logically. There should be no time limits, or at least, an option to extend or disable them. 
+
+The guidelines also includes criteria on making the interface understandable. Having options to undo changes, providing documentation to authors about using the interface are all included.
+
+## Support the production of accessible content (part B)
+
+Part B success criteria focuses on how well an authoring tool supports its users in producing accessible content. Much of this is expected to be automated and should include features such as error checking and correction for author input as well as auto-generated content. Where manual checking of content is required then there's also the expectation that an authoring tool clearly instructs the author what to do: highlighting and describing how to judge what are accessibility issues.
+
+The guidelines extend to cover aspects such as expecting the authoring tool to preserve all formatting and semantics in content correctly once copied or imported from another location. This covers text and non-text content such as videos and images.
+
+There's a minimum expectation in ATAG that accessible content support features are turned on by default. ATAG also expects these to be prominent features as any other error checking features. Turning off such features shouldn't be an option without clear information to the user on the implications if they are turned off. 
+
+Finally, the guidelines outline ways that documentation is produced to help authors in understanding how to use accessible content support features. This can range from providing examples in documentation which demonstrate how to use features as well as providing tutorials to help familiarise authors on how to create accessible content.
+
+## Further reading 
+
+- (link: https://www.w3.org/WAI/standards-guidelines/atag/glance/ text: ATAG at a Glance)
+- (link: https://www.w3.org/TR/ATAG20/ text: Authoring Tool Accessibility Guidelines (ATAG) 2.0)
+
+----
+
+Date: 2021-01-14 11:00:00
+
+----
+
+Author:
+
+- V00CCy0l
+
+----
+
+Tags: a11y, WAS, ATAG
+
+----
+
+Redirect: 
+
+----
+
+Description: Diving into details of what Authoring Tool Accessibility Guidelines are about.
+
+----
+
+Gallery: 
+
+----
+
+Bridgy: 

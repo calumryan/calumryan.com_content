@@ -1,0 +1,53 @@
+Title: What is ARIA?
+
+----
+
+Text:
+
+Web content and applications have evolved over time necessitating ways to make them more accessible to people with disabilities using assistive technologies. WAI-ARIA (Web Accessibility Initiative-Accessible Rich Internet Applications) provides a layer of enhancements in addition to existing web standards.
+
+## History of ARIA
+
+WAI-ARIA is a relatively recent addition to the collection of published web standards, with the current published version being 1.0 and a further iteration of (link: https://www.w3.org/TR/wai-aria-1.1/ text: WAI-ARIA 1.1) currently at Working Draft status.
+
+Prior to HTML5 there were no elements such as `header`, `main`, `aside` and `footer`. Before this there were, and remain, ARIA enhancements with similar naming and meaning to give more semantics to the website's overall structure.
+
+## How ARIA works
+
+ARIA provides a standard and a framework for Web authors to work with to interact with operating systems and assistive technologies. This is so that interactive features, such as controls, menus and live content regions, operate and respond predictably regardless of what kind of browser or assistive technology is being used to access the content or application.
+
+In practice, ARIA consists of roles, states and properties which can be added, modified or updated with a combination of HTML, JavaScript and Ajax. Writing JavaScript applications it may be necessary to update these roles and properties to reflect any changes such as in the state of a page or focus state. These can help assistive technologies interpret any live changes in content and behaviours needed to interact with the website.
+
+## The future of ARIA
+
+WAI-ARIA continues to be an important feature in helping make websites and web applications more accessible with a new 1.2 version currently in draft. The standard is continually extending to keep up with other web standards and the need to ensure assistive technologies aren't left behind from working fully with new HTML features and specifications.
+
+----
+
+Date: 2020-11-26 12:25:00
+
+----
+
+Author:
+
+- V00CCy0l
+
+----
+
+Tags: WAS, ARIA, a11y, learning
+
+----
+
+Redirect: 
+
+----
+
+Description: What is WAI-ARIA and how does it enhance web accessibility?
+
+----
+
+Gallery: 
+
+----
+
+Bridgy: 

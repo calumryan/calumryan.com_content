@@ -1,0 +1,63 @@
+Title: January 5th, 2021
+
+----
+
+Text: Feeling all grim and isolated from everyone in the latest lockdown? Join us for web chat and stuff from 7pm (GMT) tomorrow at Homebrew Website Club Europe/London https://events.indieweb.org/2021/01/homebrew-website-club-europe-london-7XYymlQO0A7u
+
+----
+
+Locator:
+
+lat: 53.0960614
+lon: -2.3046307
+city: Alsager
+country: United Kingdom
+postcode: ST7 2BJ
+
+----
+
+Date: 2021-01-05 16:00:00
+
+----
+
+Bridgy: 
+
+----
+
+Uid: 3571
+
+----
+
+Weather-icon: few-clouds
+
+----
+
+Temperature: 3°C
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
