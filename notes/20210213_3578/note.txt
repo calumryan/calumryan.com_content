@@ -1,0 +1,68 @@
+Title: February 13th, 2021
+
+----
+
+Text: Frozen ground making for a good excuse to walk along these otherwise impassable quagmires of mud in mid-winter
+
+----
+
+Locator:
+
+lat: 51.214523
+lon: 0.2280339
+city: Tonbridge and Malling
+country: United Kingdom
+postcode: TN11 8LX
+address: Rings Hill
+
+----
+
+Date: 2021-02-13 17:00:00
+
+----
+
+Bridgy: twitter
+
+----
+
+Uid: 3578
+
+----
+
+Weather-icon: clear-sky
+
+----
+
+Temperature: -0°C
+
+----
+
+Feature-images:
+
+- img_20210213_143508.jpg
+- img_20210213_143135.jpg
+- img_20210213_143832.jpg
+
+----
+
+Tags: walk, Kent, winter
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
