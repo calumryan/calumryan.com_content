@@ -1,0 +1,65 @@
+Title: February 27th, 2021
+
+----
+
+Text: Just what the doctor ordered (or maybe not in the current circumstances?) cycling beyond the local area to unexplored corners of West Sussex - the Ashdown Forest, sunshine, rolling countryside and daffodil-lined hedgerows
+
+----
+
+Locator:
+
+lat: 51.0354446
+lon: -0.0281569
+city: Mid Sussex
+country: United Kingdom
+postcode: RH17 7EF
+
+----
+
+Date: 2021-02-27 13:00:00
+
+----
+
+Bridgy: twitter
+
+----
+
+Uid: 3582
+
+----
+
+Weather-icon: clear-sky
+
+----
+
+Temperature: 6°C
+
+----
+
+Feature-images:
+
+- 20210227-collage.jpg
+
+----
+
+Tags: cycling, coronavirus
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

@@ -42,6 +42,11 @@ Links:
   special: featured
   icon: bookmark
 - 
+  title: Bookshelf
+  url: /bookshelf
+  special: ""
+  icon: book
+- 
   title: RSVPs
   url: /rsvps
   special: ""
