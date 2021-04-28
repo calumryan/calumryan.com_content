@@ -1,0 +1,21 @@
+Title: Preview all target screens in a single window
+
+----
+
+Date: 2021-02-20 14:05:00
+
+----
+
+Permalink: https://responsively.app/
+
+----
+
+Tags: css, responsive, design
+
+----
+
+Bridgy: twitter
+
+----
+
+Uid: 3571

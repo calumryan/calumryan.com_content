@@ -1,0 +1,21 @@
+Title: Accessibility testing: Windows on a Mac
+
+----
+
+Date: 2021-03-19 11:50:00
+
+----
+
+Permalink: https://www.accessibility-developer-guide.com/setup/windows/vmware-on-macos/
+
+----
+
+Tags: a11y
+
+----
+
+Bridgy: twitter
+
+----
+
+Uid: 3573
