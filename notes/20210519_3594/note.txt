@@ -1,0 +1,69 @@
+Title: May 19th, 2021
+
+----
+
+Text: Miss this place and its people dearly ...we shall meet again @btconf Düsseldorf someday soon 🤲🏻
+
+----
+
+Locator:
+
+lat: "51.20100195"
+lon: "0.2711962460421"
+city: Tonbridge and Malling
+country: United Kingdom
+postcode: TN9 1JP
+address: High Street
+
+----
+
+Date: 2021-05-19 12:00:00
+
+----
+
+Bridgy: twitter
+
+----
+
+Uid: 3594
+
+----
+
+Weather-icon: overcast-clouds
+
+----
+
+Temperature: 14°C
+
+----
+
+Feature-images:
+
+- btconf.jpg
+- cologn-station.jpg
+- view-to-df-tour.jpg
+- view-from-df-tour.jpg
+
+----
+
+Tags: btconf, travel, coronavirus
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

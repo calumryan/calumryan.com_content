@@ -1,0 +1,87 @@
+Title: Five years of HWC London
+
+----
+
+Text:
+
+## Discovering Homebrew Website Club
+
+Curious to find out what a (link: https://indieweb.org/Homebrew_Website_Club text: Homebrew Website Club) (HWC) is, one afternoon in late 2015 I went on a 3-hour roundtrip by train to Brighton where the kind folks at (link: https://clearleft.com/ text: Clearleft) including (link: https://twitter.com/lottejackson/ text: Charlotte) and (link: https://adactio.com/ text: Jeremy) had recently started an HWC. The format began with a quiet writing hour to work on your own website, interspersed with a short demo of anything anyone wanted to share from what they'd done or needed advice on. Through attending HWC Brighton more often, I found an enjoyable environment which encouraged me to work on my website more often.  It inspired me seeing other people's websites as well as giving me the opportunity to share my own knowledge, experience and ideas for what to publish on a personal website.
+
+ ## Launch!
+
+After a few months attending HWC Brighton I was keen to start an event closer to where I lived in nearby London, which is under an hour's travel time from me. I'd discovered a centrally located hotel café/bar in London's West End open late into the evening that wasn't too crowded, served snacks, had free power sockets, WiFi and open to non-guests visitors. Then in June 2016 I found the perfect opportunity to launch HWC London when IndieWeb's cofounder, Tantek Çelik, visited for a nearby event.
+
+(image: 2016-167-hwc-london.jpeg)
+
+## Making HWC London work for everyone
+
+In the first year of HWC London we also ran some events at (link: https://barryfrost.com/ text: Barry)'s co-working space at WeWork where he kindly hosted us. This had both benefits and drawbacks of being a quieter, more private space, but I did feel it was somewhat harder to find and access for some due to the strict security arrangements by WeWork for admitting only pre-registered visitors to the building.
+
+(image: 2017-07-12.jpg)
+
+(image: 2017-10-18.jpg)
+
+Introductions and demos of personal websites is one of the best things about HWC I find. Most times, even if not everyone's had time to do much to demo on their website, there's always things related to the IndieWeb people want to talk about or ask questions. Even if most attending have previously done a demo of their website, we still like to do it regularly for the benefit of newcomers and to see what new additions people have made to their website over time.
+
+(image: 2019-05-01.jpg)
+
+Many attend a HWC only once, maybe because it's not what they'd envisaged for a variety of reasons, or they have family and other commitments that make it hard to attend after work. There's rarely a perfect time for everyone, and at times I've considered running HWC other times, such as weekends, but overall I find most who do attend more regularly feel the mid-week after work time is generally more convenient.
+
+(image: 2019-02-27.jpg)
+
+## Coronavirus and going virtual
+
+Part way through 2020 coronavirus began to spread rapidly throughout the UK. Consequently, we decided to pause running in-person events.  After coming round to the reality that we were in the midst of a pandemic which wouldn't go away for months or years to come, we moved to running HWCs virtually over IndieWeb's Zoom account. 
+
+(image: 2020-02-19.jpg)
+
+We initially kept the same format starting at 6pm with the quiet writing hour streamed, but found it challenging to replicate a fully collaborative environment over Zoom. After a few weeks, the event was rescheduled as an hour-long meetup only for demos and discussion from 7pm to 8pm that worked better for us, as organisers, and for most attending.
+
+(image: 710x-pxqc9t7ma9pm16clivdlluzwhobxvt.jpg)
+
+I love seeing people from all over the UK, Central Europe, USA and beyond attending our virtual events who may have previously struggled to attend our in-person events in London. It all helps bring fresh perspectives to the IndieWeb community and allows people to attend from anywhere from the convenience and safety of their own home. Consequently, to reflect our attendance and variety of time zones people join from, I decided to rename the virtual format of the event to HWC Europe/London.
+
+## The future
+
+Personally, I really hope to see in-person events return as soon as it's safe to run them. Realistically though, the future for HWC London as an in-person event maybe some months away yet due to the uncertainty of getting coronavirus sufficiently under control. I think some virtual events could continue in the long term too on a monthly basis if that works out better for some who can't or don't want to travel to London for whatever reason/s.
+
+## The co-organisers
+
+I'm incredibly grateful for the help I've had over the years from (link: https://barryfrost.com/ text: Barry Frost), (link: https://doubleloop.net/ text: Neil Mather) and (link: https://ohhelloana.blog/ text: Ana Rodrigues) as co-organisers. Running any kind of regular meetup single-handedly for such a long period would have been tough, if not impossible! We all go through "(link: https://indieweb.org/life_happens text: life happens)" moments where we need to acknowledge higher priorities in our lives, and so consequently it's not always possible to run an event on some weeks when doing this alone.
+
+Trying to keep the event safe and inclusive for everyone, in-person and virtually, is no small task, and it's thanks in no small part to their efforts and ongoing commitment to the event and (link: https://indieweb.org/ text: IndieWeb) that we've been able to keep the event going successfully.
+
+----
+
+Date: 2021-06-22 09:45:00
+
+----
+
+Author:
+
+- V00CCy0l
+
+----
+
+Tags: indieweb
+
+----
+
+Redirect: 
+
+----
+
+Description: This month marks five years since I started organising Homebrew Website Club London. I spent some time looking back over how it all started and survives to this day, even through the challenges of a global pandemic.
+
+----
+
+Gallery:
+
+- 710x-pxqc9t7ma9pm16clivdlluzwhobxvt.jpg
+- 2020-02-19.jpg
+- 2017-10-18.jpg
+- 2019-05-01.jpg
+- 2019-02-27.jpg
+- 2017-07-12.jpg
+- 2016-167-hwc-london.jpeg

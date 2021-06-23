@@ -1,0 +1,60 @@
+Title: May 20th, 2021
+
+----
+
+Text: Great British Cycleways 🇬🇧🚲
+
+----
+
+Locator: 
+
+----
+
+Date: 2021-05-20 18:40:00
+
+----
+
+Bridgy: twitter
+
+----
+
+Uid: 3595
+
+----
+
+Weather-icon: 
+
+----
+
+Temperature: 
+
+----
+
+Feature-images:
+
+- >
+  20121386_10159182408875492_3722443510849216223_o_10159182408875492.jpg
+
+----
+
+Tags: cycling
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
