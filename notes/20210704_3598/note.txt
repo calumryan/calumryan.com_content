@@ -1,0 +1,64 @@
+Title: July 4th, 2021
+
+----
+
+Text: Where once @EurostarUK whisked us away from the middle of Kent to grand European cities, green foliage now encroaches upon empty platforms at Ashford International station, in doubt whether they'll ever be used again
+
+----
+
+Locator:
+
+lat: 51.148555
+lon: 0.8722566
+city: Ashford
+country: United Kingdom
+
+----
+
+Date: 2021-07-04 20:35:00
+
+----
+
+Bridgy: twitter
+
+----
+
+Uid: 3598
+
+----
+
+Weather-icon: clear-sky
+
+----
+
+Temperature: 16°C
+
+----
+
+Feature-images:
+
+- ashford.jpg
+
+----
+
+Tags: travel, coronavirus
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

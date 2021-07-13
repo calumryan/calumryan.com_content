@@ -1,0 +1,65 @@
+Title: June 25th, 2021
+
+----
+
+Text: Lentil mixed bean chili with guac and oat fraiche
+
+----
+
+Locator:
+
+lat: 51.1889529
+lon: 0.2735876
+city: Tonbridge and Malling
+country: United Kingdom
+postcode: TN9 2AN
+
+----
+
+Date: 2021-06-25 20:30:00
+
+----
+
+Bridgy: twitter
+
+----
+
+Uid: 3597
+
+----
+
+Weather-icon: overcast-clouds
+
+----
+
+Temperature: 18°C
+
+----
+
+Feature-images:
+
+- img_20210625_201943__01__01.jpg
+
+----
+
+Tags: food
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
