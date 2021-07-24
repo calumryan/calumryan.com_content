@@ -9,21 +9,18 @@ svg: icon-cv
 Text:
 
 ## Profile
-
-I'm a self-motivated web developer with design experience building on ten years working in the web industry and my earlier university achievements in multimedia technology study.
+I'm a front-end developer with design experience building on ten years working in the web industry and my earlier university achievements in multimedia technology study.
 
 My aim is to make the web a better place for all, with particular focus on inclusive design that caters for all types of disability. I look to work with people and organisations that align with this ambition and value the importance of having a great user experience in the web.
 
 ## Team work
-
 I greatly value communication and wellbeing in teams and continually look for ways these can be improved: for instance, when a team member is working remotely or has just joined the organisation, and needs to be supported. I recognise and appreciate that we may all have different ways of communicating ideas, opinions and feedback which presents both challenges and opportunities when working in a team.
 
 ## Technical skills
-
 Beyond my core front-end skills of writing semantic HTML, CSS and presentational JavaScript, with ES6, I have some experience in writing web applications in VueJs, React and PHP. I’m very familiar with popular frameworks like Twitter Bootstrap but also comfortable with writing my own templating libraries/styleguides using component-focused tools like [Fractal](https://fractal.build/).
 
 ## Accessibility
-When I’m approaching a project I always try to prioritise making it accessible to all. It matters most to me that anyone with one or multiple impairments, temporary or permanent, can use the website without hindrance or frustration. I look to achieve this through adherence to well constructed semantic code and extensive user testing, conversation and feedback.
+When I’m approaching a project I prioritise making it accessible to all. It matters most to me that anyone with one or multiple impairments, situational, temporary or permanent, can use the website without hindrance or frustration. I look to achieve this through adherence to well constructed semantic code,  WCAG 2.1 Standards compliance and extensive user testing, conversation and feedback.
 
 ## Beyond the office
 Both managing and delivering a project, I seek first to understand what problems or challenges a user faces when using a feature. From this I identify specific user stories and features which can be researched, designed and developed. I like to plan projects based on features, rather than activities. Ideally they should have short iterations, that offer the opportunity to get user feedback as the feature is developed.
@@ -34,26 +31,41 @@ I also participate in the IndieWeb community. Here there’s a strong emphasis o
 ----
 
 Roles:
-
+- 
+  org: IAAP
+  org_url: https://www.accessibilityassociation.org
+  start_date: 2021-07-13
+  type: Qualification
+  role_name: Web Accessibility Specialist (WAS)
+  icon: WAS.png
+  summary: "Passed the WAS exam following years of experience in accessibility and usability testing along with extensive study of Web accessibility best practices."
+  points:
+    - point: Usability testing with assistive technology in macOS, iOS, Android and Windows environments.
+    - point: Understanding of WCAG 2.1 Standards and ATAG
+    - point: Web accessibility auditing and remediation
+    - point: Knowledge of implementing and testing valid ARIA
+  current: true
 - 
   org: dxw
   org_url: https://dxw.com
   start_date: 2019-02-12
-  type: job
-  role_name: Developer
-  summary: "User-research led design and development of websites. Applying changes to codebase to make more robust, scaleable and maintainable. Producing website accessibility audits with concise, easy to understand explanations of issues, solutions and implementation of improvements."
+  type: Job
+  role_name: Developer and Web Accessibility Specialist
+  summary: "Auditing public and third sector websites through an automated and manual accessibility testing workflow. Applying changes to codebase to make more accessible, robust, scaleable and maintainable. Development, design and authoring of website accessibility audits with concise, easy to understand explanations of issues, solutions and implementation of improvements."
   points:
-    - point: Accessibility, WordPress, Usability testing
+    - point: Accessibility audits with axe DevTools
+    - point: Screen readers including VoiceOver, NVDA and TalkBack
     - point: Building components library
-    - point: Environment and build tools including use of Grunt and Gulp
-    - point: HTML5, CSS3, Scss, jQuery, Vanilla Js, VueJs, PHP, Sketch
+    - point: Environment and build tools including use of Grunt and Webpack
+    - point: WordPress, HTML, CSS, Scss, jQuery, Vanilla Js, VueJs, PHP, Figma
+    - point: Advocating accessibility best practices and culture across organisation
   current: true
 - 
   org: We Create Digital
   org_url: https://wecreatedigital.co.uk
   start_date: 2013-07-01
   end_date: 2019-02-06
-  type: job
+  type: Job
   role_name: Front End Developer
   summary: "WordPress along with other CMS development and integration for clients. Internally, I helped improve the overall approach of the company’s project management: helping introduce an agile workflow to the business and better understanding of user-focused needs."
   points:
@@ -61,13 +73,13 @@ Roles:
     - point: Version control all projects through GitLab
     - point: Environment and build tools including use of Grunt, Gulp, Webpack and Node packages
     - point: Design tools including CC Photoshop, Illustrator and Affinity Designer
-    - point: HTML5, CSS3, Scss, jQuery, Vanilla Js, VueJs, PHP
+    - point: HTML, CSS, Scss, jQuery, Vanilla Js, VueJs, PHP
 - 
   org: Wickedweb (acquired by Avenue Digital)
   org_url: https://www.avenuedigital.com/
   start_date: 2011-10-01
   end_date: 2013-06-01
-  type: job
+  type: Job
   role_name: Front End Developer
   summary:
   points:
@@ -79,7 +91,7 @@ Roles:
   org_url: https://www.brunel.ac.uk/
   start_date: 2007-09-01
   end_date: 2011-07-01
-  type: education
+  type: Qualification
   role_name: BSc Multimedia Technology & Design
   summary: FIRST CLASS HONOURS AWARD WITH PROFESSIONAL DEVELOPMENT
   points:
@@ -91,7 +103,7 @@ Roles:
   org_url: http://filmeducation.org/
   start_date: 2009-07-01
   end_date: 2010-09-01
-  type: job
+  type: Job
   role_name: (Work Placement) Digital Media Assistant
   summary:
   points:
@@ -102,7 +114,7 @@ Roles:
   org_url: https://www.ccsw.ac.uk/
   start_date: 2004-09-01
   end_date: 2006-07-01
-  type: education
+  type: Qualification
   role_name: BTEC National Diploma IT Practitioners
   summary:
   points:
