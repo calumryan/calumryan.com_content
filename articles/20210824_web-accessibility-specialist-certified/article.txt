@@ -1,0 +1,68 @@
+Title: Web Accessibility Specialist - certified!
+
+----
+
+Text:
+
+Preparing for the WAS examination wasn't something I wanted to hurry, but at the same time, I felt compelled to get this qualification behind me as soon as possible. I felt doing the exam the sooner would help strengthen my confidence and validation of my accessibility knowledge in my current work and beyond. From the beginning of my study, I worried if my approach was an effective way to learn given that the last time I took an exam was for my university degree, which was over ten years ago!
+
+Knowing what to study was fairly straight forward thanks to the Book of Knowledge and other (link: https://www.accessibilityassociation.org/s/prepareforwas text: preparation resources) that the (link: https://www.accessibilityassociation.org/s/ text: International Association of Accessibility Professionals) (IAAP) link to.
+
+## Support from my employer
+My employer, (link: https://www.dxw.com/ text: dxw), both paid for the exam and allowed me to spend one working day a week over approximately six months to study and prepare for it. In this time I studied and tested myself using the (link: https://dequeuniversity.com/curriculum/packages/iaap-was text: Deque WAS preparation course) which can be purchased on a yearly basis for individuals or a team. 
+
+## Screen readers
+Good experience in using screen readers is a crucial part of accessibility testing and knowledge to ensure anyone can navigate a website using all types of assistive technology. I'd already some experience using VoiceOver for macOS and NVDA for Windows, but where I felt less confident, was in using touch device-based screen readers including VoiceOver for iOS and TalkBack on Android. Deque's (link: https://dequeuniversity.com/screenreaders/ text: shortcut and gesture guides) provided all the information I needed to learn how they work.
+
+## Web Accessibility Guidelines
+I also devoted a lot of time to reading (link:  https://www.w3.org/WAI/WCAG21/quickref/ text: How to Meet WCAG (Quick Reference)). Understanding the difference between normative and non-normative is an important part of this learning process, which I struggled with at first, but after reading the different criteria this helped me to understand the differences.
+
+## Exam day
+When the day came last June to take the exam I felt slightly nervous whether I'd studied enough or perhaps taken too long studying to remember everything. Due to the coronavirus pandemic, I decided to take the option of doing the exam from home with a remote proctor. I was interrupted halfway through to show to the proctor any support aids I might be using. This knocked my confidence and focus a little, but I managed to resume the exam and regain focus after a couple of questions. I comfortably answered most of the seventy-five questions without much hesitation and finished nearly and hour ahead of the two-hour time limit.
+
+## The result
+A couple of months later I received an email to say I'd passed. I'm officially a Web Accessibility Specialist! Whilst I'm pleased and proud at having passed, I don't consider this a completion of my learning journey in accessibility, but just the beginning.
+
+(image: certified.jpg)
+
+----
+
+Date: 2021-08-24 17:30:00
+
+----
+
+Author:
+
+- V00CCy0l
+
+----
+
+Tags: a11y
+
+----
+
+Syndication: 
+
+----
+
+Redirect: 
+
+----
+
+Description: Almost a year ago I set myself a challenge to attain certification as a Web Accessibility Specialist (WAS). This is a summary of how I prepared for the exam, and hopefully some motivation for others to learn more about web accessibility.
+
+----
+
+Gallery:
+
+- certified.jpg
+
+----
+
+Og-thumbnail:
+
+- certified.jpg
+
+----
+
+Thumbnail: - certified.jpg

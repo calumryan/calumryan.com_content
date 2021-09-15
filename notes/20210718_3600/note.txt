@@ -1,0 +1,60 @@
+Title: July 18th, 2021
+
+----
+
+Text:
+
+💉 Pfizer dose 1 - fine but tender arm 💪🏻
+💉 Pfizer dose 2 - tender arm plus drained 💪🏻🥱
+
+----
+
+Locator: 
+
+----
+
+Date: 2021-07-18 14:20:00
+
+----
+
+Bridgy: twitter
+
+----
+
+Uid: 3600
+
+----
+
+Weather-icon: 
+
+----
+
+Temperature: 
+
+----
+
+Feature-images: 
+
+----
+
+Tags: coronavirus
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

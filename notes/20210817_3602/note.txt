@@ -1,0 +1,61 @@
+Title: August 17th, 2021
+
+----
+
+Text:
+
+🎾 Played tennis for the first time in almost twenty years.
+Satisfied, I managed to hit the ball with the racket more than once!
+Admittedly, one of the shots left the court and almost took out an ice cream van's window
+
+----
+
+Locator: 
+
+----
+
+Date: 2021-08-17 12:00:00
+
+----
+
+Bridgy: twitter
+
+----
+
+Uid: 3602
+
+----
+
+Weather-icon: 
+
+----
+
+Temperature: 
+
+----
+
+Feature-images: 
+
+----
+
+Tags: sport, tennis
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

@@ -1,0 +1,105 @@
+Title: Manual web accessibility testing
+
+----
+
+Text:
+
+Since creating (link: https://www.a11ywebsites.com/ text: A11Y websites) last year a few people have asked me how I audit their website for accessibility? The majority of my time doing an accessibility audit is spent conducting manual tests which can take hours, days and even a week or more depending on the website's complexity.
+
+## Why automated testing isn't enough?
+Automated tests using tools such as WAVE and AXE are an essential part in the overall testing process, but they're largely limited to identifying programmatic issues. There are so many use cases, preferences, abilities, and disabilities we need to consider in testing a website. This needs at least some manual verification and understanding for what is the context or purpose of content.
+
+True accessibility testing should involve people
+
+
+    Input: Keyboard
+    Input: Touch
+    Visual Presentation
+    Alternative Text
+    Audio and Video
+    Semantics and Document Structure
+    Forms
+    Dynamic Content
+    Custom Widgets
+
+
+## Testing guidelines
+Throughout manual testing I continually refer to the quick reference page of (link: https://www.w3.org/WAI/WCAG21/quickref/ text: Web Content Accessibility Guidelines (WCAG) 2.1). This provides a more digestible presentation of the main requirements (success criteria) and techniques included in the guidelines than the (link: https://www.w3.org/TR/WCAG21/ text: standard layout page) W3C have for all published recommendations and working drafts. WCAG are an internationally recognised set of recommendations focused on making the web more accessible.
+
+## Screen readers
+A large part of my time conducting manual tests involves navigating a website with a range of screen reader and web browser combinations. Typically, I start with Safari and VoiceOver on my Mac. I go through a selection of pages I've included for testing in my audit. This can range from just a couple to ten or more, depending on the website's size and complexity of pages and template types.
+
+(image: voiceover-rotor-landmarks.png alt:VoiceOver rotor dialogue showing list of landmarks)
+
+I repeat this process again for touch devices using VoiceOver with Safari on an iPad and TalkBack with Chrome or Firefox on an Android phone. Again this is repeated on a Windows laptop using a combination of NVDA with Firefox as well as Narrator with Edge.
+
+(image: elements-list-headings.png alt:NVDA Elements list dialogue showing headings)
+(image: elements-list-links.png alt:NVDA Elements list dialogue showing list of links)
+(image: elements-list-landmarks.png alt:NVDA Elements list dialogue showing list of landmarks)
+
+To navigate a page by headings, landmarks, forms and links I use VoiceOver's rotor feature to test these are present and having meaningful names or titles as well as going to the correct location. Similarly, for Windows I use the Elements List which appears as standard Windows dialogue with options and list of elements to navigate by.
+
+## Keyboard Only Navigation
+During screen reader testing, I look for consistently visible focus states navigating with a keyboard using Safari and Firefox on Mac and Internet Explorer in Windows. Different browsers have different default styling for focus states which aren't always clearly visible. It's therefore important to always test and enhance, if necessary, all focus states in the process of making and testing a website to work well in different browsers. Likewise for touch screen devices I test with different swipe gestures and switch buttons to check all parts of the website are accessible.
+
+## Screen magnifier
+A couple of the criteria (link: https://www.w3.org/WAI/WCAG21/Understanding/resize-text.html text: Resize Text) and (link: https://www.w3.org/WAI/WCAG21/Understanding/reflow.html text: Reflow) involve testing over different viewport sizes and zooming in to the window up to 400%. In both cases I look for content and layout failing to reflow and scale. This is usually evident when there's overlapping links such as long URLs, email addresses and other insufficiently styled content flowing off the side of the screen. This can force me to scroll horizontally and lose track of where I am in the page. I use built-in browser and system zoom controls as well as screen magnifiers, Apple Zoom and Windows Magnifier, to test that all parts of the page can still be accessed over different levels of zoom.
+
+This helps determine if a website can be access by users who have:
+
+- Vision impairment
+- Little or no functional vision
+
+## Voice recognition
+Primarily I use a Mac for my work, so I use its free built-in voice recognition software, Voice Control. This helps me to identify any controls like buttons and input fields which might not respond to commands correctly if they're not using the correct HTML element or ARIA properties. The tool converts speech into text which offers the ability to use spoken commands to navigate and interact with a website.
+
+This helps determine if a website can be access by users who have:
+
+- Cognitive
+- Motor disabilities
+
+## Code inspection
+For this part of my testing I validate pages for correct usage of HTML and review (link: https://calumryan.com/articles/what-is-aria text: ARIA) components and properties to check they've been implemented correctly and update where applicable, such as when using `aria-expanded` on a button element.
+
+## PDFs and other web documents
+This is also necessary as part of my tests to determine whether a website has accessible downloads such as PDFs which typically aren't very accessible. I test these by checking to see if they've a title and the content within them is not only readable by easy to navigate. Much of the criteria set out in WCAG is also applicable to downloads such as PDFs, spreadsheets and documents. I frequently find PDFs and documents that don't include a table of content and text alternatives for images and graphic elements.
+
+## Concluding a manual audit
+It's important in concluding an accessibility audit that we know when we have covered every aspect. Missing out one area is a
+
+## Further reading
+- (link: https://www.accessibility-developer-guide.com/knowledge/screen-readers/relevant-combinations/ text: Relevant combinations of screen readers and browsers)
+- (link: https://dequeuniversity.com/screenreaders/voiceover-keyboard-shortcuts text: VoiceOver Keyboard Shortcuts on a Mac)
+- (link: https://dequeuniversity.com/screenreaders/nvda-keyboard-shortcuts text: NVDA Keyboard Shortcuts)
+- (link: https://www.w3.org/WAI/eval/report-tool/#!/#%2F text: Website Accessibility Evaluation Report Generator)
+- (link: https://accessibility-manual.dwp.gov.uk/best-practice/manual-accessibility-testing text: DWP's approach to manual testing)
+
+----
+
+Date: 2021-01-30 15:00:00
+
+----
+
+Author:
+
+- V00CCy0l
+
+----
+
+Tags: a11y
+
+----
+
+Redirect: 
+
+----
+
+Description: A detailed look at how I approach manual accessibility testing for websites.
+
+----
+
+Gallery: 
+
+----
+
+Bridgy: 

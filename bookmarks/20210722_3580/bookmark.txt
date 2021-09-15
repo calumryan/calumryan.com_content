@@ -1,0 +1,21 @@
+Title: Building a search engine for my blog: Part II
+
+----
+
+Date: 2021-07-22 12:30:00
+
+----
+
+Permalink: https://jamesg.blog/2021/07/21/building-a-blog-search-engine-part-ii
+
+----
+
+Tags: search, indieweb
+
+----
+
+Bridgy: 
+
+----
+
+Uid: 3580

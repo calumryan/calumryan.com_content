@@ -1,0 +1,21 @@
+Title: An Accessible Dialog
+
+----
+
+Date: 2021-07-28 16:55:00
+
+----
+
+Permalink: https://www.smashingmagazine.com/2021/07/accessible-dialog-from-scratch/
+
+----
+
+Tags: a11y, Javascript
+
+----
+
+Bridgy: 
+
+----
+
+Uid: 3581
