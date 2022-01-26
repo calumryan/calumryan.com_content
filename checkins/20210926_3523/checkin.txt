@@ -1,0 +1,74 @@
+Title: September 27th, 2021
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Caffè Nero
+    url:
+      - >
+        https://foursquare.com/v/4c0f552d7189c92876ead9b6
+      - http://www.caffenero.co.uk
+    tel:
+      - 01342 410043
+    latitude:
+      - "51.124004496821"
+    longitude:
+      - "-0.0071691674614304"
+    street-address:
+      - 25-27 High St.
+    locality:
+      - East Grinstead
+    region:
+      - West Sussex
+    country-name:
+      - United Kingdom
+    postal-code:
+      - RH19 3AF
+  value: >
+    https://foursquare.com/v/4c0f552d7189c92876ead9b6
+
+----
+
+Date: 2021-09-26 11:30:00
+
+----
+
+Uid: 3523
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

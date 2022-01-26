@@ -1,0 +1,65 @@
+Title: November 9th, 2021
+
+----
+
+Text: Pre #btconf cycling in Düsseldorf, adjusting to the considerably slower speed of city rental bicycles vs. my Canyon racer
+
+----
+
+Locator:
+
+lat: "51.20711975"
+lon: "6.7998414308168"
+city: Dusseldorf
+country: Germany
+postcode: "40227"
+
+----
+
+Date: 2021-11-09 10:15:00
+
+----
+
+Bridgy: twitter
+
+----
+
+Uid: 3611
+
+----
+
+Weather-icon: clear-sky
+
+----
+
+Temperature: 7°C
+
+----
+
+Feature-images:
+
+- bike-volksgarten-1.jpg
+
+----
+
+Tags: cycling
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

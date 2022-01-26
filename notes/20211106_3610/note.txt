@@ -1,0 +1,65 @@
+Title: November 6th, 2021
+
+----
+
+Text: Eight hours wearing a mask to Düsseldorf for #btConf without leaving ground but totally worth it #TrainsNotPlanes
+
+----
+
+Locator:
+
+lat: 51.2254018
+lon: 6.7763137
+city: Dusseldorf
+country: Germany
+
+----
+
+Date: 2021-11-06 17:00:00
+
+----
+
+Bridgy: twitter
+
+----
+
+Uid: 3610
+
+----
+
+Weather-icon: broken-clouds
+
+----
+
+Temperature: 10°C
+
+----
+
+Feature-images:
+
+- >
+  359db78d-bb59-4a15-9e28-925517beef54.jpeg
+
+----
+
+Tags: Environment, Travel, Düsseldorf
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

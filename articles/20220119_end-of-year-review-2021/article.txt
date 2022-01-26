@@ -1,0 +1,73 @@
+Title: End of year review 2021
+
+----
+
+Text:
+
+## Coronavirus and politics
+The general bleakness of the ongoing pandemic, combined with the predictability of endless lies and inexcusable failings by the UK government, made 2021 little more endurable than the previous. Nevertheless, I made it to the other end in relative happiness and good health, without catching coronavirus at any point.
+
+## Social
+I briefly had a couple of opportunities to meet work colleagues at dxw over the Spring and Festive season. None of this felt quite as normal or as relaxed as before. The fun, comforting, cosy vibe of past social occasions from pre-pandemic years now felt dampened or simply wasn't there, fearing infection or uncertainty for what the future holds in terms of the pandemic.
+
+## Travel
+Following months of little or no travel at all, my first adventure crossing country borders involved a short trip in early July to South West Wales. The weather was in my favour for this short city break in Swansea. I was able to take in Swansea Bay and a day trip to visit Pembroke Castle, with the sunshine and incredible costal views making it almost comparable to visiting the Mediterranean in early summer.
+
+After a two-year gap, in November, I finally managed to escape the small island of Britain to visit Germany for (link: https://beyondtellerrand.com/ text: Beyond Tellerrand) conference. Following months of uncertainty whether last-minute restrictions might stop me from visiting, thankfully everything went ahead as planned. Not only that, but I took my favoured method of low-carbon travel by train, transiting via Belgium. On the back of this trip, I also spent some time exploring German Christmas markets and the Rhineland region of Germany, which were unexpected joys I'd never seen before.
+
+## Achievements
+After over a decade without gaining any formal qualifications since my university degree, in June I successfully passed my exam to become a (link: https://calumryan.com/articles/web-accessibility-specialist-certified text: Web Accessibility Specialist), which I posted about too. 2020 was the year I hoped to achieve more in terms of public speaking about accessibility at events in person, that sadly didn't happen for 2021 either.
+
+## IndieWebCamp
+IndieWebCamps have been a regular fixture in my events calendar almost every single year since 2014, whether online or in person. A short gap between heightened travel restrictions over the autumn and early winter gave me the opportunity to go to (link: https://indieweb.org/2021/D%C3%BCsseldorf text: IndieWebCamp Düsseldorf). I was really glad to return to Germany for at least one in person event, and hopeful more of these will return on some form for 2022.
+
+## Health and fitness
+One thing that helped me get through the past year has been my cycling and regular walks. During the winter lockdown period of 2020 I invested in a Wahoo smart trainer for my road bicycle and a Zwift subscription. Dark, cold nights and icy road are no longer an excuse for me not to exercise on my bicycle regularly. I also discovered many new countryside walks both locally and further afield, including my first hike in the Chilterns at (link: https://www.nationaltrust.org.uk/chilterns-countryside/trails/coombe-hill-and-chequers-trail text: Coombe Hill). In late I summer I also tried some beginner tennis coaching sessions which didn't go quite as well as hoped, but I enjoyed it nonetheless.
+
+(image: grid-photos-large.jpg caption: Photos left-right, IndieWebCamp Düsseldorf, cycling in the Ashdown Forest, icy path in Hildenborough, trail near Chequers in the Chilterns, Wuppertal elevated railway,  Pembroke Castle,  Calum wearing a face mask, Swansea bay footpath, Eurostar alt: Collage of 9 photos from past year)
+
+## Looking forward to 2022
+Things I hope for and plan to do in the year ahead (restrictions permitting):
+- Travel abroad to see more of Europe and possibly Turkey
+- Public speaking and writing on accessibility
+- Read more books than in 2021
+- Restart tennis coaching sessions in the summer
+- Refresh my driving skills
+
+Happy New Year everyone!
+
+----
+
+Date: 2022-01-19 19:45:00
+
+----
+
+Author:
+
+- V00CCy0l
+
+----
+
+Tags: review, 2021
+
+----
+
+Syndication: 
+
+----
+
+Redirect: 
+
+----
+
+Description: A look back on a year filled with grimness but hope on the horizon for better times ahead.
+
+----
+
+Gallery: 
+
+----
+
+Og-thumbnail:
+
+- grid-photos-small.jpg

@@ -1,0 +1,66 @@
+Title: October 31st, 2021
+
+----
+
+Text: Autumnal Sunday meandering the quiet countryside lanes of Battle, reluctantly welcoming in shorter days and fewer hours to enjoy the outdoors in full daylight
+
+----
+
+Locator:
+
+lat: "50.9265004"
+lon: "0.47571771777808"
+city: Rother
+country: United Kingdom
+
+----
+
+Date: 2021-10-31 21:10:00
+
+----
+
+Bridgy: twitter
+
+----
+
+Uid: 3608
+
+----
+
+Weather-icon: light-rain
+
+----
+
+Temperature: 11°C
+
+----
+
+Feature-images:
+
+- battle-1.jpg
+- battle-2.jpg
+- battle-3.jpg
+
+----
+
+Tags: sussex, walking, autumn
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

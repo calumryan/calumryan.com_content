@@ -1,0 +1,85 @@
+Title: November 21st, 2021
+
+----
+
+Text: Checked in at Coffee Fellows
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/619a3d619b60d51b880461bd
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Coffee Fellows
+    url:
+      - >
+        https://foursquare.com/v/59608f75e97dfb59dc7d9d4e
+    latitude:
+      - '51.219831732704'
+    longitude:
+      - '6.7794037618514'
+    locality:
+      - Dusseldorf
+    region:
+      - North Rhine-Westphalia
+    country-name:
+      - Germany
+    postal-code:
+      - "40212"
+  value: >
+    https://foursquare.com/v/59608f75e97dfb59dc7d9d4e
+
+----
+
+Date: 2021-11-21 12:35:00
+
+----
+
+Uid: 3578
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Weather-icon: broken-clouds
+
+----
+
+Temperature: 9°C

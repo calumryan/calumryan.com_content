@@ -1,0 +1,93 @@
+Title: November 22nd, 2021
+
+----
+
+Text: Checked in at Beethoven House (Beethoven-Haus)
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/619b797681170b787391d3c7
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Beethoven House (Beethoven-Haus)
+    url:
+      - >
+        https://foursquare.com/v/4c79172d81bca093920efc14
+      - https://www.beethoven.de
+    tel:
+      - 0228 9817525
+    latitude:
+      - '50.73681840893'
+    longitude:
+      - '7.1011590957642'
+    street-address:
+      - Bonngasse 20
+    locality:
+      - Bonn
+    region:
+      - North Rhine-Westphalia
+    country-name:
+      - Germany
+    postal-code:
+      - "53111"
+  value: >
+    https://foursquare.com/v/4c79172d81bca093920efc14
+
+----
+
+Date: 2021-11-22 11:05:00
+
+----
+
+Uid: 3580
+
+----
+
+Feature-images:
+
+- >
+  407869714_3f6kzvkjxrr7vjlodtsq_ng24d3czqud8zmfqcrzxma.jpg
+
+----
+
+Tags: 
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Weather-icon: clear-sky
+
+----
+
+Temperature: 2°C

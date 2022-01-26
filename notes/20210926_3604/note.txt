@@ -1,0 +1,64 @@
+Title: September 26th, 2021
+
+----
+
+Text: The joys of cycling: overtaking a mile-long tailback of fuel hungry cars!
+
+----
+
+Locator:
+
+lat: "51.20100195"
+lon: "0.2711962460421"
+city: Tonbridge and Malling
+country: United Kingdom
+postcode: TN9 1JP
+address: High Street
+
+----
+
+Date: 2021-09-26 13:00:00
+
+----
+
+Bridgy: twitter
+
+----
+
+Uid: 3604
+
+----
+
+Weather-icon: broken-clouds
+
+----
+
+Temperature: 20°C
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

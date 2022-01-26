@@ -1,0 +1,62 @@
+Title: November 26th, 2021
+
+----
+
+Text: Back after a long awaited, much needed trip abroad to remind me why the EU is such a great place to visit and live in, exploring the spectacular Rhineland following #btconf Düsseldorf 🇩🇪🇪🇺
+
+----
+
+Locator: 
+
+----
+
+Date: 2021-11-26 09:30:00
+
+----
+
+Bridgy: 
+
+----
+
+Uid: 3615
+
+----
+
+Weather-icon: 
+
+----
+
+Temperature: 
+
+----
+
+Feature-images:
+
+- 01_dus.jpg
+- 04_bonn.jpg
+- 02_duss.jpg
+- 05_stp.jpg
+
+----
+
+Tags: travel, Europe, covid
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

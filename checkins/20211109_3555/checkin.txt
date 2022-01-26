@@ -1,0 +1,90 @@
+Title: November 9th, 2021
+
+----
+
+Text: Checked in at Hausbrauerei „Zum Schlüssel“
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/618ad995886daf4c4f40a1ab
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Hausbrauerei „Zum Schlüssel“
+    url:
+      - >
+        https://foursquare.com/v/4ad0cad2f964a520dad920e3
+      - http://www.zumschluessel.de
+    tel:
+      - 0211 8289550
+    latitude:
+      - '51.226286776879'
+    longitude:
+      - '6.7746972403962'
+    street-address:
+      - Bolkerstr. 41
+    locality:
+      - Dusseldorf
+    region:
+      - North Rhine-Westphalia
+    country-name:
+      - Germany
+    postal-code:
+      - "40213"
+  value: >
+    https://foursquare.com/v/4ad0cad2f964a520dad920e3
+
+----
+
+Date: 2021-11-09 20:25:00
+
+----
+
+Uid: 3555
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Weather-icon: clear-sky
+
+----
+
+Temperature: 5°C

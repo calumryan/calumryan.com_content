@@ -1,0 +1,62 @@
+Title: November 10th, 2021
+
+----
+
+Text: First in-person and online IndieWebCamp since the situation tomorrow from 10am-15:15pm CET at Neue Zentralbibliothek Düsseldorf — who's coming along? https://events.indieweb.org/2021/11/indiewebcamp-d%C3%BCsseldorf-Z6z8DpkikdxI
+
+----
+
+Locator:
+
+lat: 51.2254018
+lon: 6.7763137
+city: Dusseldorf
+country: Germany
+
+----
+
+Date: 2021-11-10 19:45:00
+
+----
+
+Bridgy: twitter
+
+----
+
+Uid: 3614
+
+----
+
+Weather-icon: clear-sky
+
+----
+
+Temperature: 4°C
+
+----
+
+Feature-images: 
+
+----
+
+Tags: indiewebcamp
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

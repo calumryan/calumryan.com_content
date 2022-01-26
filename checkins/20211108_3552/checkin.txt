@@ -1,0 +1,87 @@
+Title: November 8th, 2021
+
+----
+
+Text: Checked in at Lion's Burger
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/61896defa7f6b871078d5bef
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - "Lion's Burger"
+    url:
+      - >
+        https://foursquare.com/v/617aa70f1d22a51f4fc9bba2
+    latitude:
+      - 51.215701
+    longitude:
+      - 6.80296
+    street-address:
+      - Kruppstraße 10
+    locality:
+      - Dusseldorf
+    region:
+      - North Rhine-Westphalia
+    country-name:
+      - Germany
+    postal-code:
+      - "40227"
+  value: >
+    https://foursquare.com/v/617aa70f1d22a51f4fc9bba2
+
+----
+
+Date: 2021-11-08 18:35:00
+
+----
+
+Uid: 3552
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Weather-icon: clear-sky
+
+----
+
+Temperature: 9°C

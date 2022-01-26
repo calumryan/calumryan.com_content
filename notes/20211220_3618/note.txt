@@ -1,0 +1,57 @@
+Title: December 20th, 2021
+
+----
+
+Text: Discussing design strategies and why I think we should have an accessibility-first design approach https://www.dxw.com/2021/12/accessibility-first-design-approach/ #a11y
+
+----
+
+Locator: 
+
+----
+
+Date: 2021-12-20 14:50:00
+
+----
+
+Bridgy: twitter
+
+----
+
+Uid: 3618
+
+----
+
+Weather-icon: 
+
+----
+
+Temperature: 
+
+----
+
+Feature-images: 
+
+----
+
+Tags: a11y, design
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

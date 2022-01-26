@@ -1,0 +1,92 @@
+Title: November 10th, 2021
+
+----
+
+Text: Checked in at Zentralbibliothek Düsseldorf
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/618ba658432ad7416f55ac99
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Zentralbibliothek Düsseldorf
+    url:
+      - >
+        https://foursquare.com/v/4c53ebf1479fc9284dc64492
+      - >
+        http://www.duesseldorf.de/stadtbuechereien/standpunkte/b01.shtml
+      - https://twitter.com/stadtbueduedorf
+    tel:
+      - 0211 8994399
+    latitude:
+      - '51.218803355617'
+    longitude:
+      - '6.7960549736424'
+    street-address:
+      - Bertha-von-Suttner-Platz 1
+    locality:
+      - Dusseldorf
+    region:
+      - North Rhine-Westphalia
+    country-name:
+      - Germany
+    postal-code:
+      - "40227"
+  value: >
+    https://foursquare.com/v/4c53ebf1479fc9284dc64492
+
+----
+
+Date: 2021-11-10 11:00:00
+
+----
+
+Uid: 3560
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Weather-icon: clear-sky
+
+----
+
+Temperature: 8°C

@@ -1,0 +1,82 @@
+Title: November 28th, 2021
+
+----
+
+Text: Checked in at North Downs Way
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/61a394f23933671ef4e34c26
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - North Downs Way
+    url:
+      - >
+        https://foursquare.com/v/536f5111498e8db5539c111e
+    latitude:
+      - '51.315694033112'
+    longitude:
+      - '0.2334768026788'
+    country-name:
+      - United Kingdom
+  value: >
+    https://foursquare.com/v/536f5111498e8db5539c111e
+
+----
+
+Date: 2021-11-28 14:40:00
+
+----
+
+Uid: 3592
+
+----
+
+Feature-images:
+
+- >
+  407869714_8rn2c9bmaxnfqix8cdfkz3n0dcqjv3yjpyeqecvwu10.jpg
+
+----
+
+Tags: 
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Weather-icon: clear-sky
+
+----
+
+Temperature: 2°C

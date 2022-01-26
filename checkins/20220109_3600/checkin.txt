@@ -1,0 +1,83 @@
+Title: January 9th, 2022
+
+----
+
+Text: Checked in at The Plough Inn
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/61daef570c1cf62549d7a0ef
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - The Plough Inn
+    url:
+      - >
+        https://foursquare.com/v/4ba5454af964a52042f438e3
+      - http://www.theploughinneynsford.co.uk
+      - https://twitter.com/plougheynsford
+    tel:
+      - 01322 862281
+    latitude:
+      - '51.36844083952'
+    longitude:
+      - '0.2098452735647'
+    street-address:
+      - Riverside
+    locality:
+      - Eynsford
+    region:
+      - Kent
+    country-name:
+      - United Kingdom
+    postal-code:
+      - DA4 0AE
+  value: >
+    https://foursquare.com/v/4ba5454af964a52042f438e3
+
+----
+
+Date: 2022-01-09 14:20:00
+
+----
+
+Uid: 3600
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

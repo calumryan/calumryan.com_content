@@ -1,0 +1,88 @@
+Title: November 19th, 2021
+
+----
+
+Text: Checked in at Corneliusplatz
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/6197ffbf81170b7873d98a36
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Corneliusplatz
+    url:
+      - >
+        https://foursquare.com/v/56cde79b498e22387e6c679f
+    latitude:
+      - 51.225885
+    longitude:
+      - 6.778934
+    street-address:
+      - Corneliusplatz
+    locality:
+      - Dusseldorf
+    region:
+      - North Rhine-Westphalia
+    country-name:
+      - Germany
+  value: >
+    https://foursquare.com/v/56cde79b498e22387e6c679f
+
+----
+
+Date: 2021-11-19 19:50:00
+
+----
+
+Uid: 3574
+
+----
+
+Feature-images:
+
+- >
+  407869714_suugs7uoaeqaslzpi3ktyuoro3amw8gwzt12peeijfq.jpg
+
+----
+
+Tags: 
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Weather-icon: broken-clouds
+
+----
+
+Temperature: 11°C

@@ -1,0 +1,93 @@
+Title: November 13th, 2021
+
+----
+
+Text: Checked in at H Vohwinkel (Schwebebahn)
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/618fc14b7e9d776dc1fa04dc
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - H Vohwinkel (Schwebebahn)
+    url:
+      - >
+        https://foursquare.com/v/4f7d3f12e4b006944e90c8b9
+      - http://www.schwebebahn.de
+    tel:
+      - 0202 5690
+    latitude:
+      - '51.23032929376'
+    longitude:
+      - '7.0678848209157'
+    street-address:
+      - Vohwinkeler Str.
+    locality:
+      - Wuppertal
+    region:
+      - North Rhine-Westphalia
+    country-name:
+      - Germany
+    postal-code:
+      - "42327"
+  value: >
+    https://foursquare.com/v/4f7d3f12e4b006944e90c8b9
+
+----
+
+Date: 2021-11-13 13:45:00
+
+----
+
+Uid: 3568
+
+----
+
+Feature-images:
+
+- >
+  407869714_rrcn2hqeorakefc1ojqzyue_m7ygvnkt8ijn6id8whs.jpg
+
+----
+
+Tags: 
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Weather-icon: overcast-clouds
+
+----
+
+Temperature: 9°C

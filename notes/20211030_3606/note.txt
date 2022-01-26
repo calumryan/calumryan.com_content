@@ -1,0 +1,66 @@
+Title: October 30th, 2021
+
+----
+
+Text: Socially distanced by 50 km, but enjoying the splendid talks of #SotB2021 livestream and @dletorey's iconic headwear in full 1080p!
+
+----
+
+Locator:
+
+lat: "51.20100195"
+lon: "0.2711962460421"
+city: Tonbridge and Malling
+country: United Kingdom
+postcode: TN9 1JP
+address: High Street
+
+----
+
+Date: 2021-10-30 11:20:00
+
+----
+
+Bridgy: twitter
+
+----
+
+Uid: 3606
+
+----
+
+Weather-icon: overcast-clouds
+
+----
+
+Temperature: 12°C
+
+----
+
+Feature-images:
+
+- sotb212.jpg
+
+----
+
+Tags: conference, WebStandards, London, online
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

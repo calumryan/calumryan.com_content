@@ -1,0 +1,85 @@
+Title: November 20th, 2021
+
+----
+
+Text: Checked in at Veggiewerk
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/6198e15b47b30a1a40dab405
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Veggiewerk
+    url:
+      - >
+        https://foursquare.com/v/6198e14c975be41b859411c9
+    latitude:
+      - 50.359604
+    longitude:
+      - 7.594629
+    locality:
+      - Koblenz
+    region:
+      - Rheinland-Pfalz
+    country-name:
+      - Germany
+    postal-code:
+      - "56068"
+  value: >
+    https://foursquare.com/v/6198e14c975be41b859411c9
+
+----
+
+Date: 2021-11-20 11:50:00
+
+----
+
+Uid: 3577
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Weather-icon: scattered-clouds
+
+----
+
+Temperature: 11°C

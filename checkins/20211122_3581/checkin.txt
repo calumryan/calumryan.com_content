@@ -1,0 +1,90 @@
+Title: November 22nd, 2021
+
+----
+
+Text: Checked in at Alter Zoll
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/619ba75505e9193f88a7d34f
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Alter Zoll
+    url:
+      - >
+        https://foursquare.com/v/50a618d2e4b044220f65680d
+    latitude:
+      - '50.734203506032'
+    longitude:
+      - '7.1077037577806'
+    street-address:
+      - Brassertufer 1
+    locality:
+      - Bonn
+    region:
+      - North Rhine-Westphalia
+    country-name:
+      - Germany
+    postal-code:
+      - "53111"
+  value: >
+    https://foursquare.com/v/50a618d2e4b044220f65680d
+
+----
+
+Date: 2021-11-22 14:20:00
+
+----
+
+Uid: 3581
+
+----
+
+Feature-images:
+
+- >
+  407869714_xwnjunzhkfgh_n6wtd-poi6jjopa25eyxqwtf3bty_y.jpg
+
+----
+
+Tags: 
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Weather-icon: clear-sky
+
+----
+
+Temperature: 3°C

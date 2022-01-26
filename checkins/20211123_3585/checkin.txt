@@ -1,0 +1,88 @@
+Title: November 23rd, 2021
+
+----
+
+Text: Checked in at Bibimcup
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/619d2f287b291d34727c6aee
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Bibimcup
+    url:
+      - >
+        https://foursquare.com/v/56f433f2498e3c2fc23de310
+      - https://bibimcup-togo.com
+    latitude:
+      - '51.222627783532'
+    longitude:
+      - '6.7870395293512'
+    street-address:
+      - Düsseldorf
+    locality:
+      - Dusseldorf
+    region:
+      - North Rhine-Westphalia
+    country-name:
+      - Germany
+    postal-code:
+      - "40210"
+  value: >
+    https://foursquare.com/v/56f433f2498e3c2fc23de310
+
+----
+
+Date: 2021-11-23 18:10:00
+
+----
+
+Uid: 3585
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Weather-icon: mist
+
+----
+
+Temperature: 6°C

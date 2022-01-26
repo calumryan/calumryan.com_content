@@ -1,0 +1,86 @@
+Title: November 12th, 2021
+
+----
+
+Text: Checked in at Münster Universtät
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/618e4c2da23c9b7abc6002f2
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Münster Universtät
+    url:
+      - >
+        https://foursquare.com/v/53e8d593498ee3c3b1bfada4
+    latitude:
+      - '51.963480750611'
+    longitude:
+      - 7.6135913116648
+    locality:
+      - Münster
+    region:
+      - North Rhine-Westphalia
+    country-name:
+      - Germany
+  value: >
+    https://foursquare.com/v/53e8d593498ee3c3b1bfada4
+
+----
+
+Date: 2021-11-12 11:10:00
+
+----
+
+Uid: 3566
+
+----
+
+Feature-images:
+
+- >
+  407869714_3jglvldyasblqtnlsrtyowizktuxj_1hhwa9tqqeyh4.jpg
+
+----
+
+Tags: 
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Weather-icon: clear-sky
+
+----
+
+Temperature: 8°C

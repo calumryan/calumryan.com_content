@@ -1,0 +1,88 @@
+Title: October 3rd, 2021
+
+----
+
+Text: Checked in at Kingdom
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Kingdom
+    url:
+      - >
+        https://foursquare.com/v/5986e0ac82a75040aa5db89b
+    latitude:
+      - 51.162852
+    longitude:
+      - 0.163128
+    locality:
+      - Tonbridge
+    region:
+      - Kent
+    country-name:
+      - United Kingdom
+    postal-code:
+      - T N11
+  value: >
+    https://foursquare.com/v/5986e0ac82a75040aa5db89b
+
+----
+
+Date: 2021-10-03 13:20:00
+
+----
+
+Uid: 3523
+
+----
+
+Feature-images:
+
+- >
+  407869714_p0hjeyz_dd2d1jfqmfttrvfpnu2j7haogifnw-sh-3m.jpg
+
+----
+
+Tags: 
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Weather-icon: overcast-clouds
+
+----
+
+Temperature: 15°C
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/61599f9304a02d065200929e

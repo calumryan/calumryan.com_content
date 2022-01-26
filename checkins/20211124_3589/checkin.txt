@@ -1,0 +1,89 @@
+Title: November 24th, 2021
+
+----
+
+Text: Checked in at Eurostar Terminal
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/619e60858b44633ce2c821aa
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Eurostar Terminal
+    url:
+      - >
+        https://foursquare.com/v/4b1191e6f964a520857f23e3
+      - http://www.eurostar.com
+      - https://twitter.com/eurostar
+    latitude:
+      - '50.835744620501'
+    longitude:
+      - '4.3347105543423'
+    street-address:
+      - Avenue Fonsnylaan 47
+    locality:
+      - Brussels (Saint-Gilles)
+    region:
+      - Brussels-Capital Region
+    country-name:
+      - Belgium
+    postal-code:
+      - "1060"
+  value: >
+    https://foursquare.com/v/4b1191e6f964a520857f23e3
+
+----
+
+Date: 2021-11-24 15:55:00
+
+----
+
+Uid: 3589
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Weather-icon: broken-clouds
+
+----
+
+Temperature: 7°C

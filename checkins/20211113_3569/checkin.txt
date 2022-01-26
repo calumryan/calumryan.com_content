@@ -1,0 +1,90 @@
+Title: November 13th, 2021
+
+----
+
+Text: Checked in at Bahnhof Wuppertal-Oberbarmen
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/618fdef38f674e7af0f17d89
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Bahnhof Wuppertal-Oberbarmen
+    url:
+      - >
+        https://foursquare.com/v/4b6e8a71f964a5203ec12ce3
+      - http://www.bahnhof.de
+    tel:
+      - 0180 5 996633
+    latitude:
+      - '51.27380997258'
+    longitude:
+      - '7.2215151786804'
+    street-address:
+      - Rittershauser Brücke 15
+    locality:
+      - Wuppertal
+    region:
+      - North Rhine-Westphalia
+    country-name:
+      - Germany
+    postal-code:
+      - "42277"
+  value: >
+    https://foursquare.com/v/4b6e8a71f964a5203ec12ce3
+
+----
+
+Date: 2021-11-13 15:50:00
+
+----
+
+Uid: 3569
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Weather-icon: overcast-clouds
+
+----
+
+Temperature: 9°C

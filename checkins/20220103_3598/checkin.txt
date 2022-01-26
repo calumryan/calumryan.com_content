@@ -1,0 +1,74 @@
+Title: January 3rd, 2022
+
+----
+
+Text: Checked in at Farthing Downs
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/61d304939b8b8a4ecdc53954
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Farthing Downs
+    url:
+      - >
+        https://foursquare.com/v/4c03d30c187ec9286021b67b
+    latitude:
+      - '51.299712640954'
+    longitude:
+      - '-0.1348642989696'
+    country-name:
+      - United Kingdom
+  value: >
+    https://foursquare.com/v/4c03d30c187ec9286021b67b
+
+----
+
+Date: 2022-01-03 14:15:00
+
+----
+
+Uid: 3598
+
+----
+
+Feature-images:
+
+- >
+  407869714_p82pca4iytwxuqi4i939l4no8mcqbtvdfc8y543524o.jpg
+
+----
+
+Tags: 
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

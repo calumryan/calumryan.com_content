@@ -1,0 +1,86 @@
+Title: January 22nd, 2022
+
+----
+
+Text: Checked in at Cafe Into The Opera
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/61ec0844db1ead395d28b50e
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Cafe Into The Opera
+    url:
+      - >
+        https://foursquare.com/v/4e3e72d71838cb1b82fe268b
+      - http://www.saltsmill.org.uk
+    latitude:
+      - 53.838279
+    longitude:
+      - -1.788754
+    street-address:
+      - "Salt's Mill"
+    locality:
+      - Shipley
+    country-name:
+      - United Kingdom
+    postal-code:
+      - BD18 3LA
+  value: >
+    https://foursquare.com/v/4e3e72d71838cb1b82fe268b
+
+----
+
+Date: 2022-01-22 13:35:00
+
+----
+
+Uid: 3604
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: broken-clouds
+
+----
+
+Temperature: 8°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

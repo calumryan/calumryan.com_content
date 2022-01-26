@@ -1,0 +1,89 @@
+Title: January 17th, 2022
+
+----
+
+Text: Checked in at Alsager Dental Practice
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/61e52da25b75e01d71ff9ef3
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Alsager Dental Practice
+    url:
+      - >
+        https://foursquare.com/v/4d42818bf81e8cfa0884f456
+    tel:
+      - 01270 878320
+    latitude:
+      - '53.095594559178'
+    longitude:
+      - '-2.3088905720995'
+    street-address:
+      - 42b Crewe Road
+    locality:
+      - Stoke-on-Trent
+    region:
+      - Stoke-on-Trent
+    country-name:
+      - United Kingdom
+    postal-code:
+      - ST7 2ET
+  value: >
+    https://foursquare.com/v/4d42818bf81e8cfa0884f456
+
+----
+
+Date: 2022-01-17 08:50:00
+
+----
+
+Uid: 3601
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: broken-clouds
+
+----
+
+Temperature: 4°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

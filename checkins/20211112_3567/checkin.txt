@@ -1,0 +1,87 @@
+Title: November 12th, 2021
+
+----
+
+Text: Checked in at Botanischer Garten
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/618e4f53a26d7226d4a8571a
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Botanischer Garten
+    url:
+      - >
+        https://foursquare.com/v/4df48c87b0fb807158c625a4
+      - >
+        https://www.uni-muenster.de/BotanischerGarten/
+    latitude:
+      - '51.963751031336'
+    longitude:
+      - '7.610808236214'
+    street-address:
+      - Schlossgarten
+    locality:
+      - Münster
+    region:
+      - North Rhine-Westphalia
+    country-name:
+      - Germany
+  value: >
+    https://foursquare.com/v/4df48c87b0fb807158c625a4
+
+----
+
+Date: 2021-11-12 11:25:00
+
+----
+
+Uid: 3567
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Weather-icon: scattered-clouds
+
+----
+
+Temperature: 8°C

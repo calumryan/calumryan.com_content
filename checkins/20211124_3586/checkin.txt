@@ -1,0 +1,90 @@
+Title: November 24th, 2021
+
+----
+
+Text: Checked in at Coffee Fellows
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/619e04b802c2634d9ac8382c
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Coffee Fellows
+    url:
+      - >
+        https://foursquare.com/v/4ee781c4aa1fd7f75730425d
+      - http://www.coffee-fellows.de
+    tel:
+      - 0221 13994956
+    latitude:
+      - '50.943294951021'
+    longitude:
+      - '6.9585155512973'
+    street-address:
+      - Trankgasse 11
+    locality:
+      - Cologne
+    region:
+      - North Rhine-Westphalia
+    country-name:
+      - Germany
+    postal-code:
+      - "50668"
+  value: >
+    https://foursquare.com/v/4ee781c4aa1fd7f75730425d
+
+----
+
+Date: 2021-11-24 09:25:00
+
+----
+
+Uid: 3586
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Weather-icon: broken-clouds
+
+----
+
+Temperature: 6°C

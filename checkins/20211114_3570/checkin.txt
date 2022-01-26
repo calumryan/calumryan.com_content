@@ -1,0 +1,93 @@
+Title: November 14th, 2021
+
+----
+
+Text: Checked in at Casita Mexicana
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/61910722f80b752d42fa1180
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Casita Mexicana
+    url:
+      - >
+        https://foursquare.com/v/4c0cf5bf2466a5938fc87621
+      - http://www.casitamexicana.de
+    tel:
+      - 0211 15963993
+    latitude:
+      - '51.210704143755'
+    longitude:
+      - '6.7745049068381'
+    street-address:
+      - Bilker Allee 128
+    locality:
+      - Dusseldorf
+    region:
+      - North Rhine-Westphalia
+    country-name:
+      - Germany
+    postal-code:
+      - "40217"
+  value: >
+    https://foursquare.com/v/4c0cf5bf2466a5938fc87621
+
+----
+
+Date: 2021-11-14 12:55:00
+
+----
+
+Uid: 3570
+
+----
+
+Feature-images:
+
+- >
+  407869714_gkrhzfxnuwh5uwdu6fzh5gza05o_aiqdfm9lwfmp7ss.jpg
+
+----
+
+Tags: 
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Weather-icon: broken-clouds
+
+----
+
+Temperature: 9°C

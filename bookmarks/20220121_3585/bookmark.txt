@@ -1,0 +1,21 @@
+Title: If you must use a carousel, make it accessible
+
+----
+
+Date: 2022-01-21 11:00:00
+
+----
+
+Permalink: https://lsnrae.medium.com/if-you-must-use-a-carousel-make-it-accessible-977afd0173f4
+
+----
+
+Tags: a11y
+
+----
+
+Bridgy: 
+
+----
+
+Uid: 3585

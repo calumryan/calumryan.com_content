@@ -1,0 +1,92 @@
+Title: November 8th, 2021
+
+----
+
+Text: Checked in at Hotel NH Düsseldorf City
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/618990b4307a0602daf3c261
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Hotel NH Düsseldorf City
+    url:
+      - >
+        https://foursquare.com/v/4b0baae3f964a520ef3223e3
+      - >
+        https://www.nh-hotels.com/hotel/nh-duesseldorf-city
+      - https://twitter.com/nhhotelsde
+    tel:
+      - 0211 78110
+    latitude:
+      - '51.217201801239'
+    longitude:
+      - '6.8029508540214'
+    street-address:
+      - Kölner Str. 186-188
+    locality:
+      - Dusseldorf
+    region:
+      - North Rhine-Westphalia
+    country-name:
+      - Germany
+    postal-code:
+      - "40227"
+  value: >
+    https://foursquare.com/v/4b0baae3f964a520ef3223e3
+
+----
+
+Date: 2021-11-08 21:05:00
+
+----
+
+Uid: 3553
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Weather-icon: overcast-clouds
+
+----
+
+Temperature: 8°C

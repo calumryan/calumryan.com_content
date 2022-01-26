@@ -1,0 +1,85 @@
+Title: November 12th, 2021
+
+----
+
+Text: Checked in at Cafe Colibri
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/618e3f151700d83a99742025
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Cafe Colibri
+    url:
+      - >
+        https://foursquare.com/v/4cc957cae7926dcb81a35b77
+    latitude:
+      - '51.963005602018'
+    longitude:
+      - '7.6305375920789'
+    street-address:
+      - Alter Steinweg
+    locality:
+      - Münster
+    region:
+      - North Rhine-Westphalia
+    country-name:
+      - Germany
+  value: >
+    https://foursquare.com/v/4cc957cae7926dcb81a35b77
+
+----
+
+Date: 2021-11-12 10:15:00
+
+----
+
+Uid: 3565
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Weather-icon: broken-clouds
+
+----
+
+Temperature: 7°C

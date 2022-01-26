@@ -1,0 +1,83 @@
+Title: January 1st, 2022
+
+----
+
+Text: Checked in at Pontcysyllte Aqueduct
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/61c884f0bba83e616c037916
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Pontcysyllte Aqueduct
+    url:
+      - >
+        https://foursquare.com/v/4c55a4a3a724e21e8b156ff8
+      - http://www.pontcysyllte-aqueduct.co.uk
+      - https://twitter.com/pontcysyllte
+    tel:
+      - 01978 292015
+    latitude:
+      - '52.972358904671'
+    longitude:
+      - '-3.0868938376261'
+    street-address:
+      - Station Rd
+    locality:
+      - Trevor
+    region:
+      - Wrexham
+    country-name:
+      - United Kingdom
+    postal-code:
+      - LL20 7TG
+  value: >
+    https://foursquare.com/v/4c55a4a3a724e21e8b156ff8
+
+----
+
+Date: 2021-12-26 15:05:00
+
+----
+
+Uid: 3595
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

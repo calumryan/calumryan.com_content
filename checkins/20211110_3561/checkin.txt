@@ -1,0 +1,90 @@
+Title: November 10th, 2021
+
+----
+
+Text: Checked in at EDEKA Zurheide
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/618bfd861aaaf9761af52590
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - EDEKA Zurheide
+    url:
+      - >
+        https://foursquare.com/v/56be0b81498ee8e24840b641
+      - https://twitter.com/zfkcrown
+    tel:
+      - 0211 200570
+    latitude:
+      - '51.2190948331'
+    longitude:
+      - '6.7825871441378'
+    street-address:
+      - Berliner Allee 52
+    locality:
+      - Dusseldorf
+    region:
+      - North Rhine-Westphalia
+    country-name:
+      - Germany
+    postal-code:
+      - "40212"
+  value: >
+    https://foursquare.com/v/56be0b81498ee8e24840b641
+
+----
+
+Date: 2021-11-10 17:10:00
+
+----
+
+Uid: 3561
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Weather-icon: clear-sky
+
+----
+
+Temperature: 6°C

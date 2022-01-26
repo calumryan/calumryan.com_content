@@ -1,0 +1,85 @@
+Title: November 26th, 2021
+
+----
+
+Text: Checked in at The Bakehouse At 124
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/61a09f454cc3606fcd379138
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - The Bakehouse At 124
+    url:
+      - >
+        https://foursquare.com/v/581dbd6649e90070d4677142
+    latitude:
+      - 51.19648
+    longitude:
+      - 0.27514637
+    locality:
+      - Tonbridge
+    region:
+      - Kent
+    country-name:
+      - United Kingdom
+    postal-code:
+      - TN9 1AS
+  value: >
+    https://foursquare.com/v/581dbd6649e90070d4677142
+
+----
+
+Date: 2021-11-26 08:50:00
+
+----
+
+Uid: 3590
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Weather-icon: light-rain
+
+----
+
+Temperature: 6°C

@@ -1,0 +1,92 @@
+Title: November 20th, 2021
+
+----
+
+Text: Checked in at Deutsches Eck
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/6198d13fbcfa632d655d2626
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Deutsches Eck
+    url:
+      - >
+        https://foursquare.com/v/4ba35c22f964a520473738e3
+      - >
+        http://de.wikipedia.org/wiki/Deutsches_Eck
+    latitude:
+      - '50.364066048317'
+    longitude:
+      - '7.6056718826294'
+    street-address:
+      - Am Deutschen Eck
+    locality:
+      - Koblenz
+    region:
+      - Rheinland-Pfalz
+    country-name:
+      - Germany
+    postal-code:
+      - "56068"
+  value: >
+    https://foursquare.com/v/4ba35c22f964a520473738e3
+
+----
+
+Date: 2021-11-20 10:45:00
+
+----
+
+Uid: 3576
+
+----
+
+Feature-images:
+
+- >
+  407869714_jtheaiy0tmgnayhhaygrsqafwa2kkqfq9atudacejtq.jpg
+
+----
+
+Tags: 
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Weather-icon: few-clouds
+
+----
+
+Temperature: 10°C

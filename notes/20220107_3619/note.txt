@@ -1,0 +1,66 @@
+Title: January 7th, 2022
+
+----
+
+Text: Happy New Year folks! Still we struggle to live our lives in semi-normality through this World war at constant battle against the virus. Here's hoping for happier and better times in the year ahead.
+
+----
+
+Locator:
+
+lat: "51.20100195"
+lon: "0.2711962460421"
+city: Tonbridge
+country: United Kingdom
+postcode: TN9 1JP
+address: High Street
+
+----
+
+Date: 2022-01-07 10:50:00
+
+----
+
+Bridgy: twitter
+
+----
+
+Uid: 3619
+
+----
+
+Weather-icon: overcast-clouds
+
+----
+
+Temperature: 5°C
+
+----
+
+Feature-images:
+
+- 2022-profile.jpg
+
+----
+
+Tags: 
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

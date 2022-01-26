@@ -1,0 +1,57 @@
+Title: January 17th, 2022
+
+----
+
+Text: Wisdom tooth woes 😫
+
+----
+
+Locator: 
+
+----
+
+Date: 2022-01-17 18:30:00
+
+----
+
+Bridgy: twitter
+
+----
+
+Uid: 3621
+
+----
+
+Weather-icon: 
+
+----
+
+Temperature: 
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

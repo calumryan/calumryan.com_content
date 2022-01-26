@@ -1,0 +1,79 @@
+Title: November 18th, 2021
+
+----
+
+Text: Checked in at Xafe
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/6196556ca5fd7561f8564f58
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Xafe
+    url:
+      - >
+        https://foursquare.com/v/618cd407c84d2541521070c1
+    latitude:
+      - 51.222016
+    longitude:
+      - 6.792768
+    country-name:
+      - Germany
+  value: >
+    https://foursquare.com/v/618cd407c84d2541521070c1
+
+----
+
+Date: 2021-11-18 13:30:00
+
+----
+
+Uid: 3573
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Weather-icon: few-clouds
+
+----
+
+Temperature: 11°C
