@@ -6,7 +6,7 @@ With the climate crisis in mind recently I've been looking at what environmental
 
 ----
 
-Thumbnail: media/pages/posts/unsorted/og/polarbear.jpg
+Thumbnail: ../media/pages/posts/unsorted/og/polarbear.jpg
 
 ----
 

@@ -4,7 +4,7 @@ Description: In this article I look at what is a design system and what it shoul
 
 ----
 
-Thumbnail: media/pages/posts/unsorted/og/design.jpg
+Thumbnail: ../media/pages/posts/unsorted/og/design.jpg
 
 ----
 

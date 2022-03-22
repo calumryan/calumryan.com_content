@@ -7,7 +7,7 @@ Auditing a website to measure how accessible it is takes on an extensive range o
 
 ----
 
-Thumbnail: media/pages/posts/unsorted/og/access-audit.jpg
+Thumbnail: ../media/pages/posts/unsorted/og/access-audit.jpg
 
 ----
 

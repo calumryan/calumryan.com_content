@@ -5,7 +5,7 @@ IndieWebCamp was back in Berlin again this month for a weekend of talks, discuss
 
 ----
 
-Thumbnail: media/pages/posts/unsorted/og/berlin-og.jpg
+Thumbnail: ../media/pages/posts/unsorted/og/berlin-og.jpg
 
 ----
 

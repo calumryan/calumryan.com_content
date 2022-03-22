@@ -84,7 +84,7 @@ Bridgy:
 
 ----
 
-Thumbnail: media/pages/posts/unsorted/og/access-audit.jpg
+Thumbnail: ../media/pages/posts/unsorted/og/access-audit.jpg
 
 ----
 

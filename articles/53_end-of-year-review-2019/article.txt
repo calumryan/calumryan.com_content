@@ -3,7 +3,7 @@ Title: End of year review 2019
 Description:
 Approaching the end of 2019 I look back on a year filled with some happy distractions away from the unending misery in UK politics and the climate crisis.
 ----
-Thumbnail: media/pages/posts/unsorted/og/collage-2019.jpg
+Thumbnail: ../media/pages/posts/unsorted/og/collage-2019.jpg
 ----
 
 Og:  false

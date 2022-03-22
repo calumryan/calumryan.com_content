@@ -5,7 +5,7 @@ Approaching the end of 2018 I've been reflecting on a year filled with challenge
 
 ----
 
-Thumbnail: media/pages/posts/unsorted/og/profile-2018.jpg
+Thumbnail: ../media/pages/posts/unsorted/og/profile-2018.jpg
 
 ----
 

@@ -4,7 +4,7 @@ Description: IndieWebCamp was back in Brighton again this month for a weekend of
 
 ----
 
-Thumbnail: media/pages/posts/unsorted/og/brighton-og.jpg
+Thumbnail: ../media/pages/posts/unsorted/og/brighton-og.jpg
 
 ----
 

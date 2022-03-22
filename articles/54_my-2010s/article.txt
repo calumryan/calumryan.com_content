@@ -3,7 +3,7 @@ Title: My 2010s
 Description:
 A decade-end review of my life to date seems almost too much to achieve in a digestible short read but here we go!"
 ----
-Thumbnail: media/pages/posts/unsorted/og/2010s.jpg
+Thumbnail: ../media/pages/posts/unsorted/og/2010s.jpg
 ----
 Og:  false
 ----

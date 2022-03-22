@@ -5,7 +5,7 @@ Description: Earlier this month I travelled to Vienna on my first trip abroad fo
 
 ----
 
-Thumbnail: media/pages/posts/unsorted/og/wien-og.jpg
+Thumbnail: ../media/pages/posts/unsorted/og/wien-og.jpg
 
 ----
 
