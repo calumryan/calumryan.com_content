@@ -1,0 +1,94 @@
+Title: April 10th, 2022
+
+----
+
+Text: Checked in at The Black Cab Coffee Co
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/6252c3cee7f01f23381443d4
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - The Black Cab Coffee Co
+    url:
+      - >
+        https://foursquare.com/v/5798c068498e8ee9e15d991d
+      - http://theblackcabcoffeeco.com
+      - https://twitter.com/blackcab_coffee
+    tel:
+      - 020 8498 8760
+    latitude:
+      - '51.482485344366'
+    longitude:
+      - '-0.13645201921463'
+    street-address:
+      - 1 Riverlight Quay
+    locality:
+      - Battersea
+    region:
+      - Greater London
+    country-name:
+      - United Kingdom
+    postal-code:
+      - SW11 8AU
+  value: >
+    https://foursquare.com/v/5798c068498e8ee9e15d991d
+
+----
+
+Date: 2022-04-10 12:45:00
+
+----
+
+Uid: 3640
+
+----
+
+Feature-images:
+
+- >
+  407869714_tqq47p8uq9er9y857htshxszqksndpo_k2mjp3tuhj8.jpg
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: overcast-clouds
+
+----
+
+Temperature: 13°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

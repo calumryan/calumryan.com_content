@@ -1,0 +1,85 @@
+Title: April 30th, 2022
+
+----
+
+Text: Checked in at NH Hotel City Restaurant
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/626cd96b683e7e3b35e21d32
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - NH Hotel City Restaurant
+    url:
+      - >
+        https://foursquare.com/v/509ba33be4b0d1cde9f9d5dc
+    latitude:
+      - '51.217190552641'
+    longitude:
+      - '6.8028513450263'
+    street-address:
+      - Kölner Str. 186-188
+    locality:
+      - Dusseldorf
+    region:
+      - North Rhine-Westphalia
+    country-name:
+      - Germany
+  value: >
+    https://foursquare.com/v/509ba33be4b0d1cde9f9d5dc
+
+----
+
+Date: 2022-04-30 08:40:00
+
+----
+
+Uid: 3656
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: few-clouds
+
+----
+
+Temperature: 7°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

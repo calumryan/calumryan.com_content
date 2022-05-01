@@ -1,0 +1,79 @@
+Title: April 2nd, 2022
+
+----
+
+Text: Checked in at Isabelle Cafe
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/624840f5a4681f37d813823e
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Isabelle Cafe
+    url:
+      - >
+        https://foursquare.com/v/54d62d74498e46fc5abffaab
+    latitude:
+      - '50.85581189729'
+    longitude:
+      - '0.58826069303171'
+    country-name:
+      - United Kingdom
+  value: >
+    https://foursquare.com/v/54d62d74498e46fc5abffaab
+
+----
+
+Date: 2022-04-02 13:25:00
+
+----
+
+Uid: 3638
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: scattered-clouds
+
+----
+
+Temperature: 9°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

@@ -1,0 +1,85 @@
+Title: April 29th, 2022
+
+----
+
+Text: Checked in at Park am Handelszentrum Moskauerstraße
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/626c38c1f959963915f29df9
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Park am Handelszentrum Moskauerstraße
+    url:
+      - >
+        https://foursquare.com/v/4ef7570b0e61a0846d66dd6d
+    latitude:
+      - '51.219645420535'
+    longitude:
+      - '6.8001521586094'
+    street-address:
+      - Moskauerstraße
+    locality:
+      - Dusseldorf
+    region:
+      - North Rhine-Westphalia
+    country-name:
+      - Germany
+  value: >
+    https://foursquare.com/v/4ef7570b0e61a0846d66dd6d
+
+----
+
+Date: 2022-04-29 21:15:00
+
+----
+
+Uid: 3654
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: light-rain
+
+----
+
+Temperature: 13°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

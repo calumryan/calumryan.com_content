@@ -1,0 +1,90 @@
+Title: April 30th, 2022
+
+----
+
+Text: Checked in at CGI Düsseldorf
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/626ce53a683e7e3b350dee99
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - CGI Düsseldorf
+    url:
+      - >
+        https://foursquare.com/v/4b27c0daf964a520628924e3
+      - https://www.de.cgi.com
+    tel:
+      - 0211 53550
+    latitude:
+      - '51.2361236938'
+    longitude:
+      - '6.7269587516785'
+    street-address:
+      - Heerdter Lohweg 35
+    locality:
+      - Dusseldorf
+    region:
+      - North Rhine-Westphalia
+    country-name:
+      - Germany
+    postal-code:
+      - "40549"
+  value: >
+    https://foursquare.com/v/4b27c0daf964a520628924e3
+
+----
+
+Date: 2022-04-30 09:30:00
+
+----
+
+Uid: 3659
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: few-clouds
+
+----
+
+Temperature: 8°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

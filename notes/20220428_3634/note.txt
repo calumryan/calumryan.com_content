@@ -1,0 +1,61 @@
+Title: April 28th, 2022
+
+----
+
+Text: Website devs and makers: how long do you spend cross-browser testing and fixing issues versus ten years ago?
+
+----
+
+Locator: 
+
+----
+
+Date: 2022-04-28 12:15:00
+
+----
+
+Bridgy: twitter
+
+----
+
+Mastodon: publish
+
+----
+
+Uid: 3634
+
+----
+
+Weather-icon: 
+
+----
+
+Temperature: 
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

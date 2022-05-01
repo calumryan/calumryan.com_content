@@ -1,0 +1,91 @@
+Title: April 12th, 2022
+
+----
+
+Text: Checked in at 100 Club
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/6255c0306b83f319f66c4d4a
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - 100 Club
+    url:
+      - >
+        https://foursquare.com/v/4ac518c9f964a5209fa520e3
+      - http://www.the100club.co.uk
+      - https://twitter.com/100clublondon
+    tel:
+      - 020 7636 0933
+    latitude:
+      - '51.516082199362'
+    longitude:
+      - '-0.135247213471'
+    street-address:
+      - 100 Oxford St
+    locality:
+      - London
+    region:
+      - Greater London
+    country-name:
+      - United Kingdom
+    postal-code:
+      - W1D 1LL
+  value: >
+    https://foursquare.com/v/4ac518c9f964a5209fa520e3
+
+----
+
+Date: 2022-04-12 19:10:00
+
+----
+
+Uid: 3642
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: few-clouds
+
+----
+
+Temperature: 14°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

@@ -1,0 +1,91 @@
+Title: March 14th, 2022
+
+----
+
+Text: Checked in at The Camden Head
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/622f813df610640717dbcfbb
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - The Camden Head
+    url:
+      - >
+        https://foursquare.com/v/4b084db3f964a520940823e3
+      - http://www.camdenhead.com
+      - https://twitter.com/camdenhead
+    tel:
+      - 020 7485 4019
+    latitude:
+      - '51.537225003912'
+    longitude:
+      - '-0.14091842406307'
+    street-address:
+      - 100 Camden High St.
+    locality:
+      - London
+    region:
+      - Greater London
+    country-name:
+      - United Kingdom
+    postal-code:
+      - NW1 0LU
+  value: >
+    https://foursquare.com/v/4b084db3f964a520940823e3
+
+----
+
+Date: 2022-03-14 17:55:00
+
+----
+
+Uid: 3625
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: scattered-clouds
+
+----
+
+Temperature: 11°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

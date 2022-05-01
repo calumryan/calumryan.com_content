@@ -1,0 +1,87 @@
+Title: March 16th, 2022
+
+----
+
+Text: Checked in at Tortilla
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/623247725f59316e9d870e56
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Tortilla
+    url:
+      - >
+        https://foursquare.com/v/5d5a87c27474790007f78d10
+    latitude:
+      - 51.513165
+    longitude:
+      - -0.13358104
+    street-address:
+      - 88 Wardour St
+    locality:
+      - Soho
+    region:
+      - Greater London
+    country-name:
+      - United Kingdom
+    postal-code:
+      - W1F 0TH
+  value: >
+    https://foursquare.com/v/5d5a87c27474790007f78d10
+
+----
+
+Date: 2022-03-16 20:25:00
+
+----
+
+Uid: 3626
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: moderate-rain
+
+----
+
+Temperature: 8°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

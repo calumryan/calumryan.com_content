@@ -1,0 +1,65 @@
+Title: April 29th, 2022
+
+----
+
+Text:
+
+Life accomplishment - sit in @seatsixtyone ✅  (though slumming it on this occasion in standard class)
+
+----
+
+Locator: 
+
+----
+
+Date: 2022-04-29 11:55:00
+
+----
+
+Bridgy: twitter
+
+----
+
+Mastodon: publish
+
+----
+
+Uid: 3635
+
+----
+
+Weather-icon: 
+
+----
+
+Temperature: 
+
+----
+
+Feature-images:
+
+- img20220429085117.jpg
+
+----
+
+Tags: travel
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

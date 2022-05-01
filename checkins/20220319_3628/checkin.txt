@@ -1,0 +1,91 @@
+Title: March 19th, 2022
+
+----
+
+Text: Checked in at Woolpack Inn
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/62360dc7ea442b533b2211b9
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Woolpack Inn
+    url:
+      - >
+        https://foursquare.com/v/4bc8e88f762beee115ae3d38
+      - http://www.shepherdneame.co.uk
+      - https://twitter.com/shepherdneame
+    tel:
+      - 01227 730351
+    latitude:
+      - '51.243800056493'
+    longitude:
+      - '0.96533731673409'
+    street-address:
+      - Chilham
+    locality:
+      - Canterbury
+    region:
+      - Kent
+    country-name:
+      - United Kingdom
+    postal-code:
+      - CT4 8DL
+  value: >
+    https://foursquare.com/v/4bc8e88f762beee115ae3d38
+
+----
+
+Date: 2022-03-19 17:05:00
+
+----
+
+Uid: 3628
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: clear-sky
+
+----
+
+Temperature: 10°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

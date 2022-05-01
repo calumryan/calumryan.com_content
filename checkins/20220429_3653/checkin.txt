@@ -1,0 +1,83 @@
+Title: April 29th, 2022
+
+----
+
+Text: Checked in at Düsseldorf
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/626c2b37ceb1965331618e9f
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Düsseldorf
+    url:
+      - >
+        https://foursquare.com/v/4e035132483bb38cf0f27137
+      - https://www.duesseldorf.de
+      - https://twitter.com/duesseldorf
+    latitude:
+      - '51.226909779652'
+    longitude:
+      - '6.7765045166016'
+    region:
+      - North Rhine-Westphalia
+    country-name:
+      - Germany
+  value: >
+    https://foursquare.com/v/4e035132483bb38cf0f27137
+
+----
+
+Date: 2022-04-29 20:15:00
+
+----
+
+Uid: 3653
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: clear-sky
+
+----
+
+Temperature: 13°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

@@ -1,0 +1,91 @@
+Title: April 29th, 2022
+
+----
+
+Text: Checked in at EXKi
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/626bbcb044a5290bc3caaeef
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - EXKi
+    url:
+      - >
+        https://foursquare.com/v/4b4aedcff964a520ed8f26e3
+      - http://www.exki.com
+      - https://twitter.com/exkiofficial
+    tel:
+      - 02 524 19 89
+    latitude:
+      - '50.836530916358'
+    longitude:
+      - '4.334391665195'
+    street-address:
+      - Avenue Fonsnylaan 47
+    locality:
+      - Brussels (Saint-Gilles)
+    region:
+      - Brussels-Capital
+    country-name:
+      - Belgium
+    postal-code:
+      - "1000"
+  value: >
+    https://foursquare.com/v/4b4aedcff964a520ed8f26e3
+
+----
+
+Date: 2022-04-29 12:25:00
+
+----
+
+Uid: 3650
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: clear-sky
+
+----
+
+Temperature: 11°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

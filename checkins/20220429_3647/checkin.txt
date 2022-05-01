@@ -1,0 +1,91 @@
+Title: April 29th, 2022
+
+----
+
+Text: Checked in at Leon
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/626b87256588e845e89ce261
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Leon
+    url:
+      - >
+        https://foursquare.com/v/5654f141498ef88691c14ed2
+      - https://leon.co
+      - https://twitter.com/leonrestaurants
+    tel:
+      - 020 3728 1742
+    latitude:
+      - '51.533031689945'
+    longitude:
+      - '-0.12534079212232'
+    street-address:
+      - Unit 1A, 6 Pancras Sq
+    locality:
+      - London
+    region:
+      - Greater London
+    country-name:
+      - United Kingdom
+    postal-code:
+      - N1C 4AA
+  value: >
+    https://foursquare.com/v/5654f141498ef88691c14ed2
+
+----
+
+Date: 2022-04-29 07:35:00
+
+----
+
+Uid: 3647
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: overcast-clouds
+
+----
+
+Temperature: 7°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

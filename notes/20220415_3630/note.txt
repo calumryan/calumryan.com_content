@@ -1,0 +1,66 @@
+Title: April 15th, 2022
+
+----
+
+Text: Happy Easter weekend at home for me 😷
+
+----
+
+Locator:
+
+lat: 51.2012753
+lon: "0.27080517618232"
+city: Tonbridge and Malling
+country: United Kingdom
+postcode: TN9 1JP
+address: High Street
+
+----
+
+Date: 2022-04-15 12:10:00
+
+----
+
+Bridgy: twitter
+
+----
+
+Uid: 3630
+
+----
+
+Weather-icon: overcast-clouds
+
+----
+
+Temperature: 19°C
+
+----
+
+Feature-images:
+
+- test.jpg
+
+----
+
+Tags: coronavirus
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

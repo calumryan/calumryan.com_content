@@ -1,0 +1,65 @@
+Title: March 13th, 2022
+
+----
+
+Text: Vegano Estofados Espanoles 🌱🇪🇸
+
+----
+
+Locator:
+
+lat: 51.1889529
+lon: 0.2735876
+city: Tonbridge and Malling
+country: United Kingdom
+postcode: TN9 2AN
+
+----
+
+Date: 2022-03-13 21:25:00
+
+----
+
+Bridgy: twitter
+
+----
+
+Uid: 3625
+
+----
+
+Weather-icon: overcast-clouds
+
+----
+
+Temperature: 7°C
+
+----
+
+Feature-images:
+
+- stew.jpg
+
+----
+
+Tags: food
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

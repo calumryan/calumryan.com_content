@@ -1,0 +1,87 @@
+Title: April 30th, 2022
+
+----
+
+Text: Checked in at U Dominikus-Krankenhaus
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/626d426881d3573df42d3065
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - U Dominikus-Krankenhaus
+    url:
+      - >
+        https://foursquare.com/v/4fe5aafde4b0dceaf8984ecf
+    latitude:
+      - '51.233034171843'
+    longitude:
+      - '6.7271820368273'
+    street-address:
+      - Pariser Str.
+    locality:
+      - Dusseldorf
+    region:
+      - North Rhine-Westphalia
+    country-name:
+      - Germany
+    postal-code:
+      - "40549"
+  value: >
+    https://foursquare.com/v/4fe5aafde4b0dceaf8984ecf
+
+----
+
+Date: 2022-04-30 16:05:00
+
+----
+
+Uid: 3660
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: clear-sky
+
+----
+
+Temperature: 14°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

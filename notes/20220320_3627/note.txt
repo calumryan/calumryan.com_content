@@ -1,0 +1,64 @@
+Title: March 20th, 2022
+
+----
+
+Text: Brighton darling, it's good to be back after three years!
+
+----
+
+Locator:
+
+lat: 50.8389149
+lon: "-0.12693017575934"
+city: Brighton
+country: United Kingdom
+
+----
+
+Date: 2022-03-20 12:40:00
+
+----
+
+Bridgy: twitter
+
+----
+
+Uid: 3627
+
+----
+
+Weather-icon: scattered-clouds
+
+----
+
+Temperature: 10°C
+
+----
+
+Feature-images:
+
+- img_20220320_113629__01.jpg
+
+----
+
+Tags: travel
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

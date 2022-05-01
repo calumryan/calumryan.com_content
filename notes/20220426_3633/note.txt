@@ -1,0 +1,61 @@
+Title: April 26th, 2022
+
+----
+
+Text: Tweeting and Tooting!
+
+----
+
+Locator: 
+
+----
+
+Date: 2022-04-26 23:25:00
+
+----
+
+Bridgy: twitter
+
+----
+
+Mastodon: publish
+
+----
+
+Uid: 3633
+
+----
+
+Weather-icon: 
+
+----
+
+Temperature: 
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

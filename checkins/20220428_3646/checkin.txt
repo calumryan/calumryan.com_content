@@ -1,0 +1,79 @@
+Title: April 28th, 2022
+
+----
+
+Text: Checked in at Dapper Dan's Barbers
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/626a854fb14739648d907e84
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - "Dapper Dan's Barbers"
+    url:
+      - >
+        https://foursquare.com/v/4f92b755e4b01143d191c524
+    latitude:
+      - 51.198029
+    longitude:
+      - 0.275272
+    country-name:
+      - United Kingdom
+  value: >
+    https://foursquare.com/v/4f92b755e4b01143d191c524
+
+----
+
+Date: 2022-04-28 13:15:00
+
+----
+
+Uid: 3646
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: overcast-clouds
+
+----
+
+Temperature: 13°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

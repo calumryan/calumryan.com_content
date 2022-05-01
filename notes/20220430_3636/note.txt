@@ -1,0 +1,71 @@
+Title: April 30th, 2022
+
+----
+
+Text: Day one at IndieWebCamp Düsseldorf, sunshine delivered courtesy of @marcthiele ☀️
+
+----
+
+Locator:
+
+lat: 51.2412589
+lon: 6.7370398
+number: "175"
+city: Dusseldorf
+country: Germany
+postcode: "40547"
+address: Niederkasseler Lohweg
+
+----
+
+Date: 2022-04-30 15:30:00
+
+----
+
+Bridgy: twitter
+
+----
+
+Mastodon: publish
+
+----
+
+Uid: 3636
+
+----
+
+Weather-icon: clear-sky
+
+----
+
+Temperature: 14°C
+
+----
+
+Feature-images:
+
+- zoomed.jpg
+
+----
+
+Tags: indiewebcamp
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

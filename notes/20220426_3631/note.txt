@@ -1,0 +1,61 @@
+Title: April 26th, 2022
+
+----
+
+Text: Syndicating here too now for you new to or considering a move to Mastodon https://toot.cafe/@calumryan #indieweb
+
+----
+
+Locator: 
+
+----
+
+Date: 2022-04-26 22:50:00
+
+----
+
+Bridgy: twitter
+
+----
+
+Mastodon: publish
+
+----
+
+Uid: 3631
+
+----
+
+Weather-icon: 
+
+----
+
+Temperature: 
+
+----
+
+Feature-images: 
+
+----
+
+Tags: indieweb, mastodon
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

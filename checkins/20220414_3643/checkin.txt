@@ -1,0 +1,85 @@
+Title: April 14th, 2022
+
+----
+
+Text: Checked in at 65mm Coffee
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/6257d8e51f8cbe106b5ec342
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - 65mm Coffee
+    url:
+      - >
+        https://foursquare.com/v/5d4828574d90c90008f74722
+    latitude:
+      - 51.195487
+    longitude:
+      - 0.274447
+    locality:
+      - Tonbridge
+    region:
+      - Kent
+    country-name:
+      - United Kingdom
+    postal-code:
+      - TN9
+  value: >
+    https://foursquare.com/v/5d4828574d90c90008f74722
+
+----
+
+Date: 2022-04-14 09:20:00
+
+----
+
+Uid: 3643
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: few-clouds
+
+----
+
+Temperature: 12°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

@@ -1,0 +1,70 @@
+Title: February 20th, 2022
+
+----
+
+Text:
+
+Wordle 246 3/6
+
+🟨⬜🟨⬜⬜
+⬜🟩🟨🟨⬜
+🟩🟩🟩🟩🟩
+
+----
+
+Locator:
+
+lat: "51.20100195"
+lon: "0.2711962460421"
+city: Tonbridge and Malling
+country: United Kingdom
+postcode: TN9 1JP
+address: High Street
+
+----
+
+Date: 2022-02-20 11:50:00
+
+----
+
+Bridgy: twitter
+
+----
+
+Uid: 3622
+
+----
+
+Weather-icon: overcast-clouds
+
+----
+
+Temperature: 12°C
+
+----
+
+Feature-images: 
+
+----
+
+Tags: wordle
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

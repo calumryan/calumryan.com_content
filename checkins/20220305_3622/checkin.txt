@@ -1,0 +1,87 @@
+Title: March 5th, 2022
+
+----
+
+Text: Checked in at Coffee & Co
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/62237302ea56c859c068da4b
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - 'Coffee & Co'
+    url:
+      - >
+        https://foursquare.com/v/61a21476d24f9a53a741331b
+    latitude:
+      - 50.838696
+    longitude:
+      - 0.47393695
+    street-address:
+      - 49 Devonshire Road
+    locality:
+      - Bexhill
+    region:
+      - East Sussex
+    country-name:
+      - United Kingdom
+    postal-code:
+      - TN40 1BD
+  value: >
+    https://foursquare.com/v/61a21476d24f9a53a741331b
+
+----
+
+Date: 2022-03-05 14:25:00
+
+----
+
+Uid: 3622
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: overcast-clouds
+
+----
+
+Temperature: 7°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

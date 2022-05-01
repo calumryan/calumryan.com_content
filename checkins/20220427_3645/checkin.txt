@@ -1,0 +1,91 @@
+Title: April 27th, 2022
+
+----
+
+Text: Checked in at Odeon
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/62698e25650a642412723be7
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Odeon
+    url:
+      - >
+        https://foursquare.com/v/5695cc3e498e5867681d9b6f
+      - https://www.odeon.co.uk
+      - https://twitter.com/odeoncinemas
+    tel:
+      - 0333 014 4501
+    latitude:
+      - 51.3766391
+    longitude:
+      - 0.101231
+    street-address:
+      - The Walnuts Shopping Centre, Orpington
+    locality:
+      - Greater London
+    region:
+      - Greater London
+    country-name:
+      - United Kingdom
+    postal-code:
+      - BR6 0TW
+  value: >
+    https://foursquare.com/v/5695cc3e498e5867681d9b6f
+
+----
+
+Date: 2022-04-27 19:40:00
+
+----
+
+Uid: 3645
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: broken-clouds
+
+----
+
+Temperature: 9°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

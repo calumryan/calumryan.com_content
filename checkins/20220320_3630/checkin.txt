@@ -1,0 +1,91 @@
+Title: March 20th, 2022
+
+----
+
+Text: Checked in at We Love Falafel
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/62373116250e3807cb2055a8
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - We Love Falafel
+    url:
+      - >
+        https://foursquare.com/v/50361e5de4b0573430f1243d
+      - http://welovefalafel.co.uk
+      - https://twitter.com/welovefalafel
+    tel:
+      - 01273 604206
+    latitude:
+      - '50.827430756411'
+    longitude:
+      - '-0.13784370022207'
+    street-address:
+      - 37 Sydney St
+    locality:
+      - Brighton
+    region:
+      - East Sussex
+    country-name:
+      - United Kingdom
+    postal-code:
+      - BN1 4EP
+  value: >
+    https://foursquare.com/v/50361e5de4b0573430f1243d
+
+----
+
+Date: 2022-03-20 13:50:00
+
+----
+
+Uid: 3630
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: scattered-clouds
+
+----
+
+Temperature: 10°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

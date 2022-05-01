@@ -1,0 +1,91 @@
+Title: March 24th, 2022
+
+----
+
+Text: Checked in at Bishops Finger
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/623cd3a825f84417fcc8651d
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Bishops Finger
+    url:
+      - >
+        https://foursquare.com/v/4ada5f87f964a520fc2121e3
+      - http://www.shepherdneame.co.uk
+      - https://twitter.com/shepherdneame
+    tel:
+      - 020 7248 2341
+    latitude:
+      - '51.518585865043'
+    longitude:
+      - '-0.10190178601113'
+    street-address:
+      - 9 W Smithfield
+    locality:
+      - London
+    region:
+      - Greater London
+    country-name:
+      - United Kingdom
+    postal-code:
+      - EC1A 9JR
+  value: >
+    https://foursquare.com/v/4ada5f87f964a520fc2121e3
+
+----
+
+Date: 2022-03-24 20:25:00
+
+----
+
+Uid: 3633
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: clear-sky
+
+----
+
+Temperature: 11°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

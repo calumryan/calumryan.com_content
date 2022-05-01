@@ -1,0 +1,71 @@
+Title: May 1st, 2022
+
+----
+
+Text: Commencing IndieWebCamp Düsseldorf Day 2 - Create Day! with @t @IAmDebbyBrown @Sebsel @nebu @jkphl + others
+
+----
+
+Locator:
+
+lat: 51.2412589
+lon: 6.7370398
+number: "175"
+city: Dusseldorf
+country: Germany
+postcode: "40547"
+address: Niederkasseler Lohweg
+
+----
+
+Date: 2022-05-01 11:15:00
+
+----
+
+Bridgy: twitter
+
+----
+
+Mastodon: publish
+
+----
+
+Uid: 3637
+
+----
+
+Weather-icon: few-clouds
+
+----
+
+Temperature: 13°C
+
+----
+
+Feature-images:
+
+- iwc-dus-2022-2.jpg
+
+----
+
+Tags: indieweb
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
