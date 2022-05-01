@@ -47,6 +47,11 @@ Links:
   special: ""
   icon: book
 - 
+  title: Gallery
+  url: /gallery
+  special: ""
+  icon: gallery
+- 
   title: RSVPs
   url: /rsvps
   special: ""

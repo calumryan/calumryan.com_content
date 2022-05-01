@@ -2,4 +2,8 @@ Title: Gallery
 
 ----
 
+svg: icon-gallery
+
+----
+
 Text: 
