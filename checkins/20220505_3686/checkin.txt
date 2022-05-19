@@ -1,0 +1,90 @@
+Title: May 5th, 2022
+
+----
+
+Text: Checked in at Het Paleis
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/62741e5dd3486b0668959491
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Het Paleis
+    url:
+      - >
+        https://foursquare.com/v/4a270092f964a520bc831fe3
+      - http://cafehetpaleis.nl
+    tel:
+      - 020 626 0600
+    latitude:
+      - '52.372329194331'
+    longitude:
+      - '4.8888401187458'
+    street-address:
+      - Paleisstraat 16
+    locality:
+      - Amsterdam
+    region:
+      - North Holland
+    country-name:
+      - Netherlands
+    postal-code:
+      - 1012 RB
+  value: >
+    https://foursquare.com/v/4a270092f964a520bc831fe3
+
+----
+
+Date: 2022-05-05 21:00:00
+
+----
+
+Uid: 3686
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: clear-sky
+
+----
+
+Temperature: 13°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

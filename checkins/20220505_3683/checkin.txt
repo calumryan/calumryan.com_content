@@ -1,0 +1,85 @@
+Title: May 5th, 2022
+
+----
+
+Text: Checked in at Vondelpark
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/62738636f43f600dfcfad21d
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Vondelpark
+    url:
+      - >
+        https://foursquare.com/v/4a27071df964a520f98c1fe3
+    latitude:
+      - '52.358147150432'
+    longitude:
+      - '4.8670721054077'
+    street-address:
+      - Vondelpark
+    locality:
+      - Amsterdam
+    region:
+      - North Holland
+    country-name:
+      - Netherlands
+  value: >
+    https://foursquare.com/v/4a27071df964a520f98c1fe3
+
+----
+
+Date: 2022-05-05 10:10:00
+
+----
+
+Uid: 3683
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: clear-sky
+
+----
+
+Temperature: 13°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

@@ -1,0 +1,90 @@
+Title: May 3rd, 2022
+
+----
+
+Text: Checked in at Casita Mexicana
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/62711438d06c9d121101b4d8
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Casita Mexicana
+    url:
+      - >
+        https://foursquare.com/v/4f341464e4b015375de36e09
+      - http://www.casitamexicana.de
+    tel:
+      - 0211 38837989
+    latitude:
+      - '51.231194658538'
+    longitude:
+      - '6.7915554995691'
+    street-address:
+      - Beuthstr. 1
+    locality:
+      - Dusseldorf
+    region:
+      - North Rhine-Westphalia
+    country-name:
+      - Germany
+    postal-code:
+      - "40211"
+  value: >
+    https://foursquare.com/v/4f341464e4b015375de36e09
+
+----
+
+Date: 2022-05-03 13:40:00
+
+----
+
+Uid: 3672
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: clear-sky
+
+----
+
+Temperature: 18°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

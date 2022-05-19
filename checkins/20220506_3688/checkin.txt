@@ -1,0 +1,91 @@
+Title: May 6th, 2022
+
+----
+
+Text: Checked in at Rijksmuseum
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/6274d4cac316244c74186672
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Rijksmuseum
+    url:
+      - >
+        https://foursquare.com/v/4a270706f964a520bd8c1fe3
+      - http://www.rijksmuseum.nl
+      - https://twitter.com/rijksmuseum
+    tel:
+      - 020 674 7000
+    latitude:
+      - '52.360135166348'
+    longitude:
+      - '4.8851325841802'
+    street-address:
+      - Museumstraat 1
+    locality:
+      - Amsterdam
+    region:
+      - North Holland
+    country-name:
+      - Netherlands
+    postal-code:
+      - 1071 XX
+  value: >
+    https://foursquare.com/v/4a270706f964a520bd8c1fe3
+
+----
+
+Date: 2022-05-06 09:55:00
+
+----
+
+Uid: 3688
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: few-clouds
+
+----
+
+Temperature: 12°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

@@ -1,0 +1,91 @@
+Title: May 5th, 2022
+
+----
+
+Text: Checked in at De Koffie Salon
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/6273d17e2a3dfa4b58236dea
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - De Koffie Salon
+    url:
+      - >
+        https://foursquare.com/v/525c3d5b11d22c6a8a612424
+      - http://www.dekoffiesalon.nl
+      - https://twitter.com/koffiesalon
+    tel:
+      - 020 820 4489
+    latitude:
+      - '52.36961476037'
+    longitude:
+      - '4.8890158163858'
+    street-address:
+      - Spuistraat 281
+    locality:
+      - Amsterdam
+    region:
+      - North Holland
+    country-name:
+      - Netherlands
+    postal-code:
+      - 1012 VR
+  value: >
+    https://foursquare.com/v/525c3d5b11d22c6a8a612424
+
+----
+
+Date: 2022-05-05 15:30:00
+
+----
+
+Uid: 3685
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: scattered-clouds
+
+----
+
+Temperature: 18°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

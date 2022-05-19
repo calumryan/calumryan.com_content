@@ -1,0 +1,87 @@
+Title: May 6th, 2022
+
+----
+
+Text: Checked in at Buno Coffee
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/6274c79eabce2b2e424b703b
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Buno Coffee
+    url:
+      - >
+        https://foursquare.com/v/6043588d67baf45e74b61afe
+    latitude:
+      - 52.351327
+    longitude:
+      - 4.850578
+    street-address:
+      - Hoofddorplein 6b
+    locality:
+      - Amsterdam
+    region:
+      - North Holland
+    country-name:
+      - Netherlands
+    postal-code:
+      - 1058 PD
+  value: >
+    https://foursquare.com/v/6043588d67baf45e74b61afe
+
+----
+
+Date: 2022-05-06 09:00:00
+
+----
+
+Uid: 3687
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: fog
+
+----
+
+Temperature: 10°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

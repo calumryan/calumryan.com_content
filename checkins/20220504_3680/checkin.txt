@@ -1,0 +1,91 @@
+Title: May 4th, 2022
+
+----
+
+Text: Checked in at Amsterdam Central Railway Station (Station Amsterdam Centraal)
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/6272cd05f9bf5e6eda38c908
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - >
+        Amsterdam Central Railway Station
+        (Station Amsterdam Centraal)
+    url:
+      - >
+        https://foursquare.com/v/4a688ba1f964a52088ca1fe3
+      - http://www.ns.nl
+      - https://twitter.com/ns_stations
+    latitude:
+      - '52.378782248665'
+    longitude:
+      - '4.9003744125366'
+    street-address:
+      - Stationsplein 15
+    locality:
+      - Amsterdam
+    region:
+      - North Holland
+    country-name:
+      - Netherlands
+    postal-code:
+      - 1012 AB
+  value: >
+    https://foursquare.com/v/4a688ba1f964a52088ca1fe3
+
+----
+
+Date: 2022-05-04 21:00:00
+
+----
+
+Uid: 3680
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: clear-sky
+
+----
+
+Temperature: 12°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

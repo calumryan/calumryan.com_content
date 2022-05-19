@@ -1,0 +1,90 @@
+Title: May 2nd, 2022
+
+----
+
+Text: Checked in at Capitol Theater
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/626f9d4529fbfa51c4eadc4e
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Capitol Theater
+    url:
+      - >
+        https://foursquare.com/v/4b647dbff964a52097b72ae3
+      - http://www.capitol-theater.de
+    tel:
+      - 0211 7344150
+    latitude:
+      - '51.223763421535'
+    longitude:
+      - '6.8002791372173'
+    street-address:
+      - Erkrather Str. 30
+    locality:
+      - Dusseldorf
+    region:
+      - North Rhine-Westphalia
+    country-name:
+      - Germany
+    postal-code:
+      - "40233"
+  value: >
+    https://foursquare.com/v/4b647dbff964a52097b72ae3
+
+----
+
+Date: 2022-05-02 11:00:00
+
+----
+
+Uid: 3668
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: clear-sky
+
+----
+
+Temperature: 14°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

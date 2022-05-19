@@ -1,0 +1,89 @@
+Title: May 7th, 2022
+
+----
+
+Text: Checked in at Eurostar Terminal
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/6276568dbc34c951ee451199
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Eurostar Terminal
+    url:
+      - >
+        https://foursquare.com/v/5afee69f531593002c73f408
+      - https://www.eurostar.com
+      - https://twitter.com/eurostaruk
+    latitude:
+      - 52.378366
+    longitude:
+      - 4.90339
+    street-address:
+      - Amsterdam Centraal Station
+    locality:
+      - Amsterdam
+    region:
+      - North Holland
+    country-name:
+      - Netherlands
+    postal-code:
+      - 1012 AB
+  value: >
+    https://foursquare.com/v/5afee69f531593002c73f408
+
+----
+
+Date: 2022-05-07 13:25:00
+
+----
+
+Uid: 3692
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: few-clouds
+
+----
+
+Temperature: 18°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

@@ -1,0 +1,90 @@
+Title: May 3rd, 2022
+
+----
+
+Text: Checked in at Tati
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/62711f0c8300000c2d020f9a
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Tati
+    url:
+      - >
+        https://foursquare.com/v/4f91b45ae4b0935b829bb649
+    latitude:
+      - '51.231813568095'
+    longitude:
+      - '6.79258725744'
+    street-address:
+      - Schirmerstr. 39
+    locality:
+      - Dusseldorf
+    region:
+      - North Rhine-Westphalia
+    country-name:
+      - Germany
+    postal-code:
+      - "40211"
+  value: >
+    https://foursquare.com/v/4f91b45ae4b0935b829bb649
+
+----
+
+Date: 2022-05-03 14:25:00
+
+----
+
+Uid: 3673
+
+----
+
+Feature-images:
+
+- >
+  407869714_mjcockp97d3i52nbnrww7qrr5hza0vrf-4e1cdne22e.jpg
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: clear-sky
+
+----
+
+Temperature: 19°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

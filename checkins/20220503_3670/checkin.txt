@@ -1,0 +1,87 @@
+Title: May 3rd, 2022
+
+----
+
+Text: Checked in at Volksgarten
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/6270d96150db6a5caaa6d948
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Volksgarten
+    url:
+      - >
+        https://foursquare.com/v/4b6d9574f964a520187e2ce3
+    latitude:
+      - '51.207044715983'
+    longitude:
+      - '6.7989492416382'
+    street-address:
+      - "Auf'm Hennekamp"
+    locality:
+      - Dusseldorf
+    region:
+      - North Rhine-Westphalia
+    country-name:
+      - Germany
+    postal-code:
+      - "40225"
+  value: >
+    https://foursquare.com/v/4b6d9574f964a520187e2ce3
+
+----
+
+Date: 2022-05-03 09:25:00
+
+----
+
+Uid: 3670
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: clear-sky
+
+----
+
+Temperature: 12°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

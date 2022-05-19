@@ -1,0 +1,91 @@
+Title: May 5th, 2022
+
+----
+
+Text: Checked in at WestCord Fashion Hotel
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/627373b7998f6a362052f61f
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - WestCord Fashion Hotel
+    url:
+      - >
+        https://foursquare.com/v/4acf2d18f964a52098d220e3
+      - http://www.westcordhotels.nl
+      - https://twitter.com/westcordhotels
+    tel:
+      - 020 810 0800
+    latitude:
+      - '52.357694985443'
+    longitude:
+      - '4.8445354643784'
+    street-address:
+      - Hendrikje Stoffelsstraat 1
+    locality:
+      - Amsterdam
+    region:
+      - North Holland
+    country-name:
+      - Netherlands
+    postal-code:
+      - 1058GC
+  value: >
+    https://foursquare.com/v/4acf2d18f964a52098d220e3
+
+----
+
+Date: 2022-05-05 08:50:00
+
+----
+
+Uid: 3682
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: few-clouds
+
+----
+
+Temperature: 11°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

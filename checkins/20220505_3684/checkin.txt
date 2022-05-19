@@ -1,0 +1,85 @@
+Title: May 5th, 2022
+
+----
+
+Text: Checked in at Stick-Up Indo Food
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/6273b08df614e100c9dba77a
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Stick-Up Indo Food
+    url:
+      - >
+        https://foursquare.com/v/5f47f827f5a0fd186d3c657b
+    latitude:
+      - 52.382677
+    longitude:
+      - 4.904106
+    locality:
+      - Amsterdam
+    region:
+      - North Holland
+    country-name:
+      - Netherlands
+    postal-code:
+      - 1031 CC
+  value: >
+    https://foursquare.com/v/5f47f827f5a0fd186d3c657b
+
+----
+
+Date: 2022-05-05 13:10:00
+
+----
+
+Uid: 3684
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: few-clouds
+
+----
+
+Temperature: 17°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

@@ -1,0 +1,92 @@
+Title: May 4th, 2022
+
+----
+
+Text: Checked in at Rheinuferpromenade
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/62723d175020f13dad8b48b3
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Rheinuferpromenade
+    url:
+      - >
+        https://foursquare.com/v/502fa6f1e4b0adcbecbc00de
+      - >
+        https://www.duesseldorf-tourismus.de/en/poi/detail/rhine-embankment-promenade-095b58d485
+    latitude:
+      - '51.22527547797'
+    longitude:
+      - '6.7702036453462'
+    street-address:
+      - Rathausufer
+    locality:
+      - Dusseldorf
+    region:
+      - North Rhine-Westphalia
+    country-name:
+      - Germany
+    postal-code:
+      - "40213"
+  value: >
+    https://foursquare.com/v/502fa6f1e4b0adcbecbc00de
+
+----
+
+Date: 2022-05-04 10:45:00
+
+----
+
+Uid: 3677
+
+----
+
+Feature-images:
+
+- >
+  407869714_ir3xapvgajtpxvflm1hesgv0yrhmpmhx_uapyxgqibu.jpg
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: few-clouds
+
+----
+
+Temperature: 13°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

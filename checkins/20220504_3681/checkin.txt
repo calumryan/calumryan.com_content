@@ -1,0 +1,89 @@
+Title: May 4th, 2022
+
+----
+
+Text: Checked in at Station Amsterdam Lelylaan
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/6272d1c679b0da5d9a0abb10
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Station Amsterdam Lelylaan
+    url:
+      - >
+        https://foursquare.com/v/4a5623d8f964a52082b41fe3
+      - http://www.ns.nl
+      - https://twitter.com/ns_stations
+    latitude:
+      - '52.357643049775'
+    longitude:
+      - '4.8341930022083'
+    street-address:
+      - Cornelis Lelylaan 35
+    locality:
+      - Amsterdam
+    region:
+      - North Holland
+    country-name:
+      - Netherlands
+    postal-code:
+      - 1062 AD
+  value: >
+    https://foursquare.com/v/4a5623d8f964a52082b41fe3
+
+----
+
+Date: 2022-05-04 21:20:00
+
+----
+
+Uid: 3681
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: clear-sky
+
+----
+
+Temperature: 11°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

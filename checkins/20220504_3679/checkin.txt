@@ -1,0 +1,90 @@
+Title: May 4th, 2022
+
+----
+
+Text: Checked in at Saray
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/62728ffd4a47642f4d471536
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Saray
+    url:
+      - >
+        https://foursquare.com/v/4b471f41f964a5209c2b26e3
+      - https://www.sarayrestaurant24.com
+    tel:
+      - 0211 363557
+    latitude:
+      - '51.223009296452'
+    longitude:
+      - '6.7952163750259'
+    street-address:
+      - Worringer Str. 103
+    locality:
+      - Dusseldorf
+    region:
+      - North Rhine-Westphalia
+    country-name:
+      - Germany
+    postal-code:
+      - "40210"
+  value: >
+    https://foursquare.com/v/4b471f41f964a5209c2b26e3
+
+----
+
+Date: 2022-05-04 16:40:00
+
+----
+
+Uid: 3679
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: clear-sky
+
+----
+
+Temperature: 18°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
