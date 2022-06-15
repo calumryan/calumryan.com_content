@@ -26,7 +26,7 @@ When I’m approaching a project I prioritise making it accessible to all. It ma
 Both managing and delivering a project, I seek first to understand what problems or challenges a user faces when using a feature. From this I identify specific user stories and features which can be researched, designed and developed. I like to plan projects based on features, rather than activities. Ideally they should have short iterations, that offer the opportunity to get user feedback as the feature is developed.
 
 ## IndieWeb
-I also participate in the IndieWeb community. Here there’s a strong emphasis on building open-source, user-focused web technologies, building and maintaining your own website along with sharing knowledge and ideas. I organise a fortnightly event, enabling people from a range of backgrounds and abilities to work on improving their personal websites.
+I also participate in the IndieWeb community. Here there’s a strong emphasis on building open-source, user-focused web technologies, building and maintaining your own website along with sharing knowledge and ideas.
 
 ----
 
