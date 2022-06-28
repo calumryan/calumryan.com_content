@@ -6,7 +6,7 @@ Special:
 
 I'm (link: /about text: Calum Ryan), I develop, design, speak and write about websites, focusing on **accessibility**, **inclusivity** and **performance**.
 
-I work for (link: https://www.dxw.com/ text: dxw). Also I participate and help organise events in the (link: https://indieweb.org/ text: IndieWeb) community.
+I work for (link: https://www.dxw.com/ text: dxw) as a web developer and (link: https://www.accessibilityassociation.org text: IAAP) certified Web Accessibility Specialist in London.
 
 ----
 
