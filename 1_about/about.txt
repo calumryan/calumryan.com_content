@@ -8,7 +8,7 @@ I'm a web accessibility specialist, making the web a better, more inclusive plac
 
 ## Experienced with
 
-- Accessible website design and build with a mobile-first approach
+- Accessibility-first approach to website design
 - Conducting accessibility audits: manual testing with screen readers and automated tools like AXE and Lighthouse
 - HTML, CSS and JavaScript (vanilla, or with a library or framework like Vue or React)
 - Build systems like Gulp, Grunt and Webpack

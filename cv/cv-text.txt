@@ -1,0 +1,20 @@
+
+## Profile
+I'm a front-end developer with design experience building on ten years working in the web industry and my earlier university achievements in multimedia technology study.
+
+My aim is to make the web a better place for all, with particular focus on inclusive design that caters for all types of disability. I look to work with people and organisations that align with this ambition and value the importance of having a great user experience in the web.
+
+## Team work
+I greatly value communication and wellbeing in teams and continually look for ways these can be improved: for instance, when a team member is working remotely or has just joined the organisation, and needs to be supported. I recognise and appreciate that we may all have different ways of communicating ideas, opinions and feedback which presents both challenges and opportunities when working in a team.
+
+## Technical skills
+Beyond my core front-end skills of writing semantic HTML, CSS and presentational JavaScript, with ES6, I have some experience in writing web applications in VueJs, React and PHP. I’m very familiar with popular frameworks like Twitter Bootstrap but also comfortable with writing my own templating libraries/styleguides using component-focused tools like [Fractal](https://fractal.build/).
+
+## Accessibility
+When I’m approaching a project I prioritise making it accessible to all. It matters most to me that anyone with one or multiple impairments, situational, temporary or permanent, can use the website without hindrance or frustration. I look to achieve this through adherence to well constructed semantic code,  WCAG 2.1 Standards compliance and extensive user testing, conversation and feedback.
+
+## Beyond the office
+Both managing and delivering a project, I seek first to understand what problems or challenges a user faces when using a feature. From this I identify specific user stories and features which can be researched, designed and developed. I like to plan projects based on features, rather than activities. Ideally they should have short iterations, that offer the opportunity to get user feedback as the feature is developed.
+
+## IndieWeb
+I also participate in the IndieWeb community. Here there’s a strong emphasis on building open-source, user-focused web technologies, building and maintaining your own website along with sharing knowledge and ideas.
