@@ -24,8 +24,6 @@ Before transitioning into the web industry I studied for four years at Brunel Un
 
 I actively support and engage in the web community through regularly attending conferences and meetups that improve my awareness of new front-end technologies, web standards, accessibility and better approaches to user experience design.
 
-I organise a regular website club in London called (link: https://www.hwclondon.co.uk/ text: Homebrew Website Club) and participate in other (link: https://indieweb.org/ text: IndieWeb) events. Giving back to the web community is important to me which is why I devote some of my free time for coaching others to code and learn to solve problems. I sometimes also go to Codebar to teach HTML, CSS and Javascript skills.
-
 ## Speaking and publications
 
 From time to time I do public speaking at events and publish posts about topics related to accessibility, usability and the web here on my blog. I've given talks previously at events including London Web Standards , Front-end London, UX Brighton and Internet Explorers Kent.
