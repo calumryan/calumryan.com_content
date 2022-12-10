@@ -22,4 +22,8 @@ Redirect: https://calumryan.com/note/3432
 
 ----
 
-UID: 3432
+Uid: 3432
+
+----
+
+Uuid: Xr5JqqWnbaKRp43k

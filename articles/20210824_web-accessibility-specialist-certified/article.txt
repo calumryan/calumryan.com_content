@@ -31,9 +31,7 @@ Date: 2021-08-24 17:30:00
 
 ----
 
-Author:
-
-- V00CCy0l
+Author: - V00CCy0l
 
 ----
 
@@ -53,16 +51,16 @@ Description: Almost a year ago I set myself a challenge to attain certification 
 
 ----
 
-Gallery:
-
-- certified.jpg
+Gallery: - certified.jpg
 
 ----
 
-Og-thumbnail:
-
-- certified.jpg
+Og-thumbnail: - certified.jpg
 
 ----
 
 Thumbnail: - certified.jpg
+
+----
+
+Uuid: QyEm3NaxTgnz1VdJ

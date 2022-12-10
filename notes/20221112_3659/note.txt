@@ -1,0 +1,65 @@
+Title: November 12th, 2022
+
+----
+
+Text: Every unusually warm day this winter should be a reminder to us all that climate change is happening, and we've precious little time to stave off irreversible catastrophic damage to this little planet we all call home
+
+----
+
+Locator: 
+
+----
+
+Date: 2022-11-12 20:20:00
+
+----
+
+Bridgy: twitter
+
+----
+
+Mastodon: publish
+
+----
+
+Uid: 3659
+
+----
+
+Weather-icon: 
+
+----
+
+Temperature: 
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: mey2kJFl5D3MA98X

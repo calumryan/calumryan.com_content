@@ -1,0 +1,68 @@
+Title: June 1st, 2022
+
+----
+
+Text: Celebrating another year of my life, here on the Atlantic coast of Ireland 🍀
+
+----
+
+Locator:
+
+lat: 52.679167
+lon: -9.644167
+city: Kilkee
+country: Ireland
+
+----
+
+Date: 2022-06-01 15:45:00
+
+----
+
+Bridgy: twitter
+
+----
+
+Mastodon: publish
+
+----
+
+Uid: 3644
+
+----
+
+Weather-icon: few-clouds
+
+----
+
+Temperature: 17°C
+
+----
+
+Feature-images:
+
+- 20220601-img20220601152628-1.jpg
+
+----
+
+Tags: birthday, beach, Ireland
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

@@ -1,0 +1,61 @@
+Title: May 8th, 2022
+
+----
+
+Text: Missed IndieWebCamp Düsseldorf last week and want to catchup on what happened? All recorded sessions are now available to download in high-res using your preferred download manager https://indieweb.org/2022/D%C3%BCsseldorf/Schedule
+
+----
+
+Locator: 
+
+----
+
+Date: 2022-05-08 12:30:00
+
+----
+
+Bridgy: twitter
+
+----
+
+Mastodon: publish
+
+----
+
+Uid: 3640
+
+----
+
+Weather-icon: 
+
+----
+
+Temperature: 
+
+----
+
+Feature-images: 
+
+----
+
+Tags: indieweb, video
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

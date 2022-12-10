@@ -28,9 +28,7 @@ Date: 2020-11-26 12:25:00
 
 ----
 
-Author:
-
-- V00CCy0l
+Author: - V00CCy0l
 
 ----
 
@@ -51,3 +49,7 @@ Gallery:
 ----
 
 Bridgy: 
+
+----
+
+Uuid: rFZaEw8wA0C2n7wQ

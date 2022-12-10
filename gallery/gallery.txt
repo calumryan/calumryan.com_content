@@ -2,8 +2,12 @@ Title: Gallery
 
 ----
 
-svg: icon-gallery
+Svg: icon-gallery
 
 ----
 
 Text: 
+
+----
+
+Uuid: Ro5UuhYmjDnoY7RY

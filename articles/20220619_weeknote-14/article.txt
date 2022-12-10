@@ -1,0 +1,62 @@
+Title: Weeknote 14
+
+----
+
+Text:
+
+## Move dreams on hold
+This past week began with immense frustration over my current estate agent's attempts, or lack of, to market and sell my property. I won't bore you with the detail of their incompetence, but let's just say I've decided to change to one seemingly more able at selling properties like mine in the area. This, however, won't be immediate as I've to wait another frustrating couple of months to respect the current agent's contractual agreement.
+
+## Personal reflections
+My mental state took a strange turn since my birthday, anxiety hit big time and I made a rushed unjustified decision, skewed by previous experiences, which I now deeply regret over someone I met recently. Perhaps it wasn't meant to be, but in hindsight, I now regret what I said and not persisting longer. Last weekend I went on a couple of 45-mile long cycling trips to try to calm the mind back to a state I could think more clearly and find a way forward.
+
+(image: cafe.jpg alt: Springer Spaniel dog on leather sofar at In-Gear café with hanging BMC bike above)
+
+## Goodbye Homebrew Website Club
+After almost exactly six years to the day, this week I finally handed over organising responsibilities of the Homebrew Website Club (HWC) London meetup to [Mark](https://marksuth.dev/) and [James](https://jamesg.blog/). It was a difficult decision to let go of something I've spent so long building up interest and support for over the years, both in-person and online, since the pandemic began two years ago. My energy and focus in life has taken somewhat of a different direction in the past year, which has left me struggling to keep the bi-weekly event going with sufficient enthusiasm. I hope to see it continue with the support of others, and shall remain a long-term supporter of the independent web and (link: https://indieweb.org/ text: IndieWeb) community when and where I can.
+
+## Made in Brunel
+Rounding off the week, I made a brief visit to my university's annual graduate showcase exhibition, (link: https://www.madeinbrunel.com/ text: Made in Brunel). There was, as ever, a high standard of student projects on display. Being a Sunday, not many of the students were around to talk to, but I did get a chance to speak to Gabriel Britton, designer of EcoClear, a recyclable COVID-19 lateral flow test.
+
+(image: mib.jpg alt: Outside barge house Made in Brunel exhibition entrance)
+
+## Property location scouting
+Though I'm not in an immediate position to move, I am continuing to explore different corners of Central London for potential locations to move to. So far I've come up with a couple of good possibilities south of the river, in the vicinity of fairly decent, speedy transport connections (for London), plus good shopping and food outlets.
+
+(image: burger.jpg alt: Burger in brioche bun and chips caption: Korean crab burger with rosemary & chilli fries, plus kimchi mayo at Green Choy restaurant)
+
+----
+
+Date: 2022-06-19 23:00:00
+
+----
+
+Author:
+
+- V00CCy0l
+
+----
+
+Tags: weeknote
+
+----
+
+Syndication: 
+
+----
+
+Redirect: 
+
+----
+
+Description: Estate agent woes, personal reflections and goodbye HWC
+
+----
+
+Gallery: 
+
+----
+
+Og-thumbnail:
+
+- weeknote-14.jpg

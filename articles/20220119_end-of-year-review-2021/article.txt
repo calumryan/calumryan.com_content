@@ -42,9 +42,7 @@ Date: 2022-01-19 19:45:00
 
 ----
 
-Author:
-
-- V00CCy0l
+Author: - V00CCy0l
 
 ----
 
@@ -68,6 +66,8 @@ Gallery:
 
 ----
 
-Og-thumbnail:
+Og-thumbnail: - grid-photos-small.jpg
 
-- grid-photos-small.jpg
+----
+
+Uuid: KuXTPrI7enmyw7Ok

@@ -6,9 +6,7 @@ Review: This classic of a read provides an insight in to rural Andalusia in the 
 
 ----
 
-Feature-images:
-
-- granada.jpg
+Feature-images: - granada.jpg
 
 ----
 
@@ -37,3 +35,7 @@ Tags: Spain, Granada
 ----
 
 Text: 
+
+----
+
+Uuid: RUguEeVne8j3ACnW

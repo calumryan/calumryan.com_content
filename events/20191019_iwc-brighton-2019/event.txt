@@ -2,7 +2,7 @@ Title: IndieWebCamp Brighton 2019
 
 ----
 
-Tags:
+Tags: 
 
 ----
 
@@ -18,11 +18,11 @@ Date: 2019-10-19 11:00
 
 ----
 
-Date start: 2019-10-19 11:00:00 +0100
+Date-start: 2019-10-19 11:00:00 +0100
 
 ----
 
-Date end: 2019-10-20 19:00:00 +0100
+Date-end: 2019-10-20 19:00:00 +0100
 
 ----
 
@@ -46,4 +46,8 @@ Redirect: https://calumryan.com/event/iwc-brighton-2019
 
 ----
 
-UID: iwc-brighton-2019
+Uid: iwc-brighton-2019
+
+----
+
+Uuid: b53CIVClwfx9KFcR

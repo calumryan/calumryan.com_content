@@ -1,0 +1,69 @@
+Title: May 3rd, 2022
+
+----
+
+Text: Pre #btconf day 2 - riding off the previous night's liquid indulgences 😎☀️🚲
+
+----
+
+Locator:
+
+lat: "51.20711975"
+lon: "6.7998414308168"
+city: Dusseldorf
+country: Germany
+postcode: "40227"
+
+----
+
+Date: 2022-05-03 10:00:00
+
+----
+
+Bridgy: twitter
+
+----
+
+Mastodon: publish
+
+----
+
+Uid: 3638
+
+----
+
+Weather-icon: clear-sky
+
+----
+
+Temperature: 13°C
+
+----
+
+Feature-images:
+
+- img20220503092353.jpg
+
+----
+
+Tags: btconf
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

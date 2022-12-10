@@ -80,9 +80,7 @@ Date: 2021-01-30 15:00:00
 
 ----
 
-Author:
-
-- V00CCy0l
+Author: - V00CCy0l
 
 ----
 
@@ -103,3 +101,7 @@ Gallery:
 ----
 
 Bridgy: 
+
+----
+
+Uuid: cJfVErrfN5DK3s70

@@ -18,11 +18,11 @@ Date: 2019-06-11 18:30
 
 ----
 
-Date start: 2019-06-11 18:30:00 +0100
+Date-start: 2019-06-11 18:30:00 +0100
 
 ----
 
-Date end: 2019-06-11 21:00:00 +0100
+Date-end: 2019-06-11 21:00:00 +0100
 
 ----
 
@@ -46,4 +46,8 @@ Redirect: https://calumryan.com/event/fek-meetup-june-2019
 
 ----
 
-UID: fek-meetup-june-2019
+Uid: fek-meetup-june-2019
+
+----
+
+Uuid: yOi52jJdKwWbrlJu

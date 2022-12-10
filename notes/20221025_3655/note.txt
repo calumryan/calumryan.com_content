@@ -1,0 +1,65 @@
+Title: October 25th, 2022
+
+----
+
+Text: Bumper supply of reads arrived today to start off my @openhouselondon book collection
+
+----
+
+Locator: 
+
+----
+
+Date: 2022-10-25 17:40:00
+
+----
+
+Bridgy: twitter
+
+----
+
+Mastodon: publish
+
+----
+
+Uid: 3655
+
+----
+
+Weather-icon: 
+
+----
+
+Temperature: 
+
+----
+
+Feature-images: - books.jpg
+
+----
+
+Tags: 
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: f3r01mxoMP5kDvKb

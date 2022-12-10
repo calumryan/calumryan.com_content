@@ -1,0 +1,52 @@
+Title: Weeknote 19
+
+----
+
+Text:
+
+## Summer cycling
+Already with withdrawal symptoms after just a few weeks since Le Tour, thankfully the television coverage of La Vuelta returned this weekend. There were some pleasing and familiar sights of Utrecht and The Netherlands from my visits in recent years. Closer to home I cycled a roundtrip of 55 miles (90 km) to the quaint village of Northiam just over the county border into East Sussex. I went there with the intention of a café stop at Will's which was a good find for good coffee and a large range of sweet pastries, plus savoury snacks with a continental feel.
+
+(image: northiam.jpg alt: Left photo bicycle next to table with coffee and pastry, right photo outside of Will's café with est 2011 on sign)
+
+Thanks to a continuous wave of rail strikes in the UK this summer, I'm finding fewer opportunities at weekends to explore distant places, as well the opportunities to go cycling further away from home, taking my bike on the train. Given the current political climate here, it seems like we'll only see more strikes to come as our country descends into ever greater chaos and economic decline.
+
+## Job reflections
+It's been a busy couple of weeks at work. I spent time on a spread of website improvements, accessibility auditing and chatting with a few external people on bringing in more accessibility skills and knowledge for the company. All in all feeling positive about how things are going there. As ever, it's wise not to be complacent and accept there's still much that needs improvement on the accessibility side.
+
+## More art
+Over the previous weekend, including yet another rail strike, I joined my parents in the car for a visit to David Hockney’s latest art exhibition, Hockney's Eye, at the (link: https://fitzmuseum.cam.ac.uk text: Fitzwilliam Museum) in Cambridge. The artworks on display ranged from a variety of canvas paintings, 3D modelling and iPad paintings, all focused on how artists see and depict art. 
+
+We also had some time to see round Howardena Pindell's A New Language exhibition at (link: https://www.kettlesyard.co.uk/ text: Kettle's Yard). At first glance, the abstract canvases there were a little challenging to depict and understand. The video interviews with Howardena from past and present revealed a lot about the meaning behind them, with the context set of racism, police brutality and violence towards Black and indigenous people.
+
+----
+
+Date: 2022-08-22 08:00:00
+
+----
+
+Author: - V00CCy0l
+
+----
+
+Tags: weeknote
+
+----
+
+Syndication: 
+
+----
+
+Redirect: 
+
+----
+
+Description: Summer cycling, job reflections, more art exhibitions
+
+----
+
+Gallery: 
+
+----
+
+Og-thumbnail: - weeknote-19.jpg

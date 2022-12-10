@@ -1,0 +1,63 @@
+Title: May 13th, 2022
+
+----
+
+Text: Talk prep time! Taking inspiration from Jeremy https://adactio.com/journal/14363
+
+----
+
+Locator: 
+
+----
+
+Date: 2022-05-13 17:30:00
+
+----
+
+Bridgy: twitter
+
+----
+
+Mastodon: publish
+
+----
+
+Uid: 3642
+
+----
+
+Weather-icon: 
+
+----
+
+Temperature: 
+
+----
+
+Feature-images:
+
+- 20220513-img20220513173048.jpg
+
+----
+
+Tags: accessibility, presentation, process
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

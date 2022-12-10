@@ -1,0 +1,65 @@
+Title: August 11th, 2022
+
+----
+
+Text: Somehow always missed previous @dconstruct events, so excited to be attending my first next month!
+
+----
+
+Locator: 
+
+----
+
+Date: 2022-08-11 12:30:00
+
+----
+
+Bridgy: twitter
+
+----
+
+Mastodon: publish
+
+----
+
+Uid: 3652
+
+----
+
+Weather-icon: 
+
+----
+
+Temperature: 
+
+----
+
+Feature-images: 
+
+----
+
+Tags: Brighton, conference
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: Fa2F71tIaI5r5GSn

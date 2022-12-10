@@ -1,0 +1,71 @@
+Title: August 3rd, 2022
+
+----
+
+Text: Scorched grounds... remember rain?
+
+----
+
+Locator:
+
+lat: 51.1889529
+lon: 0.2735876
+city: Tonbridge and Malling
+country: United Kingdom
+postcode: TN9 2AN
+
+----
+
+Date: 2022-08-03 09:15:00
+
+----
+
+Bridgy: twitter
+
+----
+
+Mastodon: publish
+
+----
+
+Uid: 3650
+
+----
+
+Weather-icon: few-clouds
+
+----
+
+Temperature: 21°C
+
+----
+
+Feature-images: - tonbridgecastle.jpg
+
+----
+
+Tags: climate, weather
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: ZULNkjtaq8Kgo6PC

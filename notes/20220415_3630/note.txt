@@ -37,9 +37,7 @@ Temperature: 19°C
 
 ----
 
-Feature-images:
-
-- test.jpg
+Feature-images: - test.jpg
 
 ----
 
@@ -64,3 +62,7 @@ Latitude:
 ----
 
 Longitude: 
+
+----
+
+Uuid: 6bjdcCxJ36unWyHd

@@ -1,0 +1,58 @@
+Title: Weeknote 7
+
+----
+
+Text:
+
+After almost two weeks playing host to Covid, it finally left me on day thirteen, last Thursday.
+
+## Germany
+The departure of Covid was just in time for my visit to Düsseldorf ahead of (link: https://beyondtellerrand.com/ text: Beyond Tellerrand) conference there.
+
+As with all my previous trips here since 2017, I've decided to travel to Germany without flying. The journey here was relatively simple and stress-free, although since Brexit the check-in experience for Eurostar has worsened significantly! It now takes almost an hour from entering the queue for security screening and then to passport control. Thankfully, my Irish passport came to save the day at the last minute, so I didn't miss my train, and I was directed to the queue-free route for electronic passport gates.
+
+This year's been my first [IndieWebCamp Düsseldorf](https://events.indieweb.org/2022/04/indiewebcamp-d%C3%BCsseldorf-ht968fpXyhij) I've helped organise in all eight years of attending IndieWebCamps in-person, both here and back in the UK. It was a joy, as ever, to meetup with such friendly folks from across both Europe and North America. I spent the Create day adding a new [Gallery](https://calumryan.com/gallery) section to my website to collate all the photos contained in my posts and location checkins.
+
+## Dining options in Düsseldorf 
+This being my fourth visit to Düsseldorf, I now know quite a few of the best spots for eating out. It’s only recently however that I’ve changed my eating preference to vegetarian dishes. Traditional German food isn’t renowned for being terribly veggie friendly, but thankfully there are some decent alternatives here, such as [To1980 Vegan](https://www.to1980.de/startseite-to1980vegan) restaurant which has the best Vietnamese food I’ve tried yet for very reasonable prices too!
+
+(image: 10cf6a27-ecab-4423-b7e9-40dcaf47d20b.jpeg alt: Flamingo bowl of Vietnamese food)
+
+## Selling home
+It’s a little under a month since my property went on the market. Since I’ve had absolutely no viewings, though there was a small flurry of interest from viewers this past week who are due to visit next week, hopefully.
+
+----
+
+Date: 2022-05-01 21:45:00
+
+----
+
+Author:
+
+- V00CCy0l
+
+----
+
+Tags: weeknote
+
+----
+
+Syndication: 
+
+----
+
+Redirect: 
+
+----
+
+Description: Goodbye Covid, Germany and pre-conference warmup
+
+----
+
+Gallery: 
+
+----
+
+Og-thumbnail:
+
+- weeknote-7.jpg

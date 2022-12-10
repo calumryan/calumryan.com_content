@@ -1,0 +1,63 @@
+Title: July 1st, 2022
+
+----
+
+Text: Speaking to familiar and new faces @dxw today on disability, the Accessibility Champions Network, and our approach to accessibility to help make sure that everyone can access the digital services we create #A11y
+
+----
+
+Locator: 
+
+----
+
+Date: 2022-07-01 17:35:00
+
+----
+
+Bridgy: twitter
+
+----
+
+Mastodon: publish
+
+----
+
+Uid: 3647
+
+----
+
+Weather-icon: 
+
+----
+
+Temperature: 
+
+----
+
+Feature-images:
+
+- zoom-call.png
+
+----
+
+Tags: accessibility
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

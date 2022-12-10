@@ -1,0 +1,61 @@
+Title: June 13th, 2022
+
+----
+
+Text: 😢 Life happens and after 6 years organising Homebrew Website Club, this week will be my last. Happy the event will continue with new organisers. This is what I wrote about it last year https://calumryan.com/articles/five-years-of-hwc-london
+
+----
+
+Locator: 
+
+----
+
+Date: 2022-06-13 11:40:00
+
+----
+
+Bridgy: twitter
+
+----
+
+Mastodon: publish
+
+----
+
+Uid: 3645
+
+----
+
+Weather-icon: 
+
+----
+
+Temperature: 
+
+----
+
+Feature-images: 
+
+----
+
+Tags: IndieWeb
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

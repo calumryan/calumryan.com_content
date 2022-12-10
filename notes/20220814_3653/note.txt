@@ -1,0 +1,72 @@
+Title: August 14th, 2022
+
+----
+
+Text: Alfresco lenticchia fusilli Bolognese 🔆
+
+----
+
+Locator:
+
+lat: 51.2012753
+lon: "0.27080517618232"
+city: Tonbridge and Malling
+country: United Kingdom
+postcode: TN9 1JP
+address: High Street
+
+----
+
+Date: 2022-08-14 20:30:00
+
+----
+
+Bridgy: twitter
+
+----
+
+Mastodon: publish
+
+----
+
+Uid: 3653
+
+----
+
+Weather-icon: overcast-clouds
+
+----
+
+Temperature: 25°C
+
+----
+
+Feature-images: - img20220814202226.jpg
+
+----
+
+Tags: food
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: LBsuQNRdSdKw83Yd

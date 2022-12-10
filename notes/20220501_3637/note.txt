@@ -42,9 +42,7 @@ Temperature: 13°C
 
 ----
 
-Feature-images:
-
-- iwc-dus-2022-2.jpg
+Feature-images: - iwc-dus-2022-2.jpg
 
 ----
 
@@ -69,3 +67,7 @@ Latitude:
 ----
 
 Longitude: 
+
+----
+
+Uuid: urkd0Y5jH7oYScbJ

@@ -1,0 +1,61 @@
+Title: May 4th, 2022
+
+----
+
+Text: Website devs and makers: how long do you spend accessibility testing and fixing issues for each web project? Plus: what tests do you run?
+
+----
+
+Locator: 
+
+----
+
+Date: 2022-05-04 14:00:00
+
+----
+
+Bridgy: twitter
+
+----
+
+Mastodon: publish
+
+----
+
+Uid: 3639
+
+----
+
+Weather-icon: 
+
+----
+
+Temperature: 
+
+----
+
+Feature-images: 
+
+----
+
+Tags: a11y
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

@@ -1,0 +1,61 @@
+Title: June 14th, 2022
+
+----
+
+Text: Here in London, what happened five years ago today was for me the most haunting, horrifying disaster seen in living memory. The cruellest kind of criminality, which left 72 dead and many more lives affected forever. Never forget 💚 #Grenfell
+
+----
+
+Locator: 
+
+----
+
+Date: 2022-06-14 11:00:00
+
+----
+
+Bridgy: twitter
+
+----
+
+Mastodon: publish
+
+----
+
+Uid: 3646
+
+----
+
+Weather-icon: 
+
+----
+
+Temperature: 
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

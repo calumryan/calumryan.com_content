@@ -1,0 +1,71 @@
+Title: November 24th, 2022
+
+----
+
+Text:
+
+Wordle 523 2/6
+🟩⬛⬛⬛⬛
+🟩🟩🟩🟩🟩
+Line 1: 1st perfect.
+Line 2: Won!
+
+----
+
+Locator: 
+
+----
+
+Date: 2022-11-24 13:30:00
+
+----
+
+Bridgy: twitter
+
+----
+
+Mastodon: publish
+
+----
+
+Uid: 3660
+
+----
+
+Weather-icon: 
+
+----
+
+Temperature: 
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: OVWxHGtwlUMnTfjP

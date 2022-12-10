@@ -1,0 +1,60 @@
+Title: Weeknote 22
+
+----
+
+Text:
+
+## Dental horrors
+For over a decade, I'd visited my increasingly oversubscribed NHS dentist near my family home each year, which was quite a long and expensive trek for an increasingly shorter and less than comprehensive checkup. This week, I finally took the plunge into private dentistry following the alarming discovery that my mouth had rather resembled that of a vampire each time I went to brush my teeth for the past couple of weeks. My new private dentist discovered a large cavity, which of course left me with little option but to make a relatively large hole in my finances to get it filled. 
+
+## Foodie discoveries
+After a day of much brushing and flossing, I'd recovered enough from the strenuous trials of dental drilling to go out and eat delicious foods again. First up was a visit to Camden for Afghan street food at (link: https://2ladskitchen.co.uk/ text: Two Lads Kitchen). I'd the signature dish, an Afghan veggie wrap of smokey spinach, mashed chickpeas and a zingy secret green sauce. This was easily one of the best wraps I've eaten, step aside Tex-Mex burritos! 
+
+(image: wrap.jpg alt: wrap rolled up in paper with spinach and mashed chickpeas)
+
+After that I'd still room for a fluffy mango chiffon cake at another new discovery, (link: https://www.kovapatisserie.com/ text: Kova Patisserie).
+
+(image: cake.jpg alt: Plate of mango chiffon cake)
+
+Closer to home, on Sunday I went to try out a new vegan café in Tunbridge Wells for a brunch of paprika spiced tofu, black beans and spinach with avocado and potato rosti at (link: https://www.theplantbase.co.uk/ text: The Plant Base). 
+
+(image: tofu.jpg alt: Round plate of paprika spiced tofu, black beans and spinach with avocado and potato rosti)
+
+## Frameworks work
+The team I'm on at work has been devoting time away from client work to find a suitable frontend framework. It's hoped this will help us all as a team to make websites using a more consistent approach, besides (link: https://design-system.service.gov.uk/ text: GOV.UK's Design System). A few days of technical research sped by, and I think few of us were fully decided on which approach was the ideal solution for the array of frameworks out there.
+
+----
+
+Date: 2022-09-18 20:15:00
+
+----
+
+Author: - V00CCy0l
+
+----
+
+Tags: weeknote
+
+----
+
+Syndication: 
+
+----
+
+Redirect: 
+
+----
+
+Description: Dental horrors, Foodie discoveries, Frameworks work
+
+----
+
+Gallery: 
+
+----
+
+Og-thumbnail: - weeknote-22.jpg
+
+----
+
+Uuid: ZuKh4rqvu3VaOsSn

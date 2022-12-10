@@ -1,0 +1,71 @@
+Title: July 26th, 2022
+
+----
+
+Text: Never tire of this view, or my Canyon racer bike
+
+----
+
+Locator:
+
+lat: 51.1508465
+lon: 0.3998846
+city: Tunbridge Wells
+country: United Kingdom
+postcode: TN12 7NJ
+
+----
+
+Date: 2022-07-26 21:35:00
+
+----
+
+Bridgy: twitter
+
+----
+
+Mastodon: publish
+
+----
+
+Uid: 3649
+
+----
+
+Weather-icon: overcast-clouds
+
+----
+
+Temperature: 16°C
+
+----
+
+Feature-images: - brenchley.jpg
+
+----
+
+Tags: 
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: 7Rmlo570boNa382L

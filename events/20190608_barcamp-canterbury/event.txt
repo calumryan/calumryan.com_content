@@ -14,11 +14,11 @@ Date: 2019-06-08 10:00
 
 ----
 
-Date start: 2019-06-08 10:00:00 +0100
+Date-start: 2019-06-08 10:00:00 +0100
 
 ----
 
-Date end: 2019-06-08 18:00:00 +0100
+Date-end: 2019-06-08 18:00:00 +0100
 
 ----
 
@@ -42,4 +42,8 @@ Redirect: https://calumryan.com/event/barcamp-canterbury
 
 ----
 
-UID: barcamp-canterbury
+Uid: barcamp-canterbury
+
+----
+
+Uuid: j3LmqmuGhP56Ko02

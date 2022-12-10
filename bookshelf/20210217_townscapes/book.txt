@@ -6,9 +6,7 @@ Review: In this book Burke shows what could, and what should, become of our town
 
 ----
 
-Feature-images:
-
-- townscapes.jpg
+Feature-images: - townscapes.jpg
 
 ----
 
@@ -33,3 +31,7 @@ Book-author: Gerald L. Burke
 ----
 
 Tags: architecture
+
+----
+
+Uuid: bG3SXBoSRrUBF1OP

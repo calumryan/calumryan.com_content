@@ -46,8 +46,12 @@ Speaker: 1
 
 ----
 
-View slides: https://noti.st/calumryan/ommFNm/making-accessible-accessibility-reports
+View-slides: https://noti.st/calumryan/ommFNm/making-accessible-accessibility-reports
 
 ----
 
-View video: https://www.youtube.com/watch?v=V0yJ_qJBvoc&t=14852s
+View-video: https://www.youtube.com/watch?v=V0yJ_qJBvoc&t=14852s
+
+----
+
+Uuid: Q2cDJKqdf6cRmsCN

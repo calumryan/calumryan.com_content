@@ -6,9 +6,7 @@ Review: A good read with much to like, however I found James' head-on approach t
 
 ----
 
-Feature-images:
-
-- howtoberight-cover.jpg
+Feature-images: - howtoberight-cover.jpg
 
 ----
 
@@ -33,3 +31,7 @@ Book-author: James O'Brien
 ----
 
 Tags: Political, Advocacy
+
+----
+
+Uuid: 2PpHkIHTZvgIU1LQ

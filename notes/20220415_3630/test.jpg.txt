@@ -2,7 +2,7 @@ Caption:
 
 ----
 
-Alt: Lateral flow test show a postive result
+Alt: Lateral flow test show a positive result
 
 ----
 
