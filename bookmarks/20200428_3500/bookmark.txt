@@ -2,7 +2,7 @@ Title: Hamburger Menus and Hidden Navigation Hurt UX Metrics
 
 ----
 
-Permalink: https://www.nngroup.com/articles/hamburger-menus/
+Blink: https://www.nngroup.com/articles/hamburger-menus/
 
 ----
 

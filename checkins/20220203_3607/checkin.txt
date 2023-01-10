@@ -1,0 +1,85 @@
+Title: February 3rd, 2022
+
+----
+
+Text: Checked in at Perky Blenders
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/61fba0631aa62546c1964d20
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Perky Blenders
+    url:
+      - >
+        https://foursquare.com/v/6032357c68e43d39ed049864
+    latitude:
+      - 51.499285
+    longitude:
+      - -0.197352
+    locality:
+      - London
+    region:
+      - Greater London
+    country-name:
+      - United Kingdom
+    postal-code:
+      - W8 6SA
+  value: >
+    https://foursquare.com/v/6032357c68e43d39ed049864
+
+----
+
+Date: 2022-02-03 09:30:00
+
+----
+
+Uid: 3607
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: broken-clouds
+
+----
+
+Temperature: 8°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

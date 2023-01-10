@@ -2,7 +2,7 @@ Title: Front-End Performance Checklist 2020 by @smashingmag
 
 ----
 
-Permalink: https://www.smashingmagazine.com/2020/01/front-end-performance-checklist-2020-pdf-pages
+Blink: https://www.smashingmagazine.com/2020/01/front-end-performance-checklist-2020-pdf-pages
 
 ----
 

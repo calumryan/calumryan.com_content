@@ -1,0 +1,88 @@
+Title: June 1st, 2022
+
+----
+
+Text: Checked in at Ennis Friary
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/629747374244703550cf5804
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Ennis Friary
+    url:
+      - >
+        https://foursquare.com/v/55bcdea0498ed67b732a5fa3
+    latitude:
+      - '52.846161825282'
+    longitude:
+      - '-8.9816397428513'
+    street-address:
+      - Abbey St.
+    locality:
+      - Ennis
+    region:
+      - Co Clare
+    country-name:
+      - Ireland
+  value: >
+    https://foursquare.com/v/55bcdea0498ed67b732a5fa3
+
+----
+
+Date: 2022-06-01 12:00:00
+
+----
+
+Uid: 3714
+
+----
+
+Feature-images:
+
+- >
+  407869714_w37vn0hl0dwqh3c5_tugrzkvaiuhbnjv9dqfd0-axa8.jpg
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: scattered-clouds
+
+----
+
+Temperature: 14°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

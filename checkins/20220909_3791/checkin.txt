@@ -1,0 +1,89 @@
+Title: September 9th, 2022
+
+----
+
+Text: Checked in at BrewDog Waterloo
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/631b9d55c05d594076a2f146
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - BrewDog Waterloo
+    url:
+      - >
+        https://foursquare.com/v/619bc0570ffa9178d54e45d1
+      - https://www.brewdog.com
+      - https://twitter.com/brewdogwaterloo
+    latitude:
+      - '51.502262036276'
+    longitude:
+      - '-0.11596262454987'
+    street-address:
+      - The Sidings
+    locality:
+      - London
+    region:
+      - Greater London
+    country-name:
+      - United Kingdom
+    postal-code:
+      - SE1 7NJ
+  value: >
+    https://foursquare.com/v/619bc0570ffa9178d54e45d1
+
+----
+
+Date: 2022-09-09 21:10:00
+
+----
+
+Uid: 3791
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: scattered-clouds
+
+----
+
+Temperature: 16°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

@@ -2,7 +2,7 @@ Title: Link sharing with a browser plugin by Max Böck
 
 ----
 
-Permalink: https://mxb.dev/blog/indieweb-link-sharing/
+Blink: https://mxb.dev/blog/indieweb-link-sharing/
 
 ----
 

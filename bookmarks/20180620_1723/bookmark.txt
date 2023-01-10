@@ -2,7 +2,7 @@ Title: Don’t Use The Placeholder Attribute (via @smashingmag)
 
 ----
 
-Permalink: https://www.smashingmagazine.com/2018/06/placeholder-attribute/
+Blink: https://www.smashingmagazine.com/2018/06/placeholder-attribute/
 
 ----
 

@@ -1,0 +1,90 @@
+Title: March 2nd, 2022
+
+----
+
+Text: Checked in at The Blue Posts
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/621fc1a0b86c8e2529c58ed9
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - The Blue Posts
+    url:
+      - >
+        https://foursquare.com/v/4ac518c3f964a5203aa420e3
+      - https://twitter.com/bluepostspub
+    tel:
+      - 020 7734 1170
+    latitude:
+      - '51.513771463882'
+    longitude:
+      - '-0.13517465976656'
+    street-address:
+      - 22 Berwick St
+    locality:
+      - Soho
+    region:
+      - Greater London
+    country-name:
+      - United Kingdom
+    postal-code:
+      - W1B 5PX
+  value: >
+    https://foursquare.com/v/4ac518c3f964a5203aa420e3
+
+----
+
+Date: 2022-03-02 19:10:00
+
+----
+
+Uid: 3620
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: light-rain
+
+----
+
+Temperature: 7°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

@@ -1,0 +1,91 @@
+Title: July 17th, 2022
+
+----
+
+Text: Checked in at O2
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/62d3df922f03ca7e9ee21691
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - O2
+    url:
+      - >
+        https://foursquare.com/v/4d97460ab188721ec3160b37
+      - http://www.o2.co.uk/socialmedia/
+      - https://twitter.com/o2
+    tel:
+      - 020 8269 0202
+    latitude:
+      - '51.501736082411'
+    longitude:
+      - '0.0044340143041741'
+    street-address:
+      - 'Units 1.02 & 1.03 The O2 Millennium Way'
+    locality:
+      - Greenwich
+    region:
+      - Greater London
+    country-name:
+      - United Kingdom
+    postal-code:
+      - SE10 0DX
+  value: >
+    https://foursquare.com/v/4d97460ab188721ec3160b37
+
+----
+
+Date: 2022-07-17 11:10:00
+
+----
+
+Uid: 3771
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: clear-sky
+
+----
+
+Temperature: 27°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

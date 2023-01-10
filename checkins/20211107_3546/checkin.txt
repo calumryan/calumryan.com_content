@@ -1,0 +1,87 @@
+Title: November 7th, 2021
+
+----
+
+Text: Checked in at Copenhagen Coffee Lab
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/6187b9bc6597585b941b3c97
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Copenhagen Coffee Lab
+    url:
+      - >
+        https://foursquare.com/v/5bb0cf672aff31002c71006b
+    latitude:
+      - 51.223823
+    longitude:
+      - 6.773861
+    street-address:
+      - Carlsplatz 20
+    locality:
+      - Dusseldorf
+    region:
+      - North Rhine-Westphalia
+    country-name:
+      - Germany
+    postal-code:
+      - "40213"
+  value: >
+    https://foursquare.com/v/5bb0cf672aff31002c71006b
+
+----
+
+Date: 2021-11-07 11:35:00
+
+----
+
+Uid: 3546
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Weather-icon: few-clouds
+
+----
+
+Temperature: 12°C

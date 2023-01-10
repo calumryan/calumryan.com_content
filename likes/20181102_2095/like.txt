@@ -2,7 +2,7 @@ Title: November 2nd, 2018
 
 ----
 
-Permalink: https://www.aaron-gustafson.com/notebook/pwa-qa/
+Blink: https://www.aaron-gustafson.com/notebook/pwa-qa/
 
 ----
 

@@ -2,7 +2,7 @@ Title: Using CSS Grid for galleries: &quot;make a photo gallery responsive quic
 
 ----
 
-Permalink: https://medium.com/deemaze-software/css-grid-responsive-layouts-and-components-eee1badd5a2f
+Blink: https://medium.com/deemaze-software/css-grid-responsive-layouts-and-components-eee1badd5a2f
 
 ----
 

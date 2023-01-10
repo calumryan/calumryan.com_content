@@ -2,7 +2,7 @@ Title: Grid for layout, Flexbox for components by Ahmad Shadeed
 
 ----
 
-Permalink: https://ishadeed.com/article/grid-layout-flexbox-components
+Blink: https://ishadeed.com/article/grid-layout-flexbox-components
 
 ----
 

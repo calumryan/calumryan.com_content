@@ -2,7 +2,7 @@ Title: Easily rename your Git default branch from master to main by Scott Hansel
 
 ----
 
-Permalink: https://www.hanselman.com/blog/EasilyRenameYourGitDefaultBranchFromMasterToMain.aspx
+Blink: https://www.hanselman.com/blog/EasilyRenameYourGitDefaultBranchFromMasterToMain.aspx
 
 ----
 

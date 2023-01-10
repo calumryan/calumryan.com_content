@@ -2,7 +2,7 @@ Title: Accessible Form Validation Messages with ARIA and Vue.js
 
 ----
 
-Permalink: https://vuejsdevelopers.com/2019/05/13/accessibility-validation-aria-vuejs/
+Blink: https://vuejsdevelopers.com/2019/05/13/accessibility-validation-aria-vuejs/
 
 ----
 

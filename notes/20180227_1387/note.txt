@@ -6,7 +6,7 @@ Text: Latest additions to Jekyll plugin for sending/receiving webmentions via We
 
 ----
 
-Permalink: 
+Blink: 
 
 ----
 

@@ -2,7 +2,7 @@ Title: Web Platform News - useful breakdown of snippets and guidance on HTML/CSS
 
 ----
 
-Permalink: https://webplatform.news/issues
+Blink: https://webplatform.news/issues
 
 ----
 

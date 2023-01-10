@@ -2,7 +2,7 @@ Title: Excellent article by Matthias on Saving Your Web Workflows with Prototypi
 
 ----
 
-Permalink: https://matthiasott.com/articles/saving-your-web-workflows-with-prototyping
+Blink: https://matthiasott.com/articles/saving-your-web-workflows-with-prototyping
 
 ----
 

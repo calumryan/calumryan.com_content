@@ -1,0 +1,90 @@
+Title: July 14th, 2022
+
+----
+
+Text: Checked in at Caffè Nero
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/62cfcba6b48a8c37cf402656
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Caffè Nero
+    url:
+      - >
+        https://foursquare.com/v/4b9a400bf964a52057a735e3
+      - http://www.caffenero.co.uk
+    tel:
+      - 01732 351356
+    latitude:
+      - '51.193267348811'
+    longitude:
+      - '0.27288915760139'
+    street-address:
+      - 34A High Street
+    locality:
+      - Tonbridge
+    region:
+      - Kent
+    country-name:
+      - United Kingdom
+    postal-code:
+      - TN9 1SG
+  value: >
+    https://foursquare.com/v/4b9a400bf964a52057a735e3
+
+----
+
+Date: 2022-07-14 08:55:00
+
+----
+
+Uid: 3769
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: clear-sky
+
+----
+
+Temperature: 19°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

@@ -6,7 +6,7 @@ Text: IndieWeb and Webmentions
 
 ----
 
-Permalink: https://twitter.com/css/status/1148708426643648513
+Blink: https://twitter.com/css/status/1148708426643648513
 
 ----
 

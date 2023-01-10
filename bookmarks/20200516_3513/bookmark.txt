@@ -2,7 +2,7 @@ Title: CSS section generator
 
 ----
 
-Permalink: https://wweb.dev/resources/css-separator-generator
+Blink: https://wweb.dev/resources/css-separator-generator
 
 ----
 

@@ -2,7 +2,7 @@ Title: Should you use a link or a button and applying scroll behavior – by Mi
 
 ----
 
-Permalink: https://michaelspellacy.com/pushing-buttons/
+Blink: https://michaelspellacy.com/pushing-buttons/
 
 ----
 

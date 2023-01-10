@@ -2,7 +2,7 @@ Title: &quot;responsive web design isn’t dead, but we are at the point where w
 
 ----
 
-Permalink: https://www.browserlondon.com/blog/2019/08/19/should-we-still-be-selling-responsive-web-design/
+Blink: https://www.browserlondon.com/blog/2019/08/19/should-we-still-be-selling-responsive-web-design/
 
 ----
 

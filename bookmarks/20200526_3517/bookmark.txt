@@ -2,7 +2,7 @@ Title: Modern CSS development tricks and methods
 
 ----
 
-Permalink: https://moderncss.dev/
+Blink: https://moderncss.dev/
 
 ----
 

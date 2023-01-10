@@ -1,0 +1,90 @@
+Title: September 21st, 2022
+
+----
+
+Text: Checked in at Spijshuis De Dis
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/632b455bd3a2d7264b616e33
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Spijshuis De Dis
+    url:
+      - >
+        https://foursquare.com/v/4bc36ca52a89ef3b6901f588
+      - http://www.spijshuisdedis.nl
+    tel:
+      - 015 213 1782
+    latitude:
+      - '52.011552800356'
+    longitude:
+      - '4.3628670238606'
+    street-address:
+      - Beestenmarkt 36
+    locality:
+      - Delft
+    region:
+      - South Holland
+    country-name:
+      - Netherlands
+    postal-code:
+      - 2611 GC
+  value: >
+    https://foursquare.com/v/4bc36ca52a89ef3b6901f588
+
+----
+
+Date: 2022-09-21 19:10:00
+
+----
+
+Uid: 3799
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: few-clouds
+
+----
+
+Temperature: 16°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

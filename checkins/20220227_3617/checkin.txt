@@ -1,0 +1,86 @@
+Title: February 27th, 2022
+
+----
+
+Text: Checked in at Crosby Beach
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/621b7b65739c6e74bee4e0a4
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Crosby Beach
+    url:
+      - >
+        https://foursquare.com/v/4cb2fc921463a14381ecb0a9
+    latitude:
+      - '53.478239261483'
+    longitude:
+      - '-3.0433416366577'
+    locality:
+      - Seaforth
+    region:
+      - Sefton
+    country-name:
+      - United Kingdom
+  value: >
+    https://foursquare.com/v/4cb2fc921463a14381ecb0a9
+
+----
+
+Date: 2022-02-27 13:25:00
+
+----
+
+Uid: 3617
+
+----
+
+Feature-images:
+
+- >
+  407869714_surzstnrvq6bkcsvhzuk_iwpeauu64rwptjyimyitnm.jpg
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: clear-sky
+
+----
+
+Temperature: 10°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

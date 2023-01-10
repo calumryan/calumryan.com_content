@@ -2,7 +2,7 @@ Title: how to manage HTML DOM
 
 ----
 
-Permalink: https://htmldom.dev/
+Blink: https://htmldom.dev/
 
 ----
 

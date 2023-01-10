@@ -2,7 +2,7 @@ Title: Lazy loading images with VueJs
 
 ----
 
-Permalink: https://css-tricks.com/lazy-loading-images-with-vue-js-directives-and-intersection-observer/
+Blink: https://css-tricks.com/lazy-loading-images-with-vue-js-directives-and-intersection-observer/
 
 ----
 

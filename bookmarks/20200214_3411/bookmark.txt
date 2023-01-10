@@ -2,7 +2,7 @@ Title: Page Speed Benchmarks and the sorry state of web performance over many po
 
 ----
 
-Permalink: https://speedcurve.com/benchmarks/usa/retail/fast/start-render/
+Blink: https://speedcurve.com/benchmarks/usa/retail/fast/start-render/
 
 ----
 

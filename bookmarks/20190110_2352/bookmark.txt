@@ -2,7 +2,7 @@ Title: Static Indieweb pt2: Using Webmentions by @mxbck
 
 ----
 
-Permalink: https://mxb.at/blog/using-webmentions-on-static-sites/
+Blink: https://mxb.at/blog/using-webmentions-on-static-sites/
 
 ----
 

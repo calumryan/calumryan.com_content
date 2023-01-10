@@ -1,0 +1,85 @@
+Title: June 11th, 2022
+
+----
+
+Text: Checked in at In-Gear
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/62a4842672e18d01e8bb9acc
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - In-Gear
+    url:
+      - >
+        https://foursquare.com/v/59452df03af988348471d044
+    latitude:
+      - 51.099379
+    longitude:
+      - 0.033804
+    locality:
+      - Forest Row
+    region:
+      - East Sussex
+    country-name:
+      - United Kingdom
+    postal-code:
+      - R H18
+  value: >
+    https://foursquare.com/v/59452df03af988348471d044
+
+----
+
+Date: 2022-06-11 13:00:00
+
+----
+
+Uid: 3726
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: scattered-clouds
+
+----
+
+Temperature: 20°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

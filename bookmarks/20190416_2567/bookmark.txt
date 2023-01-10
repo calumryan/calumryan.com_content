@@ -2,7 +2,7 @@ Title: Native image lazy-loading for the web and a tidy fallback
 
 ----
 
-Permalink: https://addyosmani.com/blog/lazy-loading
+Blink: https://addyosmani.com/blog/lazy-loading
 
 ----
 

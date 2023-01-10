@@ -1,0 +1,91 @@
+Title: July 6th, 2022
+
+----
+
+Text: Checked in at Time Out Market Lisboa
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/62c60a766c79f222e21544f2
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Time Out Market Lisboa
+    url:
+      - >
+        https://foursquare.com/v/56929539498e43f06f414c22
+      - https://www.timeoutmarket.com/lisboa/
+      - https://twitter.com/timeoutmarketlx
+    tel:
+      - 21 395 1274
+    latitude:
+      - '38.707071635933'
+    longitude:
+      - '-9.1459250450134'
+    street-address:
+      - Avenida 24 de Julho, 49
+    locality:
+      - Lisbon
+    region:
+      - Lisbon
+    country-name:
+      - Portugal
+    postal-code:
+      - 1200-148
+  value: >
+    https://foursquare.com/v/56929539498e43f06f414c22
+
+----
+
+Date: 2022-07-06 23:20:00
+
+----
+
+Uid: 3757
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: clear-sky
+
+----
+
+Temperature: 23°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

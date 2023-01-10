@@ -1,0 +1,89 @@
+Title: October 8th, 2021
+
+----
+
+Text: Checked in at Ashford Picturehouse
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/61604a8a2a63d32a22647545
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Ashford Picturehouse
+    url:
+      - >
+        https://foursquare.com/v/5c1cbae2121384002c3e0745
+      - >
+        https://www.picturehouses.com/cinema/Ashford_Picturehouse
+    latitude:
+      - 51.146859
+    longitude:
+      - 0.869298
+    street-address:
+      - Elwick Rd
+    locality:
+      - Ashford
+    region:
+      - Kent
+    country-name:
+      - United Kingdom
+    postal-code:
+      - TN23 1AE
+  value: >
+    https://foursquare.com/v/5c1cbae2121384002c3e0745
+
+----
+
+Date: 2021-10-08 14:40:00
+
+----
+
+Uid: 3525
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Weather-icon: clear-sky
+
+----
+
+Temperature: 13°C

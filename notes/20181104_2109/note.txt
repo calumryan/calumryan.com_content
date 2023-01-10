@@ -6,7 +6,7 @@ Text: Post something to Switchboard test \#1
 
 ----
 
-Permalink: 
+Blink: 
 
 ----
 

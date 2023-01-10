@@ -1,0 +1,87 @@
+Title: July 7th, 2022
+
+----
+
+Text: Checked in at Solar 31 Alafama
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/62c742ba79704e0253abc68b
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Solar 31 Alafama
+    url:
+      - >
+        https://foursquare.com/v/61ab7cd5013be34ffae98463
+    latitude:
+      - 38.712055
+    longitude:
+      - -9.126923
+    street-address:
+      - Rua dos Remedios 64
+    locality:
+      - Lisbon
+    region:
+      - Lisbon
+    country-name:
+      - Portugal
+    postal-code:
+      - 1100-405
+  value: >
+    https://foursquare.com/v/61ab7cd5013be34ffae98463
+
+----
+
+Date: 2022-07-07 21:30:00
+
+----
+
+Uid: 3762
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: clear-sky
+
+----
+
+Temperature: 31°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

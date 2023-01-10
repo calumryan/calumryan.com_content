@@ -6,7 +6,7 @@ Text: Deciding to learn AngularJS today, now just a case of working out which tu
 
 ----
 
-Permalink: 
+Blink: 
 
 ----
 

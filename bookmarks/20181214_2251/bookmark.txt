@@ -3,7 +3,7 @@ Title: Scroll an element into the center of the viewport
 
 ----
 
-Permalink: https://hiddedevries.nl/en/blog/2018-12-10-scroll-an-element-into-the-center-of-the-viewport
+Blink: https://hiddedevries.nl/en/blog/2018-12-10-scroll-an-element-into-the-center-of-the-viewport
 
 ----
 

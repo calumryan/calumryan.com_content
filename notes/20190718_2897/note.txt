@@ -6,7 +6,7 @@ Text: Can emojis respond with different variations depending on dark mode being 
 
 ----
 
-Permalink: 
+Blink: 
 
 ----
 

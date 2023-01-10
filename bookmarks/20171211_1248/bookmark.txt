@@ -2,7 +2,7 @@ Title: Styling Components - Typed CSS With Stylable https://24ways.org/2017/styl
 
 ----
 
-Permalink: https://24ways.org/2017/styling-components-typed-css-with-stylable/
+Blink: https://24ways.org/2017/styling-components-typed-css-with-stylable/
 
 ----
 

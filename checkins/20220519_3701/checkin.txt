@@ -1,0 +1,89 @@
+Title: May 19th, 2022
+
+----
+
+Text: Checked in at Beijummy
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/628632b8d560521a5aa758dd
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Beijummy
+    url:
+      - >
+        https://foursquare.com/v/5996daffa423622ec96d0e2d
+      - http://www.beijummy.com
+      - https://twitter.com/beijummy
+    latitude:
+      - '51.522869083485'
+    longitude:
+      - '-0.092784626520328'
+    street-address:
+      - Whitecross St
+    locality:
+      - London
+    region:
+      - Greater London
+    country-name:
+      - United Kingdom
+    postal-code:
+      - EC1Y 8JJ
+  value: >
+    https://foursquare.com/v/5996daffa423622ec96d0e2d
+
+----
+
+Date: 2022-05-19 13:05:00
+
+----
+
+Uid: 3701
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: broken-clouds
+
+----
+
+Temperature: 20°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

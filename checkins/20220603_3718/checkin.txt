@@ -1,0 +1,85 @@
+Title: June 3rd, 2022
+
+----
+
+Text: Checked in at The Treaty Stone
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/6299ec5c1b62f5572990ee78
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - The Treaty Stone
+    url:
+      - >
+        https://foursquare.com/v/4d57c6575ba05481c80b0946
+    latitude:
+      - '52.669694359442'
+    longitude:
+      - '-8.6281943321228'
+    street-address:
+      - Clancy Strand
+    locality:
+      - Limerick
+    region:
+      - Co Limerick
+    country-name:
+      - Ireland
+  value: >
+    https://foursquare.com/v/4d57c6575ba05481c80b0946
+
+----
+
+Date: 2022-06-03 12:10:00
+
+----
+
+Uid: 3718
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: broken-clouds
+
+----
+
+Temperature: 15°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

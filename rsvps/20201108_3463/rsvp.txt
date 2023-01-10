@@ -10,7 +10,7 @@ Date: 2020-11-08 01:50
 
 ----
 
-Permalink: https://2020.indieweb.org/east
+Blink: https://2020.indieweb.org/east
 
 ----
 

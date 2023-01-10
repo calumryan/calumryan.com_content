@@ -2,7 +2,7 @@ Title: Accessibility Cloud - data for accessible places
 
 ----
 
-Permalink: https://www.accessibility.cloud
+Blink: https://www.accessibility.cloud
 
 ----
 

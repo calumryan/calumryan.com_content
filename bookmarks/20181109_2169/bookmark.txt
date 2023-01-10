@@ -2,7 +2,7 @@ Title: Resolving OSX Shell Path issues
 
 ----
 
-Permalink: https://coolestguidesontheplanet.com/add-shell-path-osx/
+Blink: https://coolestguidesontheplanet.com/add-shell-path-osx/
 
 ----
 

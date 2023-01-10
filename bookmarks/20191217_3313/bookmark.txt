@@ -2,7 +2,7 @@ Title: How not to sort an array in JavaScript by Phil Nash
 
 ----
 
-Permalink: https://philna.sh/blog/2019/08/26/how-not-to-sort-an-array-in-javascript/
+Blink: https://philna.sh/blog/2019/08/26/how-not-to-sort-an-array-in-javascript/
 
 ----
 

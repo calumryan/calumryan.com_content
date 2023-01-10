@@ -1,0 +1,92 @@
+Title: June 21st, 2022
+
+----
+
+Text: Checked in at The Nellie Dean
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/62b204d3dadf4f64868e48b2
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - The Nellie Dean
+    url:
+      - >
+        https://foursquare.com/v/4ad4bf4af964a52007e920e3
+      - >
+        http://www.pieminister.co.uk/pubs/nellie-dean/
+      - https://twitter.com/pieminister
+    tel:
+      - 020 7734 2572
+    latitude:
+      - '51.514953354169'
+    longitude:
+      - '-0.13334675678929'
+    street-address:
+      - 89 Dean St
+    locality:
+      - London
+    region:
+      - Greater London
+    country-name:
+      - United Kingdom
+    postal-code:
+      - W1D 3SU
+  value: >
+    https://foursquare.com/v/4ad4bf4af964a52007e920e3
+
+----
+
+Date: 2022-06-21 18:50:00
+
+----
+
+Uid: 3732
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: overcast-clouds
+
+----
+
+Temperature: 23°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

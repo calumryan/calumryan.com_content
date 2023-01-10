@@ -2,7 +2,7 @@ Title: Accessibility Cheatsheet
 
 ----
 
-Permalink: https://moritzgiessmann.de/accessibility-cheatsheet/
+Blink: https://moritzgiessmann.de/accessibility-cheatsheet/
 
 ----
 

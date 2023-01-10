@@ -2,7 +2,7 @@ Title: CSS resize none on textarea is bad for UX
 
 ----
 
-Permalink: https://catalin.red/css-resize-none-is-bad-for-ux/
+Blink: https://catalin.red/css-resize-none-is-bad-for-ux/
 
 ----
 

@@ -2,7 +2,7 @@ Title: Why videos on GOV.UK use the YouTube video player
 
 ----
 
-Permalink: https://accessibility.blog.gov.uk/2020/03/16/why-videos-on-gov-uk-use-the-youtube-video-player/
+Blink: https://accessibility.blog.gov.uk/2020/03/16/why-videos-on-gov-uk-use-the-youtube-video-player/
 
 ----
 

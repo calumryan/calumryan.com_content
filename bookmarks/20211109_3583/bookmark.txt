@@ -6,7 +6,7 @@ Date: 2021-11-09 12:30:00
 
 ----
 
-Permalink: https://css-irl.info/accessible-toggles/
+Blink: https://css-irl.info/accessible-toggles/
 
 ----
 

@@ -2,7 +2,7 @@ Title: A New Vue On JavaScript30
 
 ----
 
-Permalink: https://davefollett.io/2018/08/01/a-new-vue-on-javascript30-getting-started/
+Blink: https://davefollett.io/2018/08/01/a-new-vue-on-javascript30-getting-started/
 
 ----
 

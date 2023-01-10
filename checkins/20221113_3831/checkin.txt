@@ -1,0 +1,91 @@
+Title: November 13th, 2022
+
+----
+
+Text: Checked in at Boulangerie Jade
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/6370fa43add3824bd725e3bc
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Boulangerie Jade
+    url:
+      - >
+        https://foursquare.com/v/5a82a793c97f285a363851db
+      - http://www.boulangeriejade.com
+      - https://twitter.com/jadeboulangerie
+    tel:
+      - 020 8316 4361
+    latitude:
+      - '51.492575314137'
+    longitude:
+      - '0.070559441934358'
+    street-address:
+      - 9 Major Draper St
+    locality:
+      - Woolwich Riverside
+    region:
+      - Greater London
+    country-name:
+      - United Kingdom
+    postal-code:
+      - SE18 6GD
+  value: >
+    https://foursquare.com/v/5a82a793c97f285a363851db
+
+----
+
+Date: 2022-11-13 14:10:00
+
+----
+
+Uid: 3831
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: broken-clouds
+
+----
+
+Temperature: 14°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

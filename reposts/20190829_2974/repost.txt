@@ -6,7 +6,7 @@ Text: Uses for CSS property - font-variant-numeric: tabular-nums
 
 ----
 
-Permalink: https://twitter.com/css/status/1167062597927153665
+Blink: https://twitter.com/css/status/1167062597927153665
 
 ----
 

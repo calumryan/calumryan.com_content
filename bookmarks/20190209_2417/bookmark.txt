@@ -2,7 +2,7 @@ Title: Chris discussing a maintainable approach and workflow for managing and do
 
 ----
 
-Permalink: https://chrisburnell.com/article/lets-look-back/
+Blink: https://chrisburnell.com/article/lets-look-back/
 
 ----
 

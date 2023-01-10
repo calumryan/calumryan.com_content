@@ -6,7 +6,7 @@ Text: Hardened my header config to an A with advice from Jeremy Keith
 
 ----
 
-Permalink: 
+Blink: 
 
 ----
 

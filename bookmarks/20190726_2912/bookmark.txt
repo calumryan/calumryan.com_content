@@ -2,7 +2,7 @@ Title: Maybe Ignore type=search
 
 ----
 
-Permalink: http://adrianroselli.com/2019/07/ignore-typesearch.html
+Blink: http://adrianroselli.com/2019/07/ignore-typesearch.html
 
 ----
 

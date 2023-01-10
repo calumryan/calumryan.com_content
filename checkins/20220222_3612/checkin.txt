@@ -1,0 +1,87 @@
+Title: February 22nd, 2022
+
+----
+
+Text: Checked in at Hoa Sen Vietnamese Restaurant
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/6215436449cde840f2bbfb71
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Hoa Sen Vietnamese Restaurant
+    url:
+      - >
+        https://foursquare.com/v/5e529a8fb8ff1a0008455d9f
+    latitude:
+      - 51.51523
+    longitude:
+      - -0.12314256
+    street-address:
+      - 22 Drury Ln
+    locality:
+      - Holborn
+    region:
+      - Greater London
+    country-name:
+      - United Kingdom
+    postal-code:
+      - WC2B 5RH
+  value: >
+    https://foursquare.com/v/5e529a8fb8ff1a0008455d9f
+
+----
+
+Date: 2022-02-22 20:10:00
+
+----
+
+Uid: 3612
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: clear-sky
+
+----
+
+Temperature: 7°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

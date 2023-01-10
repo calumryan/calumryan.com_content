@@ -1,0 +1,91 @@
+Title: June 21st, 2022
+
+----
+
+Text: Checked in at Pret A Manger
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/62b180a2625d087b73a3fb53
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Pret A Manger
+    url:
+      - >
+        https://foursquare.com/v/4bf5163b6a31d13a2f6d962e
+      - http://www.pret.co.uk
+      - https://twitter.com/pret
+    tel:
+      - 020 7932 5312
+    latitude:
+      - '51.519488316519'
+    longitude:
+      - '-0.089767939428311'
+    street-address:
+      - Unit 3, City Point
+    locality:
+      - London
+    region:
+      - Greater London
+    country-name:
+      - United Kingdom
+    postal-code:
+      - EC2Y 9AW
+  value: >
+    https://foursquare.com/v/4bf5163b6a31d13a2f6d962e
+
+----
+
+Date: 2022-06-21 09:25:00
+
+----
+
+Uid: 3730
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: overcast-clouds
+
+----
+
+Temperature: 18°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

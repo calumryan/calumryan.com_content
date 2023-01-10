@@ -2,7 +2,7 @@ Title: Managing accessibility in open source CMSes: a write-up (via @hdv)
 
 ----
 
-Permalink: https://hiddedevries.nl/en/blog/2019-09-03-managing-accessibility-in-open-source-cmses-a-write-up
+Blink: https://hiddedevries.nl/en/blog/2019-09-03-managing-accessibility-in-open-source-cmses-a-write-up
 
 ----
 

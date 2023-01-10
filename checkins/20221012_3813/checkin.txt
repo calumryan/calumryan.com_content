@@ -1,0 +1,91 @@
+Title: October 12th, 2022
+
+----
+
+Text: Checked in at Soho Theatre
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/634738d4a12fdc1276ec9a1b
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Soho Theatre
+    url:
+      - >
+        https://foursquare.com/v/4ac518e8f964a5209fab20e3
+      - http://sohotheatre.com
+      - https://twitter.com/sohotheatre
+    tel:
+      - 020 7478 0100
+    latitude:
+      - '51.514384455933'
+    longitude:
+      - '-0.1330249925186'
+    street-address:
+      - 21 Dean St
+    locality:
+      - Soho
+    region:
+      - Greater London
+    country-name:
+      - United Kingdom
+    postal-code:
+      - W1D 3NE
+  value: >
+    https://foursquare.com/v/4ac518e8f964a5209fab20e3
+
+----
+
+Date: 2022-10-12 23:00:00
+
+----
+
+Uid: 3813
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: overcast-clouds
+
+----
+
+Temperature: 14°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

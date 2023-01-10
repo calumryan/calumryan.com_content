@@ -2,7 +2,7 @@ Title: Photopea - online photo editor opens Sketch, Photoshop ..and much more!
 
 ----
 
-Permalink: https://www.photopea.com
+Blink: https://www.photopea.com
 
 ----
 

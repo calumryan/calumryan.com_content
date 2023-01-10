@@ -2,7 +2,7 @@ Title: Bulb energy's Solar Design System
 
 ----
 
-Permalink: http://design.bulb.co.uk/#/patterns/styles/colors/README.md
+Blink: http://design.bulb.co.uk/#/patterns/styles/colors/README.md
 
 ----
 

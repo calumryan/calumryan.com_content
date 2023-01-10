@@ -2,7 +2,7 @@ Title: &quot;a handful of useful HTML elements for improving a page's accessibil
 
 ----
 
-Permalink: https://amberwilson.co.uk/blog/accessible-html-elements/
+Blink: https://amberwilson.co.uk/blog/accessible-html-elements/
 
 ----
 

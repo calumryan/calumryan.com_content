@@ -1,0 +1,85 @@
+Title: September 3rd, 2022
+
+----
+
+Text: Checked in at Ginger & Co
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/63133d730bb97c6920fc917a
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - 'Ginger & Co'
+    url:
+      - >
+        https://foursquare.com/v/56b60ad0498e0e0d5ba912eb
+    latitude:
+      - '52.70731302725'
+    longitude:
+      - '-2.7542678332214'
+    locality:
+      - Shrewsbury
+    region:
+      - Shropshire
+    country-name:
+      - United Kingdom
+    postal-code:
+      - SY1
+  value: >
+    https://foursquare.com/v/56b60ad0498e0e0d5ba912eb
+
+----
+
+Date: 2022-09-03 12:40:00
+
+----
+
+Uid: 3786
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: overcast-clouds
+
+----
+
+Temperature: 19°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

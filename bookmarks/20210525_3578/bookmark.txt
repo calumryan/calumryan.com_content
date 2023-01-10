@@ -6,7 +6,7 @@ Date: 2021-05-25 19:05:00
 
 ----
 
-Permalink: https://orbis.stanford.edu
+Blink: https://orbis.stanford.edu
 
 ----
 
@@ -19,3 +19,7 @@ Bridgy:
 ----
 
 Uid: 3578
+
+----
+
+Uuid: KiARQEovRuuuIjsq

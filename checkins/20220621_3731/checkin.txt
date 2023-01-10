@@ -1,0 +1,91 @@
+Title: June 21st, 2022
+
+----
+
+Text: Checked in at Bunhill Fields
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/62b1b841ca55a67d049c3d04
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Bunhill Fields
+    url:
+      - >
+        https://foursquare.com/v/4b586e43f964a5205f5728e3
+      - >
+        http://www.cityoflondon.gov.uk/things-to-do/green-spaces/city-gardens/visitor-information/Pages/Bunhill-Fields.aspx
+    tel:
+      - 020 7606 3030
+    latitude:
+      - '51.523608433731'
+    longitude:
+      - '-0.087860722255402'
+    street-address:
+      - City Rd
+    locality:
+      - London
+    region:
+      - Greater London
+    country-name:
+      - United Kingdom
+    postal-code:
+      - EC1
+  value: >
+    https://foursquare.com/v/4b586e43f964a5205f5728e3
+
+----
+
+Date: 2022-06-21 13:25:00
+
+----
+
+Uid: 3731
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: overcast-clouds
+
+----
+
+Temperature: 23°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

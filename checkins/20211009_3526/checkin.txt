@@ -1,0 +1,83 @@
+Title: October 9th, 2021
+
+----
+
+Text: Checked in at village stores cafe, Fletching
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/61617ca09f507a711f535071
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - village stores cafe, Fletching
+    url:
+      - >
+        https://foursquare.com/v/4fd3727ee4b054c59959baf1
+    latitude:
+      - '50.992379097199'
+    longitude:
+      - '0.034521696322019'
+    street-address:
+      - Fletching Village
+    country-name:
+      - United Kingdom
+  value: >
+    https://foursquare.com/v/4fd3727ee4b054c59959baf1
+
+----
+
+Date: 2021-10-09 12:25:00
+
+----
+
+Uid: 3526
+
+----
+
+Feature-images:
+
+- img_20211009_122355__01.jpg
+
+----
+
+Tags: 
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Weather-icon: clear-sky
+
+----
+
+Temperature: 16°C

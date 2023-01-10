@@ -1,0 +1,89 @@
+Title: September 21st, 2022
+
+----
+
+Text: Checked in at Hotel Johannes Vermeer
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/632ad1b125abe479e9f3e66c
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Hotel Johannes Vermeer
+    url:
+      - >
+        https://foursquare.com/v/4c35ccb33896e21e5cb3ed90
+    tel:
+      - 015 212 6466
+    latitude:
+      - '52.010370763146'
+    longitude:
+      - '4.361706583977'
+    street-address:
+      - Molslaan 18
+    locality:
+      - Delft
+    region:
+      - South Holland
+    country-name:
+      - Netherlands
+    postal-code:
+      - 2611 RM
+  value: >
+    https://foursquare.com/v/4c35ccb33896e21e5cb3ed90
+
+----
+
+Date: 2022-09-21 10:55:00
+
+----
+
+Uid: 3797
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: scattered-clouds
+
+----
+
+Temperature: 15°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

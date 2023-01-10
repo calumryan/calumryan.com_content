@@ -1,0 +1,85 @@
+Title: June 3rd, 2022
+
+----
+
+Text: Checked in at Sodalicious
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/629a0deae945fb2589534c70
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Sodalicious
+    url:
+      - >
+        https://foursquare.com/v/61f54ae4bf60467ffa02f2a6
+    latitude:
+      - 52.662254
+    longitude:
+      - -8.630164
+    locality:
+      - Limerick
+    region:
+      - Co Limerick
+    country-name:
+      - Ireland
+    postal-code:
+      - V94 Y9P9
+  value: >
+    https://foursquare.com/v/61f54ae4bf60467ffa02f2a6
+
+----
+
+Date: 2022-06-03 14:35:00
+
+----
+
+Uid: 3720
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: broken-clouds
+
+----
+
+Temperature: 15°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

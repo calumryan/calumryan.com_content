@@ -6,7 +6,7 @@ Text: A welcome return to @LDN_Sass! Hoping the talks return to a focus on Sass 
 
 ----
 
-Permalink: 
+Blink: 
 
 ----
 

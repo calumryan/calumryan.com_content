@@ -2,7 +2,7 @@ Title: How we make remote working work
 
 ----
 
-Permalink: http://dev.venntro.com/2017/10/how-we-make-remote-working-work/
+Blink: http://dev.venntro.com/2017/10/how-we-make-remote-working-work/
 
 ----
 

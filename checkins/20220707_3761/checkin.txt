@@ -1,0 +1,87 @@
+Title: July 7th, 2022
+
+----
+
+Text: Checked in at Miradouro de São Pedro de Alcântara
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/62c6cfc4ba546366a7196df8
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Miradouro de São Pedro de Alcântara
+    url:
+      - >
+        https://foursquare.com/v/4b0588a2f964a5200dd122e3
+    latitude:
+      - 38.715233
+    longitude:
+      - -9.144247
+    street-address:
+      - R. de São Pedro de Alcântara
+    locality:
+      - Lisbon
+    region:
+      - Lisbon
+    country-name:
+      - Portugal
+    postal-code:
+      - 1269-138
+  value: >
+    https://foursquare.com/v/4b0588a2f964a5200dd122e3
+
+----
+
+Date: 2022-07-07 13:20:00
+
+----
+
+Uid: 3761
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: clear-sky
+
+----
+
+Temperature: 31°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

@@ -2,7 +2,7 @@ Title: &quot;Try device-agnostic words that describe the action, irrespective of
 
 ----
 
-Permalink: https://alistapart.com/article/standards-for-writing-accessibly
+Blink: https://alistapart.com/article/standards-for-writing-accessibly
 
 ----
 

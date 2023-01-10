@@ -2,7 +2,7 @@ Title: Styling the select element in CSS with near perfect consistency and witho
 
 ----
 
-Permalink: https://www.filamentgroup.com/lab/select-css.html
+Blink: https://www.filamentgroup.com/lab/select-css.html
 
 ----
 

@@ -1,0 +1,87 @@
+Title: July 15th, 2022
+
+----
+
+Text: Checked in at Maki Kazzo
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/62d157078820d357bc43c26c
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Maki Kazzo
+    url:
+      - >
+        https://foursquare.com/v/6284dee0f62f1b76d32df80f
+    latitude:
+      - 51.523232
+    longitude:
+      - -0.082095
+    street-address:
+      - 39 Scrutton St
+    locality:
+      - London
+    region:
+      - Greater London
+    country-name:
+      - United Kingdom
+    postal-code:
+      - EC2A 4HU
+  value: >
+    https://foursquare.com/v/6284dee0f62f1b76d32df80f
+
+----
+
+Date: 2022-07-15 13:00:00
+
+----
+
+Uid: 3770
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: broken-clouds
+
+----
+
+Temperature: 24°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

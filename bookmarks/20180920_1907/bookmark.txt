@@ -2,7 +2,7 @@ Title: Lesser-known HTML, often helpful for writing technical documentation and 
 
 ----
 
-Permalink: https://css-tricks.com/html-elements-unite-the-voltron-like-powers-of-combining-elements/
+Blink: https://css-tricks.com/html-elements-unite-the-voltron-like-powers-of-combining-elements/
 
 ----
 

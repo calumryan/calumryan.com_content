@@ -6,7 +6,7 @@ Date: 2021-02-05 09:50:00
 
 ----
 
-Permalink: https://a11yengineer.com/web/
+Blink: https://a11yengineer.com/web/
 
 ----
 
@@ -19,3 +19,7 @@ Bridgy: twitter
 ----
 
 Uid: 3566
+
+----
+
+Uuid: T4XWN5EZ3i8MuxG4

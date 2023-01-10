@@ -1,0 +1,91 @@
+Title: June 9th, 2022
+
+----
+
+Text: Checked in at Crust Bros Pizza
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/62a24f71b6178271fbdb525c
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Crust Bros Pizza
+    url:
+      - >
+        https://foursquare.com/v/598c9e340868a228a8301bd2
+      - http://crustbros.co.uk
+      - https://twitter.com/crustbros
+    tel:
+      - 020 3034 3424
+    latitude:
+      - '51.502767527949'
+    longitude:
+      - '-0.11045686602244'
+    street-address:
+      - 111 Waterloo Rd
+    locality:
+      - Waterloo
+    region:
+      - Greater London
+    country-name:
+      - United Kingdom
+    postal-code:
+      - SE1 8UL
+  value: >
+    https://foursquare.com/v/598c9e340868a228a8301bd2
+
+----
+
+Date: 2022-06-09 20:50:00
+
+----
+
+Uid: 3725
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: broken-clouds
+
+----
+
+Temperature: 17°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

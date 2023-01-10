@@ -2,7 +2,7 @@ Title: Chrome DevTools: Generate a JavaScript expression to get a DOM node by @u
 
 ----
 
-Permalink: https://umaar.com/dev-tips/185-copy-js-path/
+Blink: https://umaar.com/dev-tips/185-copy-js-path/
 
 ----
 

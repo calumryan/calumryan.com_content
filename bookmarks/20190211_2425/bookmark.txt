@@ -2,7 +2,7 @@ Title: What Hooks Mean for Vue
 
 ----
 
-Permalink: https://css-tricks.com/what-hooks-mean-for-vue
+Blink: https://css-tricks.com/what-hooks-mean-for-vue
 
 ----
 

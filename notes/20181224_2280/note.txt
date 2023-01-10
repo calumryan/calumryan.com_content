@@ -6,7 +6,7 @@ Text: Heartened by the interest and engagement we've helped develop for IndieWeb
 
 ----
 
-Permalink: https://blog.voss.co/2018/festive-indieweb-and-selfhosting
+Blink: https://blog.voss.co/2018/festive-indieweb-and-selfhosting
 
 ----
 

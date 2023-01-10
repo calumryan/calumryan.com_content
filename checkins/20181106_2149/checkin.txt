@@ -6,7 +6,7 @@ Text: Checked in at Security Check Terminal B (Sicherheitskontrolle Terminal B)
 
 ----
 
-Permalink: 
+Blink: 
 
 ----
 

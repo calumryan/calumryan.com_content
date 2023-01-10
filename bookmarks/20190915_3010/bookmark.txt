@@ -2,7 +2,7 @@ Title: Level Up: Developing Developers
 
 ----
 
-Permalink: https://speakerdeck.com/mseckington/level-up-developing-developers
+Blink: https://speakerdeck.com/mseckington/level-up-developing-developers
 
 ----
 

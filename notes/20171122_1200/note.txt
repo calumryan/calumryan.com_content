@@ -10,7 +10,7 @@ Feature Image: smashing.png
 
 ----
 
-Permalink: 
+Blink: 
 
 ----
 

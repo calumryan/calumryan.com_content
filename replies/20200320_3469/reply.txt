@@ -6,7 +6,7 @@ Text: Scheduled to be on IWC yellow room, shall share the Zoom link next week if
 
 ----
 
-Permalink: https://twitter.com/craigburgess/status/1241108892962127872?s=19
+Blink: https://twitter.com/craigburgess/status/1241108892962127872?s=19
 
 ----
 
@@ -22,4 +22,8 @@ Redirect: https://calumryan.com/note/3469
 
 ----
 
-UID: 3469
+Uid: 3469
+
+----
+
+Uuid: XVvRXyx0LSuNjKbc

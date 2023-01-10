@@ -2,7 +2,7 @@ Title: Passing Data Between React Components
 
 ----
 
-Permalink: https://medium.com/@ruthmpardee/passing-data-between-react-components-103ad82ebd17
+Blink: https://medium.com/@ruthmpardee/passing-data-between-react-components-103ad82ebd17
 
 ----
 

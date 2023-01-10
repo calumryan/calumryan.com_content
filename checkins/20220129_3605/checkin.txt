@@ -1,0 +1,91 @@
+Title: January 29th, 2022
+
+----
+
+Text: Checked in at Sigma Sport
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/61f53dcd5f0329656aa71802
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Sigma Sport
+    url:
+      - >
+        https://foursquare.com/v/4bdede770ee3a593381d32b0
+      - http://www.sigmasport.co.uk
+      - https://twitter.com/sigmasport
+    tel:
+      - 020 8614 9777
+    latitude:
+      - '51.412764746025'
+    longitude:
+      - '-0.31131058053643'
+    street-address:
+      - 37-43 High St
+    locality:
+      - Hampton Wick
+    region:
+      - Greater London
+    country-name:
+      - United Kingdom
+    postal-code:
+      - KT1 4DA
+  value: >
+    https://foursquare.com/v/4bdede770ee3a593381d32b0
+
+----
+
+Date: 2022-01-29 13:15:00
+
+----
+
+Uid: 3605
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: broken-clouds
+
+----
+
+Temperature: 13°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

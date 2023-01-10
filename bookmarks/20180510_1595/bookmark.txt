@@ -3,7 +3,7 @@ Slides from @yatil's presentation justifying when to/not to use ARIA attributes
 
 ----
 
-Permalink: https://noti.st/yatil/47fUQW/aria-serious
+Blink: https://noti.st/yatil/47fUQW/aria-serious
 
 ----
 

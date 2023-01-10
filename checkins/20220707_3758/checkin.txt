@@ -1,0 +1,90 @@
+Title: July 7th, 2022
+
+----
+
+Text: Checked in at Copenhagen Coffee Lab
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/62c6a0282b512a249e36bb3b
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Copenhagen Coffee Lab
+    url:
+      - >
+        https://foursquare.com/v/5cb06ddf82a750002ca8b412
+      - http://www.cphcoffeelab.com
+    tel:
+      - 916 189 501
+    latitude:
+      - 38.707715
+    longitude:
+      - -9.144086
+    street-address:
+      - Rua de S. Paulo 60
+    locality:
+      - Lisbon
+    region:
+      - Lisbon
+    country-name:
+      - Portugal
+    postal-code:
+      - "1200"
+  value: >
+    https://foursquare.com/v/5cb06ddf82a750002ca8b412
+
+----
+
+Date: 2022-07-07 10:00:00
+
+----
+
+Uid: 3758
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: clear-sky
+
+----
+
+Temperature: 27°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

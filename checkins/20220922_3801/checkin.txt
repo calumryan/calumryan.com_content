@@ -1,0 +1,90 @@
+Title: September 22nd, 2022
+
+----
+
+Text: Checked in at Andalus Fish
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/632c4d238ecd5b542c5a4e0f
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Andalus Fish
+    url:
+      - >
+        https://foursquare.com/v/54cfb533498e0db58a9912b3
+      - http://www.andalusfish.nl
+    tel:
+      - 010 203 6633
+    latitude:
+      - 51.919724
+    longitude:
+      - 4.4864645
+    street-address:
+      - Dominee Jan Scharpstraat 188
+    locality:
+      - Rotterdam
+    region:
+      - South Holland
+    country-name:
+      - Netherlands
+    postal-code:
+      - 3011 GM
+  value: >
+    https://foursquare.com/v/54cfb533498e0db58a9912b3
+
+----
+
+Date: 2022-09-22 13:55:00
+
+----
+
+Uid: 3801
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: scattered-clouds
+
+----
+
+Temperature: 19°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

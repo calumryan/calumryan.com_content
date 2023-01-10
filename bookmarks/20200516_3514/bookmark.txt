@@ -2,7 +2,7 @@ Title:  pattern.css - CSS only library to fill your empty background with beauti
 
 ----
 
-Permalink: https://bansal.io/pattern-css
+Blink: https://bansal.io/pattern-css
 
 ----
 

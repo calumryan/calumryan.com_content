@@ -1,0 +1,95 @@
+Title: December 15th, 2022
+
+----
+
+Text: Checked in at Pho
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/639b6f9f8b2e2a02fa82dd2b
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Pho
+    url:
+      - >
+        https://foursquare.com/v/51cb3325498ec6821f97dc3d
+      - http://www.phocafe.co.uk/islington
+      - https://twitter.com/phorestaurant
+    tel:
+      - 020 7559 5150
+    latitude:
+      - '51.534874722031'
+    longitude:
+      - '-0.10502393946634'
+    street-address:
+      - 39 Upper Street, Islington
+    locality:
+      - London
+    region:
+      - Greater London
+    country-name:
+      - United Kingdom
+    postal-code:
+      - N1 0PN
+  value: >
+    https://foursquare.com/v/51cb3325498ec6821f97dc3d
+
+----
+
+Date: 2022-12-15 19:05:00
+
+----
+
+Uid: 3843
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: few-clouds
+
+----
+
+Temperature: -1°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: kIDqRsyS94B7F09t

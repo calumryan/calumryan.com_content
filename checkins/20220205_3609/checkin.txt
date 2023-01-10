@@ -1,0 +1,91 @@
+Title: February 5th, 2022
+
+----
+
+Text: Checked in at Tate Britain
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/61fe74600d37b41cfe5653e6
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Tate Britain
+    url:
+      - >
+        https://foursquare.com/v/4ac51183f964a52049a020e3
+      - https://www.facebook.com/tategallery
+      - https://twitter.com/tate
+    tel:
+      - 020 7887 8825
+    latitude:
+      - '51.491190408599'
+    longitude:
+      - '-0.12787195475539'
+    street-address:
+      - Millbank
+    locality:
+      - London
+    region:
+      - Greater London
+    country-name:
+      - United Kingdom
+    postal-code:
+      - SW1P 4RG
+  value: >
+    https://foursquare.com/v/4ac51183f964a52049a020e3
+
+----
+
+Date: 2022-02-06 13:00:00
+
+----
+
+Uid: 3609
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: broken-clouds
+
+----
+
+Temperature: 10°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

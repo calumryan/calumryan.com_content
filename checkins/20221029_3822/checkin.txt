@@ -1,0 +1,85 @@
+Title: October 29th, 2022
+
+----
+
+Text: Checked in at I Dim Sum
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/635d28443151371580eb0a62
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - I Dim Sum
+    url:
+      - >
+        https://foursquare.com/v/614743ccc6c02805e996cf3b
+    latitude:
+      - 51.41966
+    longitude:
+      - -0.201704
+    locality:
+      - London
+    region:
+      - Greater London
+    country-name:
+      - United Kingdom
+    postal-code:
+      - SW19 1RH
+  value: >
+    https://foursquare.com/v/614743ccc6c02805e996cf3b
+
+----
+
+Date: 2022-10-29 14:20:00
+
+----
+
+Uid: 3822
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: clear-sky
+
+----
+
+Temperature: 21°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

@@ -1,0 +1,91 @@
+Title: September 9th, 2022
+
+----
+
+Text: Checked in at Bread and Milk
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/631ae468d0ccbb3cc9be75fe
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Bread and Milk
+    url:
+      - >
+        https://foursquare.com/v/5010285ce4b03a1c2824670a
+      - http://www.breadandmilk.co.uk
+      - https://twitter.com/breadandmilkuk
+    tel:
+      - 01273 674432
+    latitude:
+      - '50.828229059595'
+    longitude:
+      - '-0.13790735295961'
+    street-address:
+      - 82 Trafalgar St
+    locality:
+      - Brighton
+    region:
+      - East Sussex
+    country-name:
+      - United Kingdom
+    postal-code:
+      - BN1 4EB
+  value: >
+    https://foursquare.com/v/5010285ce4b03a1c2824670a
+
+----
+
+Date: 2022-09-09 08:00:00
+
+----
+
+Uid: 3788
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: few-clouds
+
+----
+
+Temperature: 15°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

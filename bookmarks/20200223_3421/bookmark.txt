@@ -2,7 +2,7 @@ Title: Fixed Headers and Jump Links? The Solution is scroll-margin-top
 
 ----
 
-Permalink: https://css-tricks.com/fixed-headers-and-jump-links-the-solution-is-scroll-margin-top/
+Blink: https://css-tricks.com/fixed-headers-and-jump-links-the-solution-is-scroll-margin-top/
 
 ----
 

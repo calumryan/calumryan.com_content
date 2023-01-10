@@ -2,7 +2,7 @@ Title: Resilient Management, An Excerpt – A List Apart
 
 ----
 
-Permalink: https://alistapart.com/article/resilient-management-excerpt/
+Blink: https://alistapart.com/article/resilient-management-excerpt/
 
 ----
 

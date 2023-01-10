@@ -1,0 +1,91 @@
+Title: May 19th, 2022
+
+----
+
+Text: Checked in at Whitecross Street Market
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/628631b5fbd35264be9d8ce2
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Whitecross Street Market
+    url:
+      - >
+        https://foursquare.com/v/4ac518eef964a52021ad20e3
+      - http://www.bitecross.co.uk
+      - https://twitter.com/whitecrossstec1
+    tel:
+      - 020 7527 3830
+    latitude:
+      - '51.523483423514'
+    longitude:
+      - '-0.093173729519'
+    street-address:
+      - Whitecross St
+    locality:
+      - London
+    region:
+      - Greater London
+    country-name:
+      - United Kingdom
+    postal-code:
+      - EC1Y 8JA
+  value: >
+    https://foursquare.com/v/4ac518eef964a52021ad20e3
+
+----
+
+Date: 2022-05-19 13:00:00
+
+----
+
+Uid: 3700
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: broken-clouds
+
+----
+
+Temperature: 20°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

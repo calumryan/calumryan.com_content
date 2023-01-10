@@ -6,7 +6,7 @@ Text: My Visual Studio Code Setup: Extensions and Themes by Matthias Ott
 
 ----
 
-Permalink: https://matthiasott.com/notes/visual-studio-code-setup
+Blink: https://matthiasott.com/notes/visual-studio-code-setup
 
 ----
 

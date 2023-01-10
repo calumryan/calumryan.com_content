@@ -2,7 +2,7 @@ Title: Accessible color palette builder - find out which colors can be combined 
 
 ----
 
-Permalink: https://toolness.github.io
+Blink: https://toolness.github.io
 
 ----
 

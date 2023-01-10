@@ -3,7 +3,7 @@ Title: Challenges for web developers https://paul.kinlan.me/challenges-for-web-d
 
 ----
 
-Permalink: https://paul.kinlan.me/challenges-for-web-developers/
+Blink: https://paul.kinlan.me/challenges-for-web-developers/
 
 ----
 

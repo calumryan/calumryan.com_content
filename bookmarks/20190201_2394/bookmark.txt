@@ -2,7 +2,7 @@ Title: A Year of Utility Classes – experiences of using TailwindCSS by @asclea
 
 ----
 
-Permalink: https://css-irl.info/a-year-of-utility-classes
+Blink: https://css-irl.info/a-year-of-utility-classes
 
 ----
 

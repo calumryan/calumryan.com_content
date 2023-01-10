@@ -2,7 +2,7 @@ Title: Custom road maps render with OSM
 
 ----
 
-Permalink: https://anvaka.github.io/city-roads/
+Blink: https://anvaka.github.io/city-roads/
 
 ----
 

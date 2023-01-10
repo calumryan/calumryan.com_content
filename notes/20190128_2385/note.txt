@@ -6,7 +6,7 @@ Text: Revive them layers and keyframes, CSS-in-AS!
 
 ----
 
-Permalink: 
+Blink: 
 
 ----
 

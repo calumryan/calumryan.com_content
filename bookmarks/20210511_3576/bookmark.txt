@@ -6,7 +6,7 @@ Date: 2021-05-11 22:45:00
 
 ----
 
-Permalink: https://darekkay.com/blog/evaluatory-personal-sites/
+Blink: https://darekkay.com/blog/evaluatory-personal-sites/
 
 ----
 
@@ -19,3 +19,7 @@ Bridgy:
 ----
 
 Uid: 3576
+
+----
+
+Uuid: z3cS7ofEFORF54JR

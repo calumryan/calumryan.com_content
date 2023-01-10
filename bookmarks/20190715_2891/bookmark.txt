@@ -2,7 +2,7 @@ Title: How to run a small social network site for your friends
 
 ----
 
-Permalink: https://runyourown.social
+Blink: https://runyourown.social
 
 ----
 

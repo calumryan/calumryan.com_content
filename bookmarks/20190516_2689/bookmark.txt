@@ -2,7 +2,7 @@ Title: Patterns &amp; Strategies for accessible web-apps
 
 ----
 
-Permalink: https://accessible-app.com/patterns/
+Blink: https://accessible-app.com/patterns/
 
 ----
 

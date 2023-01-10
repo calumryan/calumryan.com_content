@@ -6,7 +6,7 @@ Date: 2021-03-19 11:50:00
 
 ----
 
-Permalink: https://www.accessibility-developer-guide.com/setup/windows/vmware-on-macos/
+Blink: https://www.accessibility-developer-guide.com/setup/windows/vmware-on-macos/
 
 ----
 
@@ -19,3 +19,7 @@ Bridgy: twitter
 ----
 
 Uid: 3573
+
+----
+
+Uuid: tGrlB60LMIjRNn79

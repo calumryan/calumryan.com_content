@@ -2,7 +2,7 @@ Title: Minimal Js library for watching and responding to state of your browser's
 
 ----
 
-Permalink: https://tornis.robbowen.digital
+Blink: https://tornis.robbowen.digital
 
 ----
 

@@ -6,7 +6,7 @@ Text:
 
 ----
 
-Permalink: https://www.tonbridge.digital/articles/march-2020-event/
+Blink: https://www.tonbridge.digital/articles/march-2020-event/
 
 ----
 
@@ -22,4 +22,8 @@ Redirect: https://calumryan.com/note/3477
 
 ----
 
-UID: 3477
+Uid: 3477
+
+----
+
+Uuid: rfZsrHoBhjkws6PL

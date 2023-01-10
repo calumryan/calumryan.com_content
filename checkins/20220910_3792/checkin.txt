@@ -1,0 +1,94 @@
+Title: September 10th, 2022
+
+----
+
+Text: Checked in at Ole & Steen
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/631c63f167a10556510580c2
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - 'Ole & Steen'
+    url:
+      - >
+        https://foursquare.com/v/59ad422bf0ca95663b4cbfe1
+      - >
+        https://oleandsteen.co.uk/?y_source=1_MTY5NTUzNDctNDQwLWxvY2F0aW9uLndlYnNpdGU=
+      - https://twitter.com/oleandsteenuk
+    tel:
+      - 020 3908 7000
+    latitude:
+      - '51.505963145941'
+    longitude:
+      - '-0.017353892326355'
+    street-address:
+      - >
+        Canary Wharf, Crossrail Place, CR34,
+        mall level -1
+    locality:
+      - London
+    region:
+      - Greater London
+    country-name:
+      - United Kingdom
+    postal-code:
+      - E14 5AR
+  value: >
+    https://foursquare.com/v/59ad422bf0ca95663b4cbfe1
+
+----
+
+Date: 2022-09-10 11:15:00
+
+----
+
+Uid: 3792
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: broken-clouds
+
+----
+
+Temperature: 18°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

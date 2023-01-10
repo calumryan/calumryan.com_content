@@ -6,7 +6,7 @@ Text: Attending IndieWebCamp London 2020
 
 ----
 
-Permalink: https://2020.indieweb.org/london
+Blink: https://2020.indieweb.org/london
 
 ----
 

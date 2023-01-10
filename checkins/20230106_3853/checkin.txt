@@ -1,0 +1,95 @@
+Title: January 6th, 2023
+
+----
+
+Text: Checked in at Royal Festival Hall
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/63b89178fdc53f2134876446
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Royal Festival Hall
+    url:
+      - >
+        https://foursquare.com/v/4b0bf426f964a5200e3523e3
+      - http://www.southbankcentre.co.uk
+      - https://twitter.com/southbankcentre
+    tel:
+      - 0844 875 0073
+    latitude:
+      - '51.505837753829'
+    longitude:
+      - '-0.11666729376884'
+    street-address:
+      - Belvedere Rd
+    locality:
+      - London
+    region:
+      - Greater London
+    country-name:
+      - United Kingdom
+    postal-code:
+      - SE1 8XX
+  value: >
+    https://foursquare.com/v/4b0bf426f964a5200e3523e3
+
+----
+
+Date: 2023-01-06 21:25:00
+
+----
+
+Uid: 3853
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: broken-clouds
+
+----
+
+Temperature: 12°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: Zlst1dPRYnTtl2SV

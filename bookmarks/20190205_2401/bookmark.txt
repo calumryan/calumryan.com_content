@@ -2,7 +2,7 @@ Title: Simple autocomplete pure vanilla Javascript library
 
 ----
 
-Permalink: https://tarekraafat.github.io/autoComplete.js/
+Blink: https://tarekraafat.github.io/autoComplete.js/
 
 ----
 

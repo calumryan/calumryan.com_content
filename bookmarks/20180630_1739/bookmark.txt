@@ -2,7 +2,7 @@ Title: How and Why We Unit Test Our Sass
 
 ----
 
-Permalink: https://seesparkbox.com/foundry/how_and_why_we_unit_test_our_sass
+Blink: https://seesparkbox.com/foundry/how_and_why_we_unit_test_our_sass
 
 ----
 

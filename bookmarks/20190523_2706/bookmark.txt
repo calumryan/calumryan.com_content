@@ -2,7 +2,7 @@ Title: All the latest session videos from IndieWebCamps now on Archive.org
 
 ----
 
-Permalink: https://archive.org/details/@indieweb
+Blink: https://archive.org/details/@indieweb
 
 ----
 

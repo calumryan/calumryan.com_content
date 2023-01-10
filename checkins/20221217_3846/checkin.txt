@@ -1,0 +1,91 @@
+Title: December 17th, 2022
+
+----
+
+Text: Checked in at Bao
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/639df43a683ff34962fd2e3a
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Bao
+    url:
+      - >
+        https://foursquare.com/v/551a8e5b498eb6557b961282
+      - http://baolondon.com
+      - https://twitter.com/bao_london
+    latitude:
+      - 51.513066
+    longitude:
+      - -0.136525
+    street-address:
+      - 53 Lexington St
+    locality:
+      - London
+    country-name:
+      - United Kingdom
+    postal-code:
+      - W1F 9AS
+  value: >
+    https://foursquare.com/v/551a8e5b498eb6557b961282
+
+----
+
+Date: 2022-12-17 16:55:00
+
+----
+
+Uid: 3846
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: overcast-clouds
+
+----
+
+Temperature: 2°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: CbvjaYwwBssbRzds

@@ -6,7 +6,7 @@ Date: 2021-01-26 18:25:00
 
 ----
 
-Permalink: https://www.hassellinclusion.com/blog/should-accessible-websites-still-support-ie11/
+Blink: https://www.hassellinclusion.com/blog/should-accessible-websites-still-support-ie11/
 
 ----
 

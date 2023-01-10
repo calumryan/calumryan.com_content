@@ -3,7 +3,7 @@ Title: Accessibility for Vestibular Disorders
 
 ----
 
-Permalink: https://alistapart.com/article/accessibility-for-vestibular
+Blink: https://alistapart.com/article/accessibility-for-vestibular
 
 ----
 

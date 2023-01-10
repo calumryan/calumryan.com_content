@@ -2,7 +2,7 @@ Title: Text editing techniques every Front-End developer should know
 
 ----
 
-Permalink: https://benfrain.com/text-editing-techniques-every-front-end-developer-should-know/
+Blink: https://benfrain.com/text-editing-techniques-every-front-end-developer-should-know/
 
 ----
 

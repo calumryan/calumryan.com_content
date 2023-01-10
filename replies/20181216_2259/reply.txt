@@ -8,7 +8,7 @@ Version of emotion-js in use has issues in the compiling process. (Seem to be so
 
 ----
 
-Permalink: https://twitter.com/gatsbyjs/status/1074365934633050112
+Blink: https://twitter.com/gatsbyjs/status/1074365934633050112
 
 ----
 

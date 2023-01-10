@@ -2,7 +2,7 @@ Title: Semantics to Screen Readers – Melanie Richards
 
 ----
 
-Permalink: https://alistapart.com/article/semantics-to-screen-readers
+Blink: https://alistapart.com/article/semantics-to-screen-readers
 
 ----
 

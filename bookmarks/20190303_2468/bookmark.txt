@@ -2,7 +2,7 @@ Title: Make your Google Fonts render faster
 
 ----
 
-Permalink: https://googlefonts.3perf.com
+Blink: https://googlefonts.3perf.com
 
 ----
 

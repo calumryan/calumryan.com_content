@@ -1,0 +1,87 @@
+Title: June 25th, 2022
+
+----
+
+Text: Checked in at Lindfield Coffee Works
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/62b6ef952ff1370aaa8b5535
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Lindfield Coffee Works
+    url:
+      - >
+        https://foursquare.com/v/58456490126ae874688e9985
+    latitude:
+      - '51.013263645516'
+    longitude:
+      - '-0.080684230597124'
+    street-address:
+      - 70 The High Street, Unit 2
+    locality:
+      - Lindfield
+    region:
+      - West Sussex
+    country-name:
+      - United Kingdom
+    postal-code:
+      - RH16 2HL
+  value: >
+    https://foursquare.com/v/58456490126ae874688e9985
+
+----
+
+Date: 2022-06-25 12:20:00
+
+----
+
+Uid: 3738
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: scattered-clouds
+
+----
+
+Temperature: 17°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

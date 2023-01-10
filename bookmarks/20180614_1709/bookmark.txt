@@ -2,7 +2,7 @@ Title: Your Brain on Front-End Development
 
 ----
 
-Permalink: https://css-tricks.com/your-brain-on-front-end-development/
+Blink: https://css-tricks.com/your-brain-on-front-end-development/
 
 ----
 

@@ -1,0 +1,91 @@
+Title: June 24th, 2022
+
+----
+
+Text: Checked in at Dishoom
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/62b5adef1b901c2dce99496c
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Dishoom
+    url:
+      - >
+        https://foursquare.com/v/5040721ae4b01446aa41d438
+      - http://www.dishoom.com
+      - https://twitter.com/dishoom
+    tel:
+      - 020 7420 9324
+    latitude:
+      - '51.524514821854'
+    longitude:
+      - '-0.076849714089125'
+    street-address:
+      - 7 Boundary St
+    locality:
+      - London
+    region:
+      - Greater London
+    country-name:
+      - United Kingdom
+    postal-code:
+      - E2 7JE
+  value: >
+    https://foursquare.com/v/5040721ae4b01446aa41d438
+
+----
+
+Date: 2022-06-24 13:30:00
+
+----
+
+Uid: 3737
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: broken-clouds
+
+----
+
+Temperature: 21°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

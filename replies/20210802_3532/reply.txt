@@ -1,0 +1,29 @@
+Title: August 2nd, 2021
+
+----
+
+Text: Test a webmention to JamesG
+
+----
+
+Date: 2021-08-02 09:50:00
+
+----
+
+Blink: https://jamesg.blog
+
+----
+
+Tags: 
+
+----
+
+Bridgy: 
+
+----
+
+Uid: 3532
+
+----
+
+Uuid: XHDXip70WjZPJlUD

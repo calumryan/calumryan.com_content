@@ -2,7 +2,7 @@ Title: Using mix blend mode in CSS
 
 ----
 
-Permalink: https://developer.mozilla.org/en-US/docs/Web/CSS/mix-blend-mode
+Blink: https://developer.mozilla.org/en-US/docs/Web/CSS/mix-blend-mode
 
 ----
 

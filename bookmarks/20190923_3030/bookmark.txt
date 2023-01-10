@@ -2,7 +2,7 @@ Title: Essential settings to test screen reader and keyboard navigation in Safar
 
 ----
 
-Permalink: https://a11yproject.com/posts/safari-keyboard-navigation/
+Blink: https://a11yproject.com/posts/safari-keyboard-navigation/
 
 ----
 

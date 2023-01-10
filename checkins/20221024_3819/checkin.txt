@@ -1,0 +1,89 @@
+Title: October 24th, 2022
+
+----
+
+Text: Checked in at Medicine Bakery and Kitchen
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/635663a631d9827e26b14a48
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Medicine Bakery and Kitchen
+    url:
+      - >
+        https://foursquare.com/v/5919d057bed48311a1a0c6e9
+      - http://www.medicinebakery.co.uk
+      - https://twitter.com/medicinebrum
+    latitude:
+      - '52.479509903893'
+    longitude:
+      - '-1.9016835093498'
+    street-address:
+      - 69A New St.
+    locality:
+      - Birmingham
+    region:
+      - West Midlands
+    country-name:
+      - United Kingdom
+    postal-code:
+      - B2 4DU
+  value: >
+    https://foursquare.com/v/5919d057bed48311a1a0c6e9
+
+----
+
+Date: 2022-10-24 11:05:00
+
+----
+
+Uid: 3819
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: few-clouds
+
+----
+
+Temperature: 12°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

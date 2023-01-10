@@ -2,7 +2,7 @@ Title: Well rounded article questioning the role of a front-end developer in 201
 
 ----
 
-Permalink: https://css-tricks.com/the-great-divide/
+Blink: https://css-tricks.com/the-great-divide/
 
 ----
 

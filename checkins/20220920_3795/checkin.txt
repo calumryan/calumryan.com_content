@@ -1,0 +1,83 @@
+Title: September 20th, 2022
+
+----
+
+Text: Checked in at Stena Line Terminal Harwich
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/632a13f97264362092cc2044
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Stena Line Terminal Harwich
+    url:
+      - >
+        https://foursquare.com/v/57128052498e6940a2bfc39f
+    latitude:
+      - 51.948309
+    longitude:
+      - 1.253272
+    locality:
+      - Harwich
+    region:
+      - Essex
+    country-name:
+      - United Kingdom
+  value: >
+    https://foursquare.com/v/57128052498e6940a2bfc39f
+
+----
+
+Date: 2022-09-20 20:25:00
+
+----
+
+Uid: 3795
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: overcast-clouds
+
+----
+
+Temperature: 15°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

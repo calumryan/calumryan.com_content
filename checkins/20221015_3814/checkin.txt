@@ -1,0 +1,89 @@
+Title: October 15th, 2022
+
+----
+
+Text: Checked in at Blue Mermaid Fish Bar
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/634aa49d6b090e68dc562d66
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Blue Mermaid Fish Bar
+    url:
+      - >
+        https://foursquare.com/v/501ff272e4b09fd159d4458a
+    tel:
+      - 01304 365388
+    latitude:
+      - '51.221599449502'
+    longitude:
+      - '1.4028098616835'
+    street-address:
+      - 18 Victoria Road
+    locality:
+      - Deal
+    region:
+      - Kent
+    country-name:
+      - United Kingdom
+    postal-code:
+      - CT14 7BN
+  value: >
+    https://foursquare.com/v/501ff272e4b09fd159d4458a
+
+----
+
+Date: 2022-10-15 13:15:00
+
+----
+
+Uid: 3814
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: broken-clouds
+
+----
+
+Temperature: 17°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

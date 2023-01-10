@@ -6,7 +6,7 @@ Text: Attending IndieWebCamp Berlin ✅
 
 ----
 
-Permalink: https://2019.indieweb.org/berlin
+Blink: https://2019.indieweb.org/berlin
 
 ----
 

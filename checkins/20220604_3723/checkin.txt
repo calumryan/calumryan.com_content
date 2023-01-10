@@ -1,0 +1,90 @@
+Title: June 4th, 2022
+
+----
+
+Text: Checked in at Lana Tullamore Asian Street Food
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/629b51c38a4ee11f73766efc
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Lana Tullamore Asian Street Food
+    url:
+      - >
+        https://foursquare.com/v/59aa6bf79de23b724cef309d
+      - http://www.lanathai.ie
+    tel:
+      - (057) 936 0408
+    latitude:
+      - '53.276127418269'
+    longitude:
+      - '-7.4919004074097'
+    street-address:
+      - William Street
+    locality:
+      - Tullamore
+    region:
+      - Co Offaly
+    country-name:
+      - Ireland
+    postal-code:
+      - R35 XV10
+  value: >
+    https://foursquare.com/v/59aa6bf79de23b724cef309d
+
+----
+
+Date: 2022-06-04 13:35:00
+
+----
+
+Uid: 3723
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: few-clouds
+
+----
+
+Temperature: 14°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

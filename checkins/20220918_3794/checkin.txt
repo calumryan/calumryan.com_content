@@ -1,0 +1,83 @@
+Title: September 18th, 2022
+
+----
+
+Text: Checked in at The Plant Base U.K.
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/6327075e841a155319d58803
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - The Plant Base U.K.
+    url:
+      - >
+        https://foursquare.com/v/58b583d906f1a3210186e478
+    latitude:
+      - 51.135288
+    longitude:
+      - 0.268118
+    locality:
+      - Tunbridge Wells
+    region:
+      - Kent
+    country-name:
+      - United Kingdom
+  value: >
+    https://foursquare.com/v/58b583d906f1a3210186e478
+
+----
+
+Date: 2022-09-18 12:55:00
+
+----
+
+Uid: 3794
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: overcast-clouds
+
+----
+
+Temperature: 16°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

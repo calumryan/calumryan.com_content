@@ -1,0 +1,83 @@
+Title: June 1st, 2022
+
+----
+
+Text: Checked in at Mondo Coffee Shop
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/62973df82c94977df2ccaead
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Mondo Coffee Shop
+    url:
+      - >
+        https://foursquare.com/v/5d4bdef6ac2ecd00071f07a4
+    latitude:
+      - 52.843179
+    longitude:
+      - -8.984328
+    locality:
+      - Ennis
+    region:
+      - Co Clare
+    country-name:
+      - Ireland
+  value: >
+    https://foursquare.com/v/5d4bdef6ac2ecd00071f07a4
+
+----
+
+Date: 2022-06-01 11:25:00
+
+----
+
+Uid: 3713
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: scattered-clouds
+
+----
+
+Temperature: 15°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

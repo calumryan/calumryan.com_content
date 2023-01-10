@@ -1,0 +1,91 @@
+Title: July 31st, 2022
+
+----
+
+Text: Checked in at Leon
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/62e683294563a040677809d4
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Leon
+    url:
+      - >
+        https://foursquare.com/v/55a6588a498e3149abd20701
+      - https://leon.co
+      - https://twitter.com/leonrestaurants
+    tel:
+      - 020 7580 7501
+    latitude:
+      - '51.518293014571'
+    longitude:
+      - '-0.13202260856435'
+    street-address:
+      - 27 Tottenham Crt Rd
+    locality:
+      - London
+    region:
+      - Greater London
+    country-name:
+      - United Kingdom
+    postal-code:
+      - W1T 1BJ
+  value: >
+    https://foursquare.com/v/55a6588a498e3149abd20701
+
+----
+
+Date: 2022-07-31 14:25:00
+
+----
+
+Uid: 3777
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: broken-clouds
+
+----
+
+Temperature: 24°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

@@ -2,7 +2,7 @@ Title: Workshop testing for web accessibility
 
 ----
 
-Permalink: https://training.wp-accessible.org/
+Blink: https://training.wp-accessible.org/
 
 ----
 

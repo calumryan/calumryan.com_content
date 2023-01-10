@@ -1,0 +1,25 @@
+Title: EU Runs World’s Largest Accessibility Test
+
+----
+
+Date: 2022-02-01 19:05:00
+
+----
+
+Blink: https://www.deque.com/blog/eu-runs-worlds-largest-accessibility-test/
+
+----
+
+Tags: a11y
+
+----
+
+Bridgy: 
+
+----
+
+Uid: 3586
+
+----
+
+Uuid: IR5YL5IIt9FbYgv7

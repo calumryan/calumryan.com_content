@@ -6,7 +6,7 @@ Date: 2020-07-22 16:05
 
 ----
 
-Permalink: https://css-tricks.com/using-flexbox-and-text-ellipsis-together/
+Blink: https://css-tricks.com/using-flexbox-and-text-ellipsis-together/
 
 ----
 

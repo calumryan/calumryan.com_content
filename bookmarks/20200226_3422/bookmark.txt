@@ -2,7 +2,7 @@ Title: Expedia Accessibility Guidelines
 
 ----
 
-Permalink: https://accessibility.expedia.biz/
+Blink: https://accessibility.expedia.biz/
 
 ----
 

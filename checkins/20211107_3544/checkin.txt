@@ -1,0 +1,86 @@
+Title: November 7th, 2021
+
+----
+
+Text: Checked in at Jan-Wellem-Reiterstandbild
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/61879d24c70e6268f260d5c5
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Jan-Wellem-Reiterstandbild
+    url:
+      - >
+        https://foursquare.com/v/5ce1b33a2d2fd9002c39bd23
+    latitude:
+      - 51.22581
+    longitude:
+      - 6.772074
+    locality:
+      - Dusseldorf
+    region:
+      - North Rhine-Westphalia
+    country-name:
+      - Germany
+  value: >
+    https://foursquare.com/v/5ce1b33a2d2fd9002c39bd23
+
+----
+
+Date: 2021-11-07 09:30:00
+
+----
+
+Uid: 3544
+
+----
+
+Feature-images:
+
+- >
+  407869714_f90f4kat464_omhp4khsoxndf3xzlgc7alzoxtcenak.jpg
+
+----
+
+Tags: 
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Weather-icon: scattered-clouds
+
+----
+
+Temperature: 11°C

@@ -6,7 +6,7 @@ Text: Form design principles: label your submit buttons with something other tha
 
 ----
 
-Permalink: 
+Blink: 
 
 ----
 

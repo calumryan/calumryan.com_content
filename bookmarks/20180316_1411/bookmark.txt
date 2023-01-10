@@ -2,7 +2,7 @@ Title: Swapping Images with the Sizes Attribute https://www.filamentgroup.com/la
 
 ----
 
-Permalink: https://www.filamentgroup.com/lab/sizes-swap/
+Blink: https://www.filamentgroup.com/lab/sizes-swap/
 
 ----
 

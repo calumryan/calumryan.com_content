@@ -2,7 +2,7 @@ Title: Stacking Cards Effect with CSS
 
 ----
 
-Permalink: https://codyhouse.co/tutorials/how-stacking-cards
+Blink: https://codyhouse.co/tutorials/how-stacking-cards
 
 ----
 

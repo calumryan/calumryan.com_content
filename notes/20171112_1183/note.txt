@@ -6,7 +6,7 @@ Text: Standby, renewing SSL certificate, this might be painful..
 
 ----
 
-Permalink: 
+Blink: 
 
 ----
 

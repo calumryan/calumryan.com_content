@@ -1,0 +1,91 @@
+Title: February 25th, 2022
+
+----
+
+Text: Checked in at Tortilla
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/6218e8143a8d3b221e4a3b78
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Tortilla
+    url:
+      - >
+        https://foursquare.com/v/4f733466e4b030aac6e96b70
+      - https://www.tortilla.co.uk
+      - https://twitter.com/tortillauk
+    tel:
+      - 020 8947 3589
+    latitude:
+      - '51.420043882774'
+    longitude:
+      - '-0.204443995821'
+    street-address:
+      - 22 The Broadway
+    locality:
+      - Wimbledon
+    region:
+      - Greater London
+    country-name:
+      - United Kingdom
+    postal-code:
+      - SW19 1RE
+  value: >
+    https://foursquare.com/v/4f733466e4b030aac6e96b70
+
+----
+
+Date: 2022-02-25 14:30:00
+
+----
+
+Uid: 3614
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: scattered-clouds
+
+----
+
+Temperature: 11°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

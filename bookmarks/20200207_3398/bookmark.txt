@@ -2,7 +2,7 @@ Title: Useful web extension for highlighting accessibility issues visually
 
 ----
 
-Permalink: https://ffoodd.github.io/a11y.css/
+Blink: https://ffoodd.github.io/a11y.css/
 
 ----
 

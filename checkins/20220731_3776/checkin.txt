@@ -1,0 +1,88 @@
+Title: July 31st, 2022
+
+----
+
+Text: Checked in at The Espresso Room
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/62e64efa01cd6e702786089f
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - The Espresso Room
+    url:
+      - >
+        https://foursquare.com/v/5d9b0c2d2ffbd20008a4a0b8
+    latitude:
+      - 51.513321
+    longitude:
+      - 0.006405
+    locality:
+      - London
+    region:
+      - Greater London
+    country-name:
+      - United Kingdom
+    postal-code:
+      - E14
+  value: >
+    https://foursquare.com/v/5d9b0c2d2ffbd20008a4a0b8
+
+----
+
+Date: 2022-07-31 10:45:00
+
+----
+
+Uid: 3776
+
+----
+
+Feature-images:
+
+- >
+  407869714_vak5z3nhvl0lypvxm1skhnq1bfg6njpnlyiuwbi3da0.jpg
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: broken-clouds
+
+----
+
+Temperature: 22°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

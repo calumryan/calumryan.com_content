@@ -1,0 +1,91 @@
+Title: October 22nd, 2022
+
+----
+
+Text: Checked in at Leicester Square Theatre
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/63542e95fd1bf4357bfd9e5b
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Leicester Square Theatre
+    url:
+      - >
+        https://foursquare.com/v/4ac518eaf964a52002ac20e3
+      - http://www.leicestersquaretheatre.com
+      - https://twitter.com/lsqtheatre
+    tel:
+      - 0844 873 3433
+    latitude:
+      - '51.511347299462'
+    longitude:
+      - '-0.1302198105934'
+    street-address:
+      - 6 Leicester Pl
+    locality:
+      - City of Westminster
+    region:
+      - Greater London
+    country-name:
+      - United Kingdom
+    postal-code:
+      - WC2H 7BX
+  value: >
+    https://foursquare.com/v/4ac518eaf964a52002ac20e3
+
+----
+
+Date: 2022-10-22 18:55:00
+
+----
+
+Uid: 3817
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: overcast-clouds
+
+----
+
+Temperature: 15°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

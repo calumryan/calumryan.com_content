@@ -2,7 +2,7 @@ Title: How to Distribute a Pattern Library as an npm Package from a Private Git 
 
 ----
 
-Permalink: https://cloudfour.com/thinks/how-to-distribute-a-pattern-library-as-an-npm-package-from-a-private-git-repo
+Blink: https://cloudfour.com/thinks/how-to-distribute-a-pattern-library-as-an-npm-package-from-a-private-git-repo
 
 ----
 

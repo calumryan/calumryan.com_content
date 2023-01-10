@@ -2,7 +2,7 @@ Title: &quot;we must start to see inaccessible and slow websites for what they a
 
 ----
 
-Permalink: https://css-tricks.com/accessibility-and-web-performance-are-not-features-theyre-the-baseline/
+Blink: https://css-tricks.com/accessibility-and-web-performance-are-not-features-theyre-the-baseline/
 
 ----
 

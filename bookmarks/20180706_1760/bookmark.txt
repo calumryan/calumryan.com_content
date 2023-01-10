@@ -2,7 +2,7 @@ Title: Debunking Common IE Grid Misconceptions
 
 ----
 
-Permalink: https://css-tricks.com/css-grid-in-ie-debunking-common-ie-grid-misconceptions
+Blink: https://css-tricks.com/css-grid-in-ie-debunking-common-ie-grid-misconceptions
 
 ----
 

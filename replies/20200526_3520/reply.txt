@@ -6,7 +6,7 @@ Text: Organising them weekly at the moment so hopefully another time you can Sha
 
 ----
 
-Permalink: https://twitter.com/ShaneHudson/status/1265339281897394183
+Blink: https://twitter.com/ShaneHudson/status/1265339281897394183
 
 ----
 
@@ -22,4 +22,8 @@ Redirect: https://calumryan.com/note/3520
 
 ----
 
-UID: 3520
+Uid: 3520
+
+----
+
+Uuid: MSytkM6QNBWj0WvD

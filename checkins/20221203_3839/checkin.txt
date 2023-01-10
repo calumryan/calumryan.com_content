@@ -1,0 +1,90 @@
+Title: December 3rd, 2022
+
+----
+
+Text: Checked in at Big Jo Bakery
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/638b49d71b5b44758f1d45f8
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Big Jo Bakery
+    url:
+      - >
+        https://foursquare.com/v/5f6dae9ad23971586858a8de
+      - http://bigjobakery.com
+    tel:
+      - 020 3915 6760
+    latitude:
+      - 51.563137
+    longitude:
+      - -0.11776943
+    street-address:
+      - 318-326 Hornsey Rd
+    country-name:
+      - United Kingdom
+    postal-code:
+      - N7 7HE
+  value: >
+    https://foursquare.com/v/5f6dae9ad23971586858a8de
+
+----
+
+Date: 2022-12-03 13:05:00
+
+----
+
+Uid: 3839
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: overcast-clouds
+
+----
+
+Temperature: 7°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: OuimkKUTqs5v61zc

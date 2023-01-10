@@ -2,7 +2,7 @@ Title: Usability Testing for Voice Content – A List Apart
 
 ----
 
-Permalink: https://alistapart.com/article/usability-testing-for-voice-content/
+Blink: https://alistapart.com/article/usability-testing-for-voice-content/
 
 ----
 

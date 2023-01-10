@@ -6,7 +6,7 @@ Text:  Getting to grips with using TalkBack on Android. It's a very different wa
 
 ----
 
-Permalink: 
+Blink: 
 
 ----
 

@@ -1,0 +1,90 @@
+Title: November 2nd, 2022
+
+----
+
+Text: Checked in at Barbican Cinema 1
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/6362aa4fb7b3dd0842bb6f2d
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Barbican Cinema 1
+    url:
+      - >
+        https://foursquare.com/v/5240934411d26ab2fe919a2d
+      - >
+        https://www.barbican.org.uk/whats-on/cinema
+      - https://twitter.com/barbicancentre
+    tel:
+      - 020 7638 8891
+    latitude:
+      - '51.519773280382'
+    longitude:
+      - '-0.093544400733663'
+    street-address:
+      - Silk St
+    locality:
+      - London
+    region:
+      - Greater London
+    country-name:
+      - United Kingdom
+  value: >
+    https://foursquare.com/v/5240934411d26ab2fe919a2d
+
+----
+
+Date: 2022-11-02 17:35:00
+
+----
+
+Uid: 3826
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: scattered-clouds
+
+----
+
+Temperature: 15°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

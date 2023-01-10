@@ -6,7 +6,7 @@ Text: ServiceWorker fixing - looks like static generated pages were missing the 
 
 ----
 
-Permalink: 
+Blink: 
 
 ----
 

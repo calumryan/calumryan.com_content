@@ -2,7 +2,7 @@ Title: 24 Ways: Making a Better Custom Select Element
 
 ----
 
-Permalink: https://24ways.org/2019/making-a-better-custom-select-element/
+Blink: https://24ways.org/2019/making-a-better-custom-select-element/
 
 ----
 

@@ -1,0 +1,90 @@
+Title: July 5th, 2022
+
+----
+
+Text: Checked in at Natas D'ouro
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/62c41578de6823296ae161ac
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - "Natas D'ouro"
+    url:
+      - >
+        https://foursquare.com/v/5c680db7d905160025b83414
+    latitude:
+      - 41.137417
+    longitude:
+      - -8.616606
+    street-address:
+      - Av. Ramos Pinto, 210
+    locality:
+      - Vila Nova de Gaia
+    region:
+      - Distrito do Porto
+    country-name:
+      - Portugal
+    postal-code:
+      - 4400-261
+  value: >
+    https://foursquare.com/v/5c680db7d905160025b83414
+
+----
+
+Date: 2022-07-05 11:40:00
+
+----
+
+Uid: 3750
+
+----
+
+Feature-images:
+
+- >
+  407869714_h35geqsiebdkb2jbcostrdy0vqgznijdvhhygmdomjg.jpg
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: few-clouds
+
+----
+
+Temperature: 26°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

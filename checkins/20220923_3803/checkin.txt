@@ -1,0 +1,90 @@
+Title: September 23rd, 2022
+
+----
+
+Text: Checked in at Grote of St. Bavokerk
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/632d74a822d5052b7a41d333
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Grote of St. Bavokerk
+    url:
+      - >
+        https://foursquare.com/v/4d80fb5823c3530cff7af683
+      - http://www.bavo.nl
+    tel:
+      - 023 553 2040
+    latitude:
+      - '52.381281031417'
+    longitude:
+      - '4.6370412077446'
+    street-address:
+      - Grote Markt 22
+    locality:
+      - Haarlem
+    region:
+      - North Holland
+    country-name:
+      - Netherlands
+    postal-code:
+      - 2011 HL
+  value: >
+    https://foursquare.com/v/4d80fb5823c3530cff7af683
+
+----
+
+Date: 2022-09-23 10:55:00
+
+----
+
+Uid: 3803
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: broken-clouds
+
+----
+
+Temperature: 14°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

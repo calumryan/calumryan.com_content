@@ -2,7 +2,7 @@ Title: &quot;The evolution of CAPTCHA techniques has demonstrated that tradition
 
 ----
 
-Permalink: https://www.w3.org/TR/2018/WD-turingtest-20180703/
+Blink: https://www.w3.org/TR/2018/WD-turingtest-20180703/
 
 ----
 

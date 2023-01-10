@@ -6,7 +6,7 @@ Text: Planning to give Hugo static site generator a try for a small documentatio
 
 ----
 
-Permalink: 
+Blink: 
 
 ----
 

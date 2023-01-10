@@ -2,7 +2,7 @@ Title: IndieWeb Starter - A super easy way to get started in the world of the In
 
 ----
 
-Permalink: https://glitch.com/edit/#!/handsomely-roarer
+Blink: https://glitch.com/edit/#!/handsomely-roarer
 
 ----
 

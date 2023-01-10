@@ -1,0 +1,33 @@
+Title: April 29th, 2022
+
+----
+
+Text: Attending IndieWebCamp Düsseldorf 2022
+
+----
+
+Date: 2022-04-29 18:00:00
+
+----
+
+Blink: https://events.indieweb.org/2022/04/indiewebcamp-d%C3%BCsseldorf-ht968fpXyhij
+
+----
+
+Tags: indiewebcamp
+
+----
+
+Response: yes
+
+----
+
+Bridgy: 
+
+----
+
+Uid: 3465
+
+----
+
+Uuid: oM3lQW85qwDO9d6i

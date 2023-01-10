@@ -3,7 +3,7 @@ Title: &quot;Replacing jQuery With Vue.js: No Build Step Necessary&quot; – Sar
 
 ----
 
-Permalink: https://www.smashingmagazine.com/2018/02/jquery-vue-javascript/
+Blink: https://www.smashingmagazine.com/2018/02/jquery-vue-javascript/
 
 ----
 

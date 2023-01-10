@@ -2,7 +2,7 @@ Title:  Shoelace.css is a lightweight, forward-thinking CSS library built with f
 
 ----
 
-Permalink: https://shoelace.style/
+Blink: https://shoelace.style/
 
 ----
 

@@ -6,7 +6,7 @@ Text: Would be cool to see this working particularly as my blog runs on Jekyll b
 
 ----
 
-Permalink: https://miklb.com/plans-for-jekyll-indieweb-project/
+Blink: https://miklb.com/plans-for-jekyll-indieweb-project/
 
 ----
 

@@ -1,0 +1,90 @@
+Title: September 10th, 2022
+
+----
+
+Text: Checked in at Apollo Theatre
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/631c8fc95d4b722f6f6e5902
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Apollo Theatre
+    url:
+      - >
+        https://foursquare.com/v/4ac518e7f964a5203eab20e3
+      - https://nimaxtheatres.com/apollo-theatre
+    tel:
+      - 0844 579 1971
+    latitude:
+      - '51.511674544474'
+    longitude:
+      - '-0.1335782592235'
+    street-address:
+      - 31 Shaftesbury Ave
+    locality:
+      - Soho
+    region:
+      - Greater London
+    country-name:
+      - United Kingdom
+    postal-code:
+      - W1D 7ES
+  value: >
+    https://foursquare.com/v/4ac518e7f964a5203eab20e3
+
+----
+
+Date: 2022-09-10 14:25:00
+
+----
+
+Uid: 3793
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: few-clouds
+
+----
+
+Temperature: 20°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

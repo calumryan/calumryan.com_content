@@ -2,7 +2,7 @@ Title: Tiny helpers - A collection of single-purpose online tools for web develo
 
 ----
 
-Permalink: https://tiny-helpers.dev/
+Blink: https://tiny-helpers.dev/
 
 ----
 

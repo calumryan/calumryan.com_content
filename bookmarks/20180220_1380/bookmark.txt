@@ -4,7 +4,7 @@ https://www.loxodrome.io/post/tab-state-service-workers/
 
 ----
 
-Permalink: https://www.loxodrome.io/post/tab-state-service-workers/
+Blink: https://www.loxodrome.io/post/tab-state-service-workers/
 
 ----
 

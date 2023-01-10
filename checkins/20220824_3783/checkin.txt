@@ -1,0 +1,89 @@
+Title: August 24th, 2022
+
+----
+
+Text: Checked in at IKEA
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/63065dba7b33cb6904cebc76
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - IKEA
+    url:
+      - >
+        https://foursquare.com/v/5a0adefac666667a28619340
+      - http://www.ikea.co.uk
+      - https://twitter.com/ikeauk
+    latitude:
+      - '51.489347923821'
+    longitude:
+      - '0.016108113150098'
+    street-address:
+      - 55-57 Bugsby’s Way
+    locality:
+      - Greenwich
+    region:
+      - Greater London
+    country-name:
+      - United Kingdom
+    postal-code:
+      - SE10 0QJ
+  value: >
+    https://foursquare.com/v/5a0adefac666667a28619340
+
+----
+
+Date: 2022-08-24 18:20:00
+
+----
+
+Uid: 3783
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: few-clouds
+
+----
+
+Temperature: 28°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

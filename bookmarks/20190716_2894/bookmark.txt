@@ -2,7 +2,7 @@ Title: Vue A11Y Calendar and Datepicker - accessible calendar and datepicker for
 
 ----
 
-Permalink: https://ibm.github.io/vue-a11y-calendar/
+Blink: https://ibm.github.io/vue-a11y-calendar/
 
 ----
 

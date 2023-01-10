@@ -1,0 +1,29 @@
+Title: January 14th, 2021
+
+----
+
+Text: What user testing looks like with a screen reader user, @LeonieWatson
+
+----
+
+Date: 2021-01-14 09:30:00
+
+----
+
+Blink: https://twitter.com/BarriersOnline/status/1349393278194642944
+
+----
+
+Tags: a11y
+
+----
+
+Bridgy: twitter
+
+----
+
+Uid: 3512
+
+----
+
+Uuid: Rm5TbCIsmKXXUxRF

@@ -2,7 +2,7 @@ Title: http://benkyriakou.com/posts/level-up-your-git – Level up your Git, Tip
 
 ----
 
-Permalink: 
+Blink: 
 
 ----
 

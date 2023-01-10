@@ -2,7 +2,7 @@ Title: Regarding CSS’s Global Scope
 
 ----
 
-Permalink: https://css-tricks.com/regarding-css-global-scope/
+Blink: https://css-tricks.com/regarding-css-global-scope/
 
 ----
 

@@ -6,7 +6,7 @@ Date: 2021-11-11 19:35:00
 
 ----
 
-Permalink: https://insidegovuk.blog.gov.uk/2021/11/11/launching-gov-uks-new-menu-bar/
+Blink: https://insidegovuk.blog.gov.uk/2021/11/11/launching-gov-uks-new-menu-bar/
 
 ----
 
@@ -22,4 +22,4 @@ Uid: 3584
 
 ----
 
-Uuid: iKWMrVQoQhkFqI2z
+Uuid: eJIbIpvKO5jeZB7l

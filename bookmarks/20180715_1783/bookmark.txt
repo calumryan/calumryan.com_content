@@ -2,7 +2,7 @@ Title: CSS Grid in IE: Faking an Auto-Placement Grid with Gaps
 
 ----
 
-Permalink: https://css-tricks.com/css-grid-in-ie-faking-an-auto-placement-grid-with-gaps
+Blink: https://css-tricks.com/css-grid-in-ie-faking-an-auto-placement-grid-with-gaps
 
 ----
 

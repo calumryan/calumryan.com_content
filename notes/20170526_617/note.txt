@@ -7,7 +7,7 @@ CC: @loopdouble @hotzeplotz @barryf @philnash @justinavery
 
 ----
 
-Permalink: 
+Blink: 
 
 ----
 

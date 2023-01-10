@@ -2,7 +2,7 @@ Title: Handling Sass scope with a more elegant solution with self
 
 ----
 
-Permalink: https://css-tricks.com/using-sass-control-scope-bem-naming
+Blink: https://css-tricks.com/using-sass-control-scope-bem-naming
 
 ----
 

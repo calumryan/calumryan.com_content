@@ -2,7 +2,7 @@ Title: Conversational Semantics
 
 ----
 
-Permalink: https://alistapart.com/article/conversational-semantics
+Blink: https://alistapart.com/article/conversational-semantics
 
 ----
 

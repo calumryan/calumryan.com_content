@@ -1,0 +1,92 @@
+Title: November 6th, 2021
+
+----
+
+Text: Checked in at To1980 Vegan Vietnamese Street Food
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/6186c3c5047b1f713df3e019
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - To1980 Vegan Vietnamese Street Food
+    url:
+      - >
+        https://foursquare.com/v/5f7cc8d0f2fb9551c7275211
+      - http://www.to1980.de
+    tel:
+      - 0211 15894057
+    latitude:
+      - 51.222835
+    longitude:
+      - 6.790309
+    street-address:
+      - Immermannstr. 46
+    locality:
+      - Dusseldorf
+    region:
+      - North Rhine-Westphalia
+    country-name:
+      - Germany
+    postal-code:
+      - "40210"
+  value: >
+    https://foursquare.com/v/5f7cc8d0f2fb9551c7275211
+
+----
+
+Date: 2021-11-06 18:05:00
+
+----
+
+Uid: 3541
+
+----
+
+Feature-images:
+
+- img_20211106_193724__01.jpg
+
+----
+
+Tags: 
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Weather-icon: scattered-clouds
+
+----
+
+Temperature: 11°C

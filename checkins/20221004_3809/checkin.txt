@@ -1,0 +1,90 @@
+Title: October 4th, 2022
+
+----
+
+Text: Checked in at Theo's Pizzeria
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/633c751e8a7e8b248a1c87f8
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - "Theo's Pizzeria"
+    url:
+      - >
+        https://foursquare.com/v/5bdb47200d2be7002c179bb7
+      - https://www.theospizzeria.com
+    tel:
+      - 020 3026 6540
+    latitude:
+      - 51.492847
+    longitude:
+      - -0.100349486
+    street-address:
+      - 17-19 Elephant and Castle
+    locality:
+      - London
+    region:
+      - Greater London
+    country-name:
+      - United Kingdom
+    postal-code:
+      - SE1 6TH
+  value: >
+    https://foursquare.com/v/5bdb47200d2be7002c179bb7
+
+----
+
+Date: 2022-10-04 19:00:00
+
+----
+
+Uid: 3809
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: broken-clouds
+
+----
+
+Temperature: 17°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

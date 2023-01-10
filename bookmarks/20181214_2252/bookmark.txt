@@ -2,7 +2,7 @@ Title: A working approach for keeping ACF and WordPress Gutenberg in harmony
 
 ----
 
-Permalink: https://philkurth.com.au/articles/structured-objects-in-a-post-gutenberg-world-using-acf
+Blink: https://philkurth.com.au/articles/structured-objects-in-a-post-gutenberg-world-using-acf
 
 ----
 

@@ -2,7 +2,7 @@ Title: jQuery to ES6 and what if you don’t need a JS framework…
 
 ----
 
-Permalink: https://dev.to/joethom/jquery-to-es6-and-what-if-you-dont-need-a-js-framework-1m2n
+Blink: https://dev.to/joethom/jquery-to-es6-and-what-if-you-dont-need-a-js-framework-1m2n
 
 ----
 

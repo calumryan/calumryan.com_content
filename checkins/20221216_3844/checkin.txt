@@ -1,0 +1,91 @@
+Title: December 16th, 2022
+
+----
+
+Text: Checked in at Lighthouse King's Cross
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/639c98d4d74b5364639ab5b7
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - "Lighthouse King's Cross"
+    url:
+      - >
+        https://foursquare.com/v/63627c456cdbbf5190fe9d11
+    latitude:
+      - 51.53061
+    longitude:
+      - -0.12172703
+    street-address:
+      - "1 King's Cross Bridge"
+    locality:
+      - London
+    region:
+      - Greater London
+    country-name:
+      - United Kingdom
+    postal-code:
+      - N1 9NW
+  value: >
+    https://foursquare.com/v/63627c456cdbbf5190fe9d11
+
+----
+
+Date: 2022-12-16 16:10:00
+
+----
+
+Uid: 3844
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: few-clouds
+
+----
+
+Temperature: -0°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: 0WvHUXnrvKjn4164

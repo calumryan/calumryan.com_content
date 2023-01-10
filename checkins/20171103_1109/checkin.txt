@@ -6,7 +6,7 @@ Text: Checked in at Tram M10 Warschauer Str. ↔ Hauptbahnhof
 
 ----
 
-Permalink: 
+Blink: 
 
 ----
 

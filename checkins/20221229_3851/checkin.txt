@@ -1,0 +1,85 @@
+Title: December 29th, 2022
+
+----
+
+Text: Checked in at Abraço
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/63ad57c0f730cf5f9e9c02ec
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Abraço
+    url:
+      - >
+        https://foursquare.com/v/5dbd58bfe9b1a00008fd23c3
+    latitude:
+      - 51.578438
+    longitude:
+      - -0.09882767
+    country-name:
+      - United Kingdom
+    postal-code:
+      - N4 1AF
+  value: >
+    https://foursquare.com/v/5dbd58bfe9b1a00008fd23c3
+
+----
+
+Date: 2022-12-29 09:05:00
+
+----
+
+Uid: 3851
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: few-clouds
+
+----
+
+Temperature: 8°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: bV0gh7y5sMqyKZX0

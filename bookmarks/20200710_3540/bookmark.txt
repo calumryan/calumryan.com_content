@@ -6,7 +6,7 @@ Date: 2020-07-10 10:25
 
 ----
 
-Permalink: https://web.dev/one-line-layouts/
+Blink: https://web.dev/one-line-layouts/
 
 ----
 

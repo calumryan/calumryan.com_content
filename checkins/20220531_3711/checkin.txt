@@ -1,0 +1,88 @@
+Title: May 31st, 2022
+
+----
+
+Text: Checked in at Croagh Patrick
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/62963c5133d41c77d72227ab
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Croagh Patrick
+    url:
+      - >
+        https://foursquare.com/v/4bdea4fc6198c9b6d86114ff
+    latitude:
+      - '53.778402135507'
+    longitude:
+      - '-9.6399619489437'
+    street-address:
+      - Cruach Phádraig
+    locality:
+      - Murrisk
+    region:
+      - Co Mayo
+    country-name:
+      - Ireland
+  value: >
+    https://foursquare.com/v/4bdea4fc6198c9b6d86114ff
+
+----
+
+Date: 2022-05-31 17:05:00
+
+----
+
+Uid: 3711
+
+----
+
+Feature-images:
+
+- >
+  407869714_r77zhg3js1-qmfkxfzn5z6ic4bb0nb83gtr1l_6fhce.jpg
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: scattered-clouds
+
+----
+
+Temperature: 13°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

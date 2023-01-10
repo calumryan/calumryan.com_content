@@ -2,7 +2,7 @@ Title: Relearn CSS layout: Every Layout - clean, simple, clear presentation of t
 
 ----
 
-Permalink: https://every-layout.dev
+Blink: https://every-layout.dev
 
 ----
 

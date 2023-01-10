@@ -6,7 +6,7 @@ Text: Happy Birthday Jamie - liking the balloons!
 
 ----
 
-Permalink: https://www.jvt.me
+Blink: https://www.jvt.me
 
 ----
 
@@ -22,4 +22,8 @@ Redirect: https://calumryan.com/note/3463
 
 ----
 
-UID: 3463
+Uid: 3463
+
+----
+
+Uuid: ZYRnfwmyHIvGBuGZ

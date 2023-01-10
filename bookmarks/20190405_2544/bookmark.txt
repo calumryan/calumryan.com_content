@@ -2,7 +2,7 @@ Title: Accessibility Coding Standards
 
 ----
 
-Permalink: https://make.wordpress.org/core/handbook/best-practices/coding-standards/accessibility-coding-standards/
+Blink: https://make.wordpress.org/core/handbook/best-practices/coding-standards/accessibility-coding-standards/
 
 ----
 

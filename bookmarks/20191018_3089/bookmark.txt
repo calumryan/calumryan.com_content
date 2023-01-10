@@ -2,7 +2,7 @@ Title: Making HTML tables responsive
 
 ----
 
-Permalink: https://uglyduck.ca/responsive-tables
+Blink: https://uglyduck.ca/responsive-tables
 
 ----
 

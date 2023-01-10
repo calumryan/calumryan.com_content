@@ -2,7 +2,7 @@ Title: Using the toggleAttribute() function (now in Chrome 69) similar to classL
 
 ----
 
-Permalink: https://developer.mozilla.org/en-US/docs/Web/API/Element/toggleAttribute
+Blink: https://developer.mozilla.org/en-US/docs/Web/API/Element/toggleAttribute
 
 ----
 

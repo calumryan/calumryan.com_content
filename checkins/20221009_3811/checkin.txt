@@ -1,0 +1,92 @@
+Title: October 9th, 2022
+
+----
+
+Text: Checked in at Curzon Soho
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/6342ceacee13e8372a2adcd1
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Curzon Soho
+    url:
+      - >
+        https://foursquare.com/v/4aeca7bbf964a520f8c921e3
+      - >
+        https://www.curzoncinemas.com/cinemas-list
+      - https://twitter.com/curzoncinemas
+    tel:
+      - 0333 321 0104
+    latitude:
+      - '51.512608543901'
+    longitude:
+      - '-0.13052032567452'
+    street-address:
+      - 99 Shaftesbury Av
+    locality:
+      - London
+    region:
+      - Greater London
+    country-name:
+      - United Kingdom
+    postal-code:
+      - W1D 5DY
+  value: >
+    https://foursquare.com/v/4aeca7bbf964a520f8c921e3
+
+----
+
+Date: 2022-10-09 14:40:00
+
+----
+
+Uid: 3811
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: scattered-clouds
+
+----
+
+Temperature: 18°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

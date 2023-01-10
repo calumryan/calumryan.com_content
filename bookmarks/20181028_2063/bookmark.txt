@@ -2,7 +2,7 @@ Title: Museums API directory
 
 ----
 
-Permalink: http://museum-api.pbworks.com/w/page/21933420/Museum%C2%A0APIs
+Blink: http://museum-api.pbworks.com/w/page/21933420/Museum%C2%A0APIs
 
 ----
 

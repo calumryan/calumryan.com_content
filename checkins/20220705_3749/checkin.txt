@@ -1,0 +1,90 @@
+Title: July 5th, 2022
+
+----
+
+Text: Checked in at Esquires  Coffee
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/62c3f077b3bb4e35a11cdf75
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - 'Esquires  Coffee'
+    url:
+      - >
+        https://foursquare.com/v/5a4cc7755c68380e43020dc5
+      - http://esquirescoffeeporto.business.site
+    tel:
+      - 22 208 0216
+    latitude:
+      - '41.146146935151'
+    longitude:
+      - -8.6074564865745
+    street-address:
+      - Rua 31 de Janeiro, 215
+    locality:
+      - Porto
+    region:
+      - Distrito do Porto
+    country-name:
+      - Portugal
+    postal-code:
+      - "4000"
+  value: >
+    https://foursquare.com/v/5a4cc7755c68380e43020dc5
+
+----
+
+Date: 2022-07-05 09:05:00
+
+----
+
+Uid: 3749
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: fog
+
+----
+
+Temperature: 19°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

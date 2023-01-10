@@ -2,7 +2,7 @@ Title: Webhint - linting tool for auditing a range of site features for accessib
 
 ----
 
-Permalink: https://webhint.io
+Blink: https://webhint.io
 
 ----
 

@@ -10,7 +10,7 @@ Feature Image: plane.jpg
 
 ----
 
-Permalink: 
+Blink: 
 
 ----
 

@@ -2,7 +2,7 @@ Title: Keyboard Navigation in Mac Browsers
 
 ----
 
-Permalink: http://www.weba11y.com/blog/2014/07/07/keyboard-navigation-in-mac-browsers/
+Blink: http://www.weba11y.com/blog/2014/07/07/keyboard-navigation-in-mac-browsers/
 
 ----
 

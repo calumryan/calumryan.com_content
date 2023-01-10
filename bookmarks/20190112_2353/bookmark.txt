@@ -2,7 +2,7 @@ Title: &quot;Fixing&quot; Lists - the pit falls of using list-style: none and it
 
 ----
 
-Permalink: https://www.scottohara.me/blog/2019/01/12/lists-and-safari.html
+Blink: https://www.scottohara.me/blog/2019/01/12/lists-and-safari.html
 
 ----
 

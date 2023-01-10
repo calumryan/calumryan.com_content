@@ -1,0 +1,90 @@
+Title: January 29th, 2022
+
+----
+
+Text: Checked in at Caffè Nero
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/61f55a7752281b3a674fccc0
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Caffè Nero
+    url:
+      - >
+        https://foursquare.com/v/4aeeaf20f964a5202dd421e3
+      - http://www.caffenero.co.uk
+    tel:
+      - 020 8943 2322
+    latitude:
+      - '51.426021200641'
+    longitude:
+      - '-0.33779066781341'
+    street-address:
+      - 47 Broad St
+    locality:
+      - Teddington
+    region:
+      - Greater London
+    country-name:
+      - United Kingdom
+    postal-code:
+      - TW11 8QZ
+  value: >
+    https://foursquare.com/v/4aeeaf20f964a5202dd421e3
+
+----
+
+Date: 2022-01-29 15:15:00
+
+----
+
+Uid: 3606
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: overcast-clouds
+
+----
+
+Temperature: 13°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

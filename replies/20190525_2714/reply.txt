@@ -6,7 +6,7 @@ Text: It's in the style-guide https://indieweb.org/style-guide#Webmention
 
 ----
 
-Permalink: https://twitter.com/rem/status/1132372010053582849
+Blink: https://twitter.com/rem/status/1132372010053582849
 
 ----
 

@@ -2,7 +2,7 @@ Title: This application is a living style guide or pattern library, generated fr
 
 ----
 
-Permalink: http://a11y-style-guide.com
+Blink: http://a11y-style-guide.com
 
 ----
 

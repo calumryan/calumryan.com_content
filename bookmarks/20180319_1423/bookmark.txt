@@ -2,7 +2,7 @@ Title:  a11y Issues - Showcase of how companies break accessibility principles h
 
 ----
 
-Permalink: https://issues.a11y.rocks
+Blink: https://issues.a11y.rocks
 
 ----
 

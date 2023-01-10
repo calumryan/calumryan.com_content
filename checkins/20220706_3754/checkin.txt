@@ -1,0 +1,87 @@
+Title: July 6th, 2022
+
+----
+
+Text: Checked in at Pastelaria Alfama Doce
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/62c5409715669e0eee273d0a
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Pastelaria Alfama Doce
+    url:
+      - >
+        https://foursquare.com/v/4d8dd0a9d00a6ea8e5d7a94f
+    latitude:
+      - '38.712011664836'
+    longitude:
+      - '-9.1286810887695'
+    street-address:
+      - Rua da Regueira, 39
+    locality:
+      - Lisbon
+    region:
+      - Lisbon
+    country-name:
+      - Portugal
+    postal-code:
+      - "1200"
+  value: >
+    https://foursquare.com/v/4d8dd0a9d00a6ea8e5d7a94f
+
+----
+
+Date: 2022-07-06 09:00:00
+
+----
+
+Uid: 3754
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: mist
+
+----
+
+Temperature: 18°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

@@ -1,0 +1,89 @@
+Title: September 22nd, 2022
+
+----
+
+Text: Checked in at Van Vliet's Siroopwafels
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/632c2d9a32cb647577da66e4
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - "Van Vliet's Siroopwafels"
+    url:
+      - >
+        https://foursquare.com/v/4b9b6fbef964a5203c0736e3
+    tel:
+      - 0182 529 975
+    latitude:
+      - '52.011176347733'
+    longitude:
+      - '4.7092080116272'
+    street-address:
+      - Lange Groenendaal 32
+    locality:
+      - Gouda
+    region:
+      - South Holland
+    country-name:
+      - Netherlands
+    postal-code:
+      - 2801 AB
+  value: >
+    https://foursquare.com/v/4b9b6fbef964a5203c0736e3
+
+----
+
+Date: 2022-09-22 11:40:00
+
+----
+
+Uid: 3800
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: few-clouds
+
+----
+
+Temperature: 16°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

@@ -1,0 +1,90 @@
+Title: September 23rd, 2022
+
+----
+
+Text: Checked in at Logica
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/632daf2f9121456fed3224de
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Logica
+    url:
+      - >
+        https://foursquare.com/v/51448259e4b0c10758a112f7
+      - http://www.lunchroomlogica.nl
+    tel:
+      - 071 362 8939
+    latitude:
+      - '52.159934631444'
+    longitude:
+      - '4.4897511509874'
+    street-address:
+      - Stille Rijn 11
+    locality:
+      - Leiden
+    region:
+      - South Holland
+    country-name:
+      - Netherlands
+    postal-code:
+      - 2312 DE
+  value: >
+    https://foursquare.com/v/51448259e4b0c10758a112f7
+
+----
+
+Date: 2022-09-23 15:05:00
+
+----
+
+Uid: 3805
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: overcast-clouds
+
+----
+
+Temperature: 18°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

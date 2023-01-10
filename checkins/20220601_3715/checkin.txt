@@ -1,0 +1,90 @@
+Title: June 1st, 2022
+
+----
+
+Text: Checked in at Cliffs of Moher
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/6297954a1cfb0e66ae5795dc
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Cliffs of Moher
+    url:
+      - >
+        https://foursquare.com/v/4b9cf105f964a520be8336e3
+      - http://cliffsofmoher.ie
+      - https://twitter.com/cliffsofmoher1
+    latitude:
+      - '52.971782125453'
+    longitude:
+      - '-9.4263991028383'
+    street-address:
+      - Aillte an Mhothair
+    locality:
+      - Doolin
+    region:
+      - Co Clare
+    country-name:
+      - Ireland
+  value: >
+    https://foursquare.com/v/4b9cf105f964a520be8336e3
+
+----
+
+Date: 2022-06-01 17:35:00
+
+----
+
+Uid: 3715
+
+----
+
+Feature-images:
+
+- >
+  407869714_witivyoyvc8nsskxkqf2thzc9ljlbysnqex-t3p8fou.jpg
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: overcast-clouds
+
+----
+
+Temperature: 11°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

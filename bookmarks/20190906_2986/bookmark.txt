@@ -2,7 +2,7 @@ Title: Making FOUC less obvious with font style matcher tool to compare sizing a
 
 ----
 
-Permalink: https://meowni.ca/font-style-matcher
+Blink: https://meowni.ca/font-style-matcher
 
 ----
 

@@ -1,0 +1,89 @@
+Title: September 21st, 2022
+
+----
+
+Text: Checked in at Cortado
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/632aef16f2893c297980a3bf
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Cortado
+    url:
+      - >
+        https://foursquare.com/v/57b9a92b498e3f2ad87803eb
+    tel:
+      - 015 887 3684
+    latitude:
+      - 52.011663
+    longitude:
+      - 4.361764
+    street-address:
+      - Burgwal 30
+    locality:
+      - Delft
+    region:
+      - South Holland
+    country-name:
+      - Netherlands
+    postal-code:
+      - 2611 GJ
+  value: >
+    https://foursquare.com/v/57b9a92b498e3f2ad87803eb
+
+----
+
+Date: 2022-09-21 13:00:00
+
+----
+
+Uid: 3798
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: scattered-clouds
+
+----
+
+Temperature: 17°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

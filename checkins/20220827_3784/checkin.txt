@@ -1,0 +1,79 @@
+Title: August 27th, 2022
+
+----
+
+Text: Checked in at Exchange Coffee Company
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/630a03ad945ad200dd9159db
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Exchange Coffee Company
+    url:
+      - >
+        https://foursquare.com/v/4c49895b6594be9a60bc3325
+    latitude:
+      - '53.872593795301'
+    longitude:
+      - '-2.3896877882867'
+    country-name:
+      - United Kingdom
+  value: >
+    https://foursquare.com/v/4c49895b6594be9a60bc3325
+
+----
+
+Date: 2022-08-27 12:45:00
+
+----
+
+Uid: 3784
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: broken-clouds
+
+----
+
+Temperature: 21°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

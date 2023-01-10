@@ -6,7 +6,7 @@ Text: JSON'd up my short posts feed and ported over to micro.blog https://micro.
 
 ----
 
-Permalink: 
+Blink: 
 
 ----
 

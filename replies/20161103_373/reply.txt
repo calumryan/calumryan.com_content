@@ -6,7 +6,7 @@ Text: Webmention response test
 
 ----
 
-Permalink: 
+Blink: 
 
 ----
 

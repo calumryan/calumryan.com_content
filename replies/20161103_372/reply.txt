@@ -6,7 +6,7 @@ Text: Webmentions test with hidden HTML (Using https://github.com/indieweb/menti
 
 ----
 
-Permalink: 
+Blink: 
 
 ----
 

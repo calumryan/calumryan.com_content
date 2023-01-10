@@ -1,0 +1,85 @@
+Title: October 31st, 2021
+
+----
+
+Text: Checked in at Costa Coffee
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/617ea1dae9a54f2a59413ac4
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Costa Coffee
+    url:
+      - >
+        https://foursquare.com/v/501e7b80e4b062004bc8b3c8
+      - http://www.costa.co.uk
+      - https://twitter.com/costacoffee
+    latitude:
+      - '50.916377335253'
+    longitude:
+      - '0.48517974839361'
+    locality:
+      - Battle
+    region:
+      - East Sussex
+    country-name:
+      - United Kingdom
+  value: >
+    https://foursquare.com/v/501e7b80e4b062004bc8b3c8
+
+----
+
+Date: 2021-10-31 14:00:00
+
+----
+
+Uid: 3531
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Weather-icon: broken-clouds
+
+----
+
+Temperature: 14°C

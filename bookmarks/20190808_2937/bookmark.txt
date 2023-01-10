@@ -2,7 +2,7 @@ Title: Context-Dependent Image Loading with SVG and the picture element
 
 ----
 
-Permalink: https://codepen.io/eeeps/pen/YJNXGN
+Blink: https://codepen.io/eeeps/pen/YJNXGN
 
 ----
 

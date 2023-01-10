@@ -2,7 +2,7 @@ Title: Chris Coyier suncinctly explains the reasons behind the IndieWeb, publish
 
 ----
 
-Permalink: https://css-tricks.com/indieweb-and-webmentions/
+Blink: https://css-tricks.com/indieweb-and-webmentions/
 
 ----
 

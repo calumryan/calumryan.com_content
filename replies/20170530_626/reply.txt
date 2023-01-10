@@ -6,7 +6,7 @@ Text: We had discussions regarding personal implementations of IndieAuth at the 
 
 ----
 
-Permalink: https://barryfrost.com/2017/05/site-changes
+Blink: https://barryfrost.com/2017/05/site-changes
 
 ----
 

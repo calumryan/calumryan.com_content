@@ -2,7 +2,7 @@ Title: Designing accessible services - HTML version posters from #GovDesign @HOD
 
 ----
 
-Permalink: https://ukhomeoffice.github.io/accessibility-posters/
+Blink: https://ukhomeoffice.github.io/accessibility-posters/
 
 ----
 

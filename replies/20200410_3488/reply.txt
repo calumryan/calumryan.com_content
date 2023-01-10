@@ -6,7 +6,7 @@ Text: Glad to hear it Jeremy
 
 ----
 
-Permalink: https://micro.blog/jeremycherfas/9307656
+Blink: https://micro.blog/jeremycherfas/9307656
 
 ----
 
@@ -22,4 +22,8 @@ Redirect: https://calumryan.com/note/3488
 
 ----
 
-UID: 3488
+Uid: 3488
+
+----
+
+Uuid: aP7JE1yKYRk6UDhJ

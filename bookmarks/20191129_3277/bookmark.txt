@@ -2,7 +2,7 @@ Title: Move Fast and Don't Break Things (from Filament Group)
 
 ----
 
-Permalink: https://www.filamentgroup.com/lab/dontbreakthings.html
+Blink: https://www.filamentgroup.com/lab/dontbreakthings.html
 
 ----
 

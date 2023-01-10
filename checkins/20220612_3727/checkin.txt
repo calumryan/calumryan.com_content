@@ -1,0 +1,89 @@
+Title: June 12th, 2022
+
+----
+
+Text: Checked in at Garton's Coffee House
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/62a5cfe42b65f96801171ec5
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - "Garton's Coffee House"
+    url:
+      - >
+        https://foursquare.com/v/4c4ac9d9c668e21e9de520f9
+    tel:
+      - 01730 817166
+    latitude:
+      - '50.985572126358'
+    longitude:
+      - '-0.73740363121033'
+    street-address:
+      - The Old Town Hall
+    locality:
+      - Midhurst
+    region:
+      - West Sussex
+    country-name:
+      - United Kingdom
+    postal-code:
+      - GU29 9NJ
+  value: >
+    https://foursquare.com/v/4c4ac9d9c668e21e9de520f9
+
+----
+
+Date: 2022-06-12 12:35:00
+
+----
+
+Uid: 3727
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: overcast-clouds
+
+----
+
+Temperature: 19°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

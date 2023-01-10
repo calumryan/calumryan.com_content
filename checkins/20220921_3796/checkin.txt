@@ -1,0 +1,91 @@
+Title: September 21st, 2022
+
+----
+
+Text: Checked in at Metrostation Hoek Van Holland Haven
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/632ab71e83b69b6b90a8c366
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Metrostation Hoek Van Holland Haven
+    url:
+      - >
+        https://foursquare.com/v/5d8f8c3ea6193400083c4d4c
+      - https://www.ret.nl
+      - https://twitter.com/retrotterdam
+    tel:
+      - 0900 5006010
+    latitude:
+      - '51.975048567407'
+    longitude:
+      - '4.1283376863586'
+    street-address:
+      - Stationsweg
+    locality:
+      - Hoek van Holland
+    region:
+      - South Holland
+    country-name:
+      - Netherlands
+    postal-code:
+      - 3151 GH
+  value: >
+    https://foursquare.com/v/5d8f8c3ea6193400083c4d4c
+
+----
+
+Date: 2022-09-21 09:05:00
+
+----
+
+Uid: 3796
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: broken-clouds
+
+----
+
+Temperature: 11°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

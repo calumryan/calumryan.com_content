@@ -2,7 +2,7 @@ Title: Providing a useful context to content written in response to someone else
 
 ----
 
-Permalink: https://chrisburnell.com/article/reply-targets
+Blink: https://chrisburnell.com/article/reply-targets
 
 ----
 

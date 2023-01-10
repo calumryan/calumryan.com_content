@@ -6,7 +6,7 @@ Text: Pleased to read you're in a good place now.
 
 ----
 
-Permalink: https://doubleloop.net/2019/12/22/december/
+Blink: https://doubleloop.net/2019/12/22/december/
 
 ----
 
@@ -22,4 +22,8 @@ Redirect: https://calumryan.com/note/3328
 
 ----
 
-UID: 3328
+Uid: 3328
+
+----
+
+Uuid: uY7D2ZAPIMinfo8x

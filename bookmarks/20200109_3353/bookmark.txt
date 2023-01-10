@@ -2,7 +2,7 @@ Title: CSS Grid for Designers by Johna Mandel
 
 ----
 
-Permalink: https://open.nytimes.com/css-grid-for-designers-f74a883b98f5
+Blink: https://open.nytimes.com/css-grid-for-designers-f74a883b98f5
 
 ----
 

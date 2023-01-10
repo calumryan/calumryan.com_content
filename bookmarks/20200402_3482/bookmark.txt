@@ -2,7 +2,7 @@ Title: A starter guide for teams about delivering accessible websites
 
 ----
 
-Permalink: https://accessibility-for-teams.com
+Blink: https://accessibility-for-teams.com
 
 ----
 

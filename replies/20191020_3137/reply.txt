@@ -6,7 +6,7 @@ Text: Everything looks upside down in Amsterdam
 
 ----
 
-Permalink: https://seblog.nl/2019/10/12/4/take-away
+Blink: https://seblog.nl/2019/10/12/4/take-away
 
 ----
 
@@ -22,4 +22,8 @@ Redirect: https://calumryan.com/note/3137
 
 ----
 
-UID: 3137
+Uid: 3137
+
+----
+
+Uuid: m3VepUmYUK9fKopA

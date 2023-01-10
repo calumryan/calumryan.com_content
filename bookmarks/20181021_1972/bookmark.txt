@@ -2,7 +2,7 @@ Title: Enabling HTTP2
 
 ----
 
-Permalink: https://techwombat.com/enable-http2-apache-ubuntu-16-04/
+Blink: https://techwombat.com/enable-http2-apache-ubuntu-16-04/
 
 ----
 

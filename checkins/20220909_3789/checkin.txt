@@ -1,0 +1,87 @@
+Title: September 9th, 2022
+
+----
+
+Text: Checked in at Duke of York's Picturehouse
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/631afd2eeaac1817e06e7b16
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - "Duke of York's Picturehouse"
+    url:
+      - >
+        https://foursquare.com/v/4b058848f964a5204abc22e3
+    latitude:
+      - '50.833759704662'
+    longitude:
+      - '-0.13862367356867'
+    street-address:
+      - Preston Rd
+    locality:
+      - Brighton
+    region:
+      - East Sussex
+    country-name:
+      - United Kingdom
+    postal-code:
+      - BN1 4NA
+  value: >
+    https://foursquare.com/v/4b058848f964a5204abc22e3
+
+----
+
+Date: 2022-09-09 09:45:00
+
+----
+
+Uid: 3789
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: scattered-clouds
+
+----
+
+Temperature: 16°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

@@ -1,0 +1,91 @@
+Title: October 29th, 2022
+
+----
+
+Text: Checked in at Franco Manca
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/635d362d80bf27419dd73e65
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Franco Manca
+    url:
+      - >
+        https://foursquare.com/v/579e02c9498e5aa17b71f81a
+      - https://www.francomanca.co.uk
+      - https://twitter.com/francomancapizz
+    tel:
+      - 020 3026 5625
+    latitude:
+      - 51.428809
+    longitude:
+      - -0.166267
+    street-address:
+      - Unit 11B, Tooting Market
+    locality:
+      - Tooting
+    region:
+      - Greater London
+    country-name:
+      - United Kingdom
+    postal-code:
+      - SW17 0SN
+  value: >
+    https://foursquare.com/v/579e02c9498e5aa17b71f81a
+
+----
+
+Date: 2022-10-29 15:20:00
+
+----
+
+Uid: 3823
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: clear-sky
+
+----
+
+Temperature: 21°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

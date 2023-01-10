@@ -1,0 +1,88 @@
+Title: November 27th, 2022
+
+----
+
+Text: Checked in at katakata
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/63835ed3d5f3843f3e485168
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - katakata
+    url:
+      - >
+        https://foursquare.com/v/55859935498e2138eef7e77e
+      - http://katakatabrixton.com
+    latitude:
+      - '51.452552065849'
+    longitude:
+      - '-0.1210282838016'
+    street-address:
+      - 132 Brixton Hil
+    country-name:
+      - United Kingdom
+    postal-code:
+      - SW2 1RS
+  value: >
+    https://foursquare.com/v/55859935498e2138eef7e77e
+
+----
+
+Date: 2022-11-27 13:00:00
+
+----
+
+Uid: 3837
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: broken-clouds
+
+----
+
+Temperature: 13°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: srKwgJ8sfhmirrnB

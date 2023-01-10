@@ -2,7 +2,7 @@ Title: WorldWideWeb ..experience using the first ever web browser
 
 ----
 
-Permalink: https://worldwideweb.cern.ch/browser/
+Blink: https://worldwideweb.cern.ch/browser/
 
 ----
 

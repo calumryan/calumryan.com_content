@@ -2,7 +2,7 @@ Title: Content Author Accessibility Preview plugin
 
 ----
 
-Permalink: https://wordpress.org/plugins/content-author-accessibility-preview/
+Blink: https://wordpress.org/plugins/content-author-accessibility-preview/
 
 ----
 

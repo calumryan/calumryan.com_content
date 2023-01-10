@@ -2,7 +2,7 @@ Title: Rebuild imminent ..considerations ..considerations! - Headless CMS
 
 ----
 
-Permalink: https://headlesscms.org/
+Blink: https://headlesscms.org/
 
 ----
 

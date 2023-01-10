@@ -6,7 +6,7 @@ Text: Thought I saw you in this video https://youtu.be/eKEKn-ilMB4?t=36
 
 ----
 
-Permalink: https://adactio.com/journal/15650
+Blink: https://adactio.com/journal/15650
 
 ----
 
@@ -22,4 +22,8 @@ Redirect: https://calumryan.com/note/3197
 
 ----
 
-UID: 3197
+Uid: 3197
+
+----
+
+Uuid: WKcQCHYlCdBeu2SN

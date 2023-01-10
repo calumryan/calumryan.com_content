@@ -2,7 +2,7 @@ Title: Online colour picker for images to gather colour combinations
 
 ----
 
-Permalink: https://image-color.com
+Blink: https://image-color.com
 
 ----
 

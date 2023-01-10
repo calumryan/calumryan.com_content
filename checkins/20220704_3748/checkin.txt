@@ -1,0 +1,89 @@
+Title: July 4th, 2022
+
+----
+
+Text: Checked in at Restaurante Buxa
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/62c3431d3c78bf3d11e8ca45
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Restaurante Buxa
+    url:
+      - >
+        https://foursquare.com/v/52965326498e42dd6a41b9be
+    tel:
+      - 911 175 763
+    latitude:
+      - '41.443048561933'
+    longitude:
+      - '-8.2929829923109'
+    street-address:
+      - Largo Oliveira
+    locality:
+      - Guimarães
+    region:
+      - Distrito de Braga
+    country-name:
+      - Portugal
+    postal-code:
+      - 4800-862
+  value: >
+    https://foursquare.com/v/52965326498e42dd6a41b9be
+
+----
+
+Date: 2022-07-04 20:45:00
+
+----
+
+Uid: 3748
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: scattered-clouds
+
+----
+
+Temperature: 21°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

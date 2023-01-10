@@ -1,0 +1,87 @@
+Title: July 23rd, 2022
+
+----
+
+Text: Checked in at Coffee #1
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/62dbbec5fdc0914799148afd
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - 'Coffee #1'
+    url:
+      - >
+        https://foursquare.com/v/55c46185498e653f9e60cb95
+      - https://www.coffee1.co.uk
+      - https://twitter.com/coffeenumber1
+    latitude:
+      - '51.449611362185'
+    longitude:
+      - '-2.5928418543196'
+    street-address:
+      - Welsh Back
+    locality:
+      - Bristol
+    region:
+      - Bristol
+    country-name:
+      - United Kingdom
+  value: >
+    https://foursquare.com/v/55c46185498e653f9e60cb95
+
+----
+
+Date: 2022-07-23 10:25:00
+
+----
+
+Uid: 3775
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: broken-clouds
+
+----
+
+Temperature: 19°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

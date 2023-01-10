@@ -1,0 +1,89 @@
+Title: August 13th, 2022
+
+----
+
+Text: Checked in at The Punter
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/62f7a4813aac461031258d8b
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - The Punter
+    url:
+      - >
+        https://foursquare.com/v/4b9c1fa1f964a520874c36e3
+    tel:
+      - 01223 363322
+    latitude:
+      - '52.210520148431'
+    longitude:
+      - '0.11321658640185'
+    street-address:
+      - 3 Pound Hill
+    locality:
+      - Cambridge
+    region:
+      - Cambridgeshire
+    country-name:
+      - United Kingdom
+    postal-code:
+      - CB3 0AE
+  value: >
+    https://foursquare.com/v/4b9c1fa1f964a520874c36e3
+
+----
+
+Date: 2022-08-13 14:20:00
+
+----
+
+Uid: 3780
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: clear-sky
+
+----
+
+Temperature: 33°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

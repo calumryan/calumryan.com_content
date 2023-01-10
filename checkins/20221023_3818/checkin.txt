@@ -1,0 +1,90 @@
+Title: October 23rd, 2022
+
+----
+
+Text: Checked in at Buxton Opera House
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/6355a986cb4f20427c6a1eb0
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Buxton Opera House
+    url:
+      - >
+        https://foursquare.com/v/4c2a4299d1a10f47892bf664
+      - http://www.buxtonoperahouse.org.uk
+    tel:
+      - 0845 127 2190
+    latitude:
+      - '53.258571465848'
+    longitude:
+      - '-1.9164551210808'
+    street-address:
+      - Water St
+    locality:
+      - Buxton
+    region:
+      - Derbyshire
+    country-name:
+      - United Kingdom
+    postal-code:
+      - SK17 6XN
+  value: >
+    https://foursquare.com/v/4c2a4299d1a10f47892bf664
+
+----
+
+Date: 2022-10-23 21:50:00
+
+----
+
+Uid: 3818
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: overcast-clouds
+
+----
+
+Temperature: 11°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

@@ -2,7 +2,7 @@ Title: Character Entities Cheat Sheet for HTML, CSS (content) and Javascript.
 
 ----
 
-Permalink: https://brajeshwar.github.io/entities/
+Blink: https://brajeshwar.github.io/entities/
 
 ----
 

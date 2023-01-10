@@ -6,7 +6,7 @@ Text: Odd merchant information on Android Pay statements seems to mix up with ne
 
 ----
 
-Permalink: 
+Blink: 
 
 ----
 

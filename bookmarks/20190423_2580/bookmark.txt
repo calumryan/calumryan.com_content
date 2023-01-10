@@ -2,7 +2,7 @@ Title: Windows XP in your browser
 
 ----
 
-Permalink: https://winxp.now.sh
+Blink: https://winxp.now.sh
 
 ----
 

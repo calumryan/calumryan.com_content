@@ -6,7 +6,7 @@ Text: People of @LDNWebPerf come work on your own ServiceWorker at Homebrew Webs
 
 ----
 
-Permalink: 
+Blink: 
 
 ----
 

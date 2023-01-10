@@ -3,7 +3,7 @@ Good guide to effectively documenting website projects for clients/end-users
 
 ----
 
-Permalink: http://mediatemple.net/blog/tips/teaching-clients-use-website-built/
+Blink: http://mediatemple.net/blog/tips/teaching-clients-use-website-built/
 
 ----
 

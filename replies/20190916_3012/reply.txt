@@ -6,7 +6,7 @@ Text: Which dates are you planning on arriving/departing Jeremy?
 
 ----
 
-Permalink: https://micro.blog/jeremycherfas/5555519
+Blink: https://micro.blog/jeremycherfas/5555519
 
 ----
 
@@ -22,4 +22,8 @@ Redirect: https://calumryan.com/note/3012
 
 ----
 
-UID: 3012
+Uid: 3012
+
+----
+
+Uuid: nIybALdlqt4w42h8

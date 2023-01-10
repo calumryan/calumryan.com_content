@@ -2,7 +2,7 @@ Title: Webmentions: Enabling Better Communication on the Internet by Chris Aldri
 
 ----
 
-Permalink: https://alistapart.com/article/webmentions-enabling-better-communication-on-the-internet
+Blink: https://alistapart.com/article/webmentions-enabling-better-communication-on-the-internet
 
 ----
 

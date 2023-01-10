@@ -6,7 +6,7 @@ Date: 2021-03-06 09:30:00
 
 ----
 
-Permalink: https://kittygiraudel.com/2021/02/17/hiding-content-responsibly/
+Blink: https://kittygiraudel.com/2021/02/17/hiding-content-responsibly/
 
 ----
 
@@ -19,3 +19,7 @@ Bridgy: twitter
 ----
 
 Uid: 3572
+
+----
+
+Uuid: dS6dbIBv1VLjWWvz

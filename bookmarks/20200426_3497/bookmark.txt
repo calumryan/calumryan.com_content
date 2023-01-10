@@ -2,7 +2,7 @@ Title: BEM Naming cheat sheet
 
 ----
 
-Permalink: https://9elements.com/bem-cheat-sheet/
+Blink: https://9elements.com/bem-cheat-sheet/
 
 ----
 

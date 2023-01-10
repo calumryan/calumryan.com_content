@@ -1,0 +1,85 @@
+Title: May 31st, 2022
+
+----
+
+Text: Checked in at Museum of Country Life
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/6295f1d1148b4d4fe14b5dbb
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Museum of Country Life
+    url:
+      - >
+        https://foursquare.com/v/4bb74b29941ad13a3f7520e3
+    latitude:
+      - '53.882516159073'
+    longitude:
+      - '-9.2198104931891'
+    street-address:
+      - Turlough
+    locality:
+      - Castlebar
+    region:
+      - Co Mayo
+    country-name:
+      - Ireland
+  value: >
+    https://foursquare.com/v/4bb74b29941ad13a3f7520e3
+
+----
+
+Date: 2022-05-31 11:45:00
+
+----
+
+Uid: 3710
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: overcast-clouds
+
+----
+
+Temperature: 12°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

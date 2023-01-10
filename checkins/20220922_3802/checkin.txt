@@ -1,0 +1,88 @@
+Title: September 22nd, 2022
+
+----
+
+Text: Checked in at Delfts Brouwhuis
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/632ca21f17816461816d6303
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Delfts Brouwhuis
+    url:
+      - >
+        https://foursquare.com/v/5d386f415c9d4c0008e9615d
+      - http://delftsbrouwhuis.nl
+    latitude:
+      - '52.012334400051'
+    longitude:
+      - '4.3566410243511'
+    street-address:
+      - Hippolytusbuurt 43
+    locality:
+      - Delft
+    region:
+      - South Holland
+    country-name:
+      - Netherlands
+    postal-code:
+      - 2611 HM
+  value: >
+    https://foursquare.com/v/5d386f415c9d4c0008e9615d
+
+----
+
+Date: 2022-09-22 20:00:00
+
+----
+
+Uid: 3802
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: overcast-clouds
+
+----
+
+Temperature: 16°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

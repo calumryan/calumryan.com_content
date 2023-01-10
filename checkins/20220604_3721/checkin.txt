@@ -1,0 +1,85 @@
+Title: June 4th, 2022
+
+----
+
+Text: Checked in at Gloria Jeans Coffee
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/629b33304ca112323fd2c7c8
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Gloria Jeans Coffee
+    url:
+      - >
+        https://foursquare.com/v/4c73d60b57b6a143241ac9cc
+    latitude:
+      - '53.42395732008'
+    longitude:
+      - '-7.9353213897933'
+    street-address:
+      - Athlone Town Centre
+    locality:
+      - Athlone
+    region:
+      - Co Westmeath
+    country-name:
+      - Ireland
+  value: >
+    https://foursquare.com/v/4c73d60b57b6a143241ac9cc
+
+----
+
+Date: 2022-06-04 11:25:00
+
+----
+
+Uid: 3721
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: clear-sky
+
+----
+
+Temperature: 15°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

@@ -6,7 +6,7 @@ Text: Response fourth test (Self-built CMS with mention-client library to handle
 
 ----
 
-Permalink: 
+Blink: 
 
 ----
 

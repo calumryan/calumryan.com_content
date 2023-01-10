@@ -1,0 +1,92 @@
+Title: July 7th, 2022
+
+----
+
+Text: Checked in at Cais do Sodré Ferry Terminal (Terminal Fluvial do Cais do Sodré)
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/62c6a96bdf7bfa5951bb0379
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - >
+        Cais do Sodré Ferry Terminal (Terminal
+        Fluvial do Cais do Sodré)
+    url:
+      - >
+        https://foursquare.com/v/4cb1bfd6562d224b492e2188
+      - http://www.transtejo.pt
+    tel:
+      - 21 042 2400
+    latitude:
+      - '38.705212442594'
+    longitude:
+      - '-9.1456343947021'
+    street-address:
+      - Rua Cintura Porto de Lisboa
+    locality:
+      - Lisbon
+    region:
+      - Lisbon
+    country-name:
+      - Portugal
+    postal-code:
+      - 1249-249
+  value: >
+    https://foursquare.com/v/4cb1bfd6562d224b492e2188
+
+----
+
+Date: 2022-07-07 10:40:00
+
+----
+
+Uid: 3759
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: clear-sky
+
+----
+
+Temperature: 28°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

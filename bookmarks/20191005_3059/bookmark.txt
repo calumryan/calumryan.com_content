@@ -2,7 +2,7 @@ Title: Automated (and Guided!) Accessibility Audits with axe Pro (via @css)
 
 ----
 
-Permalink: https://css-tricks.com/automated-and-guided-accessibility-audits-with-axe-pro/
+Blink: https://css-tricks.com/automated-and-guided-accessibility-audits-with-axe-pro/
 
 ----
 

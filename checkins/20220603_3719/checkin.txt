@@ -1,0 +1,85 @@
+Title: June 3rd, 2022
+
+----
+
+Text: Checked in at Limerick City Gallery of Art
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/6299f857640e94201fb707d4
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Limerick City Gallery of Art
+    url:
+      - >
+        https://foursquare.com/v/4b7b9ea0f964a520f5682fe3
+    latitude:
+      - '52.658947249289'
+    longitude:
+      - '-8.6283924511261'
+    street-address:
+      - Carnegie Building, Pery Sq
+    locality:
+      - Limerick
+    region:
+      - Co Limerick
+    country-name:
+      - Ireland
+  value: >
+    https://foursquare.com/v/4b7b9ea0f964a520f5682fe3
+
+----
+
+Date: 2022-06-03 13:05:00
+
+----
+
+Uid: 3719
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: broken-clouds
+
+----
+
+Temperature: 15°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

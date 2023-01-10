@@ -2,7 +2,7 @@ Title: First IndieWebCamp Utrecht 🇳🇱. A write-up of day 1 by Ton
 
 ----
 
-Permalink: https://www.zylstra.org/blog/2019/05/indiewebcamp-utrecht-day-1-readers-discovery-federated-search-and-more/
+Blink: https://www.zylstra.org/blog/2019/05/indiewebcamp-utrecht-day-1-readers-discovery-federated-search-and-more/
 
 ----
 

@@ -2,7 +2,7 @@ Title: sass selectors: to nest or not to nest?
 
 ----
 
-Permalink: http://bradfrost.com/blog/post/sass-selectors-to-nest-or-not-to-nest
+Blink: http://bradfrost.com/blog/post/sass-selectors-to-nest-or-not-to-nest
 
 ----
 

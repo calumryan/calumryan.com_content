@@ -2,7 +2,7 @@ Title: Stefan Zweifel on supporting Mojave Dark Mode in CSS
 
 ----
 
-Permalink: https://stefanzweifel.io/posts/support-mojave-dark-mode-with-tailwind-css
+Blink: https://stefanzweifel.io/posts/support-mojave-dark-mode-with-tailwind-css
 
 ----
 

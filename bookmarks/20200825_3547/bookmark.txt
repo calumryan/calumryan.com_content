@@ -6,7 +6,7 @@ Date: 2020-08-25 09:05
 
 ----
 
-Permalink: https://www.nomensa.com/blog/2020/how-build-accessible-cards%E2%80%93block-links
+Blink: https://www.nomensa.com/blog/2020/how-build-accessible-cards%E2%80%93block-links
 
 ----
 

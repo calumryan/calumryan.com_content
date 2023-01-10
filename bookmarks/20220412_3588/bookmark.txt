@@ -1,0 +1,25 @@
+Title: CSS :has( ) A Parent Selector Now
+
+----
+
+Date: 2022-04-12 10:25:00
+
+----
+
+Blink: https://matthiasott.com/notes/css-has-a-parent-selector-now
+
+----
+
+Tags: css
+
+----
+
+Bridgy: 
+
+----
+
+Uid: 3588
+
+----
+
+Uuid: WocUUAvU3gnmSZTb

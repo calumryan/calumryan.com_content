@@ -2,7 +2,7 @@ Title: Improved tracking prevention abilities via cookies and storage access for
 
 ----
 
-Permalink: 
+Blink: 
 
 ----
 

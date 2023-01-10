@@ -2,7 +2,7 @@ Title: Auto Hexagonal CSS Grid Layout
 
 ----
 
-Permalink: https://codepen.io/Kseso/pen/xqNdmO
+Blink: https://codepen.io/Kseso/pen/xqNdmO
 
 ----
 

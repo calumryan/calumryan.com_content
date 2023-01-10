@@ -1,0 +1,92 @@
+Title: August 20th, 2022
+
+----
+
+Text: Checked in at Will's Bakery & Café
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/6300b65eb3cb0a2ee488f19c
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - "Will's Bakery & Café"
+    url:
+      - >
+        https://foursquare.com/v/4d93073d5cf5236a31f558a3
+    tel:
+      - 01797 253635
+    latitude:
+      - '50.989801932573'
+    longitude:
+      - '0.60585649692063'
+    street-address:
+      - Main street
+    locality:
+      - Northiam
+    region:
+      - East Sussex
+    country-name:
+      - United Kingdom
+    postal-code:
+      - TN31 6NB
+  value: >
+    https://foursquare.com/v/4d93073d5cf5236a31f558a3
+
+----
+
+Date: 2022-08-20 11:25:00
+
+----
+
+Uid: 3781
+
+----
+
+Feature-images:
+
+- >
+  407869714_kctmqw1coczpoezkdhfwthqp2uk7ujboyujer3ajmq0.jpg
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: clear-sky
+
+----
+
+Temperature: 20°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

@@ -2,7 +2,7 @@ Title: Accessible digital map experiences: a mountain climb or a walk in the par
 
 ----
 
-Permalink: https://developer.paciellogroup.com/blog/2020/04/accessible-digital-map-experiences/
+Blink: https://developer.paciellogroup.com/blog/2020/04/accessible-digital-map-experiences/
 
 ----
 

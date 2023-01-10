@@ -1,0 +1,91 @@
+Title: November 8th, 2022
+
+----
+
+Text: Checked in at Som Saa
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/636abda38016571366e7715e
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Som Saa
+    url:
+      - >
+        https://foursquare.com/v/544ac6fe498eb751fc779c5b
+      - http://www.somsaa.com
+      - https://twitter.com/somsaa_london
+    tel:
+      - 020 7324 7790
+    latitude:
+      - '51.5173681156'
+    longitude:
+      - '-0.073546765565381'
+    street-address:
+      - 43A Commercial St
+    locality:
+      - Spitalfields
+    region:
+      - Greater London
+    country-name:
+      - United Kingdom
+    postal-code:
+      - E1 6BD
+  value: >
+    https://foursquare.com/v/544ac6fe498eb751fc779c5b
+
+----
+
+Date: 2022-11-08 20:35:00
+
+----
+
+Uid: 3828
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: few-clouds
+
+----
+
+Temperature: 12°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

@@ -2,7 +2,7 @@ Title: PWA Universal Builder
 
 ----
 
-Permalink: https://pwa.cafe/
+Blink: https://pwa.cafe/
 
 ----
 

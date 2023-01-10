@@ -1,0 +1,95 @@
+Title: December 27th, 2022
+
+----
+
+Text: Checked in at Music & Beans
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/63aafd84b91b0b23a5cb53e5
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - 'Music & Beans'
+    url:
+      - >
+        https://foursquare.com/v/561fc5ae498e940a1bb3dd72
+      - http://musicandbeans.co.uk
+      - https://twitter.com/musicandbeans
+    tel:
+      - 020 3774 2959
+    latitude:
+      - '51.579910854631'
+    longitude:
+      - '-0.099262421436371'
+    street-address:
+      - 461 Green Lanes
+    locality:
+      - London
+    region:
+      - Greater London
+    country-name:
+      - United Kingdom
+    postal-code:
+      - N4 1HE
+  value: >
+    https://foursquare.com/v/561fc5ae498e940a1bb3dd72
+
+----
+
+Date: 2022-12-27 14:15:00
+
+----
+
+Uid: 3850
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: few-clouds
+
+----
+
+Temperature: 10°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: kM5oGa6RDU0PLCKH

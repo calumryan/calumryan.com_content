@@ -1,0 +1,89 @@
+Title: July 8th, 2022
+
+----
+
+Text: Checked in at daTerra Parque das Nações
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/62c822732bb74e586d00a2c9
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - daTerra Parque das Nações
+    url:
+      - >
+        https://foursquare.com/v/5e19e64eb57efe00086f97dc
+    tel:
+      - 21 014 9245
+    latitude:
+      - 38.7742
+    longitude:
+      - -9.097581
+    street-address:
+      - Avenida Dom João II, Loja 25 A
+    locality:
+      - Lisbon
+    region:
+      - Lisbon
+    country-name:
+      - Portugal
+    postal-code:
+      - "1990"
+  value: >
+    https://foursquare.com/v/5e19e64eb57efe00086f97dc
+
+----
+
+Date: 2022-07-08 13:25:00
+
+----
+
+Uid: 3765
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: clear-sky
+
+----
+
+Temperature: 36°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

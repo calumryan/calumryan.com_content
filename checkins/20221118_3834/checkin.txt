@@ -1,0 +1,91 @@
+Title: November 18th, 2022
+
+----
+
+Text: Checked in at Wasabi
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/63778c7a850ce7153bc3198e
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Wasabi
+    url:
+      - >
+        https://foursquare.com/v/55deea3f498ec7ee01dac545
+      - https://www.wasabi.uk.com
+      - https://twitter.com/wasabi_uk
+    tel:
+      - 020 3372 4100
+    latitude:
+      - '51.533224849265'
+    longitude:
+      - '-0.12532037644015'
+    street-address:
+      - 6 Pancras Square
+    locality:
+      - London
+    region:
+      - Greater London
+    country-name:
+      - United Kingdom
+    postal-code:
+      - N1C
+  value: >
+    https://foursquare.com/v/55deea3f498ec7ee01dac545
+
+----
+
+Date: 2022-11-18 13:45:00
+
+----
+
+Uid: 3834
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: broken-clouds
+
+----
+
+Temperature: 12°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

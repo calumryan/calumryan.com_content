@@ -1,0 +1,93 @@
+Title: February 26th, 2022
+
+----
+
+Text: Checked in at Hopkinson Vintage, Antiques and Arts Centre
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/621a103a693a5124c288f386
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - >
+        Hopkinson Vintage, Antiques and Arts
+        Centre
+    url:
+      - >
+        https://foursquare.com/v/4ca4a956d5a2a1433da75390
+      - http://www.hopkinson21.co.uk
+      - https://twitter.com/hopkinson21
+    tel:
+      - 0115 837 1316
+    latitude:
+      - '52.947692100794'
+    longitude:
+      - '-1.1459670418218'
+    street-address:
+      - 21 Station St
+    locality:
+      - Nottingham
+    region:
+      - Nottinghamshire
+    country-name:
+      - United Kingdom
+    postal-code:
+      - NG2 3AJ
+  value: >
+    https://foursquare.com/v/4ca4a956d5a2a1433da75390
+
+----
+
+Date: 2022-02-26 11:35:00
+
+----
+
+Uid: 3616
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: few-clouds
+
+----
+
+Temperature: 9°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

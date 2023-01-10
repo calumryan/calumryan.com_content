@@ -2,7 +2,7 @@ Title: WebKit: How Web Content Can Affect Power Usage
 
 ----
 
-Permalink: https://webkit.org/blog/8970/how-web-content-can-affect-power-usage/
+Blink: https://webkit.org/blog/8970/how-web-content-can-affect-power-usage/
 
 ----
 

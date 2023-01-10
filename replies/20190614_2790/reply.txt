@@ -6,7 +6,7 @@ Text: Looks like I need to fix my feed for Micro.blog missing the bookmark link:
 
 ----
 
-Permalink: https://micro.blog/ArnoldHoogerwerf/4037156
+Blink: https://micro.blog/ArnoldHoogerwerf/4037156
 
 ----
 

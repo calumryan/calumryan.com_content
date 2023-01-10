@@ -1,0 +1,85 @@
+Title: June 2nd, 2022
+
+----
+
+Text: Checked in at The Pantry Café
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/6298b7c049d772134098ff97
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - The Pantry Café
+    url:
+      - >
+        https://foursquare.com/v/4bf6bad65efe2d7f78a46734
+    latitude:
+      - '52.862913153584'
+    longitude:
+      - '-8.1981714051337'
+    street-address:
+      - Abbey St
+    locality:
+      - Nenagh
+    region:
+      - Co Tipperary
+    country-name:
+      - Ireland
+  value: >
+    https://foursquare.com/v/4bf6bad65efe2d7f78a46734
+
+----
+
+Date: 2022-06-02 14:15:00
+
+----
+
+Uid: 3717
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: overcast-clouds
+
+----
+
+Temperature: 18°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

@@ -2,7 +2,7 @@ Title: &quot;This marks the beginning of a week long adventure in Geneva Switzer
 
 ----
 
-Permalink: https://remysharp.com/2019/02/12/cern-day-1
+Blink: https://remysharp.com/2019/02/12/cern-day-1
 
 ----
 

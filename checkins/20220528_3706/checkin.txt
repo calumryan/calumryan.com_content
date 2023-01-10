@@ -1,0 +1,90 @@
+Title: May 28th, 2022
+
+----
+
+Text: Checked in at Liffey Valley Shopping Centre
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/6292294552347c705289d752
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Liffey Valley Shopping Centre
+    url:
+      - >
+        https://foursquare.com/v/4ade0f67f964a520577221e3
+      - http://www.liffeyvalley.ie
+    tel:
+      - (01) 616 0212
+    latitude:
+      - '53.353458739754'
+    longitude:
+      - '-6.3901376724243'
+    street-address:
+      - Fonthill Rd, Clondalkin
+    locality:
+      - Dublin
+    region:
+      - Dublin City
+    country-name:
+      - Ireland
+    postal-code:
+      - "22"
+  value: >
+    https://foursquare.com/v/4ade0f67f964a520577221e3
+
+----
+
+Date: 2022-05-28 14:55:00
+
+----
+
+Uid: 3706
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: broken-clouds
+
+----
+
+Temperature: 15°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

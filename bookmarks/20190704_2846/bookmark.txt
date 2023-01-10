@@ -2,7 +2,7 @@ Title: Will your code work with assistive technologies? - an accessibility suppo
 
 ----
 
-Permalink: https://a11ysupport.io
+Blink: https://a11ysupport.io
 
 ----
 

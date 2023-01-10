@@ -1,0 +1,90 @@
+Title: July 6th, 2022
+
+----
+
+Text: Checked in at LX Factory
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/62c5a6ad1791d43d2879b37f
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - LX Factory
+    url:
+      - >
+        https://foursquare.com/v/4b3cda52f964a520428825e3
+      - http://www.lxfactory.com
+    tel:
+      - 21 314 3399
+    latitude:
+      - '38.703091475236'
+    longitude:
+      - '-9.1788331364096'
+    street-address:
+      - R. Rodrigues Faria 103
+    locality:
+      - Lisbon
+    region:
+      - Lisbon
+    country-name:
+      - Portugal
+    postal-code:
+      - 1300-501
+  value: >
+    https://foursquare.com/v/4b3cda52f964a520428825e3
+
+----
+
+Date: 2022-07-06 16:15:00
+
+----
+
+Uid: 3756
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: clear-sky
+
+----
+
+Temperature: 29°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

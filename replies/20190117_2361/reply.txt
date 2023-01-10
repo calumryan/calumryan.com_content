@@ -6,7 +6,7 @@ Text: Great to see the weather trend continue!
 
 ----
 
-Permalink: https://cleverdevil.io/2019/all-of-the-posts-on-my-website
+Blink: https://cleverdevil.io/2019/all-of-the-posts-on-my-website
 
 ----
 

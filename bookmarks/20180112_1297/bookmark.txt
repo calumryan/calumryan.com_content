@@ -2,7 +2,7 @@ Title: Bookmarked https://blog.floydhub.com/turning-design-mockups-into-code-wit
 
 ----
 
-Permalink: https://blog.floydhub.com/turning-design-mockups-into-code-with-deep-learning/
+Blink: https://blog.floydhub.com/turning-design-mockups-into-code-with-deep-learning/
 
 ----
 

@@ -2,7 +2,7 @@ Title: My struggle to learn react by Brad Frost
 
 ----
 
-Permalink: http://bradfrost.com/blog/post/my-struggle-to-learn-react
+Blink: http://bradfrost.com/blog/post/my-struggle-to-learn-react
 
 ----
 

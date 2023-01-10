@@ -1,0 +1,87 @@
+Title: September 4th, 2022
+
+----
+
+Text: Checked in at Ten Hands Cafe Bar
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/63148daca2976c271ddb3d42
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Ten Hands Cafe Bar
+    url:
+      - >
+        https://foursquare.com/v/5a2bbf2a419a9e5049d6eb10
+    latitude:
+      - 52.131382
+    longitude:
+      - -0.988041
+    street-address:
+      - 175 Watling Street
+    locality:
+      - Towcester
+    region:
+      - Northamptonshire
+    country-name:
+      - United Kingdom
+    postal-code:
+      - NN12 6BX
+  value: >
+    https://foursquare.com/v/5a2bbf2a419a9e5049d6eb10
+
+----
+
+Date: 2022-09-04 12:35:00
+
+----
+
+Uid: 3787
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: overcast-clouds
+
+----
+
+Temperature: 21°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

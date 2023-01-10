@@ -1,0 +1,91 @@
+Title: March 2nd, 2022
+
+----
+
+Text: Checked in at Chilango
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/621fbd9010c1b34d1f8ca144
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Chilango
+    url:
+      - >
+        https://foursquare.com/v/528e5d13498ee81c8a99e794
+      - http://www.chilango.co.uk
+      - https://twitter.com/chilango_uk
+    tel:
+      - 020 7920 6424
+    latitude:
+      - '51.512166426818'
+    longitude:
+      - '-0.13438371759876'
+    street-address:
+      - 24 Brewer St
+    locality:
+      - London
+    region:
+      - Greater London
+    country-name:
+      - United Kingdom
+    postal-code:
+      - W1F 0SW
+  value: >
+    https://foursquare.com/v/528e5d13498ee81c8a99e794
+
+----
+
+Date: 2022-03-02 18:55:00
+
+----
+
+Uid: 3619
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: light-rain
+
+----
+
+Temperature: 7°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

@@ -2,7 +2,7 @@ Title: Visualise data accessibly
 
 ----
 
-Permalink: https://www.everviz.com
+Blink: https://www.everviz.com
 
 ----
 

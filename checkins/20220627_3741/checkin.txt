@@ -1,0 +1,91 @@
+Title: June 27th, 2022
+
+----
+
+Text: Checked in at Greggs
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/62b95d86974f485ad4d73916
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Greggs
+    url:
+      - >
+        https://foursquare.com/v/4d2f8e7ef9daa1cdb8e25d50
+      - http://www.greggs.co.uk
+      - https://twitter.com/greggsofficial
+    tel:
+      - 01732 352248
+    latitude:
+      - '51.194826403235'
+    longitude:
+      - '0.27418345212936'
+    street-address:
+      - 86-86a High St
+    locality:
+      - Tonbridge
+    region:
+      - Kent
+    country-name:
+      - United Kingdom
+    postal-code:
+      - TN9 1AP
+  value: >
+    https://foursquare.com/v/4d2f8e7ef9daa1cdb8e25d50
+
+----
+
+Date: 2022-06-27 08:35:00
+
+----
+
+Uid: 3741
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: few-clouds
+
+----
+
+Temperature: 16°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

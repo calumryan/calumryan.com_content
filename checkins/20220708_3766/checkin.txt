@@ -1,0 +1,87 @@
+Title: July 8th, 2022
+
+----
+
+Text: Checked in at Terminal 2
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/62c8366ca6a00c6213c42582
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Terminal 2
+    url:
+      - >
+        https://foursquare.com/v/4bed78596e8c20a119647061
+    latitude:
+      - '38.763990546396'
+    longitude:
+      - '-9.1364319927406'
+    street-address:
+      - LIS Airport
+    locality:
+      - Lisbon
+    region:
+      - Lisbon
+    country-name:
+      - Portugal
+    postal-code:
+      - "1700"
+  value: >
+    https://foursquare.com/v/4bed78596e8c20a119647061
+
+----
+
+Date: 2022-07-08 14:50:00
+
+----
+
+Uid: 3766
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: clear-sky
+
+----
+
+Temperature: 36°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

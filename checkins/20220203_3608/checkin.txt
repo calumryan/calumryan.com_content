@@ -1,0 +1,91 @@
+Title: February 3rd, 2022
+
+----
+
+Text: Checked in at The Design Museum
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/61fba636091d290bec736d3e
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - The Design Museum
+    url:
+      - >
+        https://foursquare.com/v/57d5606a498e432cab0a7099
+      - http://designmuseum.org
+      - https://twitter.com/designmuseum
+    tel:
+      - 020 3862 5900
+    latitude:
+      - '51.499785419092'
+    longitude:
+      - '-0.1996407067828'
+    street-address:
+      - 224-238 Kensington High St
+    locality:
+      - London
+    region:
+      - Greater London
+    country-name:
+      - United Kingdom
+    postal-code:
+      - W8 6AG
+  value: >
+    https://foursquare.com/v/57d5606a498e432cab0a7099
+
+----
+
+Date: 2022-02-03 09:55:00
+
+----
+
+Uid: 3608
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: scattered-clouds
+
+----
+
+Temperature: 8°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

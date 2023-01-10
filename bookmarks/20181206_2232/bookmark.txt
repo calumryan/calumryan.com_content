@@ -2,7 +2,7 @@ Title: VueConf Toronto talks
 
 ----
 
-Permalink: https://www.vuemastery.com/conferences/vueconf-toronto-2018/visualizations-using-svg-canvs-webgl/
+Blink: https://www.vuemastery.com/conferences/vueconf-toronto-2018/visualizations-using-svg-canvs-webgl/
 
 ----
 

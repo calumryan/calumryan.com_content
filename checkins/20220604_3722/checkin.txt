@@ -1,0 +1,83 @@
+Title: June 4th, 2022
+
+----
+
+Text: Checked in at Luan Gallery
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/629b3ce26d3a8519ede3ff0b
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Luan Gallery
+    url:
+      - >
+        https://foursquare.com/v/5273faeb498e8be8a89d105a
+    latitude:
+      - '53.423839569092'
+    longitude:
+      - '-7.942807674408'
+    locality:
+      - Athlone
+    region:
+      - Co Westmeath
+    country-name:
+      - Ireland
+  value: >
+    https://foursquare.com/v/5273faeb498e8be8a89d105a
+
+----
+
+Date: 2022-06-04 12:05:00
+
+----
+
+Uid: 3722
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: clear-sky
+
+----
+
+Temperature: 16°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

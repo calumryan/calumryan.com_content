@@ -2,7 +2,7 @@ Title: Offline-Friendly Forms
 
 ----
 
-Permalink: https://mxb.at/blog/offline-forms
+Blink: https://mxb.at/blog/offline-forms
 
 ----
 

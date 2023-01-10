@@ -6,7 +6,7 @@ Date: 2021-05-19 13:45:00
 
 ----
 
-Permalink: https://level-level.com/blog/we-need-to-talk-about-wcag/
+Blink: https://level-level.com/blog/we-need-to-talk-about-wcag/
 
 ----
 
@@ -19,3 +19,7 @@ Bridgy: twitter
 ----
 
 Uid: 3577
+
+----
+
+Uuid: vv7OYkzuROxn5RmN

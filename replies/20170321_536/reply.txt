@@ -6,7 +6,7 @@ Text: Agree with this mainly but unsure of a native application solution. I woul
 
 ----
 
-Permalink: https://cleverdevil.io/2017/user-experience-and-the-indieweb
+Blink: https://cleverdevil.io/2017/user-experience-and-the-indieweb
 
 ----
 

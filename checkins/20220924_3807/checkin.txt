@@ -1,0 +1,91 @@
+Title: September 24th, 2022
+
+----
+
+Text: Checked in at EXKi
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/632ee1649b9f0c020a22239d
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - EXKi
+    url:
+      - >
+        https://foursquare.com/v/4bb5cf71f562ef3b90442f97
+      - http://www.exki.com
+      - https://twitter.com/exkiofficial
+    tel:
+      - 03 234 96 46
+    latitude:
+      - '51.217830593045'
+    longitude:
+      - '4.4166371768124'
+    street-address:
+      - De Keyserlei 20
+    locality:
+      - Antwerp
+    region:
+      - Antwerp
+    country-name:
+      - Belgium
+    postal-code:
+      - "2018"
+  value: >
+    https://foursquare.com/v/4bb5cf71f562ef3b90442f97
+
+----
+
+Date: 2022-09-24 12:50:00
+
+----
+
+Uid: 3807
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: mist
+
+----
+
+Temperature: 13°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

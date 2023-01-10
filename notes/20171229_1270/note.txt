@@ -6,7 +6,7 @@ Text: Making a start on CSS Grid-ifying homepage
 
 ----
 
-Permalink: 
+Blink: 
 
 ----
 

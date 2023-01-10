@@ -2,7 +2,7 @@ Title: GitHub - Introducing draft pull requests
 
 ----
 
-Permalink: https://github.blog/2019-02-14-introducing-draft-pull-requests/
+Blink: https://github.blog/2019-02-14-introducing-draft-pull-requests/
 
 ----
 

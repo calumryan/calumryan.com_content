@@ -1,0 +1,92 @@
+Title: July 5th, 2022
+
+----
+
+Text: Checked in at Estação Ferroviária de Porto-Campanhã
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/62c47077d8127e16300fd2e2
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - >
+        Estação Ferroviária de
+        Porto-Campanhã
+    url:
+      - >
+        https://foursquare.com/v/4bd863dbf645c9b6ddc8a7e0
+      - http://cp.pt
+    tel:
+      - 808 208 208
+    latitude:
+      - '41.148700873007'
+    longitude:
+      - '-8.5853041287438'
+    street-address:
+      - Lg. da Estação de Campanhã
+    locality:
+      - Porto
+    region:
+      - Distrito do Porto
+    country-name:
+      - Portugal
+    postal-code:
+      - 4300-173
+  value: >
+    https://foursquare.com/v/4bd863dbf645c9b6ddc8a7e0
+
+----
+
+Date: 2022-07-05 18:10:00
+
+----
+
+Uid: 3752
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: few-clouds
+
+----
+
+Temperature: 24°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

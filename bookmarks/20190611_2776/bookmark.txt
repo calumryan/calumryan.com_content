@@ -2,7 +2,7 @@ Title: 🎉 CSS subgrid making its way into Firefox, time to start experimenting
 
 ----
 
-Permalink: https://hacks.mozilla.org/2019/06/css-grid-level-2-subgrid-is-coming-to-firefox/
+Blink: https://hacks.mozilla.org/2019/06/css-grid-level-2-subgrid-is-coming-to-firefox/
 
 ----
 

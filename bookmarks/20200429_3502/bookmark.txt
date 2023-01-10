@@ -2,7 +2,7 @@ Title: No Style Design System - A design system housing all the components and p
 
 ----
 
-Permalink: https://nostyle.herokuapp.com/
+Blink: https://nostyle.herokuapp.com/
 
 ----
 

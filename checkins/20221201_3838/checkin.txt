@@ -1,0 +1,94 @@
+Title: December 1st, 2022
+
+----
+
+Text: Checked in at Belle Epoque Patisserie
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/6388a33c3c99ae0a562e3d58
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Belle Epoque Patisserie
+    url:
+      - >
+        https://foursquare.com/v/4aed78f2f964a520a7cd21e3
+      - http://belleepoque.co.uk
+    tel:
+      - 020 7249 2222
+    latitude:
+      - 51.552106
+    longitude:
+      - -0.084797
+    street-address:
+      - 37 Newington Green
+    locality:
+      - Islington
+    region:
+      - Greater London
+    country-name:
+      - United Kingdom
+    postal-code:
+      - N16 9PR
+  value: >
+    https://foursquare.com/v/4aed78f2f964a520a7cd21e3
+
+----
+
+Date: 2022-12-01 12:50:00
+
+----
+
+Uid: 3838
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: broken-clouds
+
+----
+
+Temperature: 9°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: TGpDRGoGMAcmixco

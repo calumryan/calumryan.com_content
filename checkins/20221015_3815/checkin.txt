@@ -1,0 +1,81 @@
+Title: October 15th, 2022
+
+----
+
+Text: Checked in at Hope & Lane
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/634aaf090dcebe039966906e
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - 'Hope & Lane'
+    url:
+      - >
+        https://foursquare.com/v/53df93ba498eba44bed30ccb
+    latitude:
+      - 51.225407
+    longitude:
+      - 1.402655
+    street-address:
+      - High Street Deal
+    country-name:
+      - United Kingdom
+  value: >
+    https://foursquare.com/v/53df93ba498eba44bed30ccb
+
+----
+
+Date: 2022-10-15 14:00:00
+
+----
+
+Uid: 3815
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: overcast-clouds
+
+----
+
+Temperature: 17°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

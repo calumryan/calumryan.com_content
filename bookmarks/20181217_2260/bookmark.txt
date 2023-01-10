@@ -2,7 +2,7 @@ Title: Free Web tool for removing backgrounds from images
 
 ----
 
-Permalink: https://www.remove.bg/
+Blink: https://www.remove.bg/
 
 ----
 

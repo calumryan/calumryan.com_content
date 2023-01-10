@@ -6,7 +6,7 @@ Text: Same here in coffee shops, trains, public transport and isn't just younger
 
 ----
 
-Permalink: https://aaronparecki.com/2019/11/02/5/memphis
+Blink: https://aaronparecki.com/2019/11/02/5/memphis
 
 ----
 
@@ -22,4 +22,8 @@ Redirect: https://calumryan.com/note/3186
 
 ----
 
-UID: 3186
+Uid: 3186
+
+----
+
+Uuid: Xs6ZcygvmyazA0v8

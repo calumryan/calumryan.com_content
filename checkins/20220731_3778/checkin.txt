@@ -1,0 +1,91 @@
+Title: July 31st, 2022
+
+----
+
+Text: Checked in at Foyles
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/62e68de46990017f352a3a26
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Foyles
+    url:
+      - >
+        https://foursquare.com/v/4ac518edf964a520c8ac20e3
+      - http://www.foyles.co.uk
+      - https://twitter.com/foyles
+    tel:
+      - 020 7437 5660
+    latitude:
+      - 51.514158
+    longitude:
+      - -0.129729
+    street-address:
+      - 107 Charing Cross Rd
+    locality:
+      - Soho
+    region:
+      - Greater London
+    country-name:
+      - United Kingdom
+    postal-code:
+      - WC2H 0DT
+  value: >
+    https://foursquare.com/v/4ac518edf964a520c8ac20e3
+
+----
+
+Date: 2022-07-31 15:15:00
+
+----
+
+Uid: 3778
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: broken-clouds
+
+----
+
+Temperature: 25°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

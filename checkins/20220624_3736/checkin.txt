@@ -1,0 +1,88 @@
+Title: June 24th, 2022
+
+----
+
+Text: Checked in at Huckletree Shoreditch
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/62b5789402cef1300f0fbbd4
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Huckletree Shoreditch
+    url:
+      - >
+        https://foursquare.com/v/56f2bc92498e6783a80777e9
+      - https://twitter.com/huckletree
+    latitude:
+      - '51.521589093183'
+    longitude:
+      - '-0.086354053513361'
+    street-address:
+      - 18 Finsbury Square
+    locality:
+      - London
+    region:
+      - Greater London
+    country-name:
+      - United Kingdom
+    postal-code:
+      - EC2A 1BR
+  value: >
+    https://foursquare.com/v/56f2bc92498e6783a80777e9
+
+----
+
+Date: 2022-06-24 09:40:00
+
+----
+
+Uid: 3736
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: broken-clouds
+
+----
+
+Temperature: 20°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

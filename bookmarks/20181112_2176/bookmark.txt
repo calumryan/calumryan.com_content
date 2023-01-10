@@ -2,7 +2,7 @@ Title: Graded Browser Support works by classifying all browser versions in one o
 
 ----
 
-Permalink: https://github.com/springernature/frontend-playbook/blob/master/practices/graded-browser-support.md
+Blink: https://github.com/springernature/frontend-playbook/blob/master/practices/graded-browser-support.md
 
 ----
 

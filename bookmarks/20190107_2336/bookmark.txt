@@ -2,7 +2,7 @@ Title: Static Indieweb Sites: Syndicating Content
 
 ----
 
-Permalink: https://mxb.at/blog/syndicating-content-to-twitter-with-netlify-functions/
+Blink: https://mxb.at/blog/syndicating-content-to-twitter-with-netlify-functions/
 
 ----
 

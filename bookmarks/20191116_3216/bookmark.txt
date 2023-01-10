@@ -2,7 +2,7 @@ Title: Screen Reader User Survey #8
 
 ----
 
-Permalink: https://webaim.org/projects/screenreadersurvey8/
+Blink: https://webaim.org/projects/screenreadersurvey8/
 
 ----
 

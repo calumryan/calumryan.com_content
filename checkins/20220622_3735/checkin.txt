@@ -1,0 +1,85 @@
+Title: June 22nd, 2022
+
+----
+
+Text: Checked in at Pizza Union
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/62b35496d1979617031093ce
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Pizza Union
+    url:
+      - >
+        https://foursquare.com/v/5df0d9dab6eaec0008e8c08f
+    latitude:
+      - 51.527288
+    longitude:
+      - -0.088673
+    locality:
+      - London
+    region:
+      - Greater London
+    country-name:
+      - United Kingdom
+    postal-code:
+      - EC1V 2NX
+  value: >
+    https://foursquare.com/v/5df0d9dab6eaec0008e8c08f
+
+----
+
+Date: 2022-06-22 18:45:00
+
+----
+
+Uid: 3735
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: clear-sky
+
+----
+
+Temperature: 24°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

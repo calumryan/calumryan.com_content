@@ -6,7 +6,7 @@ Text: Day 1 of it's a very CSS-animated Christmas: http://teamsky.adventcalendar
 
 ----
 
-Permalink: 
+Blink: 
 
 ----
 

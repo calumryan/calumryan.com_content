@@ -1,0 +1,87 @@
+Title: November 6th, 2021
+
+----
+
+Text: Checked in at Eurostar Passport Control
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/6186366d068b0035ef79583f
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Eurostar Passport Control
+    url:
+      - >
+        https://foursquare.com/v/5654b01f498e89858afee4a3
+    latitude:
+      - '51.531638470402'
+    longitude:
+      - '-0.12624707769362'
+    street-address:
+      - Pancras Rd
+    locality:
+      - London
+    region:
+      - Greater London
+    country-name:
+      - United Kingdom
+    postal-code:
+      - NW1 2QP
+  value: >
+    https://foursquare.com/v/5654b01f498e89858afee4a3
+
+----
+
+Date: 2021-11-06 08:00:00
+
+----
+
+Uid: 3535
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Weather-icon: few-clouds
+
+----
+
+Temperature: 9°C

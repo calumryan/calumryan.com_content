@@ -1,0 +1,91 @@
+Title: November 6th, 2022
+
+----
+
+Text: Checked in at LEON
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/6367ac8c7935af3ac7264dbc
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - LEON
+    url:
+      - >
+        https://foursquare.com/v/5630d800498efc9b79f87943
+      - https://leon.co
+      - https://twitter.com/leonrestaurants
+    tel:
+      - 020 7512 9419
+    latitude:
+      - '51.5029811149'
+    longitude:
+      - '-0.018400368539664'
+    street-address:
+      - Unit 62 Jubilee Pl
+    locality:
+      - Canary Wharf
+    region:
+      - Greater London
+    country-name:
+      - United Kingdom
+    postal-code:
+      - E14 5NY
+  value: >
+    https://foursquare.com/v/5630d800498efc9b79f87943
+
+----
+
+Date: 2022-11-06 12:45:00
+
+----
+
+Uid: 3827
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: scattered-clouds
+
+----
+
+Temperature: 13°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

@@ -6,7 +6,7 @@ Text: Checked in at Terminal 2 - The Queen's Terminal
 
 ----
 
-Permalink: 
+Blink: 
 
 ----
 

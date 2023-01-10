@@ -2,7 +2,7 @@ Title: Auto trigger deploys on Netlify with Zapier
 
 ----
 
-Permalink: https://flaviocopes.com/netlify-auto-deploy/
+Blink: https://flaviocopes.com/netlify-auto-deploy/
 
 ----
 

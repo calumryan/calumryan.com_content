@@ -1,0 +1,88 @@
+Title: February 25th, 2022
+
+----
+
+Text: Checked in at Vaults Collective
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/6218c449f50bd513c11e4578
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Vaults Collective
+    url:
+      - >
+        https://foursquare.com/v/60c895c4d8fcb45d94a179ae
+    latitude:
+      - 51.419693
+    longitude:
+      - -0.07993
+    locality:
+      - London
+    region:
+      - Greater London
+    country-name:
+      - United Kingdom
+    postal-code:
+      - SE19 1RX
+  value: >
+    https://foursquare.com/v/60c895c4d8fcb45d94a179ae
+
+----
+
+Date: 2022-02-25 12:45:00
+
+----
+
+Uid: 3613
+
+----
+
+Feature-images:
+
+- >
+  407869714_0sfsn_2rzpesoxgvht9ux03vwcj-oajdqmzzcrfkjgq.jpg
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: scattered-clouds
+
+----
+
+Temperature: 10°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

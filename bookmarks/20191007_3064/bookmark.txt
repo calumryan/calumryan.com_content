@@ -2,7 +2,7 @@ Title: Designing a focus style by Zell
 
 ----
 
-Permalink: https://zellwk.com/blog/design-focus-style/
+Blink: https://zellwk.com/blog/design-focus-style/
 
 ----
 

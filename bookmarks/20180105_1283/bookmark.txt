@@ -2,7 +2,7 @@ Title: Bookmarked https://aaronparecki.com/2017/12/30/7/indieweb-badge
 
 ----
 
-Permalink: https://aaronparecki.com/2017/12/30/7/indieweb-badge
+Blink: https://aaronparecki.com/2017/12/30/7/indieweb-badge
 
 ----
 

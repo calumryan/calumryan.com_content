@@ -1,0 +1,92 @@
+Title: July 3rd, 2022
+
+----
+
+Text: Checked in at Francisco Sá Carneiro Airport (OPO) (Aeroporto Francisco Sá Carneiro)
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/62c1a920f4c9a95637d120bf
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - >
+        Francisco Sá Carneiro Airport (OPO)
+        (Aeroporto Francisco Sá Carneiro)
+    url:
+      - >
+        https://foursquare.com/v/4b83f60ff964a5208b1831e3
+      - https://www.aeroportoporto.pt
+    tel:
+      - 22 943 2400
+    latitude:
+      - '41.236908904403'
+    longitude:
+      - '-8.6716056017634'
+    street-address:
+      - Pedras Rubras
+    locality:
+      - Maia
+    region:
+      - Distrito do Porto
+    country-name:
+      - Portugal
+    postal-code:
+      - 4470-558
+  value: >
+    https://foursquare.com/v/4b83f60ff964a5208b1831e3
+
+----
+
+Date: 2022-07-03 15:35:00
+
+----
+
+Uid: 3745
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: clear-sky
+
+----
+
+Temperature: 24°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

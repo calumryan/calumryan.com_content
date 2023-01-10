@@ -6,7 +6,7 @@ Text: Reviewing three years experience of \#indieweb and my first Git push onboa
 
 ----
 
-Permalink: 
+Blink: 
 
 ----
 

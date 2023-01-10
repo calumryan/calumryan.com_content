@@ -2,7 +2,7 @@ Title: January 6th, 2019
 
 ----
 
-Permalink: http://known.kevinmarks.com/2019/i-have-made-an-indieweb-friendly-hugo
+Blink: http://known.kevinmarks.com/2019/i-have-made-an-indieweb-friendly-hugo
 
 ----
 

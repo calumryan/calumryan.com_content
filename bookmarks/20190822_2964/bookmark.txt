@@ -2,7 +2,7 @@ Title: Using inputmode for inputs instead of type
 
 ----
 
-Permalink: https://css-tricks.com/everything-you-ever-wanted-to-know-about-inputmode/
+Blink: https://css-tricks.com/everything-you-ever-wanted-to-know-about-inputmode/
 
 ----
 

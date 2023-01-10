@@ -6,7 +6,7 @@ Date: 2021-05-06 09:20:00
 
 ----
 
-Permalink: https://www.24a11y.com/2019/adding-people-with-disabilities-to-your-team/
+Blink: https://www.24a11y.com/2019/adding-people-with-disabilities-to-your-team/
 
 ----
 
@@ -19,3 +19,7 @@ Bridgy: twitter
 ----
 
 Uid: 3575
+
+----
+
+Uuid: UH1d5IV0nbt7A0u7

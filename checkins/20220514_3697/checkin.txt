@@ -1,0 +1,85 @@
+Title: May 14th, 2022
+
+----
+
+Text: Checked in at Hastings Pier
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/627fc91455144156d2ec74ec
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Hastings Pier
+    url:
+      - >
+        https://foursquare.com/v/4caac1ad36fa6dcb943dd378
+    latitude:
+      - '50.852917359581'
+    longitude:
+      - '0.57217955589294'
+    street-address:
+      - Verulan Pl
+    locality:
+      - Hastings
+    region:
+      - East Sussex
+    country-name:
+      - United Kingdom
+  value: >
+    https://foursquare.com/v/4caac1ad36fa6dcb943dd378
+
+----
+
+Date: 2022-05-14 16:20:00
+
+----
+
+Uid: 3697
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: clear-sky
+
+----
+
+Temperature: 18°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

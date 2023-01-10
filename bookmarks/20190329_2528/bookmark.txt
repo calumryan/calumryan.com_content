@@ -2,7 +2,7 @@ Title: All you need to know about hyphenation in CSS by @clagnut
 
 ----
 
-Permalink: http://clagnut.com/blog/2395
+Blink: http://clagnut.com/blog/2395
 
 ----
 

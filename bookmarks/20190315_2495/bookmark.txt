@@ -2,7 +2,7 @@ Title: Another addition to the UK #indieweb HWC meetups
 
 ----
 
-Permalink: https://www.jvt.me/posts/2019/03/14/homebrew-website-club-nottingham/
+Blink: https://www.jvt.me/posts/2019/03/14/homebrew-website-club-nottingham/
 
 ----
 

@@ -2,7 +2,7 @@ Title: Landmarks – Allows you to navigate a web page via WAI-ARIA landmarks, u
 
 ----
 
-Permalink: http://matatk.agrip.org.uk/landmarks/
+Blink: http://matatk.agrip.org.uk/landmarks/
 
 ----
 

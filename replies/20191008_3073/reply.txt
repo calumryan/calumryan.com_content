@@ -6,7 +6,7 @@ Text: Well done on your talk tonight, very informative
 
 ----
 
-Permalink: https://twitter.com/TheRealNooshu/status/1181673532125798401?s=19
+Blink: https://twitter.com/TheRealNooshu/status/1181673532125798401?s=19
 
 ----
 
@@ -22,4 +22,8 @@ Redirect: https://calumryan.com/note/3073
 
 ----
 
-UID: 3073
+Uid: 3073
+
+----
+
+Uuid: uWsyfOYGQUQNjpyk

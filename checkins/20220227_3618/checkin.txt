@@ -1,0 +1,89 @@
+Title: February 27th, 2022
+
+----
+
+Text: Checked in at Costa Coffee
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/621b86b0453a170f8fc85f00
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Costa Coffee
+    url:
+      - >
+        https://foursquare.com/v/5820600969b32f213340602a
+      - https://www.costa.co.uk
+      - https://twitter.com/costacoffee
+    latitude:
+      - 53.634052
+    longitude:
+      - -3.0138192
+    street-address:
+      - Liverpool Road
+    locality:
+      - Southport
+    region:
+      - Sefton
+    country-name:
+      - United Kingdom
+    postal-code:
+      - PR8 4AR
+  value: >
+    https://foursquare.com/v/5820600969b32f213340602a
+
+----
+
+Date: 2022-02-27 14:10:00
+
+----
+
+Uid: 3618
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: clear-sky
+
+----
+
+Temperature: 10°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

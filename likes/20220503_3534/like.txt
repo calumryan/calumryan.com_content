@@ -1,0 +1,25 @@
+Title: Connections
+
+----
+
+Date: 2022-05-03 23:45:00
+
+----
+
+Blink: https://matthiasott.com/notes/connections
+
+----
+
+Tags: BTConf
+
+----
+
+Bridgy: 
+
+----
+
+Uid: 3534
+
+----
+
+Uuid: D9SyMJeBg5WSUAOA

@@ -2,7 +2,7 @@ Title: Auditing For Accessibility Problems With Firefox Developer Tools (via @Ma
 
 ----
 
-Permalink: https://hacks.mozilla.org/2019/10/auditing-for-accessibility-problems-with-firefox-developer-tools/
+Blink: https://hacks.mozilla.org/2019/10/auditing-for-accessibility-problems-with-firefox-developer-tools/
 
 ----
 

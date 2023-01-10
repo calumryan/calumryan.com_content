@@ -1,0 +1,89 @@
+Title: July 4th, 2022
+
+----
+
+Text: Checked in at Osteria di Porto
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/62c2ceb89d624315b7f1cecd
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Osteria di Porto
+    url:
+      - >
+        https://foursquare.com/v/5ab8daa8b1ec136b2c796150
+      - >
+        https://osteriadiporto.wixsite.com/osteriadiporto
+    latitude:
+      - 41.143376
+    longitude:
+      - -8.608057
+    street-address:
+      - Rua de Augusto Rosa, 57
+    locality:
+      - Porto
+    region:
+      - Distrito do Porto
+    country-name:
+      - Portugal
+    postal-code:
+      - 4000-098
+  value: >
+    https://foursquare.com/v/5ab8daa8b1ec136b2c796150
+
+----
+
+Date: 2022-07-04 12:30:00
+
+----
+
+Uid: 3747
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: broken-clouds
+
+----
+
+Temperature: 20°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

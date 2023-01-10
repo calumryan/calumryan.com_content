@@ -23,11 +23,11 @@ Date: 2022-12-07 20:30:00
 
 ----
 
-Author: - V00CCy0l
+Author: - user://V00CCy0l
 
 ----
 
-Tags: weeknote
+Tags: test1, test2
 
 ----
 
@@ -47,7 +47,7 @@ Gallery:
 
 ----
 
-Og-thumbnail: - weeknote-29.jpg
+Og-thumbnail: - file://kQRXqGmOKT1D27wG
 
 ----
 

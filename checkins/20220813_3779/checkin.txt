@@ -1,0 +1,91 @@
+Title: August 13th, 2022
+
+----
+
+Text: Checked in at Fitzwilliam Museum
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/62f78b22430a303839287dd5
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Fitzwilliam Museum
+    url:
+      - >
+        https://foursquare.com/v/4b0ecc4df964a5202d5b23e3
+      - http://www.fitzmuseum.cam.ac.uk
+      - https://twitter.com/fitzmuseum_uk
+    tel:
+      - 01223 332900
+    latitude:
+      - '52.200307914368'
+    longitude:
+      - '0.11981442581828'
+    street-address:
+      - Trumpington St
+    locality:
+      - Cambridge
+    region:
+      - Cambridgeshire
+    country-name:
+      - United Kingdom
+    postal-code:
+      - CB2 1RB
+  value: >
+    https://foursquare.com/v/4b0ecc4df964a5202d5b23e3
+
+----
+
+Date: 2022-08-13 12:30:00
+
+----
+
+Uid: 3779
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: clear-sky
+
+----
+
+Temperature: 31°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

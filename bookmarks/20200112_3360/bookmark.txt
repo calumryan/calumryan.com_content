@@ -2,7 +2,7 @@ Title: The intersection of markup, content and context in accessibility by David
 
 ----
 
-Permalink: https://www.24a11y.com/2019/the-intersection-of-markup-content-and-context-in-accessibility/
+Blink: https://www.24a11y.com/2019/the-intersection-of-markup-content-and-context-in-accessibility/
 
 ----
 

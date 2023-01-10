@@ -1,0 +1,91 @@
+Title: July 21st, 2022
+
+----
+
+Text: Checked in at BFI Southbank
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/62d9abc0e28e4319049dd388
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - BFI Southbank
+    url:
+      - >
+        https://foursquare.com/v/4ac518e7f964a52067ab20e3
+      - http://www.bfi.org.uk
+      - https://twitter.com/bfi
+    tel:
+      - 020 7928 3232
+    latitude:
+      - '51.506538709289'
+    longitude:
+      - '-0.11503007410473'
+    street-address:
+      - Belvedere Rd
+    locality:
+      - London
+    region:
+      - Greater London
+    country-name:
+      - United Kingdom
+    postal-code:
+      - SE1 8XT
+  value: >
+    https://foursquare.com/v/4ac518e7f964a52067ab20e3
+
+----
+
+Date: 2022-07-21 20:40:00
+
+----
+
+Uid: 3774
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: broken-clouds
+
+----
+
+Temperature: 20°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

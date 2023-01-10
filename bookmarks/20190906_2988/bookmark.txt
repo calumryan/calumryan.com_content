@@ -2,7 +2,7 @@ Title: CLI for custom downloading YouTube videos
 
 ----
 
-Permalink: https://github.com/synox/youtube-dl-interactive
+Blink: https://github.com/synox/youtube-dl-interactive
 
 ----
 

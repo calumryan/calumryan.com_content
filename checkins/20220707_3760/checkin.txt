@@ -1,0 +1,90 @@
+Title: July 7th, 2022
+
+----
+
+Text: Checked in at Cacilhas Ferry Terminal (Terminal Fluvial de Cacilhas)
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/62c6c7b09b4026569e07d358
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - >
+        Cacilhas Ferry Terminal (Terminal
+        Fluvial de Cacilhas)
+    url:
+      - >
+        https://foursquare.com/v/4d38e205928c224bcc1f5e1a
+      - http://www.transtejo.pt
+    tel:
+      - 21 272 9741
+    latitude:
+      - '38.687998062876'
+    longitude:
+      - '-9.1480186540193'
+    street-address:
+      - Lg. Alfredo Diniz
+    locality:
+      - Almada
+    region:
+      - Distrito de Setúbal
+    country-name:
+      - Portugal
+  value: >
+    https://foursquare.com/v/4d38e205928c224bcc1f5e1a
+
+----
+
+Date: 2022-07-07 12:45:00
+
+----
+
+Uid: 3760
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: clear-sky
+
+----
+
+Temperature: 31°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

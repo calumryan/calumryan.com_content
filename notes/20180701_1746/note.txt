@@ -6,7 +6,7 @@ Text: Made a start on Micropub an overview. ℹ️Next.. Implementation guides p
 
 ----
 
-Permalink: 
+Blink: 
 
 ----
 

@@ -1,0 +1,90 @@
+Title: July 2nd, 2022
+
+----
+
+Text: Checked in at The Velo Barn
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/62c00e0ab4502f7d88df3572
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - The Velo Barn
+    url:
+      - >
+        https://foursquare.com/v/6097c14ef35e31446e746f72
+    latitude:
+      - 51.283087
+    longitude:
+      - 0.065161
+    street-address:
+      - Pilgrims Way
+    locality:
+      - Westerham
+    region:
+      - Kent
+    country-name:
+      - United Kingdom
+    postal-code:
+      - TN16 2DS
+  value: >
+    https://foursquare.com/v/6097c14ef35e31446e746f72
+
+----
+
+Date: 2022-07-02 10:20:00
+
+----
+
+Uid: 3743
+
+----
+
+Feature-images:
+
+- >
+  407869714_1whhawhxxax6tybvstboq9ykpogymhkeyf9hwbiploc.jpg
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: few-clouds
+
+----
+
+Temperature: 19°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

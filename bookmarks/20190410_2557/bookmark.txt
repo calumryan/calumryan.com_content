@@ -2,7 +2,7 @@ Title: Speak Human - Generate human centric microcopy for all purposes.
 
 ----
 
-Permalink: http://speakhuman.today
+Blink: http://speakhuman.today
 
 ----
 

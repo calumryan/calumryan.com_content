@@ -6,7 +6,7 @@ Text: Sending a test reply to a mastodon instance
 
 ----
 
-Permalink: https://toot.cafe/@calumryan/100578575772075772
+Blink: https://toot.cafe/@calumryan/100578575772075772
 
 ----
 

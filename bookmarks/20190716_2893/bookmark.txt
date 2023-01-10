@@ -2,7 +2,7 @@ Title: Accessibility, News and You - a team-wide checklist for accessibility app
 
 ----
 
-Permalink: https://bbc-news.github.io/accessibility-news-and-you/
+Blink: https://bbc-news.github.io/accessibility-news-and-you/
 
 ----
 

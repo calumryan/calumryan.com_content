@@ -1,0 +1,89 @@
+Title: July 6th, 2022
+
+----
+
+Text: Checked in at The Green Affair
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/62c5774494ce104962c7ea6d
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - The Green Affair
+    url:
+      - >
+        https://foursquare.com/v/5e13a43571ca9c0008f4ac8d
+    tel:
+      - 969 398 228
+    latitude:
+      - 38.710204
+    longitude:
+      - -9.141686
+    street-address:
+      - R. Serpa Pinto 15A
+    locality:
+      - Lisbon
+    region:
+      - Lisbon
+    country-name:
+      - Portugal
+    postal-code:
+      - 1200-444
+  value: >
+    https://foursquare.com/v/5e13a43571ca9c0008f4ac8d
+
+----
+
+Date: 2022-07-06 12:50:00
+
+----
+
+Uid: 3755
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: clear-sky
+
+----
+
+Temperature: 26°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

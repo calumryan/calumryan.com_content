@@ -1,0 +1,91 @@
+Title: January 6th, 2023
+
+----
+
+Text: Checked in at Pizza Pilgrims
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/63b8659666c5ac7a3483447d
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Pizza Pilgrims
+    url:
+      - >
+        https://foursquare.com/v/60b22e009114100d337ec58d
+    latitude:
+      - 51.50169
+    longitude:
+      - -0.110724606
+    street-address:
+      - 82 Lower Marsh
+    locality:
+      - London
+    region:
+      - Greater London
+    country-name:
+      - United Kingdom
+    postal-code:
+      - SE1 7AB
+  value: >
+    https://foursquare.com/v/60b22e009114100d337ec58d
+
+----
+
+Date: 2023-01-06 18:15:00
+
+----
+
+Uid: 3852
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: broken-clouds
+
+----
+
+Temperature: 11°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: tpQsG9O71R9ZUiUs

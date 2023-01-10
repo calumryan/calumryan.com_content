@@ -2,7 +2,7 @@ Title: Using CSS Grid for vertical and horizontal content layouts by @shadeed9
 
 ----
 
-Permalink: https://ishadeed.com/article/vertical-horizontal-lines
+Blink: https://ishadeed.com/article/vertical-horizontal-lines
 
 ----
 

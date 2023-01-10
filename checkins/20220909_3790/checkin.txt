@@ -1,0 +1,85 @@
+Title: September 9th, 2022
+
+----
+
+Text: Checked in at Smorl's Houmous
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/631b28da986e0a336b3a9f75
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - "Smorl's Houmous"
+    url:
+      - >
+        https://foursquare.com/v/56697f96498eecad28148c22
+    latitude:
+      - '50.827257212864'
+    longitude:
+      - '-0.15365882376619'
+    street-address:
+      - Unit 30, Brighton Open Market
+    locality:
+      - Brighton
+    region:
+      - East Sussex
+    country-name:
+      - United Kingdom
+  value: >
+    https://foursquare.com/v/56697f96498eecad28148c22
+
+----
+
+Date: 2022-09-09 12:50:00
+
+----
+
+Uid: 3790
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: scattered-clouds
+
+----
+
+Temperature: 19°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

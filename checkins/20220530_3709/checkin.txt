@@ -1,0 +1,88 @@
+Title: May 30th, 2022
+
+----
+
+Text: Checked in at Tartare
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/6294cda33d7b117a40d881cb
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Tartare
+    url:
+      - >
+        https://foursquare.com/v/5a0c477f5c68383c8e7de3ba
+    latitude:
+      - 53.271155
+    longitude:
+      - -9.056879
+    street-address:
+      - 56 Dominick Street Lower
+    locality:
+      - Galway
+    region:
+      - Co Galway
+    country-name:
+      - Ireland
+  value: >
+    https://foursquare.com/v/5a0c477f5c68383c8e7de3ba
+
+----
+
+Date: 2022-05-30 15:00:00
+
+----
+
+Uid: 3709
+
+----
+
+Feature-images:
+
+- >
+  407869714_lxfosfhxtl1o0igtghlbgwyswptyossnyahhmdqw9es.jpg
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: overcast-clouds
+
+----
+
+Temperature: 12°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

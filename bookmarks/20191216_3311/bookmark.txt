@@ -2,7 +2,7 @@ Title: Beautiful Scrolling Experiences – Without Libraries by Michelle Barker
 
 ----
 
-Permalink: https://24ways.org/2019/beautiful-scrolling-experiences-without-libraries/
+Blink: https://24ways.org/2019/beautiful-scrolling-experiences-without-libraries/
 
 ----
 

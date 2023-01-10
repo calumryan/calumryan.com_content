@@ -2,7 +2,7 @@ Title: How to Get a Progressive Web App into the Google Play Store
 
 ----
 
-Permalink: https://css-tricks.com/how-to-get-a-progressive-web-app-into-the-google-play-store/
+Blink: https://css-tricks.com/how-to-get-a-progressive-web-app-into-the-google-play-store/
 
 ----
 

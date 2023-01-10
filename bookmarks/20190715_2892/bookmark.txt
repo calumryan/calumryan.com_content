@@ -2,7 +2,7 @@ Title: Making accessible tagged PDFs with Prince
 
 ----
 
-Permalink: https://www.brucelawson.co.uk/2019/making-accessible-tagged-pdfs-with-prince/
+Blink: https://www.brucelawson.co.uk/2019/making-accessible-tagged-pdfs-with-prince/
 
 ----
 

@@ -6,7 +6,7 @@ Text: Glad! Would have missed this otherwise. It'll be a learning experience for
 
 ----
 
-Permalink: https://twitter.com/oliverturner/status/1238035579201298432
+Blink: https://twitter.com/oliverturner/status/1238035579201298432
 
 ----
 
@@ -22,4 +22,8 @@ Redirect: https://calumryan.com/note/3452
 
 ----
 
-UID: 3452
+Uid: 3452
+
+----
+
+Uuid: 0dYwSADnOqEegnGh

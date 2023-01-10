@@ -1,0 +1,82 @@
+Title: September 2nd, 2022
+
+----
+
+Text: Checked in at Ann's Pantry
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/6312222448fe104d455e82bf
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - "Ann's Pantry"
+    url:
+      - >
+        https://foursquare.com/v/4c03a74f187ec92883e7b57b
+    latitude:
+      - '53.352318406105'
+    longitude:
+      - '-4.2363935709'
+    country-name:
+      - United Kingdom
+  value: >
+    https://foursquare.com/v/4c03a74f187ec92883e7b57b
+
+----
+
+Date: 2022-09-02 16:35:00
+
+----
+
+Uid: 3785
+
+----
+
+Feature-images:
+
+- >
+  407869714_-m2beajxgjmkxdjlwq2lif3z5dkzd0dgfvnbhwkjggc.jpg
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: overcast-clouds
+
+----
+
+Temperature: 17°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

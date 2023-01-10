@@ -1,0 +1,79 @@
+Title: February 13th, 2022
+
+----
+
+Text: Checked in at Terrace Restaurant, Fenwicks
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/6208e6eaee6c602a569ab00e
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Terrace Restaurant, Fenwicks
+    url:
+      - >
+        https://foursquare.com/v/4cb6ede752edb1f7ef0572fe
+    latitude:
+      - '51.13536114268'
+    longitude:
+      - '0.26441742970572'
+    country-name:
+      - United Kingdom
+  value: >
+    https://foursquare.com/v/4cb6ede752edb1f7ef0572fe
+
+----
+
+Date: 2022-02-13 11:10:00
+
+----
+
+Uid: 3610
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: overcast-clouds
+
+----
+
+Temperature: 7°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

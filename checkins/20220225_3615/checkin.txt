@@ -1,0 +1,91 @@
+Title: February 25th, 2022
+
+----
+
+Text: Checked in at The Craft Beer Co.
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/6219124fcfaa51347d8b8986
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - The Craft Beer Co.
+    url:
+      - >
+        https://foursquare.com/v/4debea52b3ad083a33d2bef3
+      - http://www.thecraftbeerco.com
+      - https://twitter.com/craftbeercoec1
+    tel:
+      - 020 7404 7049
+    latitude:
+      - '51.521265426617'
+    longitude:
+      - '-0.10980116958197'
+    street-address:
+      - 82 Leather Ln
+    locality:
+      - London
+    region:
+      - Greater London
+    country-name:
+      - United Kingdom
+    postal-code:
+      - EC1N 7TR
+  value: >
+    https://foursquare.com/v/4debea52b3ad083a33d2bef3
+
+----
+
+Date: 2022-02-25 17:30:00
+
+----
+
+Uid: 3615
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: clear-sky
+
+----
+
+Temperature: 9°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

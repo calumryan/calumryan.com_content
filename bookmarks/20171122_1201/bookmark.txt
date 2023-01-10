@@ -2,7 +2,7 @@ Title: When Does a Project Need React? https://css-tricks.com/project-need-react
 
 ----
 
-Permalink: 
+Blink: 
 
 ----
 

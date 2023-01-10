@@ -2,7 +2,7 @@ Title: Microsoft Edge preview build for Mac
 
 ----
 
-Permalink: https://www.microsoftedgeinsider.com
+Blink: https://www.microsoftedgeinsider.com
 
 ----
 

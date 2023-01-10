@@ -1,0 +1,85 @@
+Title: July 19th, 2022
+
+----
+
+Text: Checked in at Nelson Arms
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/62d6f2910e67e561aaaebf5e
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Nelson Arms
+    url:
+      - >
+        https://foursquare.com/v/5b26bb598a6f17002c38a366
+    latitude:
+      - '51.192759965493'
+    longitude:
+      - '0.26469586886378'
+    street-address:
+      - Cromer Street
+    locality:
+      - Tonbridge
+    region:
+      - Kent
+    country-name:
+      - United Kingdom
+  value: >
+    https://foursquare.com/v/5b26bb598a6f17002c38a366
+
+----
+
+Date: 2022-07-19 19:05:00
+
+----
+
+Uid: 3773
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: few-clouds
+
+----
+
+Temperature: 32°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

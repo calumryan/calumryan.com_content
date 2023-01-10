@@ -2,7 +2,7 @@ Title: The Cupper Documentation Builder – &quot;a documentation builder for in
 
 ----
 
-Permalink: https://thepaciellogroup.github.io/cupper
+Blink: https://thepaciellogroup.github.io/cupper
 
 ----
 
