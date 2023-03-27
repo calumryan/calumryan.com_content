@@ -46,9 +46,10 @@ Roles:
   org_url: https://dxw.com
   start_date: 2019-02-12
   type: Job
-  role_name: Developer and Web Accessibility Specialist
+  role_name: Accessibility Developer
   summary: "Auditing public and third sector websites through an automated and manual accessibility testing workflow. Applying changes to codebase to make more accessible, robust, scaleable and maintainable. Development, design and authoring of website accessibility audits with concise, easy to understand explanations of issues, solutions and implementation of improvements."
   points:
+    - point: Accessibility training through organising regular workshops
     - point: Accessibility audits with axe DevTools
     - point: Screen readers including VoiceOver, NVDA and TalkBack
     - point: Building components library

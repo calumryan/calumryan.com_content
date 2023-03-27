@@ -32,9 +32,7 @@ Date: 2022-04-03 23:15:00
 
 ----
 
-Author:
-
-- V00CCy0l
+Author: - V00CCy0l
 
 ----
 
@@ -58,6 +56,8 @@ Gallery:
 
 ----
 
-Og-thumbnail:
+Og-thumbnail: - weeknote-3.jpg
 
-- weeknote-3.jpg
+----
+
+Uuid: o7MKkwWs0Vm3BzVd

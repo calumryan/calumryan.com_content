@@ -1,0 +1,35 @@
+Title: A World Full of Places
+
+----
+
+Review: 
+
+----
+
+Feature-images:
+
+- a-world-full-of-places.jpg
+
+----
+
+Date: 2021-04-12
+
+----
+
+Library: https://openlibrary.org/works/OL2878400W/A_world_full_of_places_and_other_stories?edition=worldfullofplace00carr
+
+----
+
+Isbn: 0856405957
+
+----
+
+Finished: 2021-05-09
+
+----
+
+Book-author: Michael Carragher
+
+----
+
+Tags: Ireland

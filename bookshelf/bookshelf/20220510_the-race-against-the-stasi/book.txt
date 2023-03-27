@@ -1,0 +1,37 @@
+Title: The Race Against the Stasi
+
+----
+
+Review: 
+
+----
+
+Feature-images: - stasi.jpg
+
+----
+
+Date: 2022-05-10
+
+----
+
+Library: https://openlibrary.org/works/OL20722429W/The_Race_Against_the_Stasi
+
+----
+
+Isbn: 1781313083
+
+----
+
+Finished: 2022-07-02
+
+----
+
+Book-author: Herbie Sykes
+
+----
+
+Tags: 
+
+----
+
+Uuid: V9nW7xUfO4QAoN4c

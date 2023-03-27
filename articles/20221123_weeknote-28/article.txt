@@ -8,7 +8,7 @@ Text:
 The dreaded words of “possible asbestos” came up on my survey more than enough times to comfortably ignore for the 1980s ex-housing association flat I'd intended to buy. Somewhat regrettably, I decided to withdraw my offer on the property last week. My plan B was swiftly implemented to offer under the asking price at a nearby pricey but new-ish build property still on the market with allocated parking and a balcony. Luckily, the offer was accepted! It's hopefully only a small set back in the house move progress, but overall I'm happier to be moving to a modern property that looks and feels like a place I feel I can happily one day call my home.
 
 ## London eats and reads
-Over the weekend I ventured to North London and went for a divine three-course dinner at (link: https://www.tierraperu.co.uk/ text: Tierra Peru) accompanied by a zingy Pisco Sour. It's hard to pick a favourite out of the three courses, including Peruvian sweet potato fritters! 🤤, but the starter of Papa a la huancaína definitely hit the spot in terms of flavours I'd never experienced anything like before. 
+Over the weekend I ventured to North London and went for a divine three-course dinner at (link: https://www.tierraperu.co.uk/ text: Tierra Peru) accompanied by a zingy Pisco Sour. It's hard to pick a favourite out of the three courses, including Peruvian sweet potato fritters! 🤤, but the starter of papa a la huancaína definitely hit the spot in terms of flavours I'd never experienced anything like before. 
 
 (image: peruvian.jpg alt: Food dished left to right, plate of potatoes, eggs and olives in mayonnaise sauce, plate of fresh seafood, plate of circle shaped pumpkin and sweet potato fritters)
 
@@ -27,7 +27,7 @@ Date: 2022-11-23 20:00:00
 
 ----
 
-Author: - V00CCy0l
+Author: - user://V00CCy0l
 
 ----
 
@@ -51,7 +51,7 @@ Gallery:
 
 ----
 
-Og-thumbnail: - weeknote-28.jpg
+Og-thumbnail: - file://a0XDaAIQX5FEc6Y9
 
 ----
 
