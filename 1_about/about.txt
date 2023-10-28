@@ -51,10 +51,6 @@ Email: hello@calumryan.com
 Social:
 
 - 
-  platform: Twitter
-  url: https://twitter.com/calum_ryan
-  icon: twitter
-- 
   platform: Mastodon
   url: https://toot.cafe/@calumryan
   icon: mastodon
