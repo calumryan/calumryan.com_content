@@ -8,15 +8,13 @@ svg: icon-cv
 
 Text:
 
-I'm a web accessibility specialist, making the web a better, more inclusive place. I code, write and speak publicly about web accessibility, user research, performance and front-end technologies.
+I'm an Interaction Designer and certified Web Accessibility Specialist, making the web a better, more inclusive place. I code, write and speak publicly about web accessibility, user research, performance and front-end technologies.
 
 ## Experienced with
 
 - Accessibility-first approach to website design
 - Conducting accessibility audits: manual testing with screen readers and automated tools like AXE and Lighthouse
 - HTML, CSS and JavaScript (vanilla, or with a library or framework like Vue or React)
-- Build systems like Gulp, Grunt and Webpack
-- Components-based approach to front-end development with tools like Fractal and Pattern Lab
 - Working in teams with tools including Slack, Trello and good old fashioned speaking to each other: face-to-face or by video call!
 - Agile-based workflow and time estimations
 
@@ -46,9 +44,11 @@ Roles:
   org_url: https://dxw.com
   start_date: 2019-02-12
   type: Job
-  role_name: Accessibility Developer
-  summary: "Auditing public and third sector websites through an automated and manual accessibility testing workflow. Applying changes to codebase to make more accessible, robust, scaleable and maintainable. Development, design and authoring of website accessibility audits with concise, easy to understand explanations of issues, solutions and implementation of improvements."
+  role_name: Interaction Designer
+  summary: "Working as a multidisciplinary agile team with GDS Publishing to improve their Access and Permissions platform to be more accesssible. Auditing public and third sector websites through an automated and manual accessibility testing workflow. Applying changes to codebase to make more accessible, robust, scaleable and maintainable. Development, design and authoring of website accessibility audits with concise, easy to understand explanations of issues, solutions and implementation of improvements."
   points:
+    - point: Prototyping with GOV.UK Design System coded toolkit and Figma
+    - point: Work closely alongside user researcher to better understand user needs
     - point: Accessibility training through creating and organising regular workshops
     - point: Accessibility audits with axe DevTools
     - point: Screen readers including VoiceOver, NVDA and TalkBack
