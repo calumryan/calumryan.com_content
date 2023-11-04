@@ -1,0 +1,94 @@
+Title: April 2nd, 2023
+
+----
+
+Text: Checked in at Paws for Coffee
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/6429887eccda227dd9b4f7fb
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Paws for Coffee
+    url:
+      - >
+        https://foursquare.com/v/56ed43ddcd1036574270b01e
+      - http://www.pawsforcoffee.co.uk
+    tel:
+      - 020 8979 8010
+    latitude:
+      - 51.424116
+    longitude:
+      - -0.358159
+    street-address:
+      - 41 High St
+    locality:
+      - Hampton Hill
+    region:
+      - Greater London
+    country-name:
+      - United Kingdom
+    postal-code:
+      - TW12 1NB
+  value: >
+    https://foursquare.com/v/56ed43ddcd1036574270b01e
+
+----
+
+Date: 2023-04-02 14:50:00
+
+----
+
+Uid: 3885
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: overcast-clouds
+
+----
+
+Temperature: 11°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: UA2Db8qalPS8Ja2e

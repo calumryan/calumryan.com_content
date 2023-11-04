@@ -1,0 +1,91 @@
+Title: October 12th, 2023
+
+----
+
+Text: Checked in at Epsom Social
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/6526e728d6c8d53ab4c7ab2b
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Epsom Social
+    url:
+      - >
+        https://foursquare.com/v/630ccc7a9ff693603bcec312
+    latitude:
+      - 51.334158
+    longitude:
+      - -0.266527
+    street-address:
+      - Derby Square
+    locality:
+      - Epsom
+    region:
+      - Surrey
+    country-name:
+      - United Kingdom
+    postal-code:
+      - KT19 8AG
+  value: >
+    https://foursquare.com/v/630ccc7a9ff693603bcec312
+
+----
+
+Date: 2023-10-11 19:20:00
+
+----
+
+Uid: 3964
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: overcast-clouds
+
+----
+
+Temperature: 16°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: 4I2qYTsRBEYSAQdN

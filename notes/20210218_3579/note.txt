@@ -1,0 +1,57 @@
+Title: February 18th, 2021
+
+----
+
+Text: So many websites use JavaScript Jump Menus as navigation, yet most aren't implemented correctly. This creates a barrier for keyboard accessibility. Build well or use a list of links instead. https://webaim.org/techniques/forms/controls#javascript #a11y
+
+----
+
+Locator: 
+
+----
+
+Date: 2021-02-18 12:00:00
+
+----
+
+Bridgy: twitter
+
+----
+
+Uid: 3579
+
+----
+
+Weather-icon: 
+
+----
+
+Temperature: 
+
+----
+
+Feature-images: 
+
+----
+
+Tags: a11y
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

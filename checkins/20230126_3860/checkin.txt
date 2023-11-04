@@ -1,0 +1,95 @@
+Title: January 26th, 2023
+
+----
+
+Text: Checked in at The Enterprise
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/63d2a9a6fe78bc54be4813ad
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - The Enterprise
+    url:
+      - >
+        https://foursquare.com/v/4af9f45ff964a520891522e3
+      - http://www.camdenenterprise.com
+      - https://twitter.com/nw3enterprise
+    tel:
+      - 020 7485 2659
+    latitude:
+      - '51.543966935913'
+    longitude:
+      - '-0.15260369393045'
+    street-address:
+      - 2 Haverstock Hill
+    locality:
+      - London
+    region:
+      - Greater London
+    country-name:
+      - United Kingdom
+    postal-code:
+      - NW3 2BL
+  value: >
+    https://foursquare.com/v/4af9f45ff964a520891522e3
+
+----
+
+Date: 2023-01-26 16:25:00
+
+----
+
+Uid: 3860
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: scattered-clouds
+
+----
+
+Temperature: 7°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: t3UQ0JgpSRLxnTdU

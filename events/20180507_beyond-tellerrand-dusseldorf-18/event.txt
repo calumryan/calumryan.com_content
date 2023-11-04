@@ -2,7 +2,7 @@ Title: Beyond Tellerrand Düsseldorf 2018
 
 ----
 
-Tags:
+Tags: 
 
 ----
 
@@ -18,11 +18,11 @@ Date: 2018-05-07 09:00
 
 ----
 
-Date start: 2018-05-07 09:00:00 +0100
+Date-start: 2018-05-07 09:00:00 +0100
 
 ----
 
-Date end: 2018-05-08 21:00:00 +0100
+Date-end: 2018-05-08 21:00:00 +0100
 
 ----
 
@@ -42,4 +42,8 @@ Redirect: https://calumryan.com/event/beyond-tellerrand-dusseldorf-18
 
 ----
 
-UID: beyond-tellerrand-dusseldorf-18
+Uid: beyond-tellerrand-dusseldorf-18
+
+----
+
+Uuid: BvEjBbQa6t7aZS0H

@@ -1,0 +1,95 @@
+Title: August 17th, 2023
+
+----
+
+Text: Checked in at Prinsen
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/64de6e84537fce07b9ef4493
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Prinsen
+    url:
+      - >
+        https://foursquare.com/v/4adcdaf0f964a5206a5b21e3
+      - http://restaurangprinsen.eu
+      - https://twitter.com/nsvanstrom
+    tel:
+      - 08-684 238 10
+    latitude:
+      - 59.334399
+    longitude:
+      - 18.073288
+    street-address:
+      - Mäster Samuelsgatan 4
+    locality:
+      - Stockholm
+    region:
+      - Stockholm
+    country-name:
+      - Sweden
+    postal-code:
+      - 111 44
+  value: >
+    https://foursquare.com/v/4adcdaf0f964a5206a5b21e3
+
+----
+
+Date: 2023-08-17 21:00:00
+
+----
+
+Uid: 3951
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: few-clouds
+
+----
+
+Temperature: 17°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: b0TmTnaBrZ0muDoz

@@ -1,0 +1,98 @@
+Title: April 26th, 2023
+
+----
+
+Text: Checked in at Bucharest Henri Coandă International Airport (OTP) (Aeroportul Internațional Henri Coandă București)
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/6449113eeec1d52e5d1f6269
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - >
+        Bucharest Henri Coandă International
+        Airport (OTP) (Aeroportul Internațional
+        Henri Coandă București)
+    url:
+      - >
+        https://foursquare.com/v/4b55d164f964a5205af127e3
+      - http://www.bucharestairports.ro/otp
+      - https://twitter.com/buc_airports
+    tel:
+      - 021 204 1000
+    latitude:
+      - '44.570790424917'
+    longitude:
+      - '26.077691447816'
+    street-address:
+      - Calea Bucureștilor Nr. 224E
+    locality:
+      - Otopeni
+    region:
+      - Ilfov
+    country-name:
+      - Romania
+    postal-code:
+      - "075150"
+  value: >
+    https://foursquare.com/v/4b55d164f964a5205af127e3
+
+----
+
+Date: 2023-04-26 14:55:00
+
+----
+
+Uid: 3921
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: few-clouds
+
+----
+
+Temperature: 18°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: 8iXjv9sjwC7xXkwn

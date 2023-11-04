@@ -1,0 +1,95 @@
+Title: February 26th, 2023
+
+----
+
+Text: Checked in at Tierra Peru
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/63fbb86f18425a07cee3dce9
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Tierra Peru
+    url:
+      - >
+        https://foursquare.com/v/4f17353de4b0f1e7ba234c20
+      - http://www.tierraperu.co.uk
+      - https://twitter.com/tierraperu
+    tel:
+      - 020 7354 5586
+    latitude:
+      - '51.540032553145'
+    longitude:
+      - '-0.096846863175167'
+    street-address:
+      - 164 Essex Road
+    locality:
+      - London
+    region:
+      - Greater London
+    country-name:
+      - United Kingdom
+    postal-code:
+      - N1 8LY
+  value: >
+    https://foursquare.com/v/4f17353de4b0f1e7ba234c20
+
+----
+
+Date: 2023-02-26 19:50:00
+
+----
+
+Uid: 3871
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: clear-sky
+
+----
+
+Temperature: 3°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: 6KFc4WWi6ug0alPB

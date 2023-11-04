@@ -1,0 +1,93 @@
+Title: June 4th, 2023
+
+----
+
+Text: Checked in at Caracoli
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/647c82c30051612da3dd0fc8
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Caracoli
+    url:
+      - >
+        https://foursquare.com/v/4c811306e63376b01e43aa3d
+    tel:
+      - 01962 738730
+    latitude:
+      - '51.091062754398'
+    longitude:
+      - '-1.1615106197069'
+    street-address:
+      - 15 Broad Street
+    locality:
+      - Hampshire
+    region:
+      - Hampshire
+    country-name:
+      - United Kingdom
+    postal-code:
+      - SO24 9AR
+  value: >
+    https://foursquare.com/v/4c811306e63376b01e43aa3d
+
+----
+
+Date: 2023-06-04 13:25:00
+
+----
+
+Uid: 3938
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: few-clouds
+
+----
+
+Temperature: 21°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: pNZDI4brvigDX1k9

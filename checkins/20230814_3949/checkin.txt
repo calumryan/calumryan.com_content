@@ -1,0 +1,95 @@
+Title: August 14th, 2023
+
+----
+
+Text: Checked in at Holberg no. 19
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/64da0121b406b3520c515b97
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Holberg no. 19
+    url:
+      - >
+        https://foursquare.com/v/4b75936af964a52068152ee3
+      - http://www.holbergno19.dk
+      - https://twitter.com/holbergno19
+    tel:
+      - 33 14 01 90
+    latitude:
+      - '55.678736027084'
+    longitude:
+      - '12.590543441475'
+    street-address:
+      - Holbergsgade 19
+    locality:
+      - København K
+    region:
+      - Capital Region
+    country-name:
+      - Denmark
+    postal-code:
+      - "1057"
+  value: >
+    https://foursquare.com/v/4b75936af964a52068152ee3
+
+----
+
+Date: 2023-08-14 12:25:00
+
+----
+
+Uid: 3949
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: overcast-clouds
+
+----
+
+Temperature: 24°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: ORML42lU06m2pu8G

@@ -1,0 +1,52 @@
+Title: December 15th, 2020
+
+----
+
+Text: The personalised delights of not ordering things from Amazon but an independent shop online
+
+----
+
+Locator: 
+
+----
+
+Date: 2020-12-15 20:40:00
+
+----
+
+Bridgy: twitter
+
+----
+
+Uid: 3568
+
+----
+
+Feature-images:
+
+- >
+  img_20201215_125307__01__01__01__01__01.jpg
+
+----
+
+Tags: 
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 

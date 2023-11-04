@@ -1,0 +1,89 @@
+Title: October 27th, 2023
+
+----
+
+Text: Checked in at ESPRESSOLAB
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/653b6705a06c641aa33b7739
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - ESPRESSOLAB
+    url:
+      - >
+        https://foursquare.com/v/6492daf9b80507564de7d528
+    latitude:
+      - 49.455605
+    longitude:
+      - 11.078843
+    street-address:
+      - Theresienstr 14
+    locality:
+      - Nuremberg
+    region:
+      - Bavaria
+    country-name:
+      - Germany
+  value: >
+    https://foursquare.com/v/6492daf9b80507564de7d528
+
+----
+
+Date: 2023-10-27 09:30:00
+
+----
+
+Uid: 3976
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: overcast-clouds
+
+----
+
+Temperature: 9°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: akcWdXgGrjN0CXpl

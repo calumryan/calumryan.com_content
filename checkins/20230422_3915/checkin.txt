@@ -1,0 +1,90 @@
+Title: April 22nd, 2023
+
+----
+
+Text: Checked in at Mingle
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/6443dbb5e09b6448c075238a
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Mingle
+    url:
+      - >
+        https://foursquare.com/v/61448130a5477670210baaa3
+      - https://mingle.cafe
+    latitude:
+      - 44.444491
+    longitude:
+      - 26.102384
+    locality:
+      - Bucharest
+    region:
+      - Bucharest
+    country-name:
+      - Romania
+    postal-code:
+      - "010476"
+  value: >
+    https://foursquare.com/v/61448130a5477670210baaa3
+
+----
+
+Date: 2023-04-22 16:05:00
+
+----
+
+Uid: 3915
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: few-clouds
+
+----
+
+Temperature: 18°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: vH9C9ES3VV117m4r

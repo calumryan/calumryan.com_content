@@ -1,0 +1,61 @@
+Title: IndieWebCamp Nürnberg 2023
+
+----
+
+Text: 
+
+----
+
+Locator: 
+
+----
+
+Date: 2023-10-28 10:00:00
+
+----
+
+Date-start: 2023-10-28 10:00:00
+
+----
+
+Date-end: 2023-10-29 18:00:00
+
+----
+
+Tags: 
+
+----
+
+Latitude: 49.4751629
+
+----
+
+Longitude: 11.104592
+
+----
+
+Location: Klingenhofstraße 5, 90411
+
+----
+
+City: Nürnberg
+
+----
+
+Timezone: CEST
+
+----
+
+Speaker: 1
+
+----
+
+Redirect: https://calumryan.com/event/indiewebcamp-nurnburg-2018
+
+----
+
+Uid: indiewebcamp-nurnburg-2018
+
+----
+
+Uuid: rJ2gozcmlDCRYWlf

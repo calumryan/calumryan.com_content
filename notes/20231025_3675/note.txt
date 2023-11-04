@@ -1,0 +1,68 @@
+Title: October 22nd, 2023
+
+----
+
+Text: Pre-dinner walk in Nuremberg
+
+----
+
+Locator:
+
+lat: 49.4580789
+lon: 11.0753908
+city: Nuremberg
+country: Germany
+postcode: "90403"
+address: Burghof
+
+----
+
+Date: 2023-10-25 17:00:00
+
+----
+
+Mastodon: publish
+
+----
+
+Uid: 3675
+
+----
+
+Weather-icon: overcast-clouds
+
+----
+
+Temperature: 12°C
+
+----
+
+Feature-images: - file://IsmqXRCRBitUCoio
+
+----
+
+Tags: Germany
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: HOS6lPrFvvDCySrw

@@ -1,0 +1,70 @@
+Title: October 29th, 2023
+
+----
+
+Text: Little to show at IndieWebCamp Create day, but did manage to setup my site on Mastodon (partly)
+
+----
+
+Locator:
+
+lat: 49.453872
+lon: 11.077298
+city: Nuremberg
+country: Germany
+
+----
+
+Date: 2023-10-29 17:30:00
+
+----
+
+Mastodon: 
+
+----
+
+Mastodon-fed: publish
+
+----
+
+Uid: 3677
+
+----
+
+Weather-icon: clear-sky
+
+----
+
+Temperature: 14°C
+
+----
+
+Feature-images: - file://2Ne2AbGbhPbVj88j
+
+----
+
+Tags: indieweb
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: BHlCjzsd9rWVrNSL

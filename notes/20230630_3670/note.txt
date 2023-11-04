@@ -1,0 +1,65 @@
+Title: June 30th, 2023
+
+----
+
+Text: 📢 Looking forward to starting a new role with dxw next week working alongside GDS focusing on design and accessibility. Saying goodbye to ten years working in WordPress and PHP
+
+----
+
+Locator: 
+
+----
+
+Date: 2023-06-30 15:35:00
+
+----
+
+Bridgy: 
+
+----
+
+Mastodon: publish
+
+----
+
+Uid: 3670
+
+----
+
+Weather-icon: 
+
+----
+
+Temperature: 
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: bBElVkcrfRQh3CVX

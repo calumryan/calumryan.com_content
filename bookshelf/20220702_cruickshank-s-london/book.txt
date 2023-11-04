@@ -1,0 +1,37 @@
+Title: Cruickshank's London
+
+----
+
+Review: 
+
+----
+
+Feature-images: - 13-walks.jpg
+
+----
+
+Date: 2022-07-02
+
+----
+
+Library: https://openlibrary.org/works/OL22540761W/Cruickshank%27s_London?edition=
+
+----
+
+Isbn: 9781847948236
+
+----
+
+Finished: 2022-10-07
+
+----
+
+Book-author: Dan Cruickshank
+
+----
+
+Tags: Ireland
+
+----
+
+Uuid: DB7ITGnr0XExEslW

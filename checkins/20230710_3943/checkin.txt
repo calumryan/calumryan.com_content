@@ -1,0 +1,96 @@
+Title: July 10th, 2023
+
+----
+
+Text: Checked in at Curzon Wimbledon
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/64ac3cc194605b419a561c0c
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Curzon Wimbledon
+    url:
+      - >
+        https://foursquare.com/v/4d60286e29ef236a90d5a159
+      - >
+        https://www.curzoncinemas.com/wimbledon/info
+      - https://twitter.com/curzoncinemas
+    tel:
+      - 0333 321 0104
+    latitude:
+      - '51.420346407763'
+    longitude:
+      - '-0.20523083236185'
+    street-address:
+      - Second Floor, 23 The Broadway
+    locality:
+      - London
+    region:
+      - Greater London
+    country-name:
+      - United Kingdom
+    postal-code:
+      - SW19 1RE
+  value: >
+    https://foursquare.com/v/4d60286e29ef236a90d5a159
+
+----
+
+Date: 2023-07-10 18:15:00
+
+----
+
+Uid: 3943
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: broken-clouds
+
+----
+
+Temperature: 22°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: LgX298bk0Rk79d3A

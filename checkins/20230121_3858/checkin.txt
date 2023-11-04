@@ -1,0 +1,96 @@
+Title: January 21st, 2023
+
+----
+
+Text: Checked in at Picturehouse Central
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/63cc28284dcb6238cf2b00e8
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Picturehouse Central
+    url:
+      - >
+        https://foursquare.com/v/557f12cf498e2f025de8c7d0
+      - >
+        https://www.picturehouses.com/cinema/info/Picturehouse_Central
+      - https://twitter.com/centralpictureh
+    tel:
+      - 0871 902 5755
+    latitude:
+      - '51.510694771316'
+    longitude:
+      - '-0.13395564467365'
+    street-address:
+      - Shaftesbury Ave
+    locality:
+      - Soho
+    region:
+      - Greater London
+    country-name:
+      - United Kingdom
+    postal-code:
+      - W1D 7DH
+  value: >
+    https://foursquare.com/v/557f12cf498e2f025de8c7d0
+
+----
+
+Date: 2023-01-21 18:00:00
+
+----
+
+Uid: 3858
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: scattered-clouds
+
+----
+
+Temperature: 2°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: 7z1SDpByFFtd1SvQ

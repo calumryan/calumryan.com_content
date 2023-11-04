@@ -1,0 +1,95 @@
+Title: April 9th, 2023
+
+----
+
+Text: Checked in at Liqui Liqui
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/6432bbe40558a96665a498f0
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Liqui Liqui
+    url:
+      - >
+        https://foursquare.com/v/5754510b498e0e0a90f2e0c8
+      - https://www.liqui-liqui.com
+      - https://twitter.com/liquiliquiuk
+    tel:
+      - 020 8408 1136
+    latitude:
+      - 51.416527
+    longitude:
+      - -0.18103805
+    street-address:
+      - 4-6 Merton High Street
+    locality:
+      - London
+    region:
+      - Greater London
+    country-name:
+      - United Kingdom
+    postal-code:
+      - SW19 1DN
+  value: >
+    https://foursquare.com/v/5754510b498e0e0a90f2e0c8
+
+----
+
+Date: 2023-04-09 14:20:00
+
+----
+
+Uid: 3888
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: few-clouds
+
+----
+
+Temperature: 16°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: cMHqPGZXzMedJsKS

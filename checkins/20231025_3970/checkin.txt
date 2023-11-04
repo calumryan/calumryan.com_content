@@ -1,0 +1,94 @@
+Title: October 25th, 2023
+
+----
+
+Text: Checked in at Five Diner
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/65395e82e32d21768b7df538
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Five Diner
+    url:
+      - >
+        https://foursquare.com/v/558d9a3e498e78f16ae5a7d7
+      - https://www.fivediner.de
+    tel:
+      - 0911 223375
+    latitude:
+      - '49.45465088903'
+    longitude:
+      - '11.078477228401'
+    street-address:
+      - Obstmarkt 5
+    locality:
+      - Nuremberg
+    region:
+      - Bavaria
+    country-name:
+      - Germany
+    postal-code:
+      - "90403"
+  value: >
+    https://foursquare.com/v/558d9a3e498e78f16ae5a7d7
+
+----
+
+Date: 2023-10-25 20:30:00
+
+----
+
+Uid: 3970
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: broken-clouds
+
+----
+
+Temperature: 12°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: tOVFn24Vd5DCZpql

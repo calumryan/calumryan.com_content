@@ -1,0 +1,95 @@
+Title: March 5th, 2023
+
+----
+
+Text: Checked in at Comptoir Libanais
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/6404e3d8ecc9653a1abf44eb
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Comptoir Libanais
+    url:
+      - >
+        https://foursquare.com/v/5c0be7e4c0c0840025a2ec98
+      - https://www.comptoirlibanais.com
+      - https://twitter.com/comptoirlibanai
+    tel:
+      - 020 3432 0201
+    latitude:
+      - 51.504726
+    longitude:
+      - -0.083655
+    street-address:
+      - SU46 London Bridge St
+    locality:
+      - London
+    region:
+      - Greater London
+    country-name:
+      - United Kingdom
+    postal-code:
+      - SE1 2TF
+  value: >
+    https://foursquare.com/v/5c0be7e4c0c0840025a2ec98
+
+----
+
+Date: 2023-03-05 18:50:00
+
+----
+
+Uid: 3873
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: overcast-clouds
+
+----
+
+Temperature: 4°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: YdIk4H31kBEGyLz4

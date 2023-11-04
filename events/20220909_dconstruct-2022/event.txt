@@ -1,0 +1,72 @@
+Title: dConstruct 2022
+
+----
+
+Text: 
+
+----
+
+Locator:
+
+lat: "50.8339004"
+lon: "-0.13837078658038"
+city: Brighton
+country: United Kingdom
+postcode: BN1 4NA
+address: Stanley Road
+
+----
+
+Date: 2022-09-09 09:00:00
+
+----
+
+Date-start: 2022-09-09 09:00:00
+
+----
+
+Date-end: 2022-09-09 18:00:00
+
+----
+
+Tags: 
+
+----
+
+Latitude: 50.83393
+
+----
+
+Longitude: -0.13835
+
+----
+
+City: Brighton
+
+----
+
+Timezone: BST
+
+----
+
+Location: Duke of York’s Picturehouse, Preston Circus, Brighton BN1 4NA, UK
+
+----
+
+Redirect: https://calumryan.com/event/patterns-day-2
+
+----
+
+Uid: patterns-day-2
+
+----
+
+Temperature: 15°C
+
+----
+
+Weather-icon: clear-sky
+
+----
+
+Uuid: 4k9Yj0XqaPitIM8o

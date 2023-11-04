@@ -1,0 +1,68 @@
+Title: October 22nd, 2023
+
+----
+
+Text: Off to Nuremberg, brb
+
+----
+
+Locator:
+
+lat: 51.8899889
+lon: "0.26150702197225"
+city: Uttlesford
+country: United Kingdom
+postcode: CM24 1RW
+address: Terminal Road North
+
+----
+
+Date: 2023-10-25 12:00:00
+
+----
+
+Mastodon: publish
+
+----
+
+Uid: 3674
+
+----
+
+Weather-icon: scattered-clouds
+
+----
+
+Temperature: 10°C
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: OhuJn9Yi2YggbI4J

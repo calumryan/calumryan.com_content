@@ -1,0 +1,65 @@
+Title: July 6th, 2023
+
+----
+
+Text: So Threads... just another inaccessible social media platform built by people who think accessibility is just another low priority feature request in the backlog 😥 #a11y
+
+----
+
+Locator: 
+
+----
+
+Date: 2023-07-06 09:30:00
+
+----
+
+Bridgy: 
+
+----
+
+Mastodon: publish
+
+----
+
+Uid: 3671
+
+----
+
+Weather-icon: 
+
+----
+
+Temperature: 
+
+----
+
+Feature-images: 
+
+----
+
+Tags: Threads, accessibility
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: 2YnkV6ps8smfPmM1

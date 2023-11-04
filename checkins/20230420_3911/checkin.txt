@@ -1,0 +1,91 @@
+Title: April 20th, 2023
+
+----
+
+Text: Checked in at La Luz By Latino Coffee
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/64414f4aadb55633dba6bc47
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - La Luz By Latino Coffee
+    url:
+      - >
+        https://foursquare.com/v/5f05da3c67473b7ec260d05a
+    latitude:
+      - 44.43282
+    longitude:
+      - 26.097416
+    street-address:
+      - Calea Victoriei nr. 17
+    locality:
+      - Bucharest
+    region:
+      - Bucharest
+    country-name:
+      - Romania
+    postal-code:
+      - "030035"
+  value: >
+    https://foursquare.com/v/5f05da3c67473b7ec260d05a
+
+----
+
+Date: 2023-04-20 17:40:00
+
+----
+
+Uid: 3911
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: few-clouds
+
+----
+
+Temperature: 17°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: UInflt3bxsC2vMTV

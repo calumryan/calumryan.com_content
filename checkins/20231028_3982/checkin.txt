@@ -1,0 +1,83 @@
+Title: October 28th, 2023
+
+----
+
+Text: Checked in at Lebkuchenmarkt
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/653d3e23ac8831283374a0b5
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Lebkuchenmarkt
+    url:
+      - >
+        https://foursquare.com/v/653d3de64f29471a0a10fc60
+    latitude:
+      - 49.450787
+    longitude:
+      - 11.077872
+    country-name:
+      - Germany
+  value: >
+    https://foursquare.com/v/653d3de64f29471a0a10fc60
+
+----
+
+Date: 2023-10-28 19:00:00
+
+----
+
+Uid: 3982
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: few-clouds
+
+----
+
+Temperature: 11°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: oKh4iuqK22J6If8J

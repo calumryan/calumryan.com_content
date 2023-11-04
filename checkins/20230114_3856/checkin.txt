@@ -1,0 +1,95 @@
+Title: January 14th, 2023
+
+----
+
+Text: Checked in at Dough Eyed Pizza
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/63c308ee20acc47c5201a02f
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Dough Eyed Pizza
+    url:
+      - >
+        https://foursquare.com/v/5f1d9c3b48b24b7913fa81a7
+      - http://dougheyed.uk
+      - https://twitter.com/dougheyedpizza
+    tel:
+      - 07591 977986
+    latitude:
+      - '53.959391374668'
+    longitude:
+      - '-1.0811509693985'
+    street-address:
+      - 7 Jubbergate
+    locality:
+      - York
+    region:
+      - North Yorkshire
+    country-name:
+      - United Kingdom
+    postal-code:
+      - YO1 8RT
+  value: >
+    https://foursquare.com/v/5f1d9c3b48b24b7913fa81a7
+
+----
+
+Date: 2023-01-14 19:55:00
+
+----
+
+Uid: 3856
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: few-clouds
+
+----
+
+Temperature: 5°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: oQl8KldTYuZ7PmZ0

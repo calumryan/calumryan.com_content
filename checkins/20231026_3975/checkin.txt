@@ -1,0 +1,92 @@
+Title: October 26th, 2023
+
+----
+
+Text: Checked in at Hexenhäusle
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/653aa456c0eab0320f1a281f
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Hexenhäusle
+    url:
+      - >
+        https://foursquare.com/v/4d6a5e061a88b1f728ee365d
+      - http://hexenhaeusle-nuernberg.com
+    latitude:
+      - '49.458725989814'
+    longitude:
+      - '11.075859738165'
+    street-address:
+      - Vestnertorgraben 4
+    locality:
+      - Nuremberg
+    region:
+      - Bavaria
+    country-name:
+      - Germany
+    postal-code:
+      - "90408"
+  value: >
+    https://foursquare.com/v/4d6a5e061a88b1f728ee365d
+
+----
+
+Date: 2023-10-26 19:40:00
+
+----
+
+Uid: 3975
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: light-rain
+
+----
+
+Temperature: 11°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: k7hsvZAdjjyiP4Zm

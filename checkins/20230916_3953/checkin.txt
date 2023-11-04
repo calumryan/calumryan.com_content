@@ -1,0 +1,94 @@
+Title: September 16th, 2023
+
+----
+
+Text: Checked in at Grounded
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/650584b21b063e607479560f
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Grounded
+    url:
+      - >
+        https://foursquare.com/v/5559b45d498e1fab90f1929d
+      - https://twitter.com/cogrounded
+    tel:
+      - 020 7377 1703
+    latitude:
+      - '51.516306784479'
+    longitude:
+      - '-0.069178750735727'
+    street-address:
+      - 9 Whitechapel Rd
+    locality:
+      - London
+    region:
+      - Greater London
+    country-name:
+      - United Kingdom
+    postal-code:
+      - E1 1DU
+  value: >
+    https://foursquare.com/v/5559b45d498e1fab90f1929d
+
+----
+
+Date: 2023-09-16 11:35:00
+
+----
+
+Uid: 3953
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: overcast-clouds
+
+----
+
+Temperature: 23°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: ttv3MFjbiH7wbsVK

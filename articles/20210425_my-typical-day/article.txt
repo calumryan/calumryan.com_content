@@ -1,0 +1,96 @@
+Title: My typical day
+
+----
+
+Text:
+
+I was invited to share my typical day by (link: https://ohhelloana.blog text: Ana Rodrigues) in what has become a sizeable blogging chain. The chain was started by (link: http://cdevroe.com/2021/01/07/my-typical-day/ text: Colin Devroe).
+
+I rarely have a set daily schedule, but this is typically how my weekdays proceed:
+
+## 7:00-8:30 Wake up and breakfast
+I can't remember the last time I used an alarm clock since lockdown, but without I normally wakeup by 8 o'clock anyway. Before the pandemic I'd almost always use an alarm as I needed to allow for a 90-minute commute, door-to-door, into Central London alternate days of the working week. Now that I'm not in alternate modes of home and office days, I sleep much better generally.
+
+After bathroom duties and getting dressed it's time for breakfast. This usually consists of (link: https://barrysteashop.ie/products/original-blend-80s text: Barry's Irish breakfast tea), a couple of portions of fruit and toast. Meanwhile, if I'm in the mood I'll have some TV news on in the background or, if that's unbearably miserable, something like a YouTube travel vlog.
+
+## 8:30-9:30
+Depending on the weather I usually do a walk round the block or head to the High Street for a takeaway coffee and walk round the castle grounds if it's a Friday.
+
+(image: typical-day-castle.jpg)
+
+## 9:30-10:30
+I head for work in my spare bedroom which is west-facing and on a good day the sun is pleasantly beaming in to keep me in good spirits for the day ahead. In this time I warm up the brain cells, catch up on Slack messages, Trello, GitHub pull requests and address anything urgent. For quieter work days I also use this time to keep up-to-date with any recent tech news and articles relevant to my work.
+
+## 10:30-13:00
+On some days I've a team meeting over Zoom in this time, but otherwise it's my focus time for getting things done. I take a brief pause mid-morning for a large mug of strong coffee and fuel my hunger with something sweet. Unless on a call, I normally have Spotify on constantly when working or sometimes listen to 6 Music radio.
+
+(image: typical-day-coffee.jpg)
+
+## 13:00-14:00
+Lunchtime. I usually make something that's quick and simple such as a quiché or flat breads with humus and some salad. I try to fit in a brief walk round the streets and park nearby if the weather's good, or else, spend it catching up on my personal emails, life admin and Twitter.
+
+## 14:00-17:30
+Back to work for the afternoon. Sometimes this is the best part of my day for productivity, but on others it's my worst and I find it harder to focus. Depending on the day or any projects I'm on then there's usually at least one Zoom call such as a 1:1 with my manager or occasional team and client meetings. I normally take a brief pause around half-way through the afternoon for tea and a small snack.
+
+(image: typical-day-work.jpg)
+
+## 17:30-19:00
+Come five-thirty I usually stop work and go cycling, indoors or outdoors depending on the weather and available hours of daylight.  I'm lucky to have the countryside on my doorstep which means I can easily go for an hour's ride and cover a reasonable distance at speed on quiet undulating roads. Twice a week it's also the time I use to pickup groceries at the superstore. Whatever the activity I try to follow up with a shower and redress from what I wore during the daytime. I find this often helps me to transition from work to leisure time in the evenings.
+
+(image: typical-day-cycling.jpg)
+
+## 19:00-21:00
+Every couple of weeks I help organise (link: https://www.hwclondon.co.uk/ text: Homebrew Website Club) with (link: https://ohhelloana.blog text: Ana). Also, occasionally I attend other meetups virtually. Otherwise, I normally use this time for cooking an evening meal, sometimes with a podcast playing when I'm making a meal from scratch. On the rare occasion I'm feeling a spurt of evening brain power, then I might also use any free time to work on a blog post or study some web standards.
+
+## 21:00-23:00
+Around this time I clean up in the kitchen, make a cup of Earl Grey tea and watch one or two things on catch-up TV, YouTube or a film. Recently this has included (link: https://www.imdb.com/title/tt12824922/ text: Long Way Up) , (link: https://www.imdb.com/title/tt7660850/ text: Succession) and an old favourite is (link: https://www.imdb.com/title/tt0098820/ text: Have I Got News for You).
+
+## 23:00-00:00
+Bedtime. My flat has no source of daytime heating like a boiler, so before I go to bed I check the temperature for the following day to judge if I turn on my (link: https://en.wikipedia.org/wiki/Economy_7 text: Eco-7) storage heaters for the night. Then I go to bed, read a chapter or two from a (link: https://calumryan.com/bookshelf text: book) and then it's off to dreamland.
+
+(image: typical-day-heating.jpg)
+
+## And that's roughly my typical day folks! 
+In all honesty many of my days are a struggle to get going with some kind of regular routine. In case you hadn't guessed it yet, I live alone at the moment and the missing ingredients of offline social interaction, a simple hug, a "good morning" or "how are you today?" from someone else has made my typical day in lockdown that little bit tougher. Having a rough routine of cycling, cooking, listening to music, running a regular virtual event and adding other little pieces of variety in my week all help just a little in keeping me mentally healthy through the pandemic.
+
+---
+
+To keep this chain going I'd like to invite (link: https://amberwilson.co.uk/ text: Amber) and (link: https://seblog.nl/ text: Seb) to share their own typical day if they'd like to.
+
+----
+
+Date: 2021-04-25 12:00:00
+
+----
+
+Author: - V00CCy0l
+
+----
+
+Tags: personal
+
+----
+
+Redirect: 
+
+----
+
+Description: In my first ever invitation to a blogging chain I've been asked to write about some typical things in my daily life.
+
+----
+
+Gallery:
+
+- typical-day-cycling.jpg
+- typical-day-coffee.jpg
+- typical-day-heating.jpg
+- typical-day-castle.jpg
+- typical-day-work.jpg
+
+----
+
+Bridgy: 
+
+----
+
+Uuid: iiG320TaMKd9YXIe

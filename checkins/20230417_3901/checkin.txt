@@ -1,0 +1,93 @@
+Title: April 17th, 2023
+
+----
+
+Text: Checked in at Sannin
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/643d997e1edace4e61aa0f3e
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Sannin
+    url:
+      - >
+        https://foursquare.com/v/4c278664a852c928ce5be86c
+    tel:
+      - 0211 1710505
+    latitude:
+      - '51.224947176719'
+    longitude:
+      - '6.7951311199622'
+    street-address:
+      - Kölner Str. 61
+    locality:
+      - Dusseldorf
+    region:
+      - North Rhine-Westphalia
+    country-name:
+      - Germany
+    postal-code:
+      - "40211"
+  value: >
+    https://foursquare.com/v/4c278664a852c928ce5be86c
+
+----
+
+Date: 2023-04-17 21:10:00
+
+----
+
+Uid: 3901
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: clear-sky
+
+----
+
+Temperature: 13°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: VSHYWUAQcGJqQwhD

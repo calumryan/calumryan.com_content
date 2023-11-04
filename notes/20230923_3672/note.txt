@@ -1,0 +1,68 @@
+Title: September 23rd, 2023
+
+----
+
+Text: Happy to be reacquainted with a bunch of the UK IndieWeb community at State of the Browser 11 today, like old times!
+
+----
+
+Locator:
+
+lat: "51.5198833"
+lon: "-0.093962847924583"
+city: City of London
+country: United Kingdom
+postcode: EC2Y 8DS
+address: Silk Street
+
+----
+
+Date: 2023-09-23 15:00:00
+
+----
+
+Mastodon: publish
+
+----
+
+Uid: 3672
+
+----
+
+Weather-icon: broken-clouds
+
+----
+
+Temperature: 17°C
+
+----
+
+Feature-images: 
+
+----
+
+Tags: IndieWeb
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: 1sSu1ffaf3oOV6nK

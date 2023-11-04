@@ -1,0 +1,92 @@
+Title: April 22nd, 2023
+
+----
+
+Text: Checked in at Lacrimi și Sfinți
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/644407aa2493093f02cf19cd
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Lacrimi și Sfinți
+    url:
+      - >
+        https://foursquare.com/v/55e9e4c3498e4b1041933cd0
+      - http://www.lacrimisisfinti.com
+    tel:
+      - 0725 558 286
+    latitude:
+      - '44.430537672694'
+    longitude:
+      - '26.10288195312'
+    street-address:
+      - Str. Șepcari nr. 16
+    locality:
+      - Bucharest
+    region:
+      - Bucharest
+    country-name:
+      - Romania
+  value: >
+    https://foursquare.com/v/55e9e4c3498e4b1041933cd0
+
+----
+
+Date: 2023-04-22 19:15:00
+
+----
+
+Uid: 3916
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: few-clouds
+
+----
+
+Temperature: 14°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: dlLV8Z0EaeoroNpV

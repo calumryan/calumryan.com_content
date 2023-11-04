@@ -2,7 +2,7 @@ Title: Meet the TAG London
 
 ----
 
-Tags:
+Tags: 
 
 ----
 
@@ -18,11 +18,11 @@ Date: 2018-02-01 18:00
 
 ----
 
-Date start: 2018-02-01 18:00:00 +0000
+Date-start: 2018-02-01 18:00:00 +0000
 
 ----
 
-Date end: 2018-02-01 20:00:00 +0000
+Date-end: 2018-02-01 20:00:00 +0000
 
 ----
 
@@ -42,4 +42,8 @@ Redirect: https://calumryan.com/event/meet-the-tag
 
 ----
 
-UID: meet-the-tag
+Uid: meet-the-tag
+
+----
+
+Uuid: aqAxQYet0H0Vnqwe

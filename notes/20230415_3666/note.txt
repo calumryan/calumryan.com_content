@@ -1,0 +1,71 @@
+Title: April 15th, 2023
+
+----
+
+Text: Another year, another trip to #btconf in the best seat on Eurostar – in Seat 61. Bis bald Düsseldorf!
+
+----
+
+Locator:
+
+lat: 51.5259149
+lon: -0.1290973
+city: London
+country: United Kingdom
+postcode: WC1H 9JZ
+
+----
+
+Date: 2023-04-15 07:00:00
+
+----
+
+Bridgy: twitter
+
+----
+
+Mastodon: publish
+
+----
+
+Uid: 3666
+
+----
+
+Weather-icon: broken-clouds
+
+----
+
+Temperature: 7°C
+
+----
+
+Feature-images: - file://9vrI5UjQuqJtNXQb
+
+----
+
+Tags: btconf, travel
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: wl7JNIqOLcpYQHn3

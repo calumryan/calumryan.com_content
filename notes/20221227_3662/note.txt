@@ -1,0 +1,72 @@
+Title: December 27th, 2022
+
+----
+
+Text: Feeling vibes of Oasis / retro 90s pop band in trendy Crouch Hill today
+
+----
+
+Locator:
+
+lat: 51.5829559
+lon: -0.0996235
+city: London
+country: United Kingdom
+postcode: N8 0RL
+address: Green Lanes
+
+----
+
+Date: 2022-12-27 15:15:00
+
+----
+
+Bridgy: twitter
+
+----
+
+Mastodon: publish
+
+----
+
+Uid: 3662
+
+----
+
+Weather-icon: scattered-clouds
+
+----
+
+Temperature: 10°C
+
+----
+
+Feature-images: - file://Hd4GhHvXc5ikEMU1
+
+----
+
+Tags: Fashion
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: fMo8lm4T76r8mQ1a

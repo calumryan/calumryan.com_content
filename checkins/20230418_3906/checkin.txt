@@ -1,0 +1,91 @@
+Title: April 18th, 2023
+
+----
+
+Text: Checked in at Uerige am Markt
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/643ede46f85e9258185c5923
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Uerige am Markt
+    url:
+      - >
+        https://foursquare.com/v/55870c2c498edcdb4231ca1c
+    latitude:
+      - '51.216537546203'
+    longitude:
+      - '6.8020886557256'
+    street-address:
+      - Bogenstraße 22
+    locality:
+      - Dusseldorf
+    region:
+      - North Rhine-Westphalia
+    country-name:
+      - Germany
+    postal-code:
+      - "40227"
+  value: >
+    https://foursquare.com/v/55870c2c498edcdb4231ca1c
+
+----
+
+Date: 2023-04-18 20:15:00
+
+----
+
+Uid: 3906
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: clear-sky
+
+----
+
+Temperature: 13°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: yDD7K7Mf3vUGCIvW

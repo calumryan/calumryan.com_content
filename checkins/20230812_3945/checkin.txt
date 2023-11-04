@@ -1,0 +1,95 @@
+Title: August 12th, 2023
+
+----
+
+Text: Checked in at Terminal 2 - The Queen's Terminal
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/64d76723a32d7b030001ac8b
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - "Terminal 2 - The Queen's Terminal"
+    url:
+      - >
+        https://foursquare.com/v/4cab3d0ba6e08cfa12d4a394
+      - http://www.heathrow.com
+      - https://twitter.com/heathrowairport
+    tel:
+      - 0844 335 1801
+    latitude:
+      - '51.46991585425'
+    longitude:
+      - '-0.44994592666626'
+    street-address:
+      - LHR Airport
+    locality:
+      - Hounslow
+    region:
+      - Greater London
+    country-name:
+      - United Kingdom
+    postal-code:
+      - TW6 2GW
+  value: >
+    https://foursquare.com/v/4cab3d0ba6e08cfa12d4a394
+
+----
+
+Date: 2023-08-12 12:05:00
+
+----
+
+Uid: 3945
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: broken-clouds
+
+----
+
+Temperature: 20°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: aqLU88M8g4UecKlw

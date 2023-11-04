@@ -1,0 +1,93 @@
+Title: April 25th, 2023
+
+----
+
+Text: Checked in at Palatul Parlamentului
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/6447a6ecbf6fa048b523dd61
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Palatul Parlamentului
+    url:
+      - >
+        https://foursquare.com/v/4bed1a98bac3c9b603d2fde9
+      - http://cic.cdep.ro/en
+      - https://twitter.com/cicromania
+    tel:
+      - 021 316 0300
+    latitude:
+      - 44.428331
+    longitude:
+      - 26.087627
+    street-address:
+      - Str. Izvor nr. 2-4
+    locality:
+      - Bucharest
+    region:
+      - Bucharest
+    country-name:
+      - Romania
+  value: >
+    https://foursquare.com/v/4bed1a98bac3c9b603d2fde9
+
+----
+
+Date: 2023-04-25 13:10:00
+
+----
+
+Uid: 3919
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: broken-clouds
+
+----
+
+Temperature: 14°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: wF5yv4Fl9cxmnmJu

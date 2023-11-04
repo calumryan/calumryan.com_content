@@ -1,0 +1,94 @@
+Title: April 22nd, 2023
+
+----
+
+Text: Checked in at Ateneul Român
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/6443ce3f2e18ff53ec195ba7
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Ateneul Român
+    url:
+      - >
+        https://foursquare.com/v/4ba25a56f964a52047f037e3
+      - http://fge.org.ro
+    tel:
+      - 021 315 6875
+    latitude:
+      - '44.441271856302'
+    longitude:
+      - '26.097314357758'
+    street-address:
+      - Str. Benjamin Franklin nr. 1-3
+    locality:
+      - Bucharest
+    region:
+      - Bucharest
+    country-name:
+      - Romania
+    postal-code:
+      - "010287"
+  value: >
+    https://foursquare.com/v/4ba25a56f964a52047f037e3
+
+----
+
+Date: 2023-04-22 15:10:00
+
+----
+
+Uid: 3914
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: clear-sky
+
+----
+
+Temperature: 18°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: CPG5MLIsonWMRzOj

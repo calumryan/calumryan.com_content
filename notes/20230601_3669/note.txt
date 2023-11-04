@@ -1,0 +1,71 @@
+Title: June 1st, 2023
+
+----
+
+Text: 18 (×2) years old today!
+
+----
+
+Locator:
+
+lat: 55.861155
+lon: -4.2501687
+city: Glasgow
+country: United Kingdom
+postcode: G2 1DY
+
+----
+
+Date: 2023-06-01 23:00:00
+
+----
+
+Bridgy: 
+
+----
+
+Mastodon: publish
+
+----
+
+Uid: 3669
+
+----
+
+Weather-icon: overcast-clouds
+
+----
+
+Temperature: 12°C
+
+----
+
+Feature-images: - file://iwYDVXa1h0UTnPiZ
+
+----
+
+Tags: 
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: va1z74cGvnZZnTym

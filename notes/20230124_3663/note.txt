@@ -1,0 +1,65 @@
+Title: January 24th, 2023
+
+----
+
+Text: I'd like to report a crime against corporate re-branding, please? .@Eurostar .@thalys_en https://www.businesstraveller.com/business-travel/2023/01/24/eurostar-group-reveals-new-brand/
+
+----
+
+Locator: 
+
+----
+
+Date: 2023-01-24 16:30:00
+
+----
+
+Bridgy: twitter
+
+----
+
+Mastodon: publish
+
+----
+
+Uid: 3663
+
+----
+
+Weather-icon: 
+
+----
+
+Temperature: 
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: N2DjdWZUlPSQzQ2f

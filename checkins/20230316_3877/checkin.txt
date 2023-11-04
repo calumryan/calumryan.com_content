@@ -1,0 +1,93 @@
+Title: March 16th, 2023
+
+----
+
+Text: Checked in at Figli Del Vesuvio
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/64137ae6243e803417747a84
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Figli Del Vesuvio
+    url:
+      - >
+        https://foursquare.com/v/55d9c32b498e3834111ecebe
+    tel:
+      - 020 3609 1118
+    latitude:
+      - '51.43374795205'
+    longitude:
+      - '-0.18502576031317'
+    street-address:
+      - Garratt Lane 658
+    locality:
+      - London
+    region:
+      - Greater London
+    country-name:
+      - United Kingdom
+    postal-code:
+      - SW17 0BP
+  value: >
+    https://foursquare.com/v/55d9c32b498e3834111ecebe
+
+----
+
+Date: 2023-03-16 20:25:00
+
+----
+
+Uid: 3877
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: few-clouds
+
+----
+
+Temperature: 12°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: G1E2PeHoNTpoIQel

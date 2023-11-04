@@ -49,9 +49,7 @@ Date: 2022-05-08 21:45:00
 
 ----
 
-Author:
-
-- V00CCy0l
+Author: - V00CCy0l
 
 ----
 
@@ -75,6 +73,8 @@ Gallery:
 
 ----
 
-Og-thumbnail:
+Og-thumbnail: - weeknote-8.jpg
 
-- weeknote-8.jpg
+----
+
+Uuid: CTWmvL60LGjLaFqL

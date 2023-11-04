@@ -1,0 +1,94 @@
+Title: May 17th, 2023
+
+----
+
+Text: Checked in at Caffè Nero
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/6464fc32c4f2bd08940e363c
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Caffè Nero
+    url:
+      - >
+        https://foursquare.com/v/57abaddb498e1d2447ffbb5a
+      - http://caffenero.co.uk
+    tel:
+      - 020 8870 7224
+    latitude:
+      - '51.444865388809'
+    longitude:
+      - '-0.2063450064553'
+    street-address:
+      - 248 Wimbledon Park Rd
+    locality:
+      - Southfields
+    region:
+      - Greater London
+    country-name:
+      - United Kingdom
+    postal-code:
+      - SW18 5RJ
+  value: >
+    https://foursquare.com/v/57abaddb498e1d2447ffbb5a
+
+----
+
+Date: 2023-05-17 17:10:00
+
+----
+
+Uid: 3929
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: scattered-clouds
+
+----
+
+Temperature: 17°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: AnBPdWKvaUTXY0dT

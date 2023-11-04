@@ -1,0 +1,65 @@
+Title: UK Govcamp 2023
+
+----
+
+Text: 
+
+----
+
+Locator:
+
+lat: "51.4999293"
+lon: "-0.13477761285316"
+number: "102"
+city: London
+country: United Kingdom
+postcode: SW1H 9AJ
+address: Petty France
+
+----
+
+Date: 2023-01-21 11:10:00
+
+----
+
+Date-start: 2023-01-21 09:00:00
+
+----
+
+Date-end: 2023-01-21 17:00:00
+
+----
+
+Tags: government, barcamp
+
+----
+
+Latitude: 51.4999293
+
+----
+
+Longitude: -0.13477761285316
+
+----
+
+Location: 
+
+----
+
+City: London
+
+----
+
+Timezone: GMT
+
+----
+
+Uuid: lPSO6vL2ZtMwlApg
+
+----
+
+Temperature: 2°C
+
+----
+
+Weather-icon: broken-clouds

@@ -1,0 +1,83 @@
+Title: February 4th, 2023
+
+----
+
+Text: Checked in at Basil
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/63de662c44e7d36b0bcb660f
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Basil
+    url:
+      - >
+        https://foursquare.com/v/5559b0d0498e636bee3febf0
+    latitude:
+      - '51.193440757486'
+    longitude:
+      - '0.27292920810203'
+    country-name:
+      - United Kingdom
+  value: >
+    https://foursquare.com/v/5559b0d0498e636bee3febf0
+
+----
+
+Date: 2023-02-04 14:05:00
+
+----
+
+Uid: 3866
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: overcast-clouds
+
+----
+
+Temperature: 10°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: xVGOR0GlYgrQLlwE

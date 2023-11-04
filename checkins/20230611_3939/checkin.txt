@@ -1,0 +1,95 @@
+Title: June 11th, 2023
+
+----
+
+Text: Checked in at Tally Ho Farm
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/6485accdb6b8d15b30891118
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Tally Ho Farm
+    url:
+      - >
+        https://foursquare.com/v/4c440dca56a7ef3b6b21ce21
+      - http://www.tallyhofarm.co.uk
+      - https://twitter.com/tallyhowindsor
+    tel:
+      - 01344 885373
+    latitude:
+      - '51.453113846569'
+    longitude:
+      - '-0.68541249802777'
+    street-address:
+      - Crouch Ln
+    locality:
+      - Winkfield
+    region:
+      - Bracknell Forest
+    country-name:
+      - United Kingdom
+    postal-code:
+      - SL4 4RZ
+  value: >
+    https://foursquare.com/v/4c440dca56a7ef3b6b21ce21
+
+----
+
+Date: 2023-06-11 12:15:00
+
+----
+
+Uid: 3939
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: broken-clouds
+
+----
+
+Temperature: 26°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: I1T2A3gpx5WTsnOF

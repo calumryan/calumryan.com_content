@@ -1,0 +1,93 @@
+Title: April 1st, 2023
+
+----
+
+Text: Checked in at Artisan
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/642836e121efed5dac39381b
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Artisan
+    url:
+      - >
+        https://foursquare.com/v/50e2fb1fe4b075c2fbd659a0
+      - http://www.artisancoffee.co.uk
+      - https://twitter.com/artisan_coffee
+    latitude:
+      - '51.493529615495'
+    longitude:
+      - '-0.24507069912586'
+    street-address:
+      - 372 King St
+    locality:
+      - London
+    region:
+      - Greater London
+    country-name:
+      - United Kingdom
+    postal-code:
+      - W6 0RX
+  value: >
+    https://foursquare.com/v/50e2fb1fe4b075c2fbd659a0
+
+----
+
+Date: 2023-04-01 14:50:00
+
+----
+
+Uid: 3884
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: broken-clouds
+
+----
+
+Temperature: 11°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: MhwaW2PDQX8picfc

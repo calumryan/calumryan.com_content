@@ -1,0 +1,72 @@
+Title: State of the Browser 2023
+
+----
+
+Text: 
+
+----
+
+Locator:
+
+lat: 51.5201501
+lon: -0.0986832
+city: City of London
+country: United Kingdom
+postcode: EC1M 6EQ
+address: Charterhouse Square
+
+----
+
+Date: 2023-09-23 10:00:00
+
+----
+
+Date-start: 2023-09-23 10:00:00
+
+----
+
+Date-end: 2023-09-23 18:00:00
+
+----
+
+Tags: 
+
+----
+
+Latitude: 51.51981
+
+----
+
+Longitude: -0.11834
+
+----
+
+Location: Conway Hall, 25 Red Lion Square, London, WC1R 4RL
+
+----
+
+City: London
+
+----
+
+Timezone: BST
+
+----
+
+Redirect: https://calumryan.com/event/state-of-the-browser-2018
+
+----
+
+Uid: state-of-the-browser-2018
+
+----
+
+Uuid: qP80StgF0X3spf2h
+
+----
+
+Temperature: 10°C
+
+----
+
+Weather-icon: light-rain

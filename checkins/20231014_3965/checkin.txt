@@ -1,0 +1,89 @@
+Title: October 14th, 2023
+
+----
+
+Text: Checked in at 21 West
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/652a665877cf9960baf5d52e
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - 21 West
+    url:
+      - >
+        https://foursquare.com/v/5bcd6fca9ba3e50039dc5f79
+    latitude:
+      - 51.517756
+    longitude:
+      - -0.10129
+    locality:
+      - London
+    region:
+      - Greater London
+    country-name:
+      - United Kingdom
+    postal-code:
+      - EC1A 9HY
+  value: >
+    https://foursquare.com/v/5bcd6fca9ba3e50039dc5f79
+
+----
+
+Date: 2023-10-14 11:00:00
+
+----
+
+Uid: 3965
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: scattered-clouds
+
+----
+
+Temperature: 11°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: KMmFLWaXxWhAznvJ

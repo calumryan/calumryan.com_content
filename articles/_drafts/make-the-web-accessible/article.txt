@@ -1,0 +1,60 @@
+Title: Make the web accessible
+
+----
+
+Text:
+
+In the last (link: https://webaim.org/projects/million/ text: WebAIM analysis) of the top 1,000,000 home pages in 2021, 97.4% had detected failures judged against WCAG 2. Year after year, this figure hasn't changed significantly in much of a positive direction. So how do we go about recovering the World Wide Web from a proliferation of poorly built websites full of accessibility barriers? 
+
+## Culture of ableism
+We live in a world embedded with a culture of ableism. There are ways we can make the web less of a casualty to this culture. We can hire teams and individuals responsible for creating and maintain websites who understand what ableism is, and how to ensure what's coded, designed or written doesn't intentionally, or inadvertently, exclude anyone from accessing it. Repeatedly and very loudly, we need to dispel the myths that disability only affects a tiny number of people overall, and that they don't really matter much to a product, organisation or company's overall profits and popularity.
+
+(image: inclusive.png alt:the Microsoft Persona Spectrum)
+
+## Make being accessible more economic than being inaccessible
+From low-budget independent business and start-ups to multi-millionaire corporations, there'll always be a market demand to have a presence on the web with the least amount of work, resource, and cost possible. Sadly this economically-driven approach, doesn't often result in the creation of accessible websites, particularly 
+
+## What if it's the law to be accessible?
+Worldwide, countries and governments pass disabilities acts of varying applicability and levels of enforcement for public and private sector organisations to comply with. It's debatable just now significant an impact on helping to make the web more accessible overall these have.
+
+## Rid the web of accessibility overlays
+Of all the negative impacts I see to making websites less accessible, it's the companies who create, sell, or resell accessibility overlay solutions who often make the overall situation worse for a more accessible web. Without wanting to make this article all about what accessibility overlays are, I'd highly recommend learning more at the (link: https://overlayfactsheet.com/ text: Overlay Fact Sheet) by Karl Groves and Adrian Roselli's presentation, [Overlays Underwhelm](https://adrianroselli.com/2022/03/overlays-underwhelm-a11y-nyc.html).
+
+## Final thoughts
+In a World that is sadly facing many crises all simultaneously, the priority of having an accessible web for millions might not be the most obvious, but it's an issue more important than ever to address. The internet . Consider someone cut-off and isolated from the outside world shielding due to a highly infectious virus, a refugee fleeing a war torn country, or natural disaster caused by climate change. In all cases there's a vital need and urgency to accessing critical information about relatives or close contacts and a means to obtain food and medical supplies in order to survive. In all circumstances, having a fully accessible website interface can be considered essential, and even a matter of life or death.
+
+----
+
+Date: 2022-02-06 10:00:00
+
+----
+
+Author: - V00CCy0l
+
+----
+
+Tags: a11y
+
+----
+
+Syndication: 
+
+----
+
+Redirect: 
+
+----
+
+Description: An ideal for what the accessible web should be and how might we go about making it a reality.
+
+----
+
+Gallery: 
+
+----
+
+Og-thumbnail: 
+
+----
+
+Uuid: ZDsQeTzNzGEuAuAE

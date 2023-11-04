@@ -2,7 +2,7 @@ Title: EuropeanaTech Conference 2018
 
 ----
 
-Tags:
+Tags: 
 
 ----
 
@@ -18,11 +18,11 @@ Date: 2018-05-15 09:00
 
 ----
 
-Date start: 2018-05-15 09:00:00 +0100
+Date-start: 2018-05-15 09:00:00 +0100
 
 ----
 
-Date end: 2018-05-16 18:00:00 +0100
+Date-end: 2018-05-16 18:00:00 +0100
 
 ----
 
@@ -42,4 +42,8 @@ Redirect: https://calumryan.com/event/europeanatech-conference-2018
 
 ----
 
-UID: europeanatech-conference-2018
+Uid: europeanatech-conference-2018
+
+----
+
+Uuid: xu1bLEEGAExmeyEa

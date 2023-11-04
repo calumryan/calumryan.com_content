@@ -1,0 +1,94 @@
+Title: August 13th, 2023
+
+----
+
+Text: Checked in at Bouchon
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/64d91bbe9f883634d3fdcb1d
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Bouchon
+    url:
+      - >
+        https://foursquare.com/v/558ae2af498e69016854398e
+      - http://bouchon.se
+    tel:
+      - 040-30 68 50
+    latitude:
+      - '55.598123013278'
+    longitude:
+      - '13.008992671967'
+    street-address:
+      - Andréelundsvägen 5
+    locality:
+      - Malmö
+    region:
+      - Skåne
+    country-name:
+      - Sweden
+    postal-code:
+      - 211 52
+  value: >
+    https://foursquare.com/v/558ae2af498e69016854398e
+
+----
+
+Date: 2023-08-13 20:05:00
+
+----
+
+Uid: 3948
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: scattered-clouds
+
+----
+
+Temperature: 21°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: DjKTjTVvSHCJTmz8

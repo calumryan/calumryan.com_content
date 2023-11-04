@@ -18,11 +18,11 @@ Date: 2018-06-18 19:00
 
 ----
 
-Date start: 2018-06-18 19:00:00 +0000
+Date-start: 2018-06-18 19:00:00 +0000
 
 ----
 
-Date end: 2018-06-18 20:00:00 +0000
+Date-end: 2018-06-18 20:00:00 +0000
 
 ----
 
@@ -42,8 +42,12 @@ Speaker: 1
 
 ----
 
-View slides: https://noti.st/calumryan/4T8aAJ
+View-slides: https://noti.st/calumryan/4T8aAJ
 
 ----
 
-UID: redecentralising-the-web
+Uid: redecentralising-the-web
+
+----
+
+Uuid: Ttrjxy7duC9eLddf

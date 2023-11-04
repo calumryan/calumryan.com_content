@@ -1,0 +1,85 @@
+Title: July 15th, 2023
+
+----
+
+Text: Checked in at Naive
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/64b2a92567031a184edcf5c2
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Naive
+    url:
+      - >
+        https://foursquare.com/v/6003fbbe9ca3c5086c4cf3ae
+    latitude:
+      - 51.4746
+    longitude:
+      - -0.20056084
+    country-name:
+      - United Kingdom
+    postal-code:
+      - SW6 4JA
+  value: >
+    https://foursquare.com/v/6003fbbe9ca3c5086c4cf3ae
+
+----
+
+Date: 2023-07-15 15:10:00
+
+----
+
+Uid: 3944
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: scattered-clouds
+
+----
+
+Temperature: 21°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: elTjFmSaAbWSIiBJ

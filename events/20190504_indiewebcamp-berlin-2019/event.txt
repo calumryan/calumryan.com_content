@@ -2,7 +2,7 @@ Title: IndieWebCamp Berlin 2019
 
 ----
 
-Tags:
+Tags: 
 
 ----
 
@@ -18,11 +18,11 @@ Date: 2019-05-04 10:00
 
 ----
 
-Date start: 2019-05-04 10:00:00 +0100
+Date-start: 2019-05-04 10:00:00 +0100
 
 ----
 
-Date end: 2019-05-05 19:00:00 +0100
+Date-end: 2019-05-05 19:00:00 +0100
 
 ----
 
@@ -46,4 +46,8 @@ Redirect: https://calumryan.com/event/indiewebcamp-berlin-2019
 
 ----
 
-UID: indiewebcamp-berlin-2019
+Uid: indiewebcamp-berlin-2019
+
+----
+
+Uuid: AGkSjcUynqXm8rpH

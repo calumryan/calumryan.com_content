@@ -1,0 +1,92 @@
+Title: October 26th, 2023
+
+----
+
+Text: Checked in at My Thai
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/653a52a96e2dc13b6ce2b41a
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - My Thai
+    url:
+      - >
+        https://foursquare.com/v/51aa1456498e81668c03c502
+      - http://myhaovegan.de
+    latitude:
+      - '49.457971609419'
+    longitude:
+      - '11.066703011168'
+    street-address:
+      - Johannisstr.
+    locality:
+      - Nuremberg
+    region:
+      - Bavaria
+    country-name:
+      - Germany
+    postal-code:
+      - "90419"
+  value: >
+    https://foursquare.com/v/51aa1456498e81668c03c502
+
+----
+
+Date: 2023-10-26 13:50:00
+
+----
+
+Uid: 3973
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: moderate-rain
+
+----
+
+Temperature: 13°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: Np5Cpk0JVzCHyCtW

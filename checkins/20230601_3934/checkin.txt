@@ -1,0 +1,93 @@
+Title: June 1st, 2023
+
+----
+
+Text: Checked in at Willow Grove
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/64786a90147a007a4b236524
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Willow Grove
+    url:
+      - >
+        https://foursquare.com/v/59bfda9bb9a5a813541ec300
+    tel:
+      - 0141 237 3490
+    latitude:
+      - '55.866236386975'
+    longitude:
+      - '-4.2725363373756'
+    street-address:
+      - 531 Sauchiehall Street
+    locality:
+      - Glasgow
+    region:
+      - Glasgow City
+    country-name:
+      - United Kingdom
+    postal-code:
+      - G3 7DL
+  value: >
+    https://foursquare.com/v/59bfda9bb9a5a813541ec300
+
+----
+
+Date: 2023-06-01 10:55:00
+
+----
+
+Uid: 3934
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: overcast-clouds
+
+----
+
+Temperature: 15°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: rEaz1aUzkBRllWtm

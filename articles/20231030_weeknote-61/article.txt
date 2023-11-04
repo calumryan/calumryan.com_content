@@ -1,0 +1,60 @@
+Title: Weeknote 61
+
+----
+
+Text:
+
+## Arrival in Nuremberg 
+Earlier in the week, I arrived in Nuremberg for (link: https://border-none.net/2023/ text: Border None conference). My Airbnb was the same as I’d stayed at five years ago. It remained exactly the same, comfortable and conveniently located to the city centre.
+
+## Visit to Bamberg
+I’d a little time before the conference to explore the wider area, having already explored much of Nuremberg. I decided to visit Bamberg about an hour away by train. Dodging between rain spells, I managed to see much of the old town, which was thankfully spared obliteration during WW2. 
+
+## The conference
+From Thursday to Friday, I attended Border None conference inside a music hall located just a little outside the city walls in Nuremberg. Overall I found it very enjoyable with a good range of talks mostly focused on life away from work and rather than the usual focus on tech and design theories. I particularly enjoyed Andre Jay Meissner’s talk about his family history, that provided an interesting perspective on the life and motivations of his ancestors, who were both on the German side of fighting in the two World Wars.
+
+(image: conf.jpg alt: Border None logo projected on screen in hall, with Joschi and Marc standing in the front)
+
+## IndieWebCamp
+Over the weekend there was no time for catching up on sleep as I’d also signed up to attend IndieWebCamp Nuremberg. The event had around thirty attendees, which was a pretty good number, plus some attending remotely. I was glad to impart some of my accessibility knowledge in a session I proposed, that drew in about a dozen people, including one of my most respected celebrities of the web industry, Jeremy Keith. For the Create Day on Sunday, I managed to fix some rendering issues for images on my website and partly link my site to Mastodon, and include a new featured photo banner on my homepage.
+
+## German dining
+I’ve certainly overindulged in local German cuisine over the past week! I visited a Franconian restaurant, with some IndieWeb community, called Hexenhäusle. Their beef goulash accompanied by butter spaetzle and a glass of dark beer was the highlight of my meals out in Nuremberg.
+
+(image: meal-nuremberg.jpg alt: beef goulash accompanied by butter spaetzle and a glass of dark beer)
+
+----
+
+Date: 2023-10-30 09:50:00
+
+----
+
+Author: - user://V00CCy0l
+
+----
+
+Tags: #weeknote
+
+----
+
+Syndication: 
+
+----
+
+Redirect: 
+
+----
+
+Description: 
+
+----
+
+Gallery: 
+
+----
+
+Og-thumbnail: - file://9RESirtdmaVPTArK
+
+----
+
+Uuid: 39M0QM2vM7vse6UL

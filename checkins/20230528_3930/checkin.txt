@@ -1,0 +1,91 @@
+Title: May 28th, 2023
+
+----
+
+Text: Checked in at British Patagonia
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/64733bdc1356ce55b17c8221
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - British Patagonia
+    url:
+      - >
+        https://foursquare.com/v/638b29507301ee62ad6395ae
+    latitude:
+      - 51.54158
+    longitude:
+      - -0.102979
+    street-address:
+      - 178 Upper St
+    locality:
+      - London
+    region:
+      - Greater London
+    country-name:
+      - United Kingdom
+    postal-code:
+      - N1 1RG
+  value: >
+    https://foursquare.com/v/638b29507301ee62ad6395ae
+
+----
+
+Date: 2023-05-28 12:35:00
+
+----
+
+Uid: 3930
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: overcast-clouds
+
+----
+
+Temperature: 20°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: U3QcpCCg14J72TKT

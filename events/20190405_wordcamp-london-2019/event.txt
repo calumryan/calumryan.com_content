@@ -2,7 +2,7 @@ Title: WordCamp London 2019
 
 ----
 
-Tags:
+Tags: 
 
 ----
 
@@ -18,11 +18,11 @@ Date: 2019-04-05 09:00
 
 ----
 
-Date start: 2019-04-05 09:00:00 +0100
+Date-start: 2019-04-05 09:00:00 +0100
 
 ----
 
-Date end: 2019-04-07 18:00:00 +0100
+Date-end: 2019-04-07 18:00:00 +0100
 
 ----
 
@@ -42,4 +42,8 @@ Redirect: https://calumryan.com/event/wordcamp-london-2019
 
 ----
 
-UID: wordcamp-london-2019
+Uid: wordcamp-london-2019
+
+----
+
+Uuid: chD4ul9Q2PYXG1b9

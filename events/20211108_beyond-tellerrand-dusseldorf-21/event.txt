@@ -1,0 +1,57 @@
+Title: Beyond Tellerrand Düsseldorf 2021
+
+----
+
+Text: 
+
+----
+
+Locator: 
+
+----
+
+Date: 2021-11-08 09:00:00
+
+----
+
+Date-start: 2021-11-08 09:00:00
+
+----
+
+Date-end: 2021-11-10 21:00:00
+
+----
+
+Tags: btconf
+
+----
+
+Latitude: 51.224
+
+----
+
+Longitude: 6.8006
+
+----
+
+City: Düsseldorf
+
+----
+
+Timezone: CET
+
+----
+
+Location: Capitol Theater
+
+----
+
+Redirect: https://calumryan.com/event/beyond-tellerrand-dusseldorf-18
+
+----
+
+Uid: beyond-tellerrand-dusseldorf-18
+
+----
+
+Uuid: 7a0ignQ99TVSwi7r

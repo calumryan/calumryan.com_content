@@ -1,0 +1,94 @@
+Title: April 15th, 2023
+
+----
+
+Text: Checked in at Hanswurst
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/643a87bcde17794d99755e56
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Hanswurst
+    url:
+      - >
+        https://foursquare.com/v/4eedfd61e30021559417e095
+      - http://www.hanswurst.de
+    tel:
+      - 0241 47581491
+    latitude:
+      - '50.774559544693'
+    longitude:
+      - '6.0847917545946'
+    street-address:
+      - Münsterplatz 6
+    locality:
+      - Aachen
+    region:
+      - North Rhine-Westphalia
+    country-name:
+      - Germany
+    postal-code:
+      - "52062"
+  value: >
+    https://foursquare.com/v/4eedfd61e30021559417e095
+
+----
+
+Date: 2023-04-15 13:15:00
+
+----
+
+Uid: 3894
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: broken-clouds
+
+----
+
+Temperature: 12°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: BAufHQB6vKN2vJDS

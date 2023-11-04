@@ -1,0 +1,65 @@
+Title: February 13th, 2023
+
+----
+
+Text: The level of stress and anxiety I'm currently going through for trying to sell and buy a home in the UK is the main reason why I've been putting a move for so long #BrokenBritain
+
+----
+
+Locator: 
+
+----
+
+Date: 2023-02-13 16:15:00
+
+----
+
+Bridgy: twitter
+
+----
+
+Mastodon: publish
+
+----
+
+Uid: 3664
+
+----
+
+Weather-icon: 
+
+----
+
+Temperature: 
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: UD0zSGEPZmwY1ife

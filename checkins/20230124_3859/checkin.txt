@@ -1,0 +1,91 @@
+Title: January 24th, 2023
+
+----
+
+Text: Checked in at Arepas Guasacaca
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/63d02ce70ff5b20d0e20cc17
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Arepas Guasacaca
+    url:
+      - >
+        https://foursquare.com/v/59e39c6add12f8521539c640
+    latitude:
+      - 51.498934
+    longitude:
+      - -0.098878
+    street-address:
+      - Mercato Metropolitano
+    locality:
+      - London
+    region:
+      - Greater London
+    country-name:
+      - United Kingdom
+    postal-code:
+      - SE1 1DN
+  value: >
+    https://foursquare.com/v/59e39c6add12f8521539c640
+
+----
+
+Date: 2023-01-24 19:10:00
+
+----
+
+Uid: 3859
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: overcast-clouds
+
+----
+
+Temperature: 2°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: E7NT2fjTbG3h8p5q

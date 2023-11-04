@@ -1,0 +1,83 @@
+Title: April 15th, 2023
+
+----
+
+Text: Checked in at Lataberna-Española
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/643ae9c56ad40257953fe9da
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Lataberna-Española
+    url:
+      - >
+        https://foursquare.com/v/5f5910fad86f2f5c8563f7e9
+    latitude:
+      - 51.23046
+    longitude:
+      - 6.794145
+    country-name:
+      - Germany
+  value: >
+    https://foursquare.com/v/5f5910fad86f2f5c8563f7e9
+
+----
+
+Date: 2023-04-15 20:15:00
+
+----
+
+Uid: 3896
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: light-rain
+
+----
+
+Temperature: 9°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: 1Jj0x8ABMcDEAfvz

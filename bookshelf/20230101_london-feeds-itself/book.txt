@@ -1,0 +1,37 @@
+Title: London Feeds Itself
+
+----
+
+Review: 
+
+----
+
+Feature-images: - file://bRaSgYwrSLT8Qoos
+
+----
+
+Date: 2023-01-01
+
+----
+
+Library: 
+
+----
+
+Isbn: 9781916016934
+
+----
+
+Finished: 2023-08-28
+
+----
+
+Book-author: Jonathan Nunn
+
+----
+
+Tags: London, food
+
+----
+
+Uuid: GbTQjh28V6xt7xfc

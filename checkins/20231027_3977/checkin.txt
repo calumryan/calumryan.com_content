@@ -1,0 +1,94 @@
+Title: October 27th, 2023
+
+----
+
+Text: Checked in at Cafe Tibet
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/653bec8466f07e270449d5f5
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Cafe Tibet
+    url:
+      - >
+        https://foursquare.com/v/4e2d0f85aeb745b1fad44ac7
+      - http://cafe-tibet.de
+    tel:
+      - 0911 3000754
+    latitude:
+      - '49.45772413502'
+    longitude:
+      - '11.067515804425'
+    street-address:
+      - Johannisstr. 28
+    locality:
+      - Nuremberg
+    region:
+      - Bavaria
+    country-name:
+      - Germany
+    postal-code:
+      - "90419"
+  value: >
+    https://foursquare.com/v/4e2d0f85aeb745b1fad44ac7
+
+----
+
+Date: 2023-10-27 19:00:00
+
+----
+
+Uid: 3977
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: broken-clouds
+
+----
+
+Temperature: 10°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: f2IZHZ4gpehVtHix

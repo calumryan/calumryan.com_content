@@ -1,0 +1,37 @@
+Title: Good Services
+
+----
+
+Review: 
+
+----
+
+Feature-images: - file://EgvLJVI3fQhm5Jlu
+
+----
+
+Date: 2023-08-29
+
+----
+
+Library: 
+
+----
+
+Isbn: ‎ 9063695438
+
+----
+
+Finished: 2023-06-30
+
+----
+
+Book-author: Lou Downe
+
+----
+
+Tags: service design
+
+----
+
+Uuid: wTlC1A1EEVN4g4nT

@@ -1,0 +1,95 @@
+Title: April 18th, 2023
+
+----
+
+Text: Checked in at Hotel NH Düsseldorf City Bar
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/643dd838843e3b1dc31aca0e
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Hotel NH Düsseldorf City Bar
+    url:
+      - >
+        https://foursquare.com/v/5cdb3626123a19002c444a80
+      - >
+        https://www.nh-hotels.com/hotel/nh-duesseldorf-city
+    tel:
+      - 0211 78110
+    latitude:
+      - 51.217176
+    longitude:
+      - 6.802854
+    street-address:
+      - Kölner Straße 186-188
+    locality:
+      - Dusseldorf
+    region:
+      - North Rhine-Westphalia
+    country-name:
+      - Germany
+    postal-code:
+      - "40227"
+  value: >
+    https://foursquare.com/v/5cdb3626123a19002c444a80
+
+----
+
+Date: 2023-04-18 01:35:00
+
+----
+
+Uid: 3902
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: clear-sky
+
+----
+
+Temperature: 10°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: 6YQIo4Ni4K8J7zQu

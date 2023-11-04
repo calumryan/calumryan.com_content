@@ -1,0 +1,73 @@
+Title: Beyond Tellerrand Düsseldorf 2023
+
+----
+
+Text: 
+
+----
+
+Locator:
+
+lat: 51.223852
+lon: 6.8005967
+number: "30"
+city: Dusseldorf
+country: Germany
+postcode: "40233"
+address: Erkrather Straße
+
+----
+
+Date: 2023-04-17 08:35:00
+
+----
+
+Date-start: 2023-04-17 09:00:00
+
+----
+
+Date-end: 2023-04-18 18:00:00
+
+----
+
+Tags: btconf
+
+----
+
+Latitude: 51.223852
+
+----
+
+Longitude: 6.8005967
+
+----
+
+Location: Capitol Theater
+
+----
+
+City: Düsseldorf
+
+----
+
+Timezone: CET
+
+----
+
+Redirect: https://calumryan.com/event/beyond-tellerrand-dusseldorf-18
+
+----
+
+Uid: beyond-tellerrand-dusseldorf-18
+
+----
+
+Uuid: 2cZAJNogYFL2EweB
+
+----
+
+Temperature: 2°C
+
+----
+
+Weather-icon: broken-clouds

@@ -23,9 +23,7 @@ Date: 2022-04-10 22:00:00
 
 ----
 
-Author:
-
-- V00CCy0l
+Author: - V00CCy0l
 
 ----
 
@@ -49,6 +47,8 @@ Gallery:
 
 ----
 
-Og-thumbnail:
+Og-thumbnail: - weeknote-4.jpg
 
-- weeknote-4.jpg
+----
+
+Uuid: YVcODd54Z2Vn2KwH

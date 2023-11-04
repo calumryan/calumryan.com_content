@@ -1,0 +1,91 @@
+Title: January 28th, 2023
+
+----
+
+Text: Checked in at El Dorado
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/63d581b9b2a177020bca58d7
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - El Dorado
+    url:
+      - >
+        https://foursquare.com/v/630a69c6d4955c531b40a61d
+    latitude:
+      - 51.582762
+    longitude:
+      - -0.073623
+    street-address:
+      - Seven Sisters Road
+    locality:
+      - London
+    region:
+      - Greater London
+    country-name:
+      - United Kingdom
+    postal-code:
+      - N15 5BX
+  value: >
+    https://foursquare.com/v/630a69c6d4955c531b40a61d
+
+----
+
+Date: 2023-01-28 20:15:00
+
+----
+
+Uid: 3862
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: overcast-clouds
+
+----
+
+Temperature: 5°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: NzAKvM0eZS2Ak0cL

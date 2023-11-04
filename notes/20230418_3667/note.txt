@@ -1,0 +1,70 @@
+Title: April 18th, 2023
+
+----
+
+Text: Following inspiration from #btconf, excited to be returning to Nuremberg after a long time later this year for Border None, still tickets available! https://border-none.net/2023/
+
+----
+
+Locator:
+
+lat: 51.2254018
+lon: 6.7763137
+city: Dusseldorf
+country: Germany
+
+----
+
+Date: 2023-04-18 12:30:00
+
+----
+
+Bridgy: 
+
+----
+
+Mastodon: publish
+
+----
+
+Uid: 3667
+
+----
+
+Weather-icon: broken-clouds
+
+----
+
+Temperature: 11°C
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: 5F5dsjj5ZeoQ4TpV

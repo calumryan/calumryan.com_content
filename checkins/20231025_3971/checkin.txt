@@ -1,0 +1,95 @@
+Title: October 25th, 2023
+
+----
+
+Text: Checked in at H Stresemannplatz
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/653986f05c71a579d4c32723
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - H Stresemannplatz
+    url:
+      - >
+        https://foursquare.com/v/501abe17e4b055b5324d302f
+      - http://www.vag.de
+      - https://twitter.com/vag_linieninfo
+    tel:
+      - 0911 2834646
+    latitude:
+      - '49.458535082176'
+    longitude:
+      - '11.095311712903'
+    street-address:
+      - Stresemannplatz
+    locality:
+      - Nuremberg
+    region:
+      - Bavaria
+    country-name:
+      - Germany
+    postal-code:
+      - "90489"
+  value: >
+    https://foursquare.com/v/501abe17e4b055b5324d302f
+
+----
+
+Date: 2023-10-25 23:20:00
+
+----
+
+Uid: 3971
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: broken-clouds
+
+----
+
+Temperature: 12°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: PpeIz5NYPKrv1Bw2

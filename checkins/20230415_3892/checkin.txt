@@ -1,0 +1,97 @@
+Title: April 15th, 2023
+
+----
+
+Text: Checked in at London St Pancras International Eurostar Terminal
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/643a337508ff395e8694953c
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - >
+        London St Pancras International Eurostar
+        Terminal
+    url:
+      - >
+        https://foursquare.com/v/4bcc08273740b7139c756365
+      - http://www.eurostar.com
+      - https://twitter.com/eurostar
+    tel:
+      - 020 7843 7688
+    latitude:
+      - '51.531688089777'
+    longitude:
+      - '-0.12613641845489'
+    street-address:
+      - St Pancras International Station
+    locality:
+      - London
+    region:
+      - Greater London
+    country-name:
+      - United Kingdom
+    postal-code:
+      - NW1 2QP
+  value: >
+    https://foursquare.com/v/4bcc08273740b7139c756365
+
+----
+
+Date: 2023-04-15 06:20:00
+
+----
+
+Uid: 3892
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: light-rain
+
+----
+
+Temperature: 7°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: fQqLedc3kbYBWfWj

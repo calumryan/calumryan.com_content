@@ -29,9 +29,7 @@ Date: 2022-05-23 09:40:00
 
 ----
 
-Author:
-
-- V00CCy0l
+Author: - V00CCy0l
 
 ----
 
@@ -55,6 +53,8 @@ Gallery:
 
 ----
 
-Og-thumbnail:
+Og-thumbnail: - weeknote-10.jpg
 
-- weeknote-10.jpg
+----
+
+Uuid: 0ZQT7OffZ1X9YkkG

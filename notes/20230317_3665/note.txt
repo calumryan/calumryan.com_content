@@ -1,0 +1,65 @@
+Title: March 17th, 2023
+
+----
+
+Text: Ironic accessibility issue spotted on @W3C / @w3c@w3c.social’s site, horizontal scrolling overflow on the very webpage that’s describing the success criterion!
+
+----
+
+Locator: 
+
+----
+
+Date: 2023-03-17 14:50:00
+
+----
+
+Bridgy: twitter
+
+----
+
+Mastodon: publish
+
+----
+
+Uid: 3665
+
+----
+
+Weather-icon: 
+
+----
+
+Temperature: 
+
+----
+
+Feature-images: - file://06xpa9kUuAOXMvEg
+
+----
+
+Tags: a11y
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: wbBr0RSjmm5QER3u

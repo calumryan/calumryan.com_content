@@ -1,0 +1,95 @@
+Title: September 23rd, 2023
+
+----
+
+Text: Checked in at Barbican Centre
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/650eaa3f7602fa30ec00490a
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Barbican Centre
+    url:
+      - >
+        https://foursquare.com/v/4ac518d3f964a5204da720e3
+      - http://www.barbican.org.uk
+      - https://twitter.com/barbicancentre
+    tel:
+      - 020 7638 8891
+    latitude:
+      - 51.519855
+    longitude:
+      - -0.093942
+    street-address:
+      - Silk St
+    locality:
+      - London
+    region:
+      - Greater London
+    country-name:
+      - United Kingdom
+    postal-code:
+      - EC2Y 8DS
+  value: >
+    https://foursquare.com/v/4ac518d3f964a5204da720e3
+
+----
+
+Date: 2023-09-23 10:05:00
+
+----
+
+Uid: 3955
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: scattered-clouds
+
+----
+
+Temperature: 13°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: jY5KYzmqRQgd7yqZ

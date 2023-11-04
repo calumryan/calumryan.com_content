@@ -1,0 +1,95 @@
+Title: April 4th, 2023
+
+----
+
+Text: Checked in at Mikkeller Brewpub London
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/642c58f37e979e57cfede7b1
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Mikkeller Brewpub London
+    url:
+      - >
+        https://foursquare.com/v/5db438898813f20007ff3b1b
+      - https://mikkeller.dk
+      - https://twitter.com/mikkellerbeer
+    tel:
+      - 020 3940 4991
+    latitude:
+      - 51.525919
+    longitude:
+      - -0.10913
+    street-address:
+      - 37-39 Exmouth Market
+    locality:
+      - London
+    region:
+      - Greater London
+    country-name:
+      - United Kingdom
+    postal-code:
+      - EC1R 4QL
+  value: >
+    https://foursquare.com/v/5db438898813f20007ff3b1b
+
+----
+
+Date: 2023-04-04 18:05:00
+
+----
+
+Uid: 3886
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: clear-sky
+
+----
+
+Temperature: 13°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: kfH3b7VfhOqNEt4n

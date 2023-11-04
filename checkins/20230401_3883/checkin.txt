@@ -1,0 +1,89 @@
+Title: April 1st, 2023
+
+----
+
+Text: Checked in at Double Shot
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/6428125f557a675dbcb64299
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Double Shot
+    url:
+      - >
+        https://foursquare.com/v/6069b3cda1f3e46a185eaf70
+    latitude:
+      - 51.528097
+    longitude:
+      - -0.216119
+    locality:
+      - London
+    region:
+      - Greater London
+    country-name:
+      - United Kingdom
+    postal-code:
+      - NW10 5LE
+  value: >
+    https://foursquare.com/v/6069b3cda1f3e46a185eaf70
+
+----
+
+Date: 2023-04-01 12:15:00
+
+----
+
+Uid: 3883
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: broken-clouds
+
+----
+
+Temperature: 9°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: sgTEZJ6CQVJr28PY

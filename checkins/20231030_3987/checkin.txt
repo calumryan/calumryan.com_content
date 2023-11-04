@@ -1,0 +1,95 @@
+Title: October 30th, 2023
+
+----
+
+Text: Checked in at Frankfurt (Main) Hauptbahnhof
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/653f75ddab5d2c447308e31d
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Frankfurt (Main) Hauptbahnhof
+    url:
+      - >
+        https://foursquare.com/v/4b05884ff964a520adbd22e3
+      - >
+        https://www.bahnhof.de/frankfurt-main-hbf
+    tel:
+      - 0180 5 996633
+    latitude:
+      - '50.106610364374'
+    longitude:
+      - '8.6626290535368'
+    street-address:
+      - Am Hauptbahnhof
+    locality:
+      - Frankfurt am Main
+    region:
+      - Hesse
+    country-name:
+      - Germany
+    postal-code:
+      - "60329"
+  value: >
+    https://foursquare.com/v/4b05884ff964a520adbd22e3
+
+----
+
+Date: 2023-10-30 10:25:00
+
+----
+
+Uid: 3987
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: moderate-rain
+
+----
+
+Temperature: 12°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: 9L4y4KmWHa1s6FY1

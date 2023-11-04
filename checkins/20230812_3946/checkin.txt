@@ -1,0 +1,97 @@
+Title: August 12th, 2023
+
+----
+
+Text: Checked in at Stockholm-Arlanda Airport (ARN) (Stockholm-Arlanda flygplats)
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/64d7a4774cd6493ceb8b7506
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - >
+        Stockholm-Arlanda Airport (ARN)
+        (Stockholm-Arlanda flygplats)
+    url:
+      - >
+        https://foursquare.com/v/4af27980f964a520c2e721e3
+      - https://www.swedavia.se/arlanda
+      - https://twitter.com/arlanda
+    tel:
+      - 010-109 10 00
+    latitude:
+      - '59.65052793342'
+    longitude:
+      - '17.930974960327'
+    street-address:
+      - Arlandaleden
+    locality:
+      - Märsta
+    region:
+      - Stockholm
+    country-name:
+      - Sweden
+    postal-code:
+      - 190 45
+  value: >
+    https://foursquare.com/v/4af27980f964a520c2e721e3
+
+----
+
+Date: 2023-08-12 17:25:00
+
+----
+
+Uid: 3946
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: broken-clouds
+
+----
+
+Temperature: 18°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: RDCvOVpFztIf4g6K

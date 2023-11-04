@@ -1,0 +1,94 @@
+Title: January 29th, 2023
+
+----
+
+Text: Checked in at Bluebell Bistro
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/63d665c38403cd44df5794d1
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Bluebell Bistro
+    url:
+      - >
+        https://foursquare.com/v/4bc9a8940687ef3bf83cdacc
+      - https://bluebellbistro.com
+    tel:
+      - 020 7263 2241
+    latitude:
+      - '51.558020078878'
+    longitude:
+      - '-0.11967765311412'
+    street-address:
+      - 464 Holloway Road
+    locality:
+      - London
+    region:
+      - Greater London
+    country-name:
+      - United Kingdom
+    postal-code:
+      - N7 6HT
+  value: >
+    https://foursquare.com/v/4bc9a8940687ef3bf83cdacc
+
+----
+
+Date: 2023-01-29 12:25:00
+
+----
+
+Uid: 3863
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: overcast-clouds
+
+----
+
+Temperature: 7°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: 3qjTJgpKUSaix8Kg

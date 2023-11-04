@@ -1,0 +1,73 @@
+Title: October 30th, 2023
+
+----
+
+Text: Final leg of the journey Brussels to London. The usual experience of everyone queueing at once to board, so waited in the lounge until last few minutes to departure. #TrainsNotPlanes
+
+----
+
+Locator:
+
+lat: 50.8550018
+lon: "4.3512333761166"
+city: Brussels-Capital
+country: Belgium
+
+----
+
+Date: 2023-10-30 17:00:00
+
+----
+
+Mastodon: publish
+
+----
+
+Mastodon-fed: 
+
+----
+
+Uid: 3680
+
+----
+
+Weather-icon: broken-clouds
+
+----
+
+Temperature: 12°C
+
+----
+
+Feature-images:
+
+- file://Uhl1TzZbwY2X7wQ4
+- file://nFFe0hUSI0Y1Gsde
+
+----
+
+Tags: Belgium, Eurostar
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: mxZE1WSeSMA9ANIn

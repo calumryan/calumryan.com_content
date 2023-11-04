@@ -31,9 +31,7 @@ Date: 2022-06-19 23:00:00
 
 ----
 
-Author:
-
-- V00CCy0l
+Author: - V00CCy0l
 
 ----
 
@@ -57,6 +55,8 @@ Gallery:
 
 ----
 
-Og-thumbnail:
+Og-thumbnail: - weeknote-14.jpg
 
-- weeknote-14.jpg
+----
+
+Uuid: CYuc3oMeUns9RyZf

@@ -1,0 +1,93 @@
+Title: August 13th, 2023
+
+----
+
+Text: Checked in at Bergstrands Bageri
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/64d8790ea0b6de0dc5ed3a6b
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Bergstrands Bageri
+    url:
+      - >
+        https://foursquare.com/v/4af3cb8ff964a5205bef21e3
+    tel:
+      - 070-888 27 42
+    latitude:
+      - '59.34420815603'
+    longitude:
+      - '18.044824565957'
+    street-address:
+      - Frejgatan 46A
+    locality:
+      - Stockholm
+    region:
+      - Stockholm
+    country-name:
+      - Sweden
+    postal-code:
+      - 113 26
+  value: >
+    https://foursquare.com/v/4af3cb8ff964a5205bef21e3
+
+----
+
+Date: 2023-08-13 08:35:00
+
+----
+
+Uid: 3947
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: overcast-clouds
+
+----
+
+Temperature: 16°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: KqUtuXguVfTAIjeT

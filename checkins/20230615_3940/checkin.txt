@@ -1,0 +1,93 @@
+Title: June 15th, 2023
+
+----
+
+Text: Checked in at The Dusty Knuckle
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/648b5e7d994b9842020b94ad
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - The Dusty Knuckle
+    url:
+      - >
+        https://foursquare.com/v/6105133507179e09607e6167
+      - >
+        https://www.thedustyknuckle.com/haringey-1
+    latitude:
+      - 51.578878
+    longitude:
+      - -0.099219
+    street-address:
+      - 429 Green Lanes, Harringay Ladder
+    locality:
+      - London
+    region:
+      - Greater London
+    country-name:
+      - United Kingdom
+    postal-code:
+      - N4 1HA
+  value: >
+    https://foursquare.com/v/6105133507179e09607e6167
+
+----
+
+Date: 2023-06-15 19:55:00
+
+----
+
+Uid: 3940
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: clear-sky
+
+----
+
+Temperature: 24°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: xZZitylgIshUTzTu

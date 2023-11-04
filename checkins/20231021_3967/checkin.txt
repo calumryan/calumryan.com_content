@@ -1,0 +1,92 @@
+Title: October 21st, 2023
+
+----
+
+Text: Checked in at Panton Yokocho
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/6533fc04a5960c71ecfafd73
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Panton Yokocho
+    url:
+      - >
+        https://foursquare.com/v/616ababc0d9b992fc686192f
+      - https://ramenyokocho.com
+    latitude:
+      - 51.509689
+    longitude:
+      - -0.13125
+    street-address:
+      - 35 Panton St
+    locality:
+      - Leicester Square
+    region:
+      - Greater London
+    country-name:
+      - United Kingdom
+    postal-code:
+      - SW1Y 4EA
+  value: >
+    https://foursquare.com/v/616ababc0d9b992fc686192f
+
+----
+
+Date: 2023-10-21 17:30:00
+
+----
+
+Uid: 3967
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: light-rain
+
+----
+
+Temperature: 13°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: XIV5HJIXWX60t4ym

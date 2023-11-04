@@ -1,0 +1,71 @@
+Title: October 25th, 2023
+
+----
+
+Text: Exploring UNESCO World Heritage Site, Bamberg, one of the few German cities spared aerial bombardment and total destruction in WW2
+
+----
+
+Locator:
+
+lat: 49.8916044
+lon: 10.8868478
+city: Bamberg
+country: Germany
+
+----
+
+Date: 2023-10-25 18:00:00
+
+----
+
+Mastodon: publish
+
+----
+
+Uid: 3676
+
+----
+
+Weather-icon: moderate-rain
+
+----
+
+Temperature: 12°C
+
+----
+
+Feature-images:
+
+- file://7LNaHPITLQSuvIz6
+- file://xjCWSoFEmz3H3ZxD
+- file://j8zfYHQ2s4x8Zk5R
+- file://itwwB2W0cetLBH31
+
+----
+
+Tags: Germany
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: n11bCOqRA503nNS5

@@ -1,0 +1,64 @@
+Title: Border:None
+
+----
+
+Text: 
+
+----
+
+Locator:
+
+lat: 49.45810095
+lon: "11.066571389682"
+city: Nuremberg
+country: Germany
+postcode: "90419"
+address: Johannisstraße
+
+----
+
+Date: 2023-10-25 21:15:00
+
+----
+
+Date-start: 2023-10-26 10:00:00
+
+----
+
+Date-end: 2023-10-27 18:00:00
+
+----
+
+Tags: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Location: 
+
+----
+
+City: 
+
+----
+
+Timezone: 
+
+----
+
+Uuid: i3xPx2bQhnwiwo9P
+
+----
+
+Temperature: 8°C
+
+----
+
+Weather-icon: clear-sky

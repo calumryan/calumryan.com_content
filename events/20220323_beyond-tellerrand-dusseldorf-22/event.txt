@@ -1,0 +1,57 @@
+Title: Beyond Tellerrand Düsseldorf 2022
+
+----
+
+Text: 
+
+----
+
+Locator: 
+
+----
+
+Date: 2022-03-23 08:35:00
+
+----
+
+Date-start: 2022-05-02 09:00:00
+
+----
+
+Date-end: 2022-05-03 21:00:00
+
+----
+
+Tags: btconf
+
+----
+
+Latitude: 51.224
+
+----
+
+Longitude: 6.8006
+
+----
+
+City: Düsseldorf
+
+----
+
+Timezone: CET
+
+----
+
+Location: Capitol Theater
+
+----
+
+Redirect: https://calumryan.com/event/beyond-tellerrand-dusseldorf-18
+
+----
+
+Uid: beyond-tellerrand-dusseldorf-18
+
+----
+
+Uuid: tN4SWbv1AcHfLa1e

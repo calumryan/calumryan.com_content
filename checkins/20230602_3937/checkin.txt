@@ -1,0 +1,92 @@
+Title: June 2nd, 2023
+
+----
+
+Text: Checked in at Mimi's Little Bakehouse
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/6479f5db228e5f369d421770
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - "Mimi's Little Bakehouse"
+    url:
+      - >
+        https://foursquare.com/v/5c150fb3e1f0aa002cfa751d
+      - http://www.mimisbakehouse.com
+    latitude:
+      - 55.951054
+    longitude:
+      - -3.1891747
+    street-address:
+      - 1 Market Street
+    locality:
+      - Edinburgh
+    region:
+      - Edinburgh
+    country-name:
+      - United Kingdom
+    postal-code:
+      - EH1 1DE
+  value: >
+    https://foursquare.com/v/5c150fb3e1f0aa002cfa751d
+
+----
+
+Date: 2023-06-02 15:00:00
+
+----
+
+Uid: 3937
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: clear-sky
+
+----
+
+Temperature: 15°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: 5DPLgXdanlCFyPUD

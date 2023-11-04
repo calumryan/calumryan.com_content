@@ -1,0 +1,93 @@
+Title: April 10th, 2023
+
+----
+
+Text: Checked in at Monte Forte
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/6434119dae704154fc6e0640
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Monte Forte
+    url:
+      - >
+        https://foursquare.com/v/59204b2d340a5832faa880b4
+      - http://fourhops.com
+      - https://twitter.com/hopsfour
+    latitude:
+      - '51.238511687632'
+    longitude:
+      - '-0.21086454391479'
+    street-address:
+      - 12 West Street
+    locality:
+      - Reigate
+    region:
+      - Surrey
+    country-name:
+      - United Kingdom
+    postal-code:
+      - RH2 9BS
+  value: >
+    https://foursquare.com/v/59204b2d340a5832faa880b4
+
+----
+
+Date: 2023-04-10 14:40:00
+
+----
+
+Uid: 3889
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: light-rain
+
+----
+
+Temperature: 13°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: 1O3zTsfTPvj6BZQC

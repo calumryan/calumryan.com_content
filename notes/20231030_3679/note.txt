@@ -1,0 +1,70 @@
+Title: October 30th, 2023
+
+----
+
+Text: Second leg smooth transfer at Frankfurt Am Main for ICE International to Brussels #TrainsNotPlanes
+
+----
+
+Locator:
+
+lat: 50.1106444
+lon: 8.6820917
+city: Frankfurt
+country: Germany
+
+----
+
+Date: 2023-10-30 11:15:00
+
+----
+
+Mastodon: publish
+
+----
+
+Mastodon-fed: 
+
+----
+
+Uid: 3679
+
+----
+
+Weather-icon: light-intensity-drizzle
+
+----
+
+Temperature: 13°C
+
+----
+
+Feature-images: - file://dmPyQqlvQvIcZZXa
+
+----
+
+Tags: trains, Germany
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: 6nFTCShcwQmm86X3

@@ -1,0 +1,89 @@
+Title: September 24th, 2023
+
+----
+
+Text: Checked in at Crêpes, Coffee & Chai
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/651046cde0ce96633c6d1a45
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - 'Crêpes, Coffee & Chai'
+    url:
+      - >
+        https://foursquare.com/v/61584482359227763744bb36
+    latitude:
+      - 51.517417
+    longitude:
+      - -0.130889
+    locality:
+      - London
+    region:
+      - Greater London
+    country-name:
+      - United Kingdom
+    postal-code:
+      - WC1B 3GH
+  value: >
+    https://foursquare.com/v/61584482359227763744bb36
+
+----
+
+Date: 2023-09-24 15:25:00
+
+----
+
+Uid: 3958
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: broken-clouds
+
+----
+
+Temperature: 20°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: w9Ks2PMTsvnXvwGQ

@@ -6,10 +6,12 @@ Intro: This page lists all available events
 
 ----
 
-svg: icon-calendar
+Svg: icon-calendar
 
 ----
 
-Text:
+Text: ## Events I've been to or planning to attend
 
-## Events I've been to or planning to attend
+----
+
+Uuid: QSGVF2n7iuJWDeKF

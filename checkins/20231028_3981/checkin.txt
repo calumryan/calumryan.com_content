@@ -1,0 +1,95 @@
+Title: October 28th, 2023
+
+----
+
+Text: Checked in at U Wöhrder Wiese
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/653d348bbacb9d2a9a3fe0a0
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - U Wöhrder Wiese
+    url:
+      - >
+        https://foursquare.com/v/4c3b49145810a593b965ba3c
+      - http://www.vag.de
+      - https://twitter.com/vag_nuernberg
+    tel:
+      - 0911 2834646
+    latitude:
+      - '49.452921975221'
+    longitude:
+      - '11.086936307497'
+    street-address:
+      - Steubenbrücke
+    locality:
+      - Nuremberg
+    region:
+      - Bavaria
+    country-name:
+      - Germany
+    postal-code:
+      - "90489"
+  value: >
+    https://foursquare.com/v/4c3b49145810a593b965ba3c
+
+----
+
+Date: 2023-10-28 18:20:00
+
+----
+
+Uid: 3981
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: light-intensity-shower-rain
+
+----
+
+Temperature: 11°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: 9GQZbqY1U4jmEPFB

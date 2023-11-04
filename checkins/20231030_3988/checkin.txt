@@ -1,0 +1,95 @@
+Title: October 30th, 2023
+
+----
+
+Text: Checked in at EXKi
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/653fa74cdab14914fd77a3d7
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - EXKi
+    url:
+      - >
+        https://foursquare.com/v/514706afe4b08e9c9a20a362
+      - http://www.exki.com
+      - https://twitter.com/exkiofficial
+    tel:
+      - 02 203 09 00
+    latitude:
+      - '50.860740053479'
+    longitude:
+      - '4.3589506427802'
+    street-address:
+      - Boulevard Simon Bolivarlaan 7-9
+    locality:
+      - Schaerbeek
+    region:
+      - Brussels-Capital
+    country-name:
+      - Belgium
+    postal-code:
+      - "1030"
+  value: >
+    https://foursquare.com/v/514706afe4b08e9c9a20a362
+
+----
+
+Date: 2023-10-30 13:55:00
+
+----
+
+Uid: 3988
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: light-intensity-drizzle-rain
+
+----
+
+Temperature: 12°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: etGk0m3mM0AX9Bvy

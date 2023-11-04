@@ -93,9 +93,7 @@ Date: 2022-07-11 18:45:00
 
 ----
 
-Author:
-
-- V00CCy0l
+Author: - V00CCy0l
 
 ----
 
@@ -119,6 +117,8 @@ Gallery:
 
 ----
 
-Og-thumbnail:
+Og-thumbnail: - weeknote-16.jpg
 
-- weeknote-16.jpg
+----
+
+Uuid: u235WZ4KOhc9lK0a

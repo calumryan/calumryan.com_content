@@ -66,6 +66,10 @@ Tags: indieweb
 
 ----
 
+Syndication: https://news.indieweb.org/en
+
+----
+
 Redirect: 
 
 ----
@@ -86,4 +90,8 @@ Gallery:
 
 ----
 
-Uuid: V0ddvfuJvfo32wxj
+Og-thumbnail: - 2017-10-18.jpg
+
+----
+
+Uuid: LnCvzdKUfYdcJTdo

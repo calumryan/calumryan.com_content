@@ -1,0 +1,95 @@
+Title: June 1st, 2023
+
+----
+
+Text: Checked in at Stirling Castle
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/647899d55a3fe01abcd1141a
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Stirling Castle
+    url:
+      - >
+        https://foursquare.com/v/4b058820f964a5206eb322e3
+      - https://www.stirlingcastle.scot
+      - https://twitter.com/stirlingcastle
+    tel:
+      - 01786 450000
+    latitude:
+      - '56.12284150808'
+    longitude:
+      - '-3.9458028791778'
+    street-address:
+      - Castle Wynd
+    locality:
+      - Stirling
+    region:
+      - Stirlingshire
+    country-name:
+      - United Kingdom
+    postal-code:
+      - FK8 1EJ
+  value: >
+    https://foursquare.com/v/4b058820f964a5206eb322e3
+
+----
+
+Date: 2023-06-01 14:15:00
+
+----
+
+Uid: 3935
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: overcast-clouds
+
+----
+
+Temperature: 14°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: dSqMZhTCImpkF4TG

@@ -1,0 +1,95 @@
+Title: October 7th, 2023
+
+----
+
+Text: Checked in at Paladar
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/6521551191f6844c28a55685
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Paladar
+    url:
+      - >
+        https://foursquare.com/v/59c6f1f2db1d8114b5e92e87
+      - http://www.paladarlondon.com
+      - https://twitter.com/paladarlondon
+    tel:
+      - 020 7186 5555
+    latitude:
+      - 51.4981401
+    longitude:
+      - -0.104369
+    street-address:
+      - 4-5 London Rd
+    locality:
+      - London
+    region:
+      - Greater London
+    country-name:
+      - United Kingdom
+    postal-code:
+      - SE1 6JZ
+  value: >
+    https://foursquare.com/v/59c6f1f2db1d8114b5e92e87
+
+----
+
+Date: 2023-10-07 13:55:00
+
+----
+
+Uid: 3961
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: overcast-clouds
+
+----
+
+Temperature: 23°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: spu10YJI20MenoT3

@@ -1,0 +1,33 @@
+Title: October 27th, 2023
+
+----
+
+Text: Attending IndieWebCamp Nuremberg!
+
+----
+
+Date: 2023-10-27 09:10:00
+
+----
+
+Blink: https://events.indieweb.org/2023/10/indiewebcamp-nuremberg-2023-DmXe4dYdfagc
+
+----
+
+Tags: IndieWeb
+
+----
+
+Response: yes
+
+----
+
+Bridgy: 
+
+----
+
+Uid: 3466
+
+----
+
+Uuid: 4lGYxOihGpAfbrwB

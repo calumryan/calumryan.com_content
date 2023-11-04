@@ -1,0 +1,72 @@
+Title: State of the Browser 10
+
+----
+
+Text: 
+
+----
+
+Locator:
+
+lat: 51.5201501
+lon: -0.0986832
+city: City of London
+country: United Kingdom
+postcode: EC1M 6EQ
+address: Charterhouse Square
+
+----
+
+Date: 2022-10-22 10:00:00
+
+----
+
+Date-start: 2022-10-22 10:00:00
+
+----
+
+Date-end: 2022-10-22 17:30:00
+
+----
+
+Tags: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+City: London
+
+----
+
+Timezone: BST
+
+----
+
+Location: Conway Hall, 25 Red Lion Square, London, WC1R 4RL
+
+----
+
+Redirect: https://calumryan.com/event/state-of-the-browser-6
+
+----
+
+Uid: state-of-the-browser-6
+
+----
+
+Temperature: 18°C
+
+----
+
+Weather-icon: scattered-clouds
+
+----
+
+Uuid: 0acQJeEAdwX3er5N

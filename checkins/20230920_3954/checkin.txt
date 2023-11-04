@@ -1,0 +1,94 @@
+Title: September 20th, 2023
+
+----
+
+Text: Checked in at Pizza Sophia
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/650adec8e0ce96633c601fc4
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Pizza Sophia
+    url:
+      - >
+        https://foursquare.com/v/57e56e69498e8d2238e7f6f9
+      - https://pizzasophia.com
+    tel:
+      - 020 7833 8556
+    latitude:
+      - '51.525765244661'
+    longitude:
+      - '-0.12525889855519'
+    street-address:
+      - 50 Tavistock Pl
+    locality:
+      - "King's Cross"
+    region:
+      - Greater London
+    country-name:
+      - United Kingdom
+    postal-code:
+      - WC1H 9RG
+  value: >
+    https://foursquare.com/v/57e56e69498e8d2238e7f6f9
+
+----
+
+Date: 2023-09-20 13:00:00
+
+----
+
+Uid: 3954
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: broken-clouds
+
+----
+
+Temperature: 19°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: QQuVXXy8qJ8IFmtI

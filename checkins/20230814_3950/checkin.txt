@@ -1,0 +1,92 @@
+Title: August 14th, 2023
+
+----
+
+Text: Checked in at Holms Bager
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/64da3bf58095e35b657830fa
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Holms Bager
+    url:
+      - >
+        https://foursquare.com/v/4e0c8a6745dd7a490b07b8d1
+      - http://www.holmsbager.dk
+    tel:
+      - 33 18 29 22
+    latitude:
+      - '55.679559505211'
+    longitude:
+      - '12.582886219025'
+    street-address:
+      - Bremerholm 1
+    locality:
+      - Copenhagen K
+    country-name:
+      - Denmark
+    postal-code:
+      - "1069"
+  value: >
+    https://foursquare.com/v/4e0c8a6745dd7a490b07b8d1
+
+----
+
+Date: 2023-08-14 16:35:00
+
+----
+
+Uid: 3950
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: overcast-clouds
+
+----
+
+Temperature: 24°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: oXO5w4EZAFuaFdnj

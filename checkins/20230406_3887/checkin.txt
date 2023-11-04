@@ -1,0 +1,89 @@
+Title: April 6th, 2023
+
+----
+
+Text: Checked in at Drop Shot Coffee
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/642e8619c834eb45c9de7125
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Drop Shot Coffee
+    url:
+      - >
+        https://foursquare.com/v/63aad20a11ff683a29fadf0c
+    latitude:
+      - 51.427243
+    longitude:
+      - -0.200372
+    locality:
+      - London
+    region:
+      - Greater London
+    country-name:
+      - United Kingdom
+    postal-code:
+      - SW19 7BD
+  value: >
+    https://foursquare.com/v/63aad20a11ff683a29fadf0c
+
+----
+
+Date: 2023-04-06 09:45:00
+
+----
+
+Uid: 3887
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: overcast-clouds
+
+----
+
+Temperature: 11°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: rHJTzgyg7vHfqCZi

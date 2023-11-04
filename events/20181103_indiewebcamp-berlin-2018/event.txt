@@ -2,7 +2,7 @@ Title: IndieWebCamp Berlin 2018
 
 ----
 
-Tags:
+Tags: 
 
 ----
 
@@ -18,11 +18,11 @@ Date: 2018-11-03 09:00
 
 ----
 
-Date start: 2018-11-03 09:00:00 +0000
+Date-start: 2018-11-03 09:00:00 +0000
 
 ----
 
-Date end: 2018-11-04 18:00:00 +0000
+Date-end: 2018-11-04 18:00:00 +0000
 
 ----
 
@@ -46,4 +46,8 @@ Redirect: https://calumryan.com/event/indiewebcamp-berlin-2018
 
 ----
 
-UID: indiewebcamp-berlin-2018
+Uid: indiewebcamp-berlin-2018
+
+----
+
+Uuid: HsNowoMLS9Q0AUh5

@@ -1,0 +1,65 @@
+Title: December 16th, 2022
+
+----
+
+Text: Look forward to attending my first ever #UKGovCamp next month
+
+----
+
+Locator: 
+
+----
+
+Date: 2022-12-16 19:30:00
+
+----
+
+Bridgy: 
+
+----
+
+Mastodon: 
+
+----
+
+Uid: 3661
+
+----
+
+Weather-icon: 
+
+----
+
+Temperature: 
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: dL6ZuvOS5R1K11ia

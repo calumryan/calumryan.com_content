@@ -2,7 +2,7 @@ Title: TODO London 1.13
 
 ----
 
-Tags:
+Tags: 
 
 ----
 
@@ -18,11 +18,11 @@ Date: 2018-11-07 18:30
 
 ----
 
-Date start: 2018-11-07 18:30:00 +0000
+Date-start: 2018-11-07 18:30:00 +0000
 
 ----
 
-Date end: 2018-11-07 20:30:00 +0000
+Date-end: 2018-11-07 20:30:00 +0000
 
 ----
 
@@ -42,4 +42,8 @@ Redirect: https://calumryan.com/event/todo-london-1-13
 
 ----
 
-UID: todo-london-1-13
+Uid: todo-london-1-13
+
+----
+
+Uuid: u0BuCis5tTvUhlFo

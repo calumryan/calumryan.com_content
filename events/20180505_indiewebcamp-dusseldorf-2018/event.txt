@@ -2,7 +2,7 @@ Title: IndieWebCamp Düsseldorf 2018
 
 ----
 
-Tags:
+Tags: 
 
 ----
 
@@ -18,11 +18,11 @@ Date: 2018-05-05 10:00
 
 ----
 
-Date start: 2018-05-05 10:00:00 +0100
+Date-start: 2018-05-05 10:00:00 +0100
 
 ----
 
-Date end: 2018-05-06 18:00:00 +0100
+Date-end: 2018-05-06 18:00:00 +0100
 
 ----
 
@@ -46,4 +46,8 @@ Redirect: https://calumryan.com/event/indiewebcamp-dusseldorf-2018
 
 ----
 
-UID: indiewebcamp-dusseldorf-2018
+Uid: indiewebcamp-dusseldorf-2018
+
+----
+
+Uuid: s490eRUAzi5PYski

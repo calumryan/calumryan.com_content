@@ -1,0 +1,89 @@
+Title: February 3rd, 2023
+
+----
+
+Text: Checked in at 65mm Coffee
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/63dcd8b88e5090380ebe529f
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - 65mm Coffee
+    url:
+      - >
+        https://foursquare.com/v/5d4828574d90c90008f74722
+    latitude:
+      - 51.195487
+    longitude:
+      - 0.274447
+    locality:
+      - Tonbridge
+    region:
+      - Kent
+    country-name:
+      - United Kingdom
+    postal-code:
+      - TN9
+  value: >
+    https://foursquare.com/v/5d4828574d90c90008f74722
+
+----
+
+Date: 2023-02-03 09:50:00
+
+----
+
+Uid: 3865
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: overcast-clouds
+
+----
+
+Temperature: 10°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: LAoz5OxGQ7ENZKTY

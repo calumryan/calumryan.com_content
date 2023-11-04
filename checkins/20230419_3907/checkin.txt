@@ -1,0 +1,95 @@
+Title: April 19th, 2023
+
+----
+
+Text: Checked in at Sattgrün Mitte
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/643fdd8f85a965107050d0dd
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Sattgrün Mitte
+    url:
+      - >
+        https://foursquare.com/v/4c29d57ace3fc92822436f88
+      - https://www.sattgruen.com
+      - https://twitter.com/sattgruen
+    tel:
+      - 0211 8763390
+    latitude:
+      - '51.218915623498'
+    longitude:
+      - '6.7760161615334'
+    street-address:
+      - Graf-Adolf-Platz 6
+    locality:
+      - Dusseldorf
+    region:
+      - North Rhine-Westphalia
+    country-name:
+      - Germany
+    postal-code:
+      - "40213"
+  value: >
+    https://foursquare.com/v/4c29d57ace3fc92822436f88
+
+----
+
+Date: 2023-04-19 14:25:00
+
+----
+
+Uid: 3907
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: clear-sky
+
+----
+
+Temperature: 14°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: 1ltelyvBzofXzIRD

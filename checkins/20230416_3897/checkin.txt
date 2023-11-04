@@ -1,0 +1,89 @@
+Title: April 16th, 2023
+
+----
+
+Text: Checked in at Wacom Experience Center
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/643c33266614d31e7e2c66f0
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Wacom Experience Center
+    url:
+      - >
+        https://foursquare.com/v/6187ebe608a74f62ea366fb4
+    latitude:
+      - 51.214481
+    longitude:
+      - 6.754212
+    street-address:
+      - Zollhof 11-15
+    locality:
+      - Dusseldorf
+    region:
+      - North Rhine-Westphalia
+    country-name:
+      - Germany
+  value: >
+    https://foursquare.com/v/6187ebe608a74f62ea366fb4
+
+----
+
+Date: 2023-04-16 19:40:00
+
+----
+
+Uid: 3897
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: few-clouds
+
+----
+
+Temperature: 12°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: 8Y5egERlbQ20DDyA

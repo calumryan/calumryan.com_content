@@ -1,0 +1,67 @@
+Title: October 9th, 2023
+
+----
+
+Text: It's been a long wait but looking forward to attend next year's #PatternsDay
+
+----
+
+Locator:
+
+lat: 51.4214787
+lon: -0.2064027
+city: Wimbledon
+country: United Kingdom
+postcode: SW19 7NL
+
+----
+
+Date: 2023-10-09 12:00:00
+
+----
+
+Mastodon: publish
+
+----
+
+Uid: 3673
+
+----
+
+Weather-icon: clear-sky
+
+----
+
+Temperature: 20°C
+
+----
+
+Feature-images: 
+
+----
+
+Tags: design
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: jCUxB6NHzOpbVIBC

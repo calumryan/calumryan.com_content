@@ -1,0 +1,95 @@
+Title: May 31st, 2023
+
+----
+
+Text: Checked in at Singl-end
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/6477157f9c64a574637b85a2
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Singl-end
+    url:
+      - >
+        https://foursquare.com/v/530e25da498ebb657a95babd
+      - http://www.singl-end.co.uk
+      - https://twitter.com/thesinglend
+    tel:
+      - 0141 611 7270
+    latitude:
+      - '55.866735232824'
+    longitude:
+      - '-4.2684306172529'
+    street-address:
+      - 265 Renfrew Street
+    locality:
+      - Glasgow
+    region:
+      - Glasgow City
+    country-name:
+      - United Kingdom
+    postal-code:
+      - G3 6TT
+  value: >
+    https://foursquare.com/v/530e25da498ebb657a95babd
+
+----
+
+Date: 2023-05-31 10:40:00
+
+----
+
+Uid: 3933
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: overcast-clouds
+
+----
+
+Temperature: 15°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: 2V1z4XwbHEmZtciE

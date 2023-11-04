@@ -1,0 +1,91 @@
+Title: October 27th, 2023
+
+----
+
+Text: Checked in at Lange Kante 16
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/653c0f006a2ebc1d1a990785
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Lange Kante 16
+    url:
+      - >
+        https://foursquare.com/v/633f4895af41f43d2be972a9
+    latitude:
+      - 49.455219
+    longitude:
+      - 11.072603
+    street-address:
+      - Weißgerbergasse 16
+    locality:
+      - Nuremberg
+    region:
+      - Bavaria
+    country-name:
+      - Germany
+    postal-code:
+      - "90403"
+  value: >
+    https://foursquare.com/v/633f4895af41f43d2be972a9
+
+----
+
+Date: 2023-10-27 21:25:00
+
+----
+
+Uid: 3978
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: scattered-clouds
+
+----
+
+Temperature: 9°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: qkLKSYmUXXRnnFyw

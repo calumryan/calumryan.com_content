@@ -1,0 +1,97 @@
+Title: April 19th, 2023
+
+----
+
+Text: Checked in at Dortmund Airport 21 (DTM) (Dortmund Airport 21)
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/64400cccd4834d161e076b16
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - >
+        Dortmund Airport 21 (DTM) (Dortmund
+        Airport 21)
+    url:
+      - >
+        https://foursquare.com/v/4b3068cff964a52077f924e3
+      - http://www.dortmund-airport.de
+      - https://twitter.com/dortmundairport
+    tel:
+      - 0231 921301
+    latitude:
+      - '51.514912121455'
+    longitude:
+      - '7.612624168396'
+    street-address:
+      - Flughafenring 2
+    locality:
+      - Dortmund
+    region:
+      - North Rhine-Westphalia
+    country-name:
+      - Germany
+    postal-code:
+      - "44319"
+  value: >
+    https://foursquare.com/v/4b3068cff964a52077f924e3
+
+----
+
+Date: 2023-04-19 17:45:00
+
+----
+
+Uid: 3908
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: clear-sky
+
+----
+
+Temperature: 14°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: HfEHSqejSxV8kZwv

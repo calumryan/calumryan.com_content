@@ -1,0 +1,89 @@
+Title: October 5th, 2023
+
+----
+
+Text: Checked in at Little Napoli
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/651f1c1abffa71479394e9ca
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Little Napoli
+    url:
+      - >
+        https://foursquare.com/v/5887bf2024fd716347ef0c4d
+    latitude:
+      - 51.506435
+    longitude:
+      - -0.238207
+    street-address:
+      - 426 Uxbridge Road
+    locality:
+      - London
+    region:
+      - Greater London
+    country-name:
+      - United Kingdom
+  value: >
+    https://foursquare.com/v/5887bf2024fd716347ef0c4d
+
+----
+
+Date: 2023-10-05 21:25:00
+
+----
+
+Uid: 3960
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: clear-sky
+
+----
+
+Temperature: 14°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: OUOGe0sIkMXIul0i

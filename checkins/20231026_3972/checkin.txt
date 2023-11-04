@@ -1,0 +1,91 @@
+Title: October 26th, 2023
+
+----
+
+Text: Checked in at Orpheum
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/653a1d57685d4550ea86a78a
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Orpheum
+    url:
+      - >
+        https://foursquare.com/v/4d320fa5b609370407d8f2df
+    latitude:
+      - '49.458075867253'
+    longitude:
+      - '11.066601276398'
+    street-address:
+      - Johannisstr. 32a
+    locality:
+      - Nuremberg
+    region:
+      - Bavaria
+    country-name:
+      - Germany
+    postal-code:
+      - "90419"
+  value: >
+    https://foursquare.com/v/4d320fa5b609370407d8f2df
+
+----
+
+Date: 2023-10-26 10:05:00
+
+----
+
+Uid: 3972
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: overcast-clouds
+
+----
+
+Temperature: 11°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: WFULps0NepCWPfje

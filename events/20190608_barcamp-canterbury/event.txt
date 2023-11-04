@@ -46,4 +46,4 @@ Uid: barcamp-canterbury
 
 ----
 
-Uuid: j3LmqmuGhP56Ko02
+Uuid: i6pR6nepbZrKGDNH

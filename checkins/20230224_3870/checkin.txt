@@ -1,0 +1,91 @@
+Title: February 24th, 2023
+
+----
+
+Text: Checked in at The King of Falafel
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/63f8bfb5f61fc033532d6bd4
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - The King of Falafel
+    url:
+      - >
+        https://foursquare.com/v/4d89f0bdb799a35d7029a063
+    latitude:
+      - 51.526022
+    longitude:
+      - -0.123466
+    street-address:
+      - 5 Tavistock Pl
+    locality:
+      - London
+    region:
+      - Greater London
+    country-name:
+      - United Kingdom
+    postal-code:
+      - WC1N 1BN
+  value: >
+    https://foursquare.com/v/4d89f0bdb799a35d7029a063
+
+----
+
+Date: 2023-02-24 13:45:00
+
+----
+
+Uid: 3870
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: broken-clouds
+
+----
+
+Temperature: 9°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: c0YJKFrv3kpqB5pp

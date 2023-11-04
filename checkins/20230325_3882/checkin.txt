@@ -1,0 +1,95 @@
+Title: March 25th, 2023
+
+----
+
+Text: Checked in at The Stepping Stones
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/641f2856caeb633ded806c4f
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - The Stepping Stones
+    url:
+      - >
+        https://foursquare.com/v/4bae1456f964a520cd813be3
+      - http://www.steppingstonesdorking.com
+      - https://twitter.com/thestepsboxhill
+    tel:
+      - 01306 889932
+    latitude:
+      - '51.252891732845'
+    longitude:
+      - '-0.3245242435702'
+    street-address:
+      - Westhumble St
+    locality:
+      - Dorking
+    region:
+      - Surrey
+    country-name:
+      - United Kingdom
+    postal-code:
+      - RH5 6BS
+  value: >
+    https://foursquare.com/v/4bae1456f964a520cd813be3
+
+----
+
+Date: 2023-03-25 17:00:00
+
+----
+
+Uid: 3882
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: scattered-clouds
+
+----
+
+Temperature: 12°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: wKF28wZacd0NXZtK
