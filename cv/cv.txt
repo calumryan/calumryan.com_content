@@ -8,7 +8,7 @@ svg: icon-cv
 
 Text:
 
-I'm an Interaction Designer and certified Web Accessibility Specialist, making the web a better, more inclusive place. I code, write and speak publicly about web accessibility, user research, performance and front-end technologies.
+I'm a certified Web Accessibility Specialist, currently working full-time as an Interaction Designer for dxw making the web a better, more inclusive place. I code, write and speak publicly about web accessibility, user research, performance and front-end technologies.
 
 ## Experienced with
 
@@ -26,6 +26,21 @@ Before transitioning into the web industry I studied for four years at Brunel Un
 
 Roles:
 - 
+  org: dxw
+  org_url: https://dxw.com
+  start_date: 2023-07-01
+  type: Job
+  role_name: Interaction Designer
+  summary: "Working as a multidisciplinary agile team with GDS Publishing to improve their Access and Permissions platform to be more accesssible."
+  points:
+    - point: Prototyping with GOV.UK Design System coded toolkit and Figma
+    - point: Work closely alongside user researcher to better understand user needs
+    - point: Accessibility training through creating and organising regular workshops
+    - point: Accessibility audits with axe DevTools
+    - point: Testing with screen readers including VoiceOver, TalkBack and NVDA
+    - point: Advocating accessibility best practices and culture across organisation
+  current: true
+- 
   org: IAAP
   org_url: https://www.accessibilityassociation.org
   start_date: 2021-07-13
@@ -35,28 +50,22 @@ Roles:
   summary: "Passed the WAS exam following years of experience in accessibility and usability testing along with extensive study of Web accessibility best practices."
   points:
     - point: Usability testing with assistive technology in macOS, iOS, Android and Windows environments.
-    - point: Understanding of WCAG 2.1 Standards and ATAG
+    - point: Understanding of WCAG and ATAG Standards
     - point: Web accessibility auditing and remediation
     - point: Knowledge of implementing and testing valid ARIA
   current: true
 - 
-  org: dxw
-  org_url: https://dxw.com
+  org: dxw GovPress
+  org_url: https://www.dxw.com/govpress/
   start_date: 2019-02-12
+  end_date: 2023-06-30
   type: Job
-  role_name: Interaction Designer
-  summary: "Working as a multidisciplinary agile team with GDS Publishing to improve their Access and Permissions platform to be more accesssible. Auditing public and third sector websites through an automated and manual accessibility testing workflow. Applying changes to codebase to make more accessible, robust, scaleable and maintainable. Development, design and authoring of website accessibility audits with concise, easy to understand explanations of issues, solutions and implementation of improvements."
+  role_name: Developer
+  summary: "A multidisciplinary role within the GovPress team of dxw, supporting and developing sites for the public and third sectors using WordPress CMS."
   points:
-    - point: Prototyping with GOV.UK Design System coded toolkit and Figma
-    - point: Work closely alongside user researcher to better understand user needs
-    - point: Accessibility training through creating and organising regular workshops
-    - point: Accessibility audits with axe DevTools
-    - point: Screen readers including VoiceOver, NVDA and TalkBack
-    - point: Building components library
-    - point: Environment and build tools including use of Grunt and Webpack
-    - point: WordPress, HTML, CSS, Scss, jQuery, Vanilla Js, VueJs, PHP, Figma
-    - point: Advocating accessibility best practices and culture across organisation
-  current: true
+    - point: I designed and developed a bespoke platform to deliver HTML-based accessibility reports, outlining accessibility issues and how to fix them.
+    - point: Auditing websites through an automated and manual accessibility testing workflow.
+    - point: WordPress, HTML, CSS, Scss, jQuery, Vanilla Js, PHP, Figma
 - 
   org: We Create Digital
   org_url: https://wecreatedigital.co.uk
