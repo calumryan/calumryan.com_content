@@ -26,9 +26,19 @@ Before transitioning into the web industry I studied for four years at Brunel Un
 
 Roles:
 - 
+  org: GDS
+  org_url: https://www.gov.uk/government/organisations/government-digital-service
+  start_date: 2024-07-01
+  type: Job
+  role_name: Senior Accessibility Specialist
+  summary: ""
+  points:
+  current: true
+- 
   org: dxw
   org_url: https://dxw.com
   start_date: 2023-07-01
+  end_date: 2024-06-25
   type: Job
   role_name: Interaction Designer
   summary: "Working as a multidisciplinary agile team with GDS Publishing to improve their Access and Permissions platform to be more accesssible."
@@ -39,7 +49,6 @@ Roles:
     - point: Accessibility audits with axe DevTools
     - point: Testing with screen readers including VoiceOver, TalkBack and NVDA
     - point: Advocating accessibility best practices and culture across organisation
-  current: true
 - 
   org: IAAP
   org_url: https://www.accessibilityassociation.org

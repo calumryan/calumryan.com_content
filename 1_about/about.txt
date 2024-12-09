@@ -49,11 +49,14 @@ Email: hello@calumryan.com
 ----
 
 Social:
-
 - 
   platform: Mastodon
   url: https://toot.cafe/@calumryan
   icon: mastodon
+- 
+  platform: Bluesky
+  url: https://bsky.app/profile/calumryan.com
+  icon: bluesky
 - 
   platform: GitHub
   url: https://github.com/calumryan

@@ -22,6 +22,3 @@ Links:
 -
   title: Articles
   url: /feeds/articles/rss
--
-  title: Everything
-  url: /feeds/all/rss
