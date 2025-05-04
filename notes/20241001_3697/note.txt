@@ -1,0 +1,69 @@
+Title: October 1st, 2024
+
+----
+
+Text: National Rail what have you done to your semi-accessible native Android app? Since today it's a poorly wrapped up, slimmed down version of your website without most of the customisable features pretending to be an app.
+
+----
+
+Locator: 
+
+----
+
+Date: 2024-10-01 08:55:00
+
+----
+
+Bluesky: publish
+
+----
+
+Mastodon: publish
+
+----
+
+Mastodon-fed: 
+
+----
+
+Uid: 3697
+
+----
+
+Weather-icon: 
+
+----
+
+Temperature: 
+
+----
+
+Feature-images: - file://5CeECzheWa7JWt0f
+
+----
+
+Tags: travel, rail, UI
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: ACqAZKgciukzLaGT

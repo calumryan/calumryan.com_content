@@ -1,0 +1,46 @@
+Title: Weeknote 93
+
+----
+
+Text:
+
+- Over the weekend I attended my first (link: https://en.wikipedia.org/wiki/Fiestas_Patrias_(Chile) text: Chilean Fiestas Patrias). Much Chilean food was consumed for the party, including sopapillas with pebre, barbecued meats, plus some beef empanadas that I made. Concluding the feast was a delicious cuatro leches cake that Ximena made.
+- Prior to the party we enjoyed a small breakfast at (link: https://www.thedustyknuckle.com/ text: The Dusty Knuckle bakery) which we'd not been to for over a year. Unusually there wasn't a queue outside, and we straight away secured a good table on arrival to enjoy our chunky toasted sandwiches and a freshly baked chocolate pastry to finish.
+- Work has been somewhat quiet the past few days planning for the next quarter and feeding back on some outstanding usability issues for the upcoming GOV.UK App. I'm gradually discovering the limitations and complexities of how to test iOS apps against accessibility guidelines. Compared to testing websites it's rather limited in what I can test.
+- About 18 months in to my new apartment, I've finally got my bedroom/home office repainted from a dull shade of grey to a calming shade of white. My Colombian cyclist friend and jack-of-all trades in home improvements, Luis, came over to paint the room and help me move furniture out of the way.
+
+----
+
+Date: 2024-09-25 22:50:00
+
+----
+
+Author: - user://V00CCy0l
+
+----
+
+Tags: weeknote
+
+----
+
+Syndication: 
+
+----
+
+Redirect: 
+
+----
+
+Description: Fiestas Patrias, Comida!, Repainted room
+
+----
+
+Gallery: 
+
+----
+
+Og-thumbnail: - file://scvEJkqwgKUVmk2Q
+
+----
+
+Uuid: xqmqeeBIHAhCXN34

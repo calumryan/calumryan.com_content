@@ -1,0 +1,69 @@
+Title: January 21st, 2025
+
+----
+
+Text: A little lonely in the accessibility lab earlier today for demos at the GDS press launch, whilst AI and Apps took the limelight next door.
+
+----
+
+Locator: 
+
+----
+
+Date: 2025-01-21 20:30:00
+
+----
+
+Bluesky: publish
+
+----
+
+Mastodon: publish
+
+----
+
+Mastodon-fed: 
+
+----
+
+Uid: 3706
+
+----
+
+Weather-icon: 
+
+----
+
+Temperature: 
+
+----
+
+Feature-images: - file://FCOreVSbTW7rjORf
+
+----
+
+Tags: accessibility
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: wpiMRy444y0TDl4Z

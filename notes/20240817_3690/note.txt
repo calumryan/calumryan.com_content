@@ -1,0 +1,76 @@
+Title: August 17th, 2024
+
+----
+
+Text: My first try of Brazilian comfort food in nearby Tooting market
+
+----
+
+Locator:
+
+lat: 51.4291845
+lon: -0.1653473
+city: London
+country: United Kingdom
+postcode: SW17 0SN
+address: Totterdown Street
+
+----
+
+Date: 2024-08-17 17:05:00
+
+----
+
+Bluesky: publish
+
+----
+
+Mastodon: publish
+
+----
+
+Mastodon-fed: 
+
+----
+
+Uid: 3690
+
+----
+
+Weather-icon: clear-sky
+
+----
+
+Temperature: 23°C
+
+----
+
+Feature-images: - file://pdAzwSgsd4ipApv2
+
+----
+
+Tags: food, Tooting, Brazilian
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: DQrLtWr9rkuuwISB

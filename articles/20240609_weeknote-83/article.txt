@@ -1,0 +1,55 @@
+Title: Weeknote 83
+
+----
+
+Text:
+
+## Birthday in Naples
+- We celebrated my birthday in Naples last weekend after flying in by Wizz Air, which was unusually on time for our outward flight, but less surprisingly delayed an hour for our return.
+- Much pizza and pasta was consumed in between some heavy rain spells for the first couple of days. 
+- I can now say for certain that the pizza in Naples is the best I've tried, although I'd probably stay clear of the deep fried variety.
+- On the Sunday morning we decided to join one of the free Naples walking tours which takes in the Old Town of Naples. Luckily it was Italy's Republic Day which meant that we could visit the Royal Palace for free.
+- On Monday, the first day of interrupted sunshine, we caught the ferry to Capri about an hour away. The island was full of other tourists and an array of shops, attractions, and restaurants with prices pretty much doubled compared to the mainland. Nevertheless, we'd a good time exploring the island on a local boat tour, and fitted in some time on the busy beach for a brief bathe in the Med.
+- Back in Naples on our final day we visited the castle high above the city via funicular. It afforded great views, but there was very little inside to read about the castle.
+- Contrary to what some of my friends and colleagues said about Naples being a chaotic, dangerous, dirty place to visit, I found it a characterful, safe city full of things to see that I'd happily visit again.
+
+## Accessibility Amsterdam
+- This weekend I was once again heading to the European Union, this time to visit Amsterdam by train for a work-related event about accessibility.
+- The (link: https://accessibility.club/event/accessibility-club-summit-2024 text: Accessibility Summit) packed in a range of talks both pre-scheduled and proposed on the day, Barcamp-style. I enjoyed the range of talks and hope the same format continues for next year. 
+- There were some workshops on Sunday too, which I attended one of about Accessible Components using JavaScript by Stephanie Eckles. Not all new stuff for me but nevertheless useful refreshing knowledge on this topic whith how web standards have caught up recently.
+
+----
+
+Date: 2024-06-09 18:00:00
+
+----
+
+Author: - user://V00CCy0l
+
+----
+
+Tags: weeknote
+
+----
+
+Syndication: 
+
+----
+
+Redirect: 
+
+----
+
+Description: Catching up on notes this week after a busy couple of weekends travelling.
+
+----
+
+Gallery: 
+
+----
+
+Og-thumbnail: - file://XJdi4GBPPDCXjrlY
+
+----
+
+Uuid: OaRcf6mZlj1M8wyS

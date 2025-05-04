@@ -1,0 +1,69 @@
+Title: March 20th, 2025
+
+----
+
+Text: Enjoyed meeting at the Digital Accessibility Centre today for our annual audit of GOV.UK. Learning how users with various disabilities use and test websites was truly insightful. Strongly reaffirms the importance of advocating for a culture of accessibility, not merely striving for compliance.
+
+----
+
+Locator: 
+
+----
+
+Date: 2025-03-20 20:15:00
+
+----
+
+Bluesky: publish
+
+----
+
+Mastodon: publish
+
+----
+
+Mastodon-fed: 
+
+----
+
+Uid: 3708
+
+----
+
+Weather-icon: 
+
+----
+
+Temperature: 
+
+----
+
+Feature-images: 
+
+----
+
+Tags: accessibility
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: 64OTXZpBmNKTkRBs

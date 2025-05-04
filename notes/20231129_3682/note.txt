@@ -1,0 +1,70 @@
+Title: November 29th, 2023
+
+----
+
+Text: First time living in a 2008-built property with electric central heating where the control panel seems to have been designed purely by an engineer minus any UX designer 😵‍💫
+
+----
+
+Locator:
+
+lat: 51.5074456
+lon: -0.1277653
+city: London
+country: United Kingdom
+
+----
+
+Date: 2023-11-29 12:40:00
+
+----
+
+Mastodon: publish
+
+----
+
+Mastodon-fed: publish
+
+----
+
+Uid: 3682
+
+----
+
+Weather-icon: overcast-clouds
+
+----
+
+Temperature: 5°C
+
+----
+
+Feature-images: - file://UwpSaNryFnMN044q
+
+----
+
+Tags: heating, UX, design
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: ssY8UrGXNRkT90AV

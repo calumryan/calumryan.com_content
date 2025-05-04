@@ -1,0 +1,69 @@
+Title: December 12th, 2024
+
+----
+
+Text: Autocomplete for GOV.UK Site Search is now live after many years of research and testing
+
+----
+
+Locator: 
+
+----
+
+Date: 2024-12-12 12:10:00
+
+----
+
+Bluesky: publish
+
+----
+
+Mastodon: publish
+
+----
+
+Mastodon-fed: 
+
+----
+
+Uid: 3703
+
+----
+
+Weather-icon: 
+
+----
+
+Temperature: 
+
+----
+
+Feature-images: - file://7Scg3G1dw92VwBSz
+
+----
+
+Tags: HTML, autocomplete
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: rWcSuR0Y5kiUoc2O

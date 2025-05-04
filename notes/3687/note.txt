@@ -1,0 +1,69 @@
+Title: August 17th, 2024
+
+----
+
+Text: Setup Brid.gy to syndicate content I'm publishing on calumryan.com to Bluesky
+
+----
+
+Locator: 
+
+----
+
+Date: 2024-08-17 12:50:00
+
+----
+
+Bluesky: publish
+
+----
+
+Mastodon: 
+
+----
+
+Mastodon-fed: 
+
+----
+
+Uid: 3686
+
+----
+
+Weather-icon: 
+
+----
+
+Temperature: 
+
+----
+
+Feature-images: 
+
+----
+
+Tags: Bluesky
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: Ix46isIldDCHFHsI

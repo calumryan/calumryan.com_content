@@ -1,0 +1,77 @@
+Title: February 9th, 2025
+
+----
+
+Text: First visit in a long long time to Spain and first time in Barcelona. Soaking up the winter sun and mild Mediterranean temperature. Mr Calum
+
+----
+
+Locator:
+
+lat: 41.3828939
+lon: 2.1774322
+city: Barcelona
+country: Spain
+
+----
+
+Date: 2025-02-09 10:00:00
+
+----
+
+Bluesky: publish
+
+----
+
+Mastodon: publish
+
+----
+
+Mastodon-fed: 
+
+----
+
+Uid: 3707
+
+----
+
+Weather-icon: overcast-clouds
+
+----
+
+Temperature: 8°C
+
+----
+
+Feature-images:
+
+- file://wW4myyJkOlDzrXkg
+- file://bJBwLe2AytTPK3lN
+
+----
+
+Tags: travel, Spain
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: fpqTHNd5kY7j6Qx8

@@ -1,0 +1,76 @@
+Title: October 2nd, 2024
+
+----
+
+Text: Finally heading home from Waterloo on one of the new-ish Aterio train, only 4 years behind schedule!
+
+----
+
+Locator:
+
+lat: 51.5028379
+lon: -0.112801
+city: London
+country: United Kingdom
+postcode: SE1 7LY
+address: The Balcony
+
+----
+
+Date: 2024-10-02 19:55:00
+
+----
+
+Bluesky: publish
+
+----
+
+Mastodon: publish
+
+----
+
+Mastodon-fed: 
+
+----
+
+Uid: 3698
+
+----
+
+Weather-icon: scattered-clouds
+
+----
+
+Temperature: 13°C
+
+----
+
+Feature-images: - file://54RHVOfspGW9zIsa
+
+----
+
+Tags: trains, travel
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: bJqJe19yowYzrM7F

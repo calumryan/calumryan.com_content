@@ -1,0 +1,69 @@
+Title: April 23rd, 2025
+
+----
+
+Text: Lots of websites and apps now provide fee-free booking for UK train tickets to any destination, featuring split-ticketing and better options for identifying the best value fares. Yet, many people I know still consider The Trainline to be the only option.
+
+----
+
+Locator: 
+
+----
+
+Date: 2025-04-23 11:45:00
+
+----
+
+Bluesky: publish
+
+----
+
+Mastodon: publish
+
+----
+
+Mastodon-fed: 
+
+----
+
+Uid: 3711
+
+----
+
+Weather-icon: 
+
+----
+
+Temperature: 
+
+----
+
+Feature-images: 
+
+----
+
+Tags: travel
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: buS3Tb3eZ5zMGVtq

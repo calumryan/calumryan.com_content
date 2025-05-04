@@ -1,0 +1,25 @@
+Caption: 
+
+----
+
+Alt: The GOV.UK homepage with a search for "christmas" returning a list of suggestions below the search box
+
+----
+
+Photographer: 
+
+----
+
+License: 
+
+----
+
+Link: 
+
+----
+
+Uuid: 7Scg3G1dw92VwBSz
+
+----
+
+Template: false,

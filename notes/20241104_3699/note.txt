@@ -1,0 +1,69 @@
+Title: November 4th, 2024
+
+----
+
+Text: A observation of the UK and London's housing crisis, in almost every new high density development any vacant space designed for shops and cafes is switched to residential. Often in locations without many alternatives for shopping and eating out nearby.
+
+----
+
+Locator: 
+
+----
+
+Date: 2024-11-04 21:00:00
+
+----
+
+Bluesky: publish
+
+----
+
+Mastodon: publish
+
+----
+
+Mastodon-fed: 
+
+----
+
+Uid: 3699
+
+----
+
+Weather-icon: 
+
+----
+
+Temperature: 
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: e0JUKfBwv6mJOnvi

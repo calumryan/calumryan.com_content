@@ -1,0 +1,69 @@
+Title: September 17th, 2024
+
+----
+
+Text: I need a reason to justify a short winter trip to the Emerald Isle, beside stocking up on delicious Tayto, tea and bakery goods not to be found this side of the Irish Sea. Any accessibility/design/tech meetups in Dublin this side of Christmas?
+
+----
+
+Locator: 
+
+----
+
+Date: 2024-09-17 20:50:00
+
+----
+
+Bluesky: publish
+
+----
+
+Mastodon: publish
+
+----
+
+Mastodon-fed: 
+
+----
+
+Uid: 3695
+
+----
+
+Weather-icon: 
+
+----
+
+Temperature: 
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: V732FTiat942RckQ

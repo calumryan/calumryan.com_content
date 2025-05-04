@@ -4,9 +4,9 @@ Title: Home
 
 Special:
 
-I'm (link: /about text: Calum Ryan), I develop, design, speak and write about websites, focusing on **accessibility**, **inclusivity** and **performance**.
+I'm (link: /about text: Calum Ryan), I code, design, speak and write about websites, focusing on **accessibility**, **inclusivity** and **performance**.
 
-I work for (link: https://www.dxw.com/ text: dxw) as a web developer and (link: https://www.accessibilityassociation.org text: IAAP) certified Web Accessibility Specialist in London.
+I work for (link: https://www.gov.uk/government/organisations/government-digital-service text: GDS) as a Senior Accessibility Specialist in London.
 
 ----
 
@@ -14,7 +14,7 @@ Description: Website of Calum Ryan - making websites, focusing on accessibility,
 
 ----
 
-Banner: - file://cK1dF24bdD57R61R
+Banner: - file://uFrEcSgHBvkRiII5
 
 ----
 
@@ -25,4 +25,4 @@ I design, build and write about stuff for the web.
 
 ----
 
-Uuid: Hn8ZomAwKU40fdb5
+Uuid: bKaYaq5hAPkzPdgR

@@ -1,0 +1,69 @@
+Title: April 22nd, 2025
+
+----
+
+Text: 📣 New talk in the planning for 2025. Drop me a message if you'd like me to come speak at your event about the current state of digital accessibility, legislation, and effective strategies to improve accessibility culture within your team.
+
+----
+
+Locator: 
+
+----
+
+Date: 2025-04-22 11:00:00
+
+----
+
+Bluesky: publish
+
+----
+
+Mastodon: publish
+
+----
+
+Mastodon-fed: 
+
+----
+
+Uid: 3710
+
+----
+
+Weather-icon: 
+
+----
+
+Temperature: 
+
+----
+
+Feature-images: 
+
+----
+
+Tags: a11y, talks
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: KWhMvU6dXHK07OVI

@@ -1,0 +1,69 @@
+Title: March 31st, 2025
+
+----
+
+Text: The 2025 WebAIM Million report has been published. Some decreases in accessibility issues, but much still hasn't improved, sadly. https://webaim.org/projects/million/
+
+----
+
+Locator: 
+
+----
+
+Date: 2025-03-31 20:45:00
+
+----
+
+Bluesky: 
+
+----
+
+Mastodon: 
+
+----
+
+Mastodon-fed: 
+
+----
+
+Uid: 3709
+
+----
+
+Weather-icon: 
+
+----
+
+Temperature: 
+
+----
+
+Feature-images: 
+
+----
+
+Tags: accessibility
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: xsgH2RQG4RTasL6E

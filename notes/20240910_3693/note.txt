@@ -1,0 +1,69 @@
+Title: September 10th, 2024
+
+----
+
+Text: Still some frustrating accessibility issues under the hood for @bsky.app to sort out with seemingly easy ways to fix, as well no URLs for tabs
+
+----
+
+Locator: 
+
+----
+
+Date: 2024-09-10 14:20:00
+
+----
+
+Bluesky: publish
+
+----
+
+Mastodon: publish
+
+----
+
+Mastodon-fed: 
+
+----
+
+Uid: 3693
+
+----
+
+Weather-icon: 
+
+----
+
+Temperature: 
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: vBCRbXIPgAOCORK9

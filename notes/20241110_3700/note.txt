@@ -1,0 +1,69 @@
+Title: November 10th, 2024
+
+----
+
+Text: Now might be a good time to move Bluesky's default hosting somewhere other than the US
+
+----
+
+Locator: 
+
+----
+
+Date: 2024-11-10 11:20:00
+
+----
+
+Bluesky: publish
+
+----
+
+Mastodon: publish
+
+----
+
+Mastodon-fed: 
+
+----
+
+Uid: 3700
+
+----
+
+Weather-icon: 
+
+----
+
+Temperature: 
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: 5uI587QnZz37PXOj

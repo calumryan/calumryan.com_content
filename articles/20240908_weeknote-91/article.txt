@@ -1,0 +1,46 @@
+Title: Weeknote 91
+
+----
+
+Text:
+
+- At work, I was pleased to be included on some mobile app accessibility training with (link: https://digitalasitshouldbe.com/ text: Jon Gibbins). The GOV.UK App for iOS is gradually taking shape, but there are still some accessibility issues to test more and resolve. I haven't done much accessibility testing of apps in the past, so certainly have some learning to do!
+- Saddened and angered, but not entirely surprised, by the Grenfell Tower inquiry report that was published this past week. Will things ever change for the better? I hope, but even in my block of flats small patches of flammable cladding still exist, and despite indications of it being removed this year, nothing yet.
+- At the weekend I joined a friend in Hackney for some great beer and pizza at the Pembury Tavern followed by a comedy show at the Hackney Empire. It was (link: https://www.nishkumar.co.uk text: Nish Kumar)'s tour, Don't kill my vibe. Although very politically focused, loud, with a lot of strong language and high paced, I enjoyed the show overall.
+- There's a new Colombian restaurant, (link: https://maps.app.goo.gl/HrQxaqaxgjbtrkhL7 text: Latin Oasis), I discovered with Ximena near Finsbury Park. I found it surprisingly good in terms of flavourful food and very good value for the portion sizes. I tried their fresh empanadas and had my first try of a dish, patacon con carne desmechada (fried plantain with shredded beef).
+
+----
+
+Date: 2024-09-08 22:10:00
+
+----
+
+Author: - user://V00CCy0l
+
+----
+
+Tags: weeknote
+
+----
+
+Syndication: 
+
+----
+
+Redirect: 
+
+----
+
+Description: Hackney comedy, Latin Oasis in London
+
+----
+
+Gallery: 
+
+----
+
+Og-thumbnail: - file://ofdPMtByUoPCJVXL
+
+----
+
+Uuid: l51EpKzc673HuOf0

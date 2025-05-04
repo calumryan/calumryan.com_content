@@ -1,0 +1,74 @@
+Title: January 2nd, 2025
+
+----
+
+Text: Good to be beside the sea and soaking up the first sunny day of 2025
+
+----
+
+Locator:
+
+lat: 50.800031
+lon: -1.0906023
+city: Portsmouth
+country: United Kingdom
+
+----
+
+Date: 2025-01-02 13:30:00
+
+----
+
+Bluesky: publish
+
+----
+
+Mastodon: publish
+
+----
+
+Mastodon-fed: 
+
+----
+
+Uid: 3704
+
+----
+
+Weather-icon: clear-sky
+
+----
+
+Temperature: 1°C
+
+----
+
+Feature-images: - file://3FBfTqAow9fyiC9C
+
+----
+
+Tags: travel, sea
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: wwgo70oughqDuHHM

@@ -1,0 +1,47 @@
+Title: Weeknote 95
+
+----
+
+Text:
+
+- We had our all-staff away day on Tuesday in a somewhat dark, stuffy and dated venue beside the Thames at London Blackfriars. It was nice to see a few folks in-person from further afield and chat. The dominance of strategies about more mobile apps and AI technology innovation for more GOVUK services didn't entirely please the interests of myself or many of my colleagues.
+- On (link: https://calumryan.com/notes/3698 text: Wednesday) I had the opportunity to ride on one of the rare new Arterio trains being introduced on London's commuter routes from London Waterloo to replace 40-year-old trains. The seats on them are very narrow and squashed together round small tables. On a positive, it's pleasant to have walk-through carriages, much like Thameslink. I guess come next summer I'll appreciate them more given they've also got air conditioning.
+- I was pleasantly surprised to hear from one of my IndieWeb friends this week inviting me to talk at their online event next month. It's been a while since I've done much public speaking but excited to plan a new talk.
+- I decided to buy a new Garmin GPS device for cycling recently. After having to return a cheaper device due to a lack of Bluetooth functions I wanted, I ended up spending a lot more than I was hoping. I settled on a Garmin 1040 which tells me how far I'm up a climb, which gear I'm in and warns about upcoming potholes, including a useful feedback feature to confirm if they're repaired or not.
+- I've been slowly catching up with BBC's Celebrity Race Across World series 2 and this week watched the finale in Chile. Brought back fond memories of visiting Santiago at Easter around the same time it was filmed earlier this year.
+
+----
+
+Date: 2024-10-06 17:15:00
+
+----
+
+Author: - user://V00CCy0l
+
+----
+
+Tags: weeknote
+
+----
+
+Syndication: 
+
+----
+
+Redirect: 
+
+----
+
+Description: Staff away day review, New cycling gear
+
+----
+
+Gallery: 
+
+----
+
+Og-thumbnail: - file://4qoAUkIQSoerOFWS
+
+----
+
+Uuid: VcDo3X1juj1oLs1z

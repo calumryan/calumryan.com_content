@@ -1,0 +1,72 @@
+Title: November 30th, 2024
+
+----
+
+Text:
+
+Continue efforts to spread awareness of digital accessibility across government services in my day job
+\#BlueBeanieDay
+
+----
+
+Locator: 
+
+----
+
+Date: 2024-11-30 14:00:00
+
+----
+
+Bluesky: 
+
+----
+
+Mastodon: 
+
+----
+
+Mastodon-fed: 
+
+----
+
+Uid: 3702
+
+----
+
+Weather-icon: 
+
+----
+
+Temperature: 
+
+----
+
+Feature-images: - file://Hbf0y3YiRyDPH9D5
+
+----
+
+Tags: accessibility
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: Lc44VGlOb7tKPTSf

@@ -1,0 +1,73 @@
+Title: September 24th, 2024
+
+----
+
+Text:
+
+Could search suggestions drop-down (autocomplete) be coming soon for GOV.UK Search? 
+
+Recent accessibility and usability testing with very few issues. Zero WCAG failures A-AA and overall positive feedback from users with a variety of access needs.
+
+----
+
+Locator: 
+
+----
+
+Date: 2024-09-24 14:00:00
+
+----
+
+Bluesky: publish
+
+----
+
+Mastodon: publish
+
+----
+
+Mastodon-fed: 
+
+----
+
+Uid: 3696
+
+----
+
+Weather-icon: 
+
+----
+
+Temperature: 
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: 0NiK7t82yLUIpKU9

@@ -1,0 +1,76 @@
+Title: September 14th, 2024
+
+----
+
+Text: Thoroughly enjoying State of the Browser 2024. Brilliantly organised with a diverse lineup of speakers and topics. Turned up 10+ years ago not knowing anyone, now it feels like home with so many familiar, friendly folks to catchup with #Sotb2024
+
+----
+
+Locator:
+
+lat: 51.5201501
+lon: -0.0986832
+city: City of London
+country: United Kingdom
+postcode: EC1M 6EQ
+address: Charterhouse Square
+
+----
+
+Date: 2024-09-14 16:20:00
+
+----
+
+Bluesky: publish
+
+----
+
+Mastodon: publish
+
+----
+
+Mastodon-fed: 
+
+----
+
+Uid: 3694
+
+----
+
+Weather-icon: overcast-clouds
+
+----
+
+Temperature: 19°C
+
+----
+
+Feature-images: 
+
+----
+
+Tags: webstandards, London
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: bbhViBBH1gHQuE4A

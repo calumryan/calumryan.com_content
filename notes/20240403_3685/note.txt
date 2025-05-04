@@ -1,0 +1,70 @@
+Title: April 3rd, 2024
+
+----
+
+Text: Third visit to the Pacific coast. Exploring Valparaíso in good company with the very best of seafood.
+
+----
+
+Locator:
+
+lat: -33.0458456
+lon: -71.6196749
+city: Valparaíso
+country: Chile
+
+----
+
+Date: 2024-04-03 12:00:00
+
+----
+
+Mastodon: publish
+
+----
+
+Mastodon-fed: 
+
+----
+
+Uid: 3685
+
+----
+
+Weather-icon: clear-sky
+
+----
+
+Temperature: 19°C
+
+----
+
+Feature-images: - file://XkObvNcH5SzITQvJ
+
+----
+
+Tags: Chile, South America, Coast
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: QVhgbQVVZwBj8k9W

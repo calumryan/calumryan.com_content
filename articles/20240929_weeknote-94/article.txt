@@ -1,0 +1,48 @@
+Title: Weeknote 94
+
+----
+
+Text:
+
+- At work, my team launched a (link: https://design-guide.publishing.service.gov.uk/ text: new design guide) last week. My colleague, (link: https://www.nikin.design/ text: Nikin), did most of the hard work putting it together with (link: https://www.11ty.dev/ text: Eleventy static site generator), whilst I advised on accessibility and navigation structure.
+- Public transport decided to fail at varying levels of disruption on multiple routes for my commutes to and from work last week. Both London Underground and Thameslink were cancelled or delayed significantly. That combined with another recent spike in Covid transmissions isn't compelling me to go to the office very often.
+- On Saturday I joined Ximena for shopping and some street food in Portabello Road Market. The sun was out, albeit rather cooler than previous weeks. Autumn has definitely arrived here in London! For lunch, I tried my first Venezuelan Corn Pancake at (link: https://www.instagram.com/papelond/ text: Papelónd) with a very yummy shredded beef, plantain and avocado filling. Definitely a favourite! I'll be back for more in this undiscovered, to me, part of the market just north of the Westway.
+- We made our first visit to IKEA City Hammersmith for some small items. We've been to a similar city store concept in Stockholm which is much, much smaller than your regular IKEAs. This one was quite untidy, crowded, and cramped with a limited range of products in comparison.
+- Over the weekend I was following the final big cycling fixture of the year, The World Cycling Championships, on BBC Sport. It was a Triple Crown for Pogacar in claiming his first world road race title, alongside wins at the Tour de France and Giro d'Italia earlier this year. Awfully sad however to read that 18-year-old Swiss cyclist Muriel Furrer crashed and died of her head injury during the event.
+- On Sunday I joined my friend Luis for another cycle ride, using the train to get outside of London. We went to Alton in Hampshire and cycled from there to Caracoli café in Alresford to enjoy some scrumptious pastries and great coffee.
+
+----
+
+Date: 2024-09-29 20:50:00
+
+----
+
+Author: - user://V00CCy0l
+
+----
+
+Tags: weeknote
+
+----
+
+Syndication: 
+
+----
+
+Redirect: 
+
+----
+
+Description: Launched a website at GDS, World Champs, Cycling in Hampshire
+
+----
+
+Gallery: 
+
+----
+
+Og-thumbnail: - file://V8mJ7l9AocfQvIbD
+
+----
+
+Uuid: SMsEbjwqOwx9eo9u

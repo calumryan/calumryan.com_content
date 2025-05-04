@@ -1,0 +1,69 @@
+Title: January 16th, 2025
+
+----
+
+Text: Hesitantly booked my first cycling trip to France in order to watch the start of #TDF2025 in July. Praying it won't rain heavily and all the potential fail points of trains/ferry/cycling on foreign roads won't scupper it
+
+----
+
+Locator: 
+
+----
+
+Date: 2025-01-16 12:30:00
+
+----
+
+Bluesky: publish
+
+----
+
+Mastodon: publish
+
+----
+
+Mastodon-fed: 
+
+----
+
+Uid: 3705
+
+----
+
+Weather-icon: 
+
+----
+
+Temperature: 
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: 6RM8cMH305R9u14X

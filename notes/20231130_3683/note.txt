@@ -1,0 +1,74 @@
+Title: November 30th, 2023
+
+----
+
+Text:
+
+Happy #BlueBeanieDay ! 💙
+Striving for a more accessible web everyday #a11y 
+https://en.m.wikipedia.org/wiki/Blue_Beanie_Day
+
+----
+
+Locator:
+
+lat: 51.5074456
+lon: -0.1277653
+city: London
+country: United Kingdom
+
+----
+
+Date: 2023-11-30 14:45:00
+
+----
+
+Mastodon: publish
+
+----
+
+Mastodon-fed: 
+
+----
+
+Uid: 3683
+
+----
+
+Weather-icon: overcast-clouds
+
+----
+
+Temperature: 4°C
+
+----
+
+Feature-images: - file://g2zqAgRFQeD5gW87
+
+----
+
+Tags: 
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: fsL31AsAn51Yy4X2

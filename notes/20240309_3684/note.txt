@@ -1,0 +1,74 @@
+Title: March 9th, 2024
+
+----
+
+Text: Ten years since attending my first IndieWebCamp Brighton and still some familiar faces as well as new pleasingly
+
+----
+
+Locator:
+
+lat: 50.8214626
+lon: -0.1400561
+city: Brighton
+country: United Kingdom
+postcode: BN1 1HH
+
+----
+
+Date: 2024-03-09 10:00:00
+
+----
+
+Mastodon: publish
+
+----
+
+Mastodon-fed: 
+
+----
+
+Uid: 3684
+
+----
+
+Weather-icon: few-clouds
+
+----
+
+Temperature: 9°C
+
+----
+
+Feature-images:
+
+- file://bErFhHz1pU70U6hr
+- file://um0hEtMKtHsWYxTx
+
+----
+
+Tags: IndieWebCamp
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: 6LlMyg1GPwCcJWtt

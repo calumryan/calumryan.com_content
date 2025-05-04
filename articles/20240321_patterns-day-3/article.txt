@@ -1,0 +1,60 @@
+Title: Patterns Day 3
+
+----
+
+Text:
+
+This month I returned to Brighton for the third instalment of Patterns Day. I'd not heard of most of the speakers before so didn't know what to expect but trusted in (link: https://adactio.com/ text: Jeremy's) reputation that it would be a fun, highly educational and inspiring experience.
+
+(image: pd-accessibility.jpg alt: On the stage of a cinema is a speaker and their slide deck projected on the screen with the text, Make accessibility part of your role)
+
+## Design systems ahoy!
+By no surprise most of the talks were related to something design system related, if not directly about them. 
+
+## Accessibility
+My favourite pick of all the talks was Geri Reid's on the trials and pains and of working in teams and design systems where accessibility isn't done well. As I've experienced in my own role, regular education sessions for the whole team about accessibility is essential. Geri talked about the need for design systems to have better documentation of their contents, particularly for accessible implementation. I've had my own experiences of that for sure when try to extend parts of the GOV.UK Design System to handle more complex tasks with heavy amounts of data.
+
+## Typography
+Almost every web conference I attend seems to have a talk on typography, and this was no exception. Scheduling in for the post-lunch slump wasn't perhaps the best choice, but I just about managed to keep awake and learn something from it. Richard Rutter talked about typographic scales with simpler and more effective ways to handle font size over different screen sizes using scale points and the CSS clamp function.
+
+## Communication
+Throughout there was a common theme in talks about communication in organisations that helps shape the design system to meet the needs of everyone who works there and uses its product or services. Samantha Fanning from UCL emphasised the importance of early collaboration across all departments to help gain more buy-in of the design system. 
+
+## Overall
+I'm glad I attended Patterns Day once again and with the hope it returns in a few years time too. My main takeaways from it were that we're all still grappling with how to keep design systems useful. It can be a struggle to keep them alive and communicate what matters for everyone who needs to use them as a team changes and evolves.
+
+----
+
+Date: 2024-03-21 15:15:00
+
+----
+
+Author: - user://V00CCy0l
+
+----
+
+Tags: design systems
+
+----
+
+Syndication: 
+
+----
+
+Redirect: 
+
+----
+
+Description: My thoughts and reflections on a conference filled with talks about design systems.
+
+----
+
+Gallery: 
+
+----
+
+Og-thumbnail: - file://r5FGll8Y3i0P2EAY
+
+----
+
+Uuid: HkHqCnGcjCLI5Dty
