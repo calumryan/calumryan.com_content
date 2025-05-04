@@ -1,0 +1,94 @@
+Title: December 24th, 2024
+
+----
+
+Text: Checked in at Ariana II
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/676ab68ebc8d2a7cf8a425b7
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Ariana II
+    url:
+      - >
+        https://foursquare.com/v/4da9dfd043a1128196e9ab87
+      - http://www.ariana2.uk
+    tel:
+      - 020 3490 6709
+    latitude:
+      - '51.542780403901'
+    longitude:
+      - '-0.19907044040683'
+    street-address:
+      - 241 Kilburn High Rd.
+    locality:
+      - London
+    region:
+      - Greater London
+    country-name:
+      - United Kingdom
+    postal-code:
+      - NW6 7JN
+  value: >
+    https://foursquare.com/v/4da9dfd043a1128196e9ab87
+
+----
+
+Date: 2024-12-24 13:25:00
+
+----
+
+Uid: 4154
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: broken-clouds
+
+----
+
+Temperature: 11°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: jNiFVds6bajumGW4

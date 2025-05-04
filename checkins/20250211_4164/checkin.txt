@@ -1,0 +1,99 @@
+Title: February 11th, 2025
+
+----
+
+Text: Checked in at Barcelona–El Prat Josep Tarradellas Airport (BCN) (Aeroport Josep Tarradellas Barcelona-El Prat)
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/67ab767f7201916c4307b5a6
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - >
+        Barcelona–El Prat Josep Tarradellas
+        Airport (BCN) (Aeroport Josep
+        Tarradellas Barcelona-El Prat)
+    url:
+      - >
+        https://foursquare.com/v/4b7980a2f964a5202bfd2ee3
+      - >
+        https://www.aena.es/en/josep-tarradellas-barcelona-el-prat.html
+      - https://twitter.com/aena
+    tel:
+      - 932 98 38 38
+    latitude:
+      - '41.295606993123'
+    longitude:
+      - '2.0762228965759'
+    street-address:
+      - Ctra. de El Prat de Llobregat
+    locality:
+      - El Prat de Llobregat
+    region:
+      - Catalonia
+    country-name:
+      - Spain
+    postal-code:
+      - "08820"
+  value: >
+    https://foursquare.com/v/4b7980a2f964a5202bfd2ee3
+
+----
+
+Date: 2025-02-11 17:10:00
+
+----
+
+Uid: 4164
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: few-clouds
+
+----
+
+Temperature: 14°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: 93Uk1L2AaWNs2q7G

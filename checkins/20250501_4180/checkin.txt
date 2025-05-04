@@ -1,0 +1,94 @@
+Title: May 1st, 2025
+
+----
+
+Text: Checked in at The Griffin
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/6813a9a404d0ee3cc25d29ee
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - The Griffin
+    url:
+      - >
+        https://foursquare.com/v/57bf1668498ebfb7b0a5a509
+      - http://the-griffin.com
+    tel:
+      - 020 3745 7496
+    latitude:
+      - '51.524756123571'
+    longitude:
+      - '-0.082086983053838'
+    street-address:
+      - 93 Leonard St
+    locality:
+      - London
+    region:
+      - Greater London
+    country-name:
+      - United Kingdom
+    postal-code:
+      - EC2A 4RD
+  value: >
+    https://foursquare.com/v/57bf1668498ebfb7b0a5a509
+
+----
+
+Date: 2025-05-01 18:05:00
+
+----
+
+Uid: 4180
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: overcast-clouds
+
+----
+
+Temperature: 27°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: M94Dxd1nNx8anSx4

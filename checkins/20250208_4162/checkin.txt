@@ -1,0 +1,93 @@
+Title: February 8th, 2025
+
+----
+
+Text: Checked in at La Particcela
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/67a7b73c7944a550e19f0169
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - La Particcela
+    url:
+      - >
+        https://foursquare.com/v/4e846f6a93ad9b8344901cf3
+    tel:
+      - 934 57 78 10
+    latitude:
+      - '41.396139822234'
+    longitude:
+      - '2.1696450926847'
+    street-address:
+      - C. de Girona, 90
+    locality:
+      - Barcelona
+    region:
+      - Catalonia
+    country-name:
+      - Spain
+    postal-code:
+      - "08009"
+  value: >
+    https://foursquare.com/v/4e846f6a93ad9b8344901cf3
+
+----
+
+Date: 2025-02-08 21:00:00
+
+----
+
+Uid: 4162
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: few-clouds
+
+----
+
+Temperature: 8°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: 9oWmjKKJqNio6hjW

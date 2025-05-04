@@ -1,0 +1,91 @@
+Title: April 8th, 2024
+
+----
+
+Text: Checked in at Salvador Cocina y Café
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/6614275944a60b6ddca888c6
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Salvador Cocina y Café
+    url:
+      - >
+        https://foursquare.com/v/50216ca8e4b00233024c8dca
+    tel:
+      - (2) 2673 0619
+    latitude:
+      - '-33.44129195767'
+    longitude:
+      - '-70.65166924352'
+    street-address:
+      - Bombero Adolfo Ossa 1099
+    locality:
+      - Santiago
+    region:
+      - Santiago Metropolitan
+    country-name:
+      - Chile
+  value: >
+    https://foursquare.com/v/50216ca8e4b00233024c8dca
+
+----
+
+Date: 2024-04-08 13:20:00
+
+----
+
+Uid: 4075
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: clear-sky
+
+----
+
+Temperature: 25°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: 5wCBskB5w1t7i7WP

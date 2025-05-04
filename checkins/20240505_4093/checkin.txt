@@ -1,0 +1,93 @@
+Title: May 5th, 2024
+
+----
+
+Text: Checked in at Blackbird Bakery
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/66377d9889b7e27200b7c9af
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Blackbird Bakery
+    url:
+      - >
+        https://foursquare.com/v/559007c2498e4edbe367c47f
+      - https://www.blackbirdbakerylondon.co.uk
+      - https://twitter.com/blackbird_05
+    tel:
+      - 020 8772 0097
+    latitude:
+      - '51.444490899058'
+    longitude:
+      - '-0.15113353515539'
+    street-address:
+      - 12 Hildreth St
+    locality:
+      - Balham
+    region:
+      - Greater London
+    country-name:
+      - United Kingdom
+  value: >
+    https://foursquare.com/v/559007c2498e4edbe367c47f
+
+----
+
+Date: 2024-05-05 13:40:00
+
+----
+
+Uid: 4093
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: few-clouds
+
+----
+
+Temperature: 17°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: G7XjyzrKTK59L03Q

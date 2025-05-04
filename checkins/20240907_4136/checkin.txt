@@ -1,0 +1,94 @@
+Title: September 7th, 2024
+
+----
+
+Text: Checked in at Cycle Exchange
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/66dc29eb9f6b811328d19231
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Cycle Exchange
+    url:
+      - >
+        https://foursquare.com/v/5d56adda6b2daf0008b99fdb
+      - http://www.cycleexchange.co.uk
+    tel:
+      - 020 8546 8289
+    latitude:
+      - 51.414911
+    longitude:
+      - -0.302145
+    street-address:
+      - 27 Sury Basin,
+    locality:
+      - Kingston
+    region:
+      - Greater London
+    country-name:
+      - United Kingdom
+    postal-code:
+      - KT2 5NZ
+  value: >
+    https://foursquare.com/v/5d56adda6b2daf0008b99fdb
+
+----
+
+Date: 2024-09-07 11:25:00
+
+----
+
+Uid: 4136
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: broken-clouds
+
+----
+
+Temperature: 17°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: hSAtgCwfSejBL5UU

@@ -1,0 +1,95 @@
+Title: August 16th, 2024
+
+----
+
+Text: Checked in at The Finsbury
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/66bf95dc2d7b0521fa4ce146
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - The Finsbury
+    url:
+      - >
+        https://foursquare.com/v/4b201092f964a520bf2c24e3
+      - http://www.thefinsbury.co.uk
+      - https://twitter.com/thefinpub
+    tel:
+      - 020 8809 1142
+    latitude:
+      - '51.571881780126'
+    longitude:
+      - '-0.096512774269037'
+    street-address:
+      - 336 Green Lanes
+    locality:
+      - Manor House
+    region:
+      - Greater London
+    country-name:
+      - United Kingdom
+    postal-code:
+      - N4 1BY
+  value: >
+    https://foursquare.com/v/4b201092f964a520bf2c24e3
+
+----
+
+Date: 2024-08-16 19:10:00
+
+----
+
+Uid: 4130
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: scattered-clouds
+
+----
+
+Temperature: 23°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: WvkaXE8nFRHVeivg

@@ -1,0 +1,88 @@
+Title: August 16th, 2024
+
+----
+
+Text: Checked in at Abraço
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/66bf06561328e727124e9600
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Abraço
+    url:
+      - >
+        https://foursquare.com/v/5dbd58bfe9b1a00008fd23c3
+      - http://www.abracocafe.co.uk
+    tel:
+      - 020 8350 1133
+    latitude:
+      - 51.578438
+    longitude:
+      - -0.09882767
+    country-name:
+      - United Kingdom
+    postal-code:
+      - N4 1AF
+  value: >
+    https://foursquare.com/v/5dbd58bfe9b1a00008fd23c3
+
+----
+
+Date: 2024-08-16 08:55:00
+
+----
+
+Uid: 4128
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: scattered-clouds
+
+----
+
+Temperature: 24°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: ncx3gxL03DWtLLma

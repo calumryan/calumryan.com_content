@@ -1,0 +1,94 @@
+Title: March 2nd, 2024
+
+----
+
+Text: Checked in at Belle Amie
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/65e34e128c9bbc0a5e8fe495
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Belle Amie
+    url:
+      - >
+        https://foursquare.com/v/4c80ba1bdc018cfa5be3be6c
+      - http://www.belle-amie.co.uk
+    tel:
+      - 020 8944 8886
+    latitude:
+      - '51.440651760364'
+    longitude:
+      - '-0.18692459234557'
+    street-address:
+      - 404 Garratt Ln
+    locality:
+      - Earlsfield
+    region:
+      - Greater London
+    country-name:
+      - United Kingdom
+    postal-code:
+      - SW18 4HP
+  value: >
+    https://foursquare.com/v/4c80ba1bdc018cfa5be3be6c
+
+----
+
+Date: 2024-03-02 16:05:00
+
+----
+
+Uid: 4029
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: broken-clouds
+
+----
+
+Temperature: 8°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: 8mYPlyum5RyyAQfq

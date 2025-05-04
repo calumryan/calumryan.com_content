@@ -1,0 +1,91 @@
+Title: April 27th, 2025
+
+----
+
+Text: Checked in at The Nook
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/680e2182afa776455486a48f
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - The Nook
+    url:
+      - >
+        https://foursquare.com/v/612b6afb6040d2787fc15442
+    latitude:
+      - '52.301746524209'
+    longitude:
+      - '-0.0042894667818754'
+    street-address:
+      - 5 Market St
+    locality:
+      - Cambridge
+    region:
+      - Cambridgeshire
+    country-name:
+      - United Kingdom
+    postal-code:
+      - CB24 4WZ
+  value: >
+    https://foursquare.com/v/612b6afb6040d2787fc15442
+
+----
+
+Date: 2025-04-27 13:20:00
+
+----
+
+Uid: 4178
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: few-clouds
+
+----
+
+Temperature: 19°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: lspGvJyJqHrRlZ6v

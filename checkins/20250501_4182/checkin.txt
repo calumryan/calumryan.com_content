@@ -1,0 +1,93 @@
+Title: May 1st, 2025
+
+----
+
+Text: Checked in at Dulce
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/681331603169713ce46101df
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Dulce
+    url:
+      - >
+        https://foursquare.com/v/505dc641e4b033df39f62d84
+      - >
+        https://www.scoresonthedoors.org.uk/business/dulce-cafe--603601.html
+    tel:
+      - 020 7375 1636
+    latitude:
+      - '51.515756968925'
+    longitude:
+      - '-0.070414488993889'
+    street-address:
+      - 86 Whitechapel High St
+    locality:
+      - London
+    region:
+      - Greater London
+    country-name:
+      - United Kingdom
+  value: >
+    https://foursquare.com/v/505dc641e4b033df39f62d84
+
+----
+
+Date: 2025-05-01 09:30:00
+
+----
+
+Uid: 4182
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: overcast-clouds
+
+----
+
+Temperature: 25°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: OMB3jEbIJ0cN2SA5

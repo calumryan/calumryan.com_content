@@ -1,0 +1,92 @@
+Title: June 2nd, 2024
+
+----
+
+Text: Checked in at Tandem
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/665cc0e67b3e205109639d9e
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Tandem
+    url:
+      - >
+        https://foursquare.com/v/51dd542c498ef0d2569c2e87
+      - http://www.tandem.napoli.it
+    tel:
+      - "+398119002468"
+    latitude:
+      - '40.848313161972'
+    longitude:
+      - '14.256405083781'
+    street-address:
+      - Via Giovanni Paladino 51
+    locality:
+      - Naples
+    region:
+      - Campania
+    country-name:
+      - Italy
+  value: >
+    https://foursquare.com/v/51dd542c498ef0d2569c2e87
+
+----
+
+Date: 2024-06-02 21:00:00
+
+----
+
+Uid: 4109
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: clear-sky
+
+----
+
+Temperature: 22°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: AmZ4nseY7VaS70w3

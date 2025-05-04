@@ -1,0 +1,95 @@
+Title: May 4th, 2025
+
+----
+
+Text: Checked in at sipgate
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/68171f35e6895a097dbd812f
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - sipgate
+    url:
+      - >
+        https://foursquare.com/v/4c5a8a6e67ac0f47ffe6064c
+      - https://www.sipgate.de
+      - https://twitter.com/sipgatede
+    tel:
+      - 0211 63553300
+    latitude:
+      - '51.212082194426'
+    longitude:
+      - '6.7559506593435'
+    street-address:
+      - Gladbacher Str. 74
+    locality:
+      - Dusseldorf
+    region:
+      - North Rhine-Westphalia
+    country-name:
+      - Germany
+    postal-code:
+      - "40219"
+  value: >
+    https://foursquare.com/v/4c5a8a6e67ac0f47ffe6064c
+
+----
+
+Date: 2025-05-04 10:05:00
+
+----
+
+Uid: 4185
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: light-intensity-drizzle
+
+----
+
+Temperature: 11°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: rncl8kECe1RWBshs

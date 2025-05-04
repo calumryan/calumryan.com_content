@@ -1,0 +1,94 @@
+Title: December 28th, 2023
+
+----
+
+Text: Checked in at Krema
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/658d7c2294d4245c57e09af5
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Krema
+    url:
+      - >
+        https://foursquare.com/v/5abf9b545f68b97e45e10847
+      - http://www.krema.co.uk
+    tel:
+      - 01483 511669
+    latitude:
+      - 51.234786
+    longitude:
+      - -0.571564
+    street-address:
+      - 4 Tunsgate
+    locality:
+      - Guildford
+    region:
+      - Surrey
+    country-name:
+      - United Kingdom
+    postal-code:
+      - GU1 3QT
+  value: >
+    https://foursquare.com/v/5abf9b545f68b97e45e10847
+
+----
+
+Date: 2023-12-28 13:45:00
+
+----
+
+Uid: 4013
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: broken-clouds
+
+----
+
+Temperature: 12°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: U504tw1a6kzgngIb

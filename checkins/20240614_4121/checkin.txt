@@ -1,0 +1,95 @@
+Title: June 14th, 2024
+
+----
+
+Text: Checked in at Eventim Apollo
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/666c93f0b1a1f5704dcc72eb
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Eventim Apollo
+    url:
+      - >
+        https://foursquare.com/v/4ae19e32f964a520708621e3
+      - https://www.eventimapollo.com
+      - https://twitter.com/eventimapollo
+    tel:
+      - 0844 249 4300
+    latitude:
+      - '51.490729476131'
+    longitude:
+      - '-0.22442579269409'
+    street-address:
+      - 45 Queen Caroline St
+    locality:
+      - London
+    region:
+      - Greater London
+    country-name:
+      - United Kingdom
+    postal-code:
+      - W6 9QH
+  value: >
+    https://foursquare.com/v/4ae19e32f964a520708621e3
+
+----
+
+Date: 2024-06-14 20:05:00
+
+----
+
+Uid: 4121
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: broken-clouds
+
+----
+
+Temperature: 16°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: Rd1tRpwCFOHXyEDJ

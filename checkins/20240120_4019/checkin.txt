@@ -1,0 +1,91 @@
+Title: January 20th, 2024
+
+----
+
+Text: Checked in at d1
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/65abb6cf2c7348748ab787f4
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - d1
+    url:
+      - >
+        https://foursquare.com/v/513f199ee4b05551e578faca
+    latitude:
+      - 51.524799
+    longitude:
+      - -0.176117
+    street-address:
+      - Aberdeen Place
+    locality:
+      - Maida Vale
+    region:
+      - Greater London
+    country-name:
+      - United Kingdom
+    postal-code:
+      - NW8 8JN
+  value: >
+    https://foursquare.com/v/513f199ee4b05551e578faca
+
+----
+
+Date: 2024-01-20 12:05:00
+
+----
+
+Uid: 4019
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: clear-sky
+
+----
+
+Temperature: 5°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: EJ8VMEzH76yH04DC

@@ -1,0 +1,95 @@
+Title: May 18th, 2024
+
+----
+
+Text: Checked in at Sacro Cuore
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/6648b396c102472291a20695
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Sacro Cuore
+    url:
+      - >
+        https://foursquare.com/v/500412ffe4b0cad517a3ac39
+      - http://www.sacrocuore.co.uk
+      - https://twitter.com/sacrocuorepizza
+    tel:
+      - 020 8960 8558
+    latitude:
+      - '51.532032741325'
+    longitude:
+      - '-0.21745364089091'
+    street-address:
+      - 45 Chamberlayne Rd
+    locality:
+      - London
+    region:
+      - Greater London
+    country-name:
+      - United Kingdom
+    postal-code:
+      - NW10 3NB
+  value: >
+    https://foursquare.com/v/500412ffe4b0cad517a3ac39
+
+----
+
+Date: 2024-05-18 14:55:00
+
+----
+
+Uid: 4096
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: broken-clouds
+
+----
+
+Temperature: 18°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: S1zO9mfITIb3eBrE

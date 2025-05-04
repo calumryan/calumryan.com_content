@@ -1,0 +1,95 @@
+Title: September 13th, 2024
+
+----
+
+Text: Checked in at Tomo Pizzeria & Restaurant
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/66e48c0305117363770ed4f2
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - 'Tomo Pizzeria & Restaurant'
+    url:
+      - >
+        https://foursquare.com/v/4c1279cbb7b9c92870dba737
+      - http://www.tomopizzeria.com
+      - https://twitter.com/tomo_n8
+    tel:
+      - 020 8348 0099
+    latitude:
+      - 51.587770892577
+    longitude:
+      - '-0.11700790705601'
+    street-address:
+      - 88 High St
+    locality:
+      - Hornsey
+    region:
+      - Greater London
+    country-name:
+      - United Kingdom
+    postal-code:
+      - N8 7NU
+  value: >
+    https://foursquare.com/v/4c1279cbb7b9c92870dba737
+
+----
+
+Date: 2024-09-13 20:00:00
+
+----
+
+Uid: 4137
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: scattered-clouds
+
+----
+
+Temperature: 12°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: McTvEBa7dkwHfVsU

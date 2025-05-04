@@ -1,0 +1,93 @@
+Title: April 10th, 2024
+
+----
+
+Text: Checked in at Hotel Apacheta
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/66168d63014ad51e4dfe75de
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Hotel Apacheta
+    url:
+      - >
+        https://foursquare.com/v/5730ff20498ed5592bf1d356
+      - http://www.hotelapacheta.com
+      - https://twitter.com/hotelapacheta
+    tel:
+      - (58) 249 4470
+    latitude:
+      - -18.491927
+    longitude:
+      - -70.328359
+    street-address:
+      - Av. Cmdte. San Martín 661
+    locality:
+      - Arica
+    region:
+      - Arica y Parinacota
+    country-name:
+      - Chile
+  value: >
+    https://foursquare.com/v/5730ff20498ed5592bf1d356
+
+----
+
+Date: 2024-04-10 09:00:00
+
+----
+
+Uid: 4082
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: overcast-clouds
+
+----
+
+Temperature: 21°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: xRoW0j0jcV9YXoLb

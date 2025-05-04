@@ -1,0 +1,92 @@
+Title: February 10th, 2024
+
+----
+
+Text: Checked in at Feel Good Club
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/65c7961980d960000f61f4cf
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Feel Good Club
+    url:
+      - >
+        https://foursquare.com/v/5f996ac135e0607325b4eb0b
+      - https://www.feelgoodclub.co
+    latitude:
+      - 53.481671
+    longitude:
+      - -2.232297
+    street-address:
+      - 26-28 Hilton St
+    locality:
+      - Manchester
+    region:
+      - Greater Manchester
+    country-name:
+      - United Kingdom
+    postal-code:
+      - M1 2EH
+  value: >
+    https://foursquare.com/v/5f996ac135e0607325b4eb0b
+
+----
+
+Date: 2024-02-10 15:30:00
+
+----
+
+Uid: 4026
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: few-clouds
+
+----
+
+Temperature: 10°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: DGlTF3z9o2E2MteT

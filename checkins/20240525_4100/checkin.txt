@@ -1,0 +1,94 @@
+Title: May 25th, 2024
+
+----
+
+Text: Checked in at Centimeter II
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/66523d1762d7500c6d4d6c5b
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Centimeter II
+    url:
+      - >
+        https://foursquare.com/v/4b5c56faf964a520982b29e3
+      - http://www.centimeter.at
+    tel:
+      - 01 470060642
+    latitude:
+      - '48.202590112566'
+    longitude:
+      - '16.354677895639'
+    street-address:
+      - Stiftgasse 4
+    locality:
+      - Vienna
+    region:
+      - Vienna
+    country-name:
+      - Austria
+    postal-code:
+      - "1070"
+  value: >
+    https://foursquare.com/v/4b5c56faf964a520982b29e3
+
+----
+
+Date: 2024-05-25 21:35:00
+
+----
+
+Uid: 4100
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: clear-sky
+
+----
+
+Temperature: 17°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: 8pMX9D3nJ96eB8pF

@@ -1,0 +1,89 @@
+Title: March 24th, 2024
+
+----
+
+Text: Checked in at Cosy Moose
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/66001bb17a7d191a48f151cc
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Cosy Moose
+    url:
+      - >
+        https://foursquare.com/v/6017e548e3452c1203d760f3
+    latitude:
+      - 51.231602
+    longitude:
+      - -0.332804
+    locality:
+      - Dorking
+    region:
+      - Surrey
+    country-name:
+      - United Kingdom
+    postal-code:
+      - RH4 1AR
+  value: >
+    https://foursquare.com/v/6017e548e3452c1203d760f3
+
+----
+
+Date: 2024-03-24 12:25:00
+
+----
+
+Uid: 4055
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: scattered-clouds
+
+----
+
+Temperature: 11°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: BYHhkafX05bWagcc

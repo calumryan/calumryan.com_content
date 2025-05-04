@@ -1,0 +1,97 @@
+Title: May 31st, 2024
+
+----
+
+Text: Checked in at Naples International Airport (NAP) (Aeroporto Internazionale di Napoli Capodichino)
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/665a3fa5fcc8d21b494b8ad4
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - >
+        Naples International Airport (NAP)
+        (Aeroporto Internazionale di Napoli
+        Capodichino)
+    url:
+      - >
+        https://foursquare.com/v/4c68f0358d22c9286d05b645
+      - https://www.aeroportodinapoli.it
+    tel:
+      - 081 789 6111
+    latitude:
+      - '40.8779200623'
+    longitude:
+      - '14.282769346371'
+    street-address:
+      - Viale Fulco Ruffo di Calabria
+    locality:
+      - Naples
+    region:
+      - Campania
+    country-name:
+      - Italy
+    postal-code:
+      - "80144"
+  value: >
+    https://foursquare.com/v/4c68f0358d22c9286d05b645
+
+----
+
+Date: 2024-05-31 23:25:00
+
+----
+
+Uid: 4104
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: scattered-clouds
+
+----
+
+Temperature: 19°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: 1WAf97OONPBS2x1t

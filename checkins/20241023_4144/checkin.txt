@@ -1,0 +1,85 @@
+Title: October 23rd, 2024
+
+----
+
+Text: Checked in at Piccadilly Gate
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/6718b5b163f35e7aec2ead5a
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Piccadilly Gate
+    url:
+      - >
+        https://foursquare.com/v/4d57aa921901224b529981a6
+    latitude:
+      - '53.478212733962'
+    longitude:
+      - '-2.2299113063793'
+    locality:
+      - Manchester
+    country-name:
+      - United Kingdom
+  value: >
+    https://foursquare.com/v/4d57aa921901224b529981a6
+
+----
+
+Date: 2024-10-23 09:35:00
+
+----
+
+Uid: 4144
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: few-clouds
+
+----
+
+Temperature: 12°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: KoZsYNPT1aOwzH8z

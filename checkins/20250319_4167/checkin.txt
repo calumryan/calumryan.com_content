@@ -1,0 +1,98 @@
+Title: March 19th, 2025
+
+----
+
+Text: Checked in at Holiday Inn Express
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/67db3d602a62534e2464a438
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Holiday Inn Express
+    url:
+      - >
+        https://foursquare.com/v/4c17ddae838020a10855e361
+      - >
+        https://www.ihg.com/holidayinnexpress/hotels/gb/en/neath/swssa/hoteldetail
+      - https://twitter.com/hiexpress
+    tel:
+      - 0371 902 1630
+    latitude:
+      - '51.647664714034'
+    longitude:
+      - '-3.849970046627'
+    street-address:
+      - >
+        B4290 (Llandarcy To Jersey Marine),
+        Llandarcy
+    locality:
+      - Neath
+    region:
+      - Neath and Port Talbot
+    country-name:
+      - United Kingdom
+    postal-code:
+      - SA10 6GZ
+  value: >
+    https://foursquare.com/v/4c17ddae838020a10855e361
+
+----
+
+Date: 2025-03-19 21:55:00
+
+----
+
+Uid: 4167
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: broken-clouds
+
+----
+
+Temperature: 9°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: b3pp9iLskTsQrnmG

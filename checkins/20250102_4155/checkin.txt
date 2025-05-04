@@ -1,0 +1,95 @@
+Title: January 2nd, 2025
+
+----
+
+Text: Checked in at Coffee #1
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/6776b7ed6dccf21eb49a92ce
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - 'Coffee #1'
+    url:
+      - >
+        https://foursquare.com/v/53a2ef25498e3e065fb4977e
+      - https://www.coffee1.co.uk
+      - https://twitter.com/coffeenumber1
+    tel:
+      - 023 9283 8301
+    latitude:
+      - '50.785572985051'
+    longitude:
+      - '-1.0883004017905'
+    street-address:
+      - 39 Palmerston Rd
+    locality:
+      - Southsea
+    region:
+      - Hampshire
+    country-name:
+      - United Kingdom
+    postal-code:
+      - PO5 3QQ
+  value: >
+    https://foursquare.com/v/53a2ef25498e3e065fb4977e
+
+----
+
+Date: 2025-01-02 16:00:00
+
+----
+
+Uid: 4155
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: clear-sky
+
+----
+
+Temperature: 4°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: Y7aSlVIyvZWE6DVB

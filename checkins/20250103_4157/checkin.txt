@@ -1,0 +1,91 @@
+Title: January 3rd, 2025
+
+----
+
+Text: Checked in at Vincenzo’s
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/6777fd1ebb1c695b32dbc735
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Vincenzo’s
+    url:
+      - >
+        https://foursquare.com/v/63f27f322a4b5d39e8d25cf6
+    latitude:
+      - '51.6451341699'
+    longitude:
+      - '-0.36712676888512'
+    street-address:
+      - 42 Hugh Street
+    locality:
+      - Bushey
+    region:
+      - Hertfordshire
+    country-name:
+      - United Kingdom
+    postal-code:
+      - WD23 4DW
+  value: >
+    https://foursquare.com/v/63f27f322a4b5d39e8d25cf6
+
+----
+
+Date: 2025-01-03 15:05:00
+
+----
+
+Uid: 4157
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: few-clouds
+
+----
+
+Temperature: 4°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: zgSgtIhWdMBcZKqP

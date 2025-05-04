@@ -1,0 +1,95 @@
+Title: March 10th, 2024
+
+----
+
+Text: Checked in at Lucky Beach
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/65edb8fe7a124a5c16a338be
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Lucky Beach
+    url:
+      - >
+        https://foursquare.com/v/5172c401e4b04648d9683416
+      - http://luckybeach.co.uk
+      - https://twitter.com/luckybrighton
+    tel:
+      - 01273 728280
+    latitude:
+      - '50.820058402417'
+    longitude:
+      - '-0.14301880835686'
+    street-address:
+      - 183 Kings Road Arches
+    locality:
+      - Brighton
+    region:
+      - East Sussex
+    country-name:
+      - United Kingdom
+    postal-code:
+      - BN1 1NB
+  value: >
+    https://foursquare.com/v/5172c401e4b04648d9683416
+
+----
+
+Date: 2024-03-10 13:45:00
+
+----
+
+Uid: 4047
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: light-rain
+
+----
+
+Temperature: 10°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: ykDCJhvY3lZtWt2F

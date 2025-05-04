@@ -1,0 +1,93 @@
+Title: June 10th, 2024
+
+----
+
+Text: Checked in at OMG! Burger
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/6666f9f106e8c009dd04774e
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - OMG! Burger
+    url:
+      - >
+        https://foursquare.com/v/5e24adc3ad8f830007503d9a
+    tel:
+      - 020 341 9158
+    latitude:
+      - '52.376077298626'
+    longitude:
+      - '4.8937199755506'
+    street-address:
+      - Nieuwezijds Voorburgwal 41
+    locality:
+      - Amsterdam
+    region:
+      - North Holland
+    country-name:
+      - Netherlands
+    postal-code:
+      - 1012 RD
+  value: >
+    https://foursquare.com/v/5e24adc3ad8f830007503d9a
+
+----
+
+Date: 2024-06-10 15:05:00
+
+----
+
+Uid: 4120
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: broken-clouds
+
+----
+
+Temperature: 14°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: jWquUigmGL5g0DkR

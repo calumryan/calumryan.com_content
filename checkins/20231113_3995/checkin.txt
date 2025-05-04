@@ -1,0 +1,94 @@
+Title: November 13th, 2023
+
+----
+
+Text: Checked in at HSBC Group HQ
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/65527c20b372a41dbb278c7c
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - HSBC Group HQ
+    url:
+      - >
+        https://foursquare.com/v/4b164e93f964a52020b823e3
+      - http://www.hsbc.co.uk
+    tel:
+      - 020 7991 8888
+    latitude:
+      - '51.505316928856'
+    longitude:
+      - '-0.017630432013277'
+    street-address:
+      - 8 Canada Square
+    locality:
+      - Canary Wharf
+    region:
+      - Greater London
+    country-name:
+      - United Kingdom
+    postal-code:
+      - E14 5HQ
+  value: >
+    https://foursquare.com/v/4b164e93f964a52020b823e3
+
+----
+
+Date: 2023-11-13 19:40:00
+
+----
+
+Uid: 3995
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: broken-clouds
+
+----
+
+Temperature: 13°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: MqBa0oiloQbfo7zZ

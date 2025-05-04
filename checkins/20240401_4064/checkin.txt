@@ -1,0 +1,93 @@
+Title: April 1st, 2024
+
+----
+
+Text: Checked in at Santa Isabel
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/660979a1e1f3c415cc55ff6f
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Santa Isabel
+    url:
+      - >
+        https://foursquare.com/v/4b5f61c6f964a52028b729e3
+      - http://wwwsantaisabelcl
+      - https://twitter.com/santaisabelcl
+    tel:
+      - 600 400 2000
+    latitude:
+      - '-33.422550622802'
+    longitude:
+      - '-70.610987194639'
+    street-address:
+      - Providencia 2178
+    locality:
+      - Providencia
+    region:
+      - Santiago Metropolitan
+    country-name:
+      - Chile
+  value: >
+    https://foursquare.com/v/4b5f61c6f964a52028b729e3
+
+----
+
+Date: 2024-03-31 11:55:00
+
+----
+
+Uid: 4064
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: broken-clouds
+
+----
+
+Temperature: 25°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: LaBjPIpFRWNodUUZ

@@ -1,0 +1,95 @@
+Title: December 8th, 2023
+
+----
+
+Text: Checked in at London Gatwick Airport (LGW)
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/6572bd60e73c8d5affb7c4cb
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - London Gatwick Airport (LGW)
+    url:
+      - >
+        https://foursquare.com/v/4acdc2b2f964a520f0cc20e3
+      - https://www.gatwickairport.com
+      - https://twitter.com/gatwick_airport
+    tel:
+      - 0344 892 0322
+    latitude:
+      - '51.158703779449'
+    longitude:
+      - '-0.17425775527954'
+    street-address:
+      - A23 Airport Way
+    locality:
+      - Crawley
+    region:
+      - West Sussex
+    country-name:
+      - United Kingdom
+    postal-code:
+      - RH6 0NP
+  value: >
+    https://foursquare.com/v/4acdc2b2f964a520f0cc20e3
+
+----
+
+Date: 2023-12-08 06:55:00
+
+----
+
+Uid: 4003
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: fog
+
+----
+
+Temperature: 6°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: M4HY8V3sWwb15c1Q

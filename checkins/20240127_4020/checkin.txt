@@ -1,0 +1,94 @@
+Title: January 27th, 2024
+
+----
+
+Text: Checked in at doppio
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/65b4e23dd8d54a7ba761a430
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - doppio
+    url:
+      - >
+        https://foursquare.com/v/5728c542498ef5a45ac2b704
+      - http://www.doppiocoffee.co.uk
+    tel:
+      - 020 7924 4033
+    latitude:
+      - '51.470668798564'
+    longitude:
+      - '-0.1703943274916'
+    street-address:
+      - 336 Battersea Park Rd
+    locality:
+      - London
+    region:
+      - Greater London
+    country-name:
+      - United Kingdom
+    postal-code:
+      - SW11 3BY
+  value: >
+    https://foursquare.com/v/5728c542498ef5a45ac2b704
+
+----
+
+Date: 2024-01-27 11:00:00
+
+----
+
+Uid: 4020
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: clear-sky
+
+----
+
+Temperature: 6°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: RhaGkFKQDK5IrdfM

@@ -1,0 +1,94 @@
+Title: December 13th, 2024
+
+----
+
+Text: Checked in at Vicoli Di Napoli
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/675c879c8636735c53da2fc2
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Vicoli Di Napoli
+    url:
+      - >
+        https://foursquare.com/v/5c969185c21cb1003995a380
+      - https://www.vicolidinapoli.co.uk
+    tel:
+      - 020 7687 0009
+    latitude:
+      - 51.562044
+    longitude:
+      - -0.080393
+    street-address:
+      - 125 Stoke Newington
+    locality:
+      - London
+    region:
+      - Greater London
+    country-name:
+      - United Kingdom
+    postal-code:
+      - N16 0UH
+  value: >
+    https://foursquare.com/v/5c969185c21cb1003995a380
+
+----
+
+Date: 2024-12-13 19:15:00
+
+----
+
+Uid: 4151
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: overcast-clouds
+
+----
+
+Temperature: 4°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: tHdUWNemSqV01SRn

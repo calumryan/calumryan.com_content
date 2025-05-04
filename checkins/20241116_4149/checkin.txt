@@ -1,0 +1,95 @@
+Title: November 16th, 2024
+
+----
+
+Text: Checked in at The Dynamo
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/67388a5dd6c04010c83eb210
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - The Dynamo
+    url:
+      - >
+        https://foursquare.com/v/566e9b96498e6032a15173dc
+      - http://www.the-dynamo.co.uk
+      - https://twitter.com/wearethedynamo
+    tel:
+      - 020 8704 1911
+    latitude:
+      - '51.46413595416'
+    longitude:
+      - '-0.21262198282382'
+    street-address:
+      - 200-204 Putney Bridge Rd
+    locality:
+      - London
+    region:
+      - Greater London
+    country-name:
+      - United Kingdom
+    postal-code:
+      - SW15 2NA
+  value: >
+    https://foursquare.com/v/566e9b96498e6032a15173dc
+
+----
+
+Date: 2024-11-16 12:05:00
+
+----
+
+Uid: 4149
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: overcast-clouds
+
+----
+
+Temperature: 10°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: WB2tYJ8YZfeLm1zg

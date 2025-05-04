@@ -1,0 +1,95 @@
+Title: November 17th, 2023
+
+----
+
+Text: Checked in at Bean and Hop
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/65572e9eded4f37d6397922f
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Bean and Hop
+    url:
+      - >
+        https://foursquare.com/v/4f2d3eabe4b0bd78b696cd07
+      - http://www.beanandhop.co.uk
+      - https://twitter.com/beanandhop
+    tel:
+      - 020 7998 6584
+    latitude:
+      - '51.439808104735'
+    longitude:
+      - '-0.18685705385833'
+    street-address:
+      - 424 Garratt Ln
+    locality:
+      - London
+    region:
+      - Greater London
+    country-name:
+      - United Kingdom
+    postal-code:
+      - SW18 4HN
+  value: >
+    https://foursquare.com/v/4f2d3eabe4b0bd78b696cd07
+
+----
+
+Date: 2023-11-17 09:15:00
+
+----
+
+Uid: 3996
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: clear-sky
+
+----
+
+Temperature: 5°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: KstnptudDtJhMdQy

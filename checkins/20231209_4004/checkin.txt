@@ -1,0 +1,89 @@
+Title: December 9th, 2023
+
+----
+
+Text: Checked in at Dublin One Hotel
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/6573726aa3d23d756698f93c
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Dublin One Hotel
+    url:
+      - >
+        https://foursquare.com/v/6248a02357b72470ccad3da6
+    latitude:
+      - '53.359858022428'
+    longitude:
+      - '-6.2608109408441'
+    street-address:
+      - 493-511 North Circular Road
+    locality:
+      - Dublin
+    country-name:
+      - Ireland
+    postal-code:
+      - D01 A2Y5
+  value: >
+    https://foursquare.com/v/6248a02357b72470ccad3da6
+
+----
+
+Date: 2023-12-08 19:45:00
+
+----
+
+Uid: 4004
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: broken-clouds
+
+----
+
+Temperature: 10°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: 22KlKteGL2JdNROh

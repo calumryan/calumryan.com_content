@@ -1,0 +1,95 @@
+Title: January 12th, 2025
+
+----
+
+Text: Checked in at Cafe Brera
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/6783bd692818c945cbb571a8
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Cafe Brera
+    url:
+      - >
+        https://foursquare.com/v/4b421ca9f964a520f7cc25e3
+      - https://www.cafebrera.com
+      - https://twitter.com/cafe_brera
+    tel:
+      - 020 3828 0653
+    latitude:
+      - '51.505933044412'
+    longitude:
+      - '-0.027820022066977'
+    street-address:
+      - 31 Westferry Circus
+    locality:
+      - Canary Wharf
+    region:
+      - Greater London
+    country-name:
+      - United Kingdom
+    postal-code:
+      - E14 8RR
+  value: >
+    https://foursquare.com/v/4b421ca9f964a520f7cc25e3
+
+----
+
+Date: 2025-01-12 13:05:00
+
+----
+
+Uid: 4159
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: overcast-clouds
+
+----
+
+Temperature: 2°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: dHi2eIT1KRv1QIA0

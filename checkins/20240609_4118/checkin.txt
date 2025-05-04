@@ -1,0 +1,91 @@
+Title: June 9th, 2024
+
+----
+
+Text: Checked in at d&a hummus bistro
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/6665a4a2cde9d6715987bb46
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - 'd&a hummus bistro'
+    url:
+      - >
+        https://foursquare.com/v/60e9f7efc14a3b0915ad0652
+    latitude:
+      - '52.344924675743'
+    longitude:
+      - '4.8947231435963'
+    street-address:
+      - Maasstraat 72
+    locality:
+      - Amsterdam
+    region:
+      - North Holland
+    country-name:
+      - Netherlands
+    postal-code:
+      - 1078 HL
+  value: >
+    https://foursquare.com/v/60e9f7efc14a3b0915ad0652
+
+----
+
+Date: 2024-06-09 14:50:00
+
+----
+
+Uid: 4118
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: scattered-clouds
+
+----
+
+Temperature: 16°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: zy1O34lM6dNXRAmK

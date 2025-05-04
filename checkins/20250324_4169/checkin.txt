@@ -1,0 +1,95 @@
+Title: March 24th, 2025
+
+----
+
+Text: Checked in at Maison Du Velo
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/67dfd08ac3c1dc48c44d78f4
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Maison Du Velo
+    url:
+      - >
+        https://foursquare.com/v/51f51600498eb42cc7aa92a5
+      - http://www.maisonduvelo.cc
+      - https://twitter.com/maisonduvelouk
+    tel:
+      - 01737 241188
+    latitude:
+      - '51.233852566653'
+    longitude:
+      - '-0.1997631677499'
+    street-address:
+      - The Old School House, 4 Effingham Road
+    locality:
+      - Surrey
+    region:
+      - Surrey
+    country-name:
+      - United Kingdom
+    postal-code:
+      - RH2 7JS
+  value: >
+    https://foursquare.com/v/51f51600498eb42cc7aa92a5
+
+----
+
+Date: 2025-03-23 09:15:00
+
+----
+
+Uid: 4169
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: broken-clouds
+
+----
+
+Temperature: 8°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: 4BOKf0auFXMtn6XI

@@ -1,0 +1,94 @@
+Title: February 28th, 2025
+
+----
+
+Text: Checked in at Little Georgia
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/67c211a5aecc8c1ef47a3707
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Little Georgia
+    url:
+      - >
+        https://foursquare.com/v/4eb82717d3e3644ca75c9559
+      - http://www.littlegeorgia.co.uk
+    tel:
+      - 020 7278 6100
+    latitude:
+      - '51.534342855707'
+    longitude:
+      - '-0.11133233985507'
+    street-address:
+      - 14 Barnsbury Rd
+    locality:
+      - London
+    region:
+      - Greater London
+    country-name:
+      - United Kingdom
+    postal-code:
+      - N1 0HB
+  value: >
+    https://foursquare.com/v/4eb82717d3e3644ca75c9559
+
+----
+
+Date: 2025-02-28 19:40:00
+
+----
+
+Uid: 4165
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: clear-sky
+
+----
+
+Temperature: 6°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: W70irNy9Rnn1Zsbs

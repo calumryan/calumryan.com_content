@@ -1,0 +1,93 @@
+Title: April 26th, 2025
+
+----
+
+Text: Checked in at Novotel Leeds Centre
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/680404b556ad060b1a8034db
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Novotel Leeds Centre
+    url:
+      - >
+        https://foursquare.com/v/4b6b4e55f964a520a3ff2be3
+      - >
+        https://all.accor.com/hotel/3270/index.en.shtml?y_source=1_MTMwMTE2OTYtNDQwLWxvY2F0aW9uLndlYnNpdGU=
+    tel:
+      - 0113 396 9001
+    latitude:
+      - '53.795375348848'
+    longitude:
+      - '-1.5529217288361'
+    street-address:
+      - 4 Whitehall quay
+    locality:
+      - Leeds
+    country-name:
+      - United Kingdom
+    postal-code:
+      - LS1 4HR
+  value: >
+    https://foursquare.com/v/4b6b4e55f964a520a3ff2be3
+
+----
+
+Date: 2025-04-19 21:15:00
+
+----
+
+Uid: 4176
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: clear-sky
+
+----
+
+Temperature: 7°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: QBx8AavAT7oRZOoB

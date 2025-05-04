@@ -1,0 +1,95 @@
+Title: February 10th, 2024
+
+----
+
+Text: Checked in at Manchester Art Gallery
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/65c764d94d52073f6ff12ee7
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Manchester Art Gallery
+    url:
+      - >
+        https://foursquare.com/v/4ade0e12f964a520a06e21e3
+      - http://www.manchestergalleries.org
+      - https://twitter.com/mcrartgallery
+    tel:
+      - 0161 235 8888
+    latitude:
+      - '53.47888163453'
+    longitude:
+      - '-2.2418171693463'
+    street-address:
+      - Mosley St
+    locality:
+      - Manchester
+    region:
+      - Greater Manchester
+    country-name:
+      - United Kingdom
+    postal-code:
+      - M2 3JL
+  value: >
+    https://foursquare.com/v/4ade0e12f964a520a06e21e3
+
+----
+
+Date: 2024-02-10 12:00:00
+
+----
+
+Uid: 4025
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: few-clouds
+
+----
+
+Temperature: 8°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: zK5ZsFxjYuH4gi1j

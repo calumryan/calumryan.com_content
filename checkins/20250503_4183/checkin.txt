@@ -1,0 +1,95 @@
+Title: May 3rd, 2025
+
+----
+
+Text: Checked in at Plaza Pastor
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/6815ffbf2732eb22bce5b9a2
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Plaza Pastor
+    url:
+      - >
+        https://foursquare.com/v/5bd4b579b5cb76002cacd360
+      - http://www.tacoselpastor.co.uk
+      - https://twitter.com/tacos_el_pastor
+    tel:
+      - 020 7018 3335
+    latitude:
+      - '51.53586553878'
+    longitude:
+      - '-0.12680881772673'
+    street-address:
+      - Coal Drops Yard
+    locality:
+      - "King's Cross"
+    region:
+      - Greater London
+    country-name:
+      - United Kingdom
+    postal-code:
+      - N1C 4DQ
+  value: >
+    https://foursquare.com/v/5bd4b579b5cb76002cacd360
+
+----
+
+Date: 2025-05-03 12:35:00
+
+----
+
+Uid: 4183
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: broken-clouds
+
+----
+
+Temperature: 19°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: LvXF37nwVZhCXRN1

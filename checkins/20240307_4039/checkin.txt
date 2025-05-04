@@ -1,0 +1,95 @@
+Title: March 7th, 2024
+
+----
+
+Text: Checked in at Hare & Hounds
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/65ea0632b3548670f2cd214e
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - 'Hare & Hounds'
+    url:
+      - >
+        https://foursquare.com/v/518e522f498e6afb48db14ad
+      - http://www.thehareandhounds.pub
+      - https://twitter.com/harehoundsbtn
+    tel:
+      - 01273 682839
+    latitude:
+      - '50.833445623542'
+    longitude:
+      - '-0.13855268180019'
+    street-address:
+      - 75 London Rd
+    locality:
+      - Brighton
+    region:
+      - East Sussex
+    country-name:
+      - United Kingdom
+    postal-code:
+      - BN1 4JF
+  value: >
+    https://foursquare.com/v/518e522f498e6afb48db14ad
+
+----
+
+Date: 2024-03-07 18:25:00
+
+----
+
+Uid: 4039
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: clear-sky
+
+----
+
+Temperature: 8°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: eLPMZoo4lQ0wNIxf

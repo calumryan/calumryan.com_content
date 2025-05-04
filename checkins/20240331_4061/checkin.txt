@@ -1,0 +1,95 @@
+Title: March 31st, 2024
+
+----
+
+Text: Checked in at De la Ostia
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/6608ace67d9e451f822ac307
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - De la Ostia
+    url:
+      - >
+        https://foursquare.com/v/4b44cfe5f964a520f0fc25e3
+      - http://www.delaostia.cl
+      - https://twitter.com/delaostia_cl
+    tel:
+      - (2) 2335 1422
+    latitude:
+      - -33.4225525
+    longitude:
+      - -70.6123937
+    street-address:
+      - Orrego Luco 065
+    locality:
+      - Providencia
+    region:
+      - Santiago Metropolitan
+    country-name:
+      - Chile
+    postal-code:
+      - "7500000"
+  value: >
+    https://foursquare.com/v/4b44cfe5f964a520f0fc25e3
+
+----
+
+Date: 2024-03-30 21:25:00
+
+----
+
+Uid: 4061
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: clear-sky
+
+----
+
+Temperature: 26°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: jSaodvSZJ2v1CRC7

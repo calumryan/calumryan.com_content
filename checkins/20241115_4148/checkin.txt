@@ -1,0 +1,95 @@
+Title: November 15th, 2024
+
+----
+
+Text: Checked in at The Press Room
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/67374b45d2fb5a24936e2b42
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - The Press Room
+    url:
+      - >
+        https://foursquare.com/v/55b0d57f498e4c4d9b341100
+      - http://pressroomcoffee.co.uk
+      - https://twitter.com/pressroomcafe
+    tel:
+      - 020 8617 9600
+    latitude:
+      - '51.447573075347'
+    longitude:
+      - '-0.32881526768395'
+    street-address:
+      - 29 London Rd
+    locality:
+      - Twickenham
+    region:
+      - Greater London
+    country-name:
+      - United Kingdom
+    postal-code:
+      - TW1 3SZ
+  value: >
+    https://foursquare.com/v/55b0d57f498e4c4d9b341100
+
+----
+
+Date: 2024-11-15 13:25:00
+
+----
+
+Uid: 4148
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: broken-clouds
+
+----
+
+Temperature: 10°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: 9D0iKyAGbPz2mPZa

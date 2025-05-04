@@ -1,0 +1,94 @@
+Title: March 5th, 2024
+
+----
+
+Text: Checked in at East Central Barbering Co
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/65e75695f02f4d067fe0a892
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - East Central Barbering Co
+    url:
+      - >
+        https://foursquare.com/v/62586069c21df16eab602b09
+      - http://www.eastcentralbarberingco.com
+    tel:
+      - 020 7837 0171
+    latitude:
+      - 51.52914
+    longitude:
+      - -0.1104242
+    street-address:
+      - 33 Amwell Street
+    locality:
+      - London
+    region:
+      - Greater London
+    country-name:
+      - United Kingdom
+    postal-code:
+      - EC1R 1UR
+  value: >
+    https://foursquare.com/v/62586069c21df16eab602b09
+
+----
+
+Date: 2024-03-05 17:30:00
+
+----
+
+Uid: 4035
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: overcast-clouds
+
+----
+
+Temperature: 9°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: elp0tQw9JuylFTqU

@@ -1,0 +1,95 @@
+Title: October 20th, 2024
+
+----
+
+Text: Checked in at Victoria and Albert Museum (V&A)
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/6714fc1efabc511ee68df336
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - 'Victoria and Albert Museum (V&A)'
+    url:
+      - >
+        https://foursquare.com/v/4ae2d9f8f964a5208d8f21e3
+      - http://www.vam.ac.uk
+      - https://twitter.com/v_and_a
+    tel:
+      - 020 7942 2000
+    latitude:
+      - '51.496425623301'
+    longitude:
+      - '-0.17209288958775'
+    street-address:
+      - Cromwell Rd
+    locality:
+      - London
+    region:
+      - Greater London
+    country-name:
+      - United Kingdom
+    postal-code:
+      - SW7 2RL
+  value: >
+    https://foursquare.com/v/4ae2d9f8f964a5208d8f21e3
+
+----
+
+Date: 2024-10-20 13:50:00
+
+----
+
+Uid: 4142
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: overcast-clouds
+
+----
+
+Temperature: 17°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: wky8XeJ3T0Pwf69a

@@ -1,0 +1,91 @@
+Title: April 3rd, 2024
+
+----
+
+Text: Checked in at Empanadas Las Deliciosas
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/660d9d222cf8740bccd566bf
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Empanadas Las Deliciosas
+    url:
+      - >
+        https://foursquare.com/v/4b6de23af964a52092982ce3
+    tel:
+      - 9 9506 3738
+    latitude:
+      - '-32.921084156344'
+    longitude:
+      - '-71.508091486749'
+    street-address:
+      - Av. Borgoño 25370
+    locality:
+      - Concón
+    region:
+      - Valparaíso
+    country-name:
+      - Chile
+  value: >
+    https://foursquare.com/v/4b6de23af964a52092982ce3
+
+----
+
+Date: 2024-04-03 15:15:00
+
+----
+
+Uid: 4068
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: broken-clouds
+
+----
+
+Temperature: 22°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: hfcscprxMpAD1qAw

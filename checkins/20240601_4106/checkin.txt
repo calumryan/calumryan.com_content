@@ -1,0 +1,93 @@
+Title: June 1st, 2024
+
+----
+
+Text: Checked in at Pizzeria Laezza
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/665b1c1d515b432c27438a1e
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Pizzeria Laezza
+    url:
+      - >
+        https://foursquare.com/v/61083c98ccb3023c8021207f
+    tel:
+      - "+398119322748"
+    latitude:
+      - 40.839777
+    longitude:
+      - 14.24754
+    street-address:
+      - Via Speranzella, 125
+    locality:
+      - Naples
+    region:
+      - Campania
+    country-name:
+      - Italy
+    postal-code:
+      - "80132"
+  value: >
+    https://foursquare.com/v/61083c98ccb3023c8021207f
+
+----
+
+Date: 2024-06-01 15:05:00
+
+----
+
+Uid: 4106
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: broken-clouds
+
+----
+
+Temperature: 22°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: klPfbU3DTTSiTpCR

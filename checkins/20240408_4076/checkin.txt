@@ -1,0 +1,89 @@
+Title: April 8th, 2024
+
+----
+
+Text: Checked in at Maña Café
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/66142e244d7ac12f4ee5bbf4
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Maña Café
+    url:
+      - >
+        https://foursquare.com/v/66142e02e197e23c2da24eb2
+    latitude:
+      - -33.441757
+    longitude:
+      - -70.65568
+    locality:
+      - Santiago
+    region:
+      - Santiago Metropolitan
+    country-name:
+      - Chile
+    postal-code:
+      - "8340651"
+  value: >
+    https://foursquare.com/v/66142e02e197e23c2da24eb2
+
+----
+
+Date: 2024-04-08 13:50:00
+
+----
+
+Uid: 4076
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: clear-sky
+
+----
+
+Temperature: 25°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: zAS9OR6ApHJ47HRq

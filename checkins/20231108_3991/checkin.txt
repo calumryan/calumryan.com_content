@@ -1,0 +1,94 @@
+Title: November 8th, 2023
+
+----
+
+Text: Checked in at Chicos London Limited
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/654b879813bfa80b03268cea
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Chicos London Limited
+    url:
+      - >
+        https://foursquare.com/v/4fe8d0f086207e4fc19c5839
+      - http://chicoslondon.co.uk
+    tel:
+      - 020 3730 9534
+    latitude:
+      - 51.516999
+    longitude:
+      - -0.07005
+    street-address:
+      - 28 Osborn St
+    locality:
+      - London
+    region:
+      - Greater London
+    country-name:
+      - United Kingdom
+    postal-code:
+      - E1 6TD
+  value: >
+    https://foursquare.com/v/4fe8d0f086207e4fc19c5839
+
+----
+
+Date: 2023-11-08 13:05:00
+
+----
+
+Uid: 3991
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: light-rain
+
+----
+
+Temperature: 13°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: t1lP3u2FPkkuY3o7

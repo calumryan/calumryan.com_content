@@ -1,0 +1,91 @@
+Title: October 23rd, 2024
+
+----
+
+Text: Checked in at Great North Pie Co
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/6718da91c6a4ba6762af81e6
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Great North Pie Co
+    url:
+      - >
+        https://foursquare.com/v/63ff553e024b5f4c59337c0a
+      - https://greatnorthpie.co
+      - https://twitter.com/greatnorthpieco
+    latitude:
+      - '53.477517746819'
+    longitude:
+      - '-2.2348460555077'
+    street-address:
+      - Little David Street
+    locality:
+      - Manchester
+    country-name:
+      - United Kingdom
+    postal-code:
+      - M1 3GL
+  value: >
+    https://foursquare.com/v/63ff553e024b5f4c59337c0a
+
+----
+
+Date: 2024-10-23 12:15:00
+
+----
+
+Uid: 4143
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: few-clouds
+
+----
+
+Temperature: 12°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: Z7XOeCX4nYCZt2nw

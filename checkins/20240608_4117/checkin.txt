@@ -1,0 +1,94 @@
+Title: June 8th, 2024
+
+----
+
+Text: Checked in at India Roti Room
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/66648ae79a0cd90701fd5520
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - India Roti Room
+    url:
+      - >
+        https://foursquare.com/v/4a27089af964a52046911fe3
+      - http://indiarotiroom.nl/site
+    tel:
+      - 020 692 8628
+    latitude:
+      - '52.356212282767'
+    longitude:
+      - '4.9096974589989'
+    street-address:
+      - Eerste Oosterparkstraat 71
+    locality:
+      - Amsterdam
+    region:
+      - North Holland
+    country-name:
+      - Netherlands
+    postal-code:
+      - 1091 GW
+  value: >
+    https://foursquare.com/v/4a27089af964a52046911fe3
+
+----
+
+Date: 2024-06-08 18:45:00
+
+----
+
+Uid: 4117
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: shower-rain
+
+----
+
+Temperature: 14°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: iSGGzWhZVSEE5Jpt

@@ -1,0 +1,92 @@
+Title: May 1st, 2025
+
+----
+
+Text: Checked in at i-falafel
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/681358ec2bb1b86fcf4e22ed
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - i-falafel
+    url:
+      - >
+        https://foursquare.com/v/57ea660c498e4880dafff1fd
+      - http://ifalafel123.simplesite.com
+    tel:
+      - 07479 865005
+    latitude:
+      - '51.516017356279'
+    longitude:
+      - '-0.074950789733758'
+    locality:
+      - London
+    region:
+      - Greater London
+    country-name:
+      - United Kingdom
+    postal-code:
+      - E1 7TP
+  value: >
+    https://foursquare.com/v/57ea660c498e4880dafff1fd
+
+----
+
+Date: 2025-05-01 12:20:00
+
+----
+
+Uid: 4181
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: overcast-clouds
+
+----
+
+Temperature: 25°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: eGN7NUPTgqRJHOVe

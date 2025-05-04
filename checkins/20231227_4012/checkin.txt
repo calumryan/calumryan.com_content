@@ -1,0 +1,94 @@
+Title: December 27th, 2023
+
+----
+
+Text: Checked in at El Pastor
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/658c35697f344a240eb06cf5
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - El Pastor
+    url:
+      - >
+        https://foursquare.com/v/58518df6040d5329d9e6a51d
+      - http://www.tacoselpastor.co.uk
+    tel:
+      - 020 7440 1461
+    latitude:
+      - 51.505194
+    longitude:
+      - -0.091043
+    street-address:
+      - 6-7A Stoney St
+    locality:
+      - London
+    region:
+      - Greater London
+    country-name:
+      - United Kingdom
+    postal-code:
+      - SE1 9AA
+  value: >
+    https://foursquare.com/v/58518df6040d5329d9e6a51d
+
+----
+
+Date: 2023-12-27 14:30:00
+
+----
+
+Uid: 4012
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: moderate-rain
+
+----
+
+Temperature: 12°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: sOk1CQ7YSI52e6mp

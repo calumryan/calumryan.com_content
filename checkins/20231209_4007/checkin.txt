@@ -1,0 +1,95 @@
+Title: December 9th, 2023
+
+----
+
+Text: Checked in at Dublin Airport (DUB)
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/657477393669684f594157b8
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Dublin Airport (DUB)
+    url:
+      - >
+        https://foursquare.com/v/4ade0f75f964a520957221e3
+      - http://www.dublinairport.com
+      - https://twitter.com/dublinairport
+    tel:
+      - (01) 814 1111
+    latitude:
+      - '53.426766301912'
+    longitude:
+      - '-6.2435832753545'
+    street-address:
+      - Corballis Rd
+    locality:
+      - Dublin City
+    region:
+      - Dublin City
+    country-name:
+      - Ireland
+    postal-code:
+      - K67
+  value: >
+    https://foursquare.com/v/4ade0f75f964a520957221e3
+
+----
+
+Date: 2023-12-09 14:20:00
+
+----
+
+Uid: 4007
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: broken-clouds
+
+----
+
+Temperature: 11°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: FFplEIHC4ql4oTcR

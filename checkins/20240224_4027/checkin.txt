@@ -1,0 +1,92 @@
+Title: February 24th, 2024
+
+----
+
+Text: Checked in at Paul
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/65da12a26010872a583d59cc
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Paul
+    url:
+      - >
+        https://foursquare.com/v/4bc1c30974a9a593ec34d2f6
+      - https://www.paul-uk.com
+    latitude:
+      - '51.424859285779'
+    longitude:
+      - '-0.2165752999305'
+    street-address:
+      - 87 High St Wimbledon
+    locality:
+      - Wimbledon
+    region:
+      - Greater London
+    country-name:
+      - United Kingdom
+    postal-code:
+      - SW19 5EG
+  value: >
+    https://foursquare.com/v/4bc1c30974a9a593ec34d2f6
+
+----
+
+Date: 2024-02-24 16:00:00
+
+----
+
+Uid: 4027
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: scattered-clouds
+
+----
+
+Temperature: 8°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: 9b6H6yCfTOBbDzU5

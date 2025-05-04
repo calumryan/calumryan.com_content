@@ -1,0 +1,94 @@
+Title: December 17th, 2023
+
+----
+
+Text: Checked in at The Glasshouse Cafe
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/657efc4a89f68463a2bd46c9
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - The Glasshouse Cafe
+    url:
+      - >
+        https://foursquare.com/v/58ca70b4ef787f1c20c5d66f
+      - https://www.palacegardener.com/our-cafe
+    tel:
+      - 020 7371 9104
+    latitude:
+      - 51.473961
+    longitude:
+      - -0.213475
+    street-address:
+      - "Bishop's Av"
+    locality:
+      - Fulham
+    region:
+      - Greater London
+    country-name:
+      - United Kingdom
+    postal-code:
+      - SW6 6EE
+  value: >
+    https://foursquare.com/v/58ca70b4ef787f1c20c5d66f
+
+----
+
+Date: 2023-12-17 13:50:00
+
+----
+
+Uid: 4010
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: broken-clouds
+
+----
+
+Temperature: 11°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: 43etC35sHYZ3ctWp

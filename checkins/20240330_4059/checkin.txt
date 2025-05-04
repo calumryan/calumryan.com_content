@@ -1,0 +1,92 @@
+Title: March 30th, 2024
+
+----
+
+Text: Checked in at Doña Tina
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/66084225154c8060049c45d1
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Doña Tina
+    url:
+      - >
+        https://foursquare.com/v/4b60c591f964a52073f829e3
+      - https://www.donatina.cl
+    tel:
+      - (2) 2321 6546
+    latitude:
+      - -33.361324
+    longitude:
+      - -70.491926
+    street-address:
+      - Camino Los Refugios del Arrayan 15125
+    locality:
+      - Lo Barnechea
+    region:
+      - Santiago Metropolitan
+    country-name:
+      - Chile
+  value: >
+    https://foursquare.com/v/4b60c591f964a52073f829e3
+
+----
+
+Date: 2024-03-30 13:50:00
+
+----
+
+Uid: 4059
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: clear-sky
+
+----
+
+Temperature: 27°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: JbfO1Z4yBs8wKFZQ

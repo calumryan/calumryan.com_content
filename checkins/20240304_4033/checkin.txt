@@ -1,0 +1,89 @@
+Title: March 4th, 2024
+
+----
+
+Text: Checked in at The Nest
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/65e4693c4bcecf387b71354a
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - The Nest
+    url:
+      - >
+        https://foursquare.com/v/6252d5d7eb31bd5db9428361
+    latitude:
+      - 51.473844
+    longitude:
+      - -0.249163
+    locality:
+      - London
+    region:
+      - Greater London
+    country-name:
+      - United Kingdom
+    postal-code:
+      - S W13
+  value: >
+    https://foursquare.com/v/6252d5d7eb31bd5db9428361
+
+----
+
+Date: 2024-03-03 12:15:00
+
+----
+
+Uid: 4033
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: clear-sky
+
+----
+
+Temperature: 9°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: W2hutb5HphpPdf5D

@@ -1,0 +1,96 @@
+Title: April 26th, 2025
+
+----
+
+Text: Checked in at Saltaire Railway Station (SAE)
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/68038e08bb81060429b09b91
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Saltaire Railway Station (SAE)
+    url:
+      - >
+        https://foursquare.com/v/4b3099eff964a5205ffa24e3
+      - >
+        http://www.nationalrail.co.uk/stations/sae/details.html
+      - https://twitter.com/nationalrailenq
+    tel:
+      - 0345 748 4950
+    latitude:
+      - 53.838529715913
+    longitude:
+      - '-1.7904499476272'
+    street-address:
+      - Victoria Rd.
+    locality:
+      - Saltaire
+    region:
+      - Bradford
+    country-name:
+      - United Kingdom
+    postal-code:
+      - BD18 3LQ
+  value: >
+    https://foursquare.com/v/4b3099eff964a5205ffa24e3
+
+----
+
+Date: 2025-04-19 12:50:00
+
+----
+
+Uid: 4177
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: clear-sky
+
+----
+
+Temperature: 8°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: e6sLPi8aQsSucEPL

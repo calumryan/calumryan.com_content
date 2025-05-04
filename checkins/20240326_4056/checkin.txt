@@ -1,0 +1,95 @@
+Title: March 26th, 2024
+
+----
+
+Text: Checked in at Elephant & Castle
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/6603297e45ed3568d1d6b8f1
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - 'Elephant & Castle'
+    url:
+      - >
+        https://foursquare.com/v/578920f6498e94398f3c3a54
+      - http://elephantandcastlepub.com
+      - https://twitter.com/elephancastle
+    tel:
+      - 020 7403 8124
+    latitude:
+      - '51.495308053485'
+    longitude:
+      - '-0.099935391672966'
+    street-address:
+      - 119 Newington Causeway
+    locality:
+      - London
+    region:
+      - Greater London
+    country-name:
+      - United Kingdom
+    postal-code:
+      - SE1 6BN
+  value: >
+    https://foursquare.com/v/578920f6498e94398f3c3a54
+
+----
+
+Date: 2024-03-26 20:00:00
+
+----
+
+Uid: 4056
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: moderate-rain
+
+----
+
+Temperature: 10°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: 7Lr6a1QTrCfrPJps

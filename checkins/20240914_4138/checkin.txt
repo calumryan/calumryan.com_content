@@ -1,0 +1,93 @@
+Title: September 14th, 2024
+
+----
+
+Text: Checked in at Frobisher Auditorium 1
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/66e55eb913102f1d9011b4c0
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Frobisher Auditorium 1
+    url:
+      - >
+        https://foursquare.com/v/572b87fb498ef8fa968eb224
+      - >
+        https://www.barbican.org.uk/hire/venue-hire/frobisher-auditorium-1
+    latitude:
+      - 51.520124
+    longitude:
+      - -0.092874
+    street-address:
+      - Frobisher Cresent
+    locality:
+      - London
+    region:
+      - Greater London
+    country-name:
+      - United Kingdom
+    postal-code:
+      - EC2Y 8DS
+  value: >
+    https://foursquare.com/v/572b87fb498ef8fa968eb224
+
+----
+
+Date: 2024-09-14 11:00:00
+
+----
+
+Uid: 4138
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: overcast-clouds
+
+----
+
+Temperature: 16°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: gcFnGA6Z8r81Q2Lw

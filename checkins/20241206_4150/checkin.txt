@@ -1,0 +1,94 @@
+Title: December 6th, 2024
+
+----
+
+Text: Checked in at Marugame Udon
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/6752fb9feed1266835f97b9c
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Marugame Udon
+    url:
+      - >
+        https://foursquare.com/v/61000366ca0c514b9c28fb8a
+      - https://marugame.co.uk
+    tel:
+      - 020 3148 2780
+    latitude:
+      - 51.518022
+    longitude:
+      - -0.078522
+    street-address:
+      - 114 Middlesex St
+    locality:
+      - London
+    region:
+      - Greater London
+    country-name:
+      - United Kingdom
+    postal-code:
+      - E1 7ES
+  value: >
+    https://foursquare.com/v/61000366ca0c514b9c28fb8a
+
+----
+
+Date: 2024-12-06 13:25:00
+
+----
+
+Uid: 4150
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: broken-clouds
+
+----
+
+Temperature: 9°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: Ua1DxJbTqxcze8Zx

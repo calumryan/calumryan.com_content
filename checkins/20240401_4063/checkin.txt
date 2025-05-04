@@ -1,0 +1,85 @@
+Title: April 1st, 2024
+
+----
+
+Text: Checked in at Escultura La Busqueda
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/6609d4d2989f316558577aeb
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Escultura La Busqueda
+    url:
+      - >
+        https://foursquare.com/v/519b07f6498edec926d30fe9
+    latitude:
+      - '-33.402616832812'
+    longitude:
+      - '-70.602203853162'
+    locality:
+      - Santiago de Chile​
+    country-name:
+      - Chile
+  value: >
+    https://foursquare.com/v/519b07f6498edec926d30fe9
+
+----
+
+Date: 2024-03-31 18:25:00
+
+----
+
+Uid: 4063
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: broken-clouds
+
+----
+
+Temperature: 25°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: YSblN6c8ps6yFqDj

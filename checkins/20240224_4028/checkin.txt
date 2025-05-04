@@ -1,0 +1,94 @@
+Title: February 24th, 2024
+
+----
+
+Text: Checked in at Saucer & Cup
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/65d9c74d48e2111539662a65
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - 'Saucer & Cup'
+    url:
+      - >
+        https://foursquare.com/v/55520492498efe51b280fd4b
+      - https://www.saucerandcup.com
+    tel:
+      - 020 3774 0390
+    latitude:
+      - '51.434829365978'
+    longitude:
+      - '-0.19874000423353'
+    street-address:
+      - 159 Arthur Rd
+    locality:
+      - Wimbledon Park
+    region:
+      - Greater London
+    country-name:
+      - United Kingdom
+    postal-code:
+      - SW19 8AD
+  value: >
+    https://foursquare.com/v/55520492498efe51b280fd4b
+
+----
+
+Date: 2024-02-24 10:40:00
+
+----
+
+Uid: 4028
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: overcast-clouds
+
+----
+
+Temperature: 6°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: ivporpGBZSrn9N4p

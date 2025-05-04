@@ -1,0 +1,91 @@
+Title: April 12th, 2024
+
+----
+
+Text: Checked in at Novo Hotel
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/661940f82b2e750f21a76d95
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Novo Hotel
+    url:
+      - >
+        https://foursquare.com/v/62c5057f83888c07fef96272
+    latitude:
+      - -18.461618
+    longitude:
+      - -70.30376
+    street-address:
+      - Ing Raul Pey Casado 2690
+    locality:
+      - Arica
+    region:
+      - Arica y Parinacota
+    country-name:
+      - Chile
+    postal-code:
+      - "1000000"
+  value: >
+    https://foursquare.com/v/62c5057f83888c07fef96272
+
+----
+
+Date: 2024-04-12 10:10:00
+
+----
+
+Uid: 4085
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: overcast-clouds
+
+----
+
+Temperature: 24°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: qSMwjkqR4RieKdGy

@@ -1,0 +1,93 @@
+Title: April 9th, 2024
+
+----
+
+Text: Checked in at Aeropuerto Chacalluta (ARI)
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/6614b1fa93f9130dfdd82376
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Aeropuerto Chacalluta (ARI)
+    url:
+      - >
+        https://foursquare.com/v/4ce20189c9a0a090f13e256a
+      - http://www.dgac.cl
+      - https://twitter.com/aeropuertoarica
+    tel:
+      - (58) 221 3416
+    latitude:
+      - '-18.34923007066'
+    longitude:
+      - '-70.335591644255'
+    street-address:
+      - Camino Aeropuerto s/n
+    locality:
+      - Arica
+    region:
+      - Región de Arica
+    country-name:
+      - Chile
+  value: >
+    https://foursquare.com/v/4ce20189c9a0a090f13e256a
+
+----
+
+Date: 2024-04-08 23:10:00
+
+----
+
+Uid: 4079
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: broken-clouds
+
+----
+
+Temperature: 21°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: p1xHyzWqQLNXhXlh

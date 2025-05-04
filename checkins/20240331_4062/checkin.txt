@@ -1,0 +1,95 @@
+Title: March 31st, 2024
+
+----
+
+Text: Checked in at Tea Connection
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/66096fde8a7b3376fa5d5fb3
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Tea Connection
+    url:
+      - >
+        https://foursquare.com/v/5144e898e4b0c80a33d3bfc3
+      - http://teaconnection.cl
+      - https://twitter.com/teaconnectioncl
+    tel:
+      - (2) 2234 0047
+    latitude:
+      - '-33.422612442554'
+    longitude:
+      - '-70.613362139706'
+    street-address:
+      - Pedro de Valdivia 0129
+    locality:
+      - Providencia
+    region:
+      - Santiago Metropolitan
+    country-name:
+      - Chile
+    postal-code:
+      - "7501012"
+  value: >
+    https://foursquare.com/v/5144e898e4b0c80a33d3bfc3
+
+----
+
+Date: 2024-03-31 11:15:00
+
+----
+
+Uid: 4062
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: clear-sky
+
+----
+
+Temperature: 23°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: 10Hi9OTOKUPF5UP5

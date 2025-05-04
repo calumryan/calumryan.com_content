@@ -1,0 +1,92 @@
+Title: April 9th, 2024
+
+----
+
+Text: Checked in at Maracuyá
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/661582c5d6da1d162c5e0c73
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Maracuyá
+    url:
+      - >
+        https://foursquare.com/v/4c3e15268d99b7137bbf1a06
+      - http://www.restaurantmaracuya.cl
+    tel:
+      - "5658227600"
+    latitude:
+      - '-18.485437090054'
+    longitude:
+      - '-70.326400669376'
+    street-address:
+      - Av. Comandante San Martín 321
+    locality:
+      - Arica
+    region:
+      - Arica y Parinacota
+    country-name:
+      - Chile
+  value: >
+    https://foursquare.com/v/4c3e15268d99b7137bbf1a06
+
+----
+
+Date: 2024-04-09 14:05:00
+
+----
+
+Uid: 4080
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: overcast-clouds
+
+----
+
+Temperature: 22°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: mG8swULWiOYB0qOP

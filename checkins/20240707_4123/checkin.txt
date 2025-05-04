@@ -1,0 +1,95 @@
+Title: July 7th, 2024
+
+----
+
+Text: Checked in at Caffè Nero
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/668a66f6370f0e27223292b7
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Caffè Nero
+    url:
+      - >
+        https://foursquare.com/v/4b9516a4f964a520948e34e3
+      - http://www.caffenero.co.uk
+      - https://twitter.com/_caffenero
+    tel:
+      - 020 8974 9975
+    latitude:
+      - '51.409690325796'
+    longitude:
+      - '-0.30403273548413'
+    street-address:
+      - Unit 7 Eden Walk
+    locality:
+      - Kingston
+    region:
+      - Greater London
+    country-name:
+      - United Kingdom
+    postal-code:
+      - KT1 1BP
+  value: >
+    https://foursquare.com/v/4b9516a4f964a520948e34e3
+
+----
+
+Date: 2024-07-07 11:00:00
+
+----
+
+Uid: 4123
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: moderate-rain
+
+----
+
+Temperature: 16°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: 2dL2FIwuGwq1uRrq

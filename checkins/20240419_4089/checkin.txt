@@ -1,0 +1,99 @@
+Title: April 19th, 2024
+
+----
+
+Text: Checked in at Comodoro Arturo Merino Benitez International Airport (SCL) (Aeropuerto Internacional Comodoro Arturo Merino Benítez)
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/6622b7b7aeb58745615efe0e
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - >
+        Comodoro Arturo Merino Benitez
+        International Airport (SCL) (Aeropuerto
+        Internacional Comodoro Arturo Merino
+        Benítez)
+    url:
+      - >
+        https://foursquare.com/v/4bd800db5cf276b0d74e9c00
+      - http://www.aeropuertosantiago.cl
+      - https://twitter.com/aeropuerto_scl
+    tel:
+      - "26901752"
+    latitude:
+      - '-33.396743518786'
+    longitude:
+      - '-70.792963106054'
+    street-address:
+      - Armando Cortinez Norte
+    locality:
+      - Pudahuel
+    region:
+      - Santiago Metropolitan
+    country-name:
+      - Chile
+    postal-code:
+      - "9031027"
+  value: >
+    https://foursquare.com/v/4bd800db5cf276b0d74e9c00
+
+----
+
+Date: 2024-04-19 14:30:00
+
+----
+
+Uid: 4089
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: overcast-clouds
+
+----
+
+Temperature: 26°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: 4FeJDMT4Tym3JAP3

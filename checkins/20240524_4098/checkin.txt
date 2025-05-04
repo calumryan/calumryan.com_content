@@ -1,0 +1,97 @@
+Title: May 24th, 2024
+
+----
+
+Text: Checked in at Vienna International Airport (VIE) (Flughafen Wien-Schwechat)
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/665110b010bac84b1e136a7f
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - >
+        Vienna International Airport (VIE)
+        (Flughafen Wien-Schwechat)
+    url:
+      - >
+        https://foursquare.com/v/4b05889af964a520e5cf22e3
+      - https://www.viennaairport.com
+      - https://twitter.com/flughafen_wien
+    tel:
+      - 01 70070
+    latitude:
+      - '48.119344019631'
+    longitude:
+      - '16.562645174854'
+    street-address:
+      - Abflugstraße
+    locality:
+      - Schwechat
+    region:
+      - Lower Austria
+    country-name:
+      - Austria
+    postal-code:
+      - "1300"
+  value: >
+    https://foursquare.com/v/4b05889af964a520e5cf22e3
+
+----
+
+Date: 2024-05-25 00:10:00
+
+----
+
+Uid: 4098
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: few-clouds
+
+----
+
+Temperature: 14°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: ZTZ2AoKEX15imx0M

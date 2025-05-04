@@ -1,0 +1,91 @@
+Title: June 3rd, 2024
+
+----
+
+Text: Checked in at Ristorante Augusto
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/665daa667be324728b5e7ae6
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Ristorante Augusto
+    url:
+      - >
+        https://foursquare.com/v/51dfe15d498ef70294c37c0c
+    tel:
+      - "+39818370853"
+    latitude:
+      - '40.55602523661'
+    longitude:
+      - '14.239387315716'
+    street-address:
+      - Via V Colombo 24
+    locality:
+      - Capri
+    region:
+      - Campania
+    country-name:
+      - Italy
+  value: >
+    https://foursquare.com/v/51dfe15d498ef70294c37c0c
+
+----
+
+Date: 2024-06-03 13:35:00
+
+----
+
+Uid: 4112
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: clear-sky
+
+----
+
+Temperature: 22°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: 0ILxSErt1KsqWhqk

@@ -1,0 +1,94 @@
+Title: January 11th, 2025
+
+----
+
+Text: Checked in at Down To Earth Coffee
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/678246e48c98e47a3c6e1ac3
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Down To Earth Coffee
+    url:
+      - >
+        https://foursquare.com/v/5adee115e677427d38824fa1
+      - https://www.down2earthcoffee.co.uk
+    tel:
+      - 01273 731356
+    latitude:
+      - '50.826501335694'
+    longitude:
+      - '-0.16413625773698'
+    street-address:
+      - 75 Western Rd
+    locality:
+      - Hove
+    region:
+      - East Sussex
+    country-name:
+      - United Kingdom
+    postal-code:
+      - BN3 2JQ
+  value: >
+    https://foursquare.com/v/5adee115e677427d38824fa1
+
+----
+
+Date: 2025-01-11 10:25:00
+
+----
+
+Uid: 4158
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: clear-sky
+
+----
+
+Temperature: 4°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: Wt2YreaYTF596cR5

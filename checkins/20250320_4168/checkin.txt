@@ -1,0 +1,89 @@
+Title: March 20th, 2025
+
+----
+
+Text: Checked in at Neath Castle
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/67dc4b76679e081ecf58af60
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Neath Castle
+    url:
+      - >
+        https://foursquare.com/v/579cce1c498e2db2e264ec81
+    tel:
+      - 01639 632100
+    latitude:
+      - '51.664829541914'
+    longitude:
+      - '-3.8036722374478'
+    locality:
+      - Neath
+    country-name:
+      - United Kingdom
+    postal-code:
+      - SA11 3LU
+  value: >
+    https://foursquare.com/v/579cce1c498e2db2e264ec81
+
+----
+
+Date: 2025-03-20 17:10:00
+
+----
+
+Uid: 4168
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: broken-clouds
+
+----
+
+Temperature: 15°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: OLZCw0rCbbwbjzUb

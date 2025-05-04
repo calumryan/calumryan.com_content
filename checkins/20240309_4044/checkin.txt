@@ -1,0 +1,95 @@
+Title: March 9th, 2024
+
+----
+
+Text: Checked in at The Skiff
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/65ec50f0d7ec921320579b78
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - The Skiff
+    url:
+      - >
+        https://foursquare.com/v/4b05c8c0f964a5202be322e3
+      - http://theskiff.org
+      - https://twitter.com/theskiff
+    tel:
+      - 01273 252718
+    latitude:
+      - '50.829164274926'
+    longitude:
+      - '-0.13849854469299'
+    street-address:
+      - 30 Cheapside
+    locality:
+      - Brighton
+    region:
+      - East Sussex
+    country-name:
+      - United Kingdom
+    postal-code:
+      - BN1 4GB
+  value: >
+    https://foursquare.com/v/4b05c8c0f964a5202be322e3
+
+----
+
+Date: 2024-03-09 12:05:00
+
+----
+
+Uid: 4044
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: few-clouds
+
+----
+
+Temperature: 12°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: isMKAGCZlSgLwcmv

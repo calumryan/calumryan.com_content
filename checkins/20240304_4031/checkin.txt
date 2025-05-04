@@ -1,0 +1,92 @@
+Title: March 4th, 2024
+
+----
+
+Text: Checked in at Bonjour Brioche
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/65e5cf0a6b3aa74a74bc0ec2
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Bonjour Brioche
+    url:
+      - >
+        https://foursquare.com/v/552e7b49498e15f9c9b37529
+      - http://www.bonjourbrioche.co.uk
+    tel:
+      - 020 8543 0563
+    latitude:
+      - 51.418907
+    longitude:
+      - -0.190923
+    street-address:
+      - 88 Quicks Rd
+    locality:
+      - London
+    region:
+      - Greater London
+    country-name:
+      - United Kingdom
+  value: >
+    https://foursquare.com/v/552e7b49498e15f9c9b37529
+
+----
+
+Date: 2024-03-04 13:40:00
+
+----
+
+Uid: 4031
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: clear-sky
+
+----
+
+Temperature: 9°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: FnrJh7Lvom2xv6Lu

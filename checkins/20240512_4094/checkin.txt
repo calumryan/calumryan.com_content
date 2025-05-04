@@ -1,0 +1,95 @@
+Title: May 12th, 2024
+
+----
+
+Text: Checked in at The Leather Bottle
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/6640e1439dc48c596ec3ec11
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - The Leather Bottle
+    url:
+      - >
+        https://foursquare.com/v/4ad76bb2f964a5203d0a21e3
+      - https://www.leatherbottlepub.co.uk
+      - https://twitter.com/leather_bottle
+    tel:
+      - 020 8946 2309
+    latitude:
+      - '51.436864325899'
+    longitude:
+      - '-0.18740190508625'
+    street-address:
+      - 538 Garratt Ln
+    locality:
+      - Earlsfield
+    region:
+      - Greater London
+    country-name:
+      - United Kingdom
+    postal-code:
+      - SW17 0NY
+  value: >
+    https://foursquare.com/v/4ad76bb2f964a5203d0a21e3
+
+----
+
+Date: 2024-05-12 16:35:00
+
+----
+
+Uid: 4094
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: clear-sky
+
+----
+
+Temperature: 25°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: LlUveMGcmfeUaiSu

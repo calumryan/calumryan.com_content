@@ -1,0 +1,95 @@
+Title: December 1st, 2023
+
+----
+
+Text: Checked in at Westfield London
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/656a1fb4cd03986780864d53
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Westfield London
+    url:
+      - >
+        https://foursquare.com/v/4ad08b28f964a52064d820e3
+      - https://uk.westfield.com
+      - https://twitter.com/westfieldlondon
+    tel:
+      - 020 3371 2300
+    latitude:
+      - '51.507393568438'
+    longitude:
+      - '-0.22135734558105'
+    street-address:
+      - Ariel Way
+    locality:
+      - London
+    region:
+      - Greater London
+    country-name:
+      - United Kingdom
+    postal-code:
+      - W12 7SH
+  value: >
+    https://foursquare.com/v/4ad08b28f964a52064d820e3
+
+----
+
+Date: 2023-12-01 18:00:00
+
+----
+
+Uid: 4001
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: clear-sky
+
+----
+
+Temperature: 1°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: rfzqXgT9G9YCHfAk

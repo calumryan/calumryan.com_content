@@ -1,0 +1,94 @@
+Title: May 26th, 2024
+
+----
+
+Text: Checked in at Kaffee Alt Wien
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/66530fb733e4355b0ad770ea
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Kaffee Alt Wien
+    url:
+      - >
+        https://foursquare.com/v/4b927c74f964a52057fd33e3
+      - https://kaffeealtwien.at/2018
+    tel:
+      - 01 5125222
+    latitude:
+      - '48.209173509379'
+    longitude:
+      - '16.376156269215'
+    street-address:
+      - Bäckerstr. 9
+    locality:
+      - Vienna
+    region:
+      - Vienna
+    country-name:
+      - Austria
+    postal-code:
+      - "1010"
+  value: >
+    https://foursquare.com/v/4b927c74f964a52057fd33e3
+
+----
+
+Date: 2024-05-26 12:30:00
+
+----
+
+Uid: 4101
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: clear-sky
+
+----
+
+Temperature: 21°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: 4Z04PA6e9XAU5szg

@@ -1,0 +1,93 @@
+Title: April 26th, 2025
+
+----
+
+Text: Checked in at Leeds Corn Exchange
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/6804d922cdd2490714b817e3
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Leeds Corn Exchange
+    url:
+      - >
+        https://foursquare.com/v/4b73be99f964a5205aba2de3
+      - http://www.leedscornexchange.co.uk
+      - https://twitter.com/leedscornex
+    tel:
+      - 0113 234 0363
+    latitude:
+      - '53.795930943951'
+    longitude:
+      - '-1.5401673512525'
+    street-address:
+      - Call Lane
+    locality:
+      - Leeds
+    country-name:
+      - United Kingdom
+    postal-code:
+      - LS1 7BR
+  value: >
+    https://foursquare.com/v/4b73be99f964a5205aba2de3
+
+----
+
+Date: 2025-04-20 12:25:00
+
+----
+
+Uid: 4175
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: clear-sky
+
+----
+
+Temperature: 7°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: uSwXKPLjTPuJee98

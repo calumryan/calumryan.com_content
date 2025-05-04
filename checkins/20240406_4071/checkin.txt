@@ -1,0 +1,94 @@
+Title: April 6th, 2024
+
+----
+
+Text: Checked in at Casa Museo La Chascona
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/661018059b3473637ab15539
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Casa Museo La Chascona
+    url:
+      - >
+        https://foursquare.com/v/4b6f12c8f964a52021db2ce3
+      - http://www.fundacionneruda.org
+    tel:
+      - "27778741"
+    latitude:
+      - '-33.431303886758'
+    longitude:
+      - '-70.634238880545'
+    street-address:
+      - Fernando Márquez de la Plata 0192
+    locality:
+      - Santiago
+    region:
+      - Santiago Metropolitan
+    country-name:
+      - Chile
+    postal-code:
+      - "7520284"
+  value: >
+    https://foursquare.com/v/4b6f12c8f964a52021db2ce3
+
+----
+
+Date: 2024-04-05 12:25:00
+
+----
+
+Uid: 4071
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: clear-sky
+
+----
+
+Temperature: 25°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: zFKlGV5pbfVCiD6D

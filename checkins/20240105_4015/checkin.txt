@@ -1,0 +1,94 @@
+Title: January 5th, 2024
+
+----
+
+Text: Checked in at Market Place Vauxhall
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/65984dbae27f106b131d66bc
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Market Place Vauxhall
+    url:
+      - >
+        https://foursquare.com/v/632f09067a85740e1b0b86ad
+      - https://www.marketplaceuk.com
+    tel:
+      - 020 8570 2729
+    latitude:
+      - 51.485701
+    longitude:
+      - -0.123345
+    street-address:
+      - 7-11 S Lambeth Pl
+    locality:
+      - London
+    region:
+      - Greater London
+    country-name:
+      - United Kingdom
+    postal-code:
+      - SW8 1SP
+  value: >
+    https://foursquare.com/v/632f09067a85740e1b0b86ad
+
+----
+
+Date: 2024-01-05 18:45:00
+
+----
+
+Uid: 4015
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: overcast-clouds
+
+----
+
+Temperature: 7°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: KFF5cLikHPYXERxP

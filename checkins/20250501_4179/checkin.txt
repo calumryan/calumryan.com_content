@@ -1,0 +1,91 @@
+Title: May 1st, 2025
+
+----
+
+Text: Checked in at Government Digital Service
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/68133620b3833e6cefcdd437
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Government Digital Service
+    url:
+      - >
+        https://foursquare.com/v/595a218e95da0c5ce0fafbe8
+    latitude:
+      - '51.514508122669'
+    longitude:
+      - '-0.072791798850775'
+    street-address:
+      - The White Chapel Building
+    locality:
+      - London
+    region:
+      - Greater London
+    country-name:
+      - United Kingdom
+    postal-code:
+      - E1 8DX
+  value: >
+    https://foursquare.com/v/595a218e95da0c5ce0fafbe8
+
+----
+
+Date: 2025-05-01 09:50:00
+
+----
+
+Uid: 4179
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: broken-clouds
+
+----
+
+Temperature: 20°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: s9f1vDAqBIIE9FCB

@@ -1,0 +1,91 @@
+Title: August 31st, 2024
+
+----
+
+Text: Checked in at Velolife
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/66d2f8bac32d531e910e1048
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Velolife
+    url:
+      - >
+        https://foursquare.com/v/62af368990e4f6274ab8a9a6
+    tel:
+      - 0118 304 5259
+    latitude:
+      - 51.507388
+    longitude:
+      - -0.870411
+    street-address:
+      - Willow Ln
+    locality:
+      - Wargrave
+    country-name:
+      - United Kingdom
+    postal-code:
+      - RG10 8LH
+  value: >
+    https://foursquare.com/v/62af368990e4f6274ab8a9a6
+
+----
+
+Date: 2024-08-31 12:05:00
+
+----
+
+Uid: 4135
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: scattered-clouds
+
+----
+
+Temperature: 18°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: qxsK2K5V7OORSf4u

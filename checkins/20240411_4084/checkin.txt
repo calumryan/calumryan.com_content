@@ -1,0 +1,91 @@
+Title: April 11th, 2024
+
+----
+
+Text: Checked in at El Cebillano
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/66183b709e01733b5ce46dab
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - El Cebillano
+    url:
+      - >
+        https://foursquare.com/v/4ef52fb28231b0d6239398f5
+      - >
+        https://www.paginasamarillas.com.pe/empresas/polleria-rey-dorado/tacna-80641024
+    tel:
+      - (052) 424057
+    latitude:
+      - '-18.011250514316'
+    longitude:
+      - '-70.244433704758'
+    locality:
+      - Tacna
+    region:
+      - Tacna
+    country-name:
+      - Peru
+  value: >
+    https://foursquare.com/v/4ef52fb28231b0d6239398f5
+
+----
+
+Date: 2024-04-11 14:35:00
+
+----
+
+Uid: 4084
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: clear-sky
+
+----
+
+Temperature: 24°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: svNfv0j9iNs6B5dq

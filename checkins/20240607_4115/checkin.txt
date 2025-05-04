@@ -1,0 +1,97 @@
+Title: June 7th, 2024
+
+----
+
+Text: Checked in at Amsterdam Central Railway Station (Station Amsterdam Centraal)
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/66637b821db01670c020f362
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - >
+        Amsterdam Central Railway Station
+        (Station Amsterdam Centraal)
+    url:
+      - >
+        https://foursquare.com/v/4a688ba1f964a52088ca1fe3
+      - http://www.ns.nl
+      - https://twitter.com/ns_stations
+    tel:
+      - 030 751 5155
+    latitude:
+      - '52.378782248665'
+    longitude:
+      - '4.9003744125366'
+    street-address:
+      - Stationsplein 15
+    locality:
+      - Amsterdam
+    region:
+      - North Holland
+    country-name:
+      - Netherlands
+    postal-code:
+      - 1012 AB
+  value: >
+    https://foursquare.com/v/4a688ba1f964a52088ca1fe3
+
+----
+
+Date: 2024-06-07 23:30:00
+
+----
+
+Uid: 4115
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: clear-sky
+
+----
+
+Temperature: 13°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: 12btQRKxh3ZDH68j

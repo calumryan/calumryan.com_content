@@ -1,0 +1,95 @@
+Title: April 3rd, 2025
+
+----
+
+Text: Checked in at Porteña empanadas
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/67eecd8de5580102a7e8d5ac
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Porteña empanadas
+    url:
+      - >
+        https://foursquare.com/v/4d467c7ce198721e0388cf8b
+      - http://www.portena.co.uk
+      - https://twitter.com/portenalondon
+    tel:
+      - 020 7740 2196
+    latitude:
+      - '51.50299938132'
+    longitude:
+      - '-0.077505111694336'
+    street-address:
+      - Unit 16D, 58 Riley Rd
+    locality:
+      - London
+    region:
+      - Greater London
+    country-name:
+      - United Kingdom
+    postal-code:
+      - SE1 3DG
+  value: >
+    https://foursquare.com/v/4d467c7ce198721e0388cf8b
+
+----
+
+Date: 2025-04-03 19:05:00
+
+----
+
+Uid: 4171
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: broken-clouds
+
+----
+
+Temperature: 15°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: OfvKvQLJ9AKBZBil

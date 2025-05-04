@@ -1,0 +1,94 @@
+Title: June 3rd, 2024
+
+----
+
+Text: Checked in at Molo Beverello
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/665d7a5a46997f38ddd98930
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Molo Beverello
+    url:
+      - >
+        https://foursquare.com/v/4c3ae8125810a593d6bfb93c
+      - http://www.portodinapoli.it
+    tel:
+      - "+39812445111"
+    latitude:
+      - '40.837775098869'
+    longitude:
+      - '14.25488948822'
+    street-address:
+      - Molo Beverello
+    locality:
+      - Naples
+    region:
+      - Campania
+    country-name:
+      - Italy
+    postal-code:
+      - "80133"
+  value: >
+    https://foursquare.com/v/4c3ae8125810a593d6bfb93c
+
+----
+
+Date: 2024-06-03 10:10:00
+
+----
+
+Uid: 4111
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: scattered-clouds
+
+----
+
+Temperature: 22°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: kB5qvZIBt8xHC6e3

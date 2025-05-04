@@ -1,0 +1,94 @@
+Title: March 8th, 2024
+
+----
+
+Text: Checked in at Casa Azul Taqueria
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/65eb18d0d43f5815018a51b2
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Casa Azul Taqueria
+    url:
+      - >
+        https://foursquare.com/v/5ced0d8927cbd10025ae033d
+      - http://www.casazul.co.uk
+    tel:
+      - 01273 019302
+    latitude:
+      - 50.831584
+    longitude:
+      - -0.134681
+    street-address:
+      - Open Market
+    locality:
+      - Brighton
+    region:
+      - East Sussex
+    country-name:
+      - United Kingdom
+    postal-code:
+      - BN1 4JU
+  value: >
+    https://foursquare.com/v/5ced0d8927cbd10025ae033d
+
+----
+
+Date: 2024-03-08 13:55:00
+
+----
+
+Uid: 4041
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: clear-sky
+
+----
+
+Temperature: 11°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: AskEEFOVH2LsDGFJ

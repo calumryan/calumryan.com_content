@@ -1,0 +1,95 @@
+Title: January 20th, 2024
+
+----
+
+Text: Checked in at Camden Lock Market
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/65abcfa9ff09a45f1aa491a8
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Camden Lock Market
+    url:
+      - >
+        https://foursquare.com/v/4ac518f4f964a520fbae20e3
+      - https://www.camdenmarket.com
+      - https://twitter.com/camdenmarket
+    tel:
+      - 020 3763 9900
+    latitude:
+      - '51.541653569109'
+    longitude:
+      - '-0.14592336582685'
+    street-address:
+      - 54-56 Camden Lock Pl
+    locality:
+      - London
+    region:
+      - Greater London
+    country-name:
+      - United Kingdom
+    postal-code:
+      - NW1 8AF
+  value: >
+    https://foursquare.com/v/4ac518f4f964a520fbae20e3
+
+----
+
+Date: 2024-01-20 13:50:00
+
+----
+
+Uid: 4018
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: clear-sky
+
+----
+
+Temperature: 5°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: zMRwzDKiXkHy1Kj4

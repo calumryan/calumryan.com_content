@@ -1,0 +1,95 @@
+Title: February 8th, 2025
+
+----
+
+Text: Checked in at Casa Batlló
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/67a77178f14cc53338a6d3c6
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Casa Batlló
+    url:
+      - >
+        https://foursquare.com/v/4adcda51f964a520aa4121e3
+      - http://www.casabatllo.es
+      - https://twitter.com/casabatllogaudi
+    tel:
+      - 932 16 03 06
+    latitude:
+      - '41.391716734434'
+    longitude:
+      - '2.1650093793869'
+    street-address:
+      - Pg. de Gràcia, 43
+    locality:
+      - Barcelona
+    region:
+      - Catalonia
+    country-name:
+      - Spain
+    postal-code:
+      - "08007"
+  value: >
+    https://foursquare.com/v/4adcda51f964a520aa4121e3
+
+----
+
+Date: 2025-02-08 16:00:00
+
+----
+
+Uid: 4161
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: few-clouds
+
+----
+
+Temperature: 12°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: bROTalTu4TWHSWOY

@@ -1,0 +1,95 @@
+Title: January 30th, 2024
+
+----
+
+Text: Checked in at Pembury Tavern
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/65b7f2d057cd084fc5c57a12
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Pembury Tavern
+    url:
+      - >
+        https://foursquare.com/v/4ac518c6f964a52032a520e3
+      - https://www.pemburytavern.co.uk
+      - https://twitter.com/pemburytavern
+    tel:
+      - 020 8986 8597
+    latitude:
+      - '51.5494723267'
+    longitude:
+      - '-0.059393800959911'
+    street-address:
+      - 90 Amhurst Rd
+    locality:
+      - London
+    region:
+      - Greater London
+    country-name:
+      - United Kingdom
+    postal-code:
+      - E8 1JH
+  value: >
+    https://foursquare.com/v/4ac518c6f964a52032a520e3
+
+----
+
+Date: 2024-01-29 18:50:00
+
+----
+
+Uid: 4021
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: overcast-clouds
+
+----
+
+Temperature: 8°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: N8TDRzSwaPGlBzK5

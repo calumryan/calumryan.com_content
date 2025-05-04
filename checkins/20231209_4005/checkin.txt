@@ -1,0 +1,93 @@
+Title: December 9th, 2023
+
+----
+
+Text: Checked in at Wood Fire Cafe
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/6573634ce3e69e32168b52b2
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Wood Fire Cafe
+    url:
+      - >
+        https://foursquare.com/v/5ae5bbf68ad62e002c8d5333
+    tel:
+      - (01) 860 3529
+    latitude:
+      - '53.356317228597'
+    longitude:
+      - '-6.2656678527282'
+    street-address:
+      - 3 Blessington Street
+    locality:
+      - Dublin
+    region:
+      - Dublin City
+    country-name:
+      - Ireland
+    postal-code:
+      - DUBLIN 7
+  value: >
+    https://foursquare.com/v/5ae5bbf68ad62e002c8d5333
+
+----
+
+Date: 2023-12-08 18:40:00
+
+----
+
+Uid: 4005
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: broken-clouds
+
+----
+
+Temperature: 9°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: FL5Omia5P86Q6CJ2

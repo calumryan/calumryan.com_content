@@ -1,0 +1,95 @@
+Title: March 29th, 2025
+
+----
+
+Text: Checked in at Old Fountain
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/67e8550136d31539abe2a557
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Old Fountain
+    url:
+      - >
+        https://foursquare.com/v/4acf5df2f964a52042d320e3
+      - http://www.oldfountain.co.uk
+      - https://twitter.com/oldfountainales
+    tel:
+      - 020 7253 2970
+    latitude:
+      - '51.527058970282'
+    longitude:
+      - '-0.089030885229765'
+    street-address:
+      - 3 Baldwin St
+    locality:
+      - Hoxton
+    region:
+      - Greater London
+    country-name:
+      - United Kingdom
+    postal-code:
+      - EC1V 9NU
+  value: >
+    https://foursquare.com/v/4acf5df2f964a52042d320e3
+
+----
+
+Date: 2025-03-29 20:15:00
+
+----
+
+Uid: 4170
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: overcast-clouds
+
+----
+
+Temperature: 10°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: IKOmDG2BtfB4OWp6

@@ -1,0 +1,89 @@
+Title: December 23rd, 2023
+
+----
+
+Text: Checked in at The Exchange Cafe
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/6586c6f7808b361e511b7423
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - The Exchange Cafe
+    url:
+      - >
+        https://foursquare.com/v/655cb60fb013785ec7666393
+    latitude:
+      - 51.414909
+    longitude:
+      - -0.302307
+    locality:
+      - Kingston
+    region:
+      - Greater London
+    country-name:
+      - United Kingdom
+    postal-code:
+      - KT2 5NZ
+  value: >
+    https://foursquare.com/v/655cb60fb013785ec7666393
+
+----
+
+Date: 2023-12-23 11:40:00
+
+----
+
+Uid: 4011
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: broken-clouds
+
+----
+
+Temperature: 12°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: mYbGX9zF9TFqYYD0

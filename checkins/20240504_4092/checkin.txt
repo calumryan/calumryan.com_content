@@ -1,0 +1,95 @@
+Title: May 4th, 2024
+
+----
+
+Text: Checked in at Caffè Nero
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/6636609776008a6e22871392
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Caffè Nero
+    url:
+      - >
+        https://foursquare.com/v/4be586cb910020a1320cd314
+      - http://www.caffenero.co.uk
+      - https://twitter.com/caffenero_us
+    tel:
+      - 020 8971 0000
+    latitude:
+      - '51.421801117947'
+    longitude:
+      - '-0.20836881858374'
+    street-address:
+      - Elys
+    locality:
+      - Wimbledon
+    region:
+      - Greater London
+    country-name:
+      - United Kingdom
+    postal-code:
+      - SW19 4DP
+  value: >
+    https://foursquare.com/v/4be586cb910020a1320cd314
+
+----
+
+Date: 2024-05-04 17:20:00
+
+----
+
+Uid: 4092
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: scattered-clouds
+
+----
+
+Temperature: 16°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: lQ3CsZgXVlFhvJYR

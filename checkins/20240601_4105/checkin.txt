@@ -1,0 +1,93 @@
+Title: June 1st, 2024
+
+----
+
+Text: Checked in at Moccia
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/665af167ccb16978ebee1a9f
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Moccia
+    url:
+      - >
+        https://foursquare.com/v/5b02af156bd36b002cd816de
+    tel:
+      - "+39817901571"
+    latitude:
+      - 40.847779
+    longitude:
+      - 14.253434
+    street-address:
+      - Via Benedetto Croce 57
+    locality:
+      - Naples
+    region:
+      - Campania
+    country-name:
+      - Italy
+    postal-code:
+      - "80134"
+  value: >
+    https://foursquare.com/v/5b02af156bd36b002cd816de
+
+----
+
+Date: 2024-06-01 12:00:00
+
+----
+
+Uid: 4105
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: light-rain
+
+----
+
+Temperature: 22°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: rPlzMSQz4qbDdDOj

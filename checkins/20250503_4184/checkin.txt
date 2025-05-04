@@ -1,0 +1,91 @@
+Title: May 3rd, 2025
+
+----
+
+Text: Checked in at The Niu Tab Hotel
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/681675385ca7d334f8753f07
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - The Niu Tab Hotel
+    url:
+      - >
+        https://foursquare.com/v/610b0ce16e509940e4957492
+    latitude:
+      - '51.221245980452'
+    longitude:
+      - '6.8027047254223'
+    street-address:
+      - Moskauer Str. 29
+    locality:
+      - Dusseldorf
+    region:
+      - North Rhine-Westphalia
+    country-name:
+      - Germany
+    postal-code:
+      - "40227"
+  value: >
+    https://foursquare.com/v/610b0ce16e509940e4957492
+
+----
+
+Date: 2025-05-03 22:00:00
+
+----
+
+Uid: 4184
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: clear-sky
+
+----
+
+Temperature: 14°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: 4hzZcBguH6hxQcPp

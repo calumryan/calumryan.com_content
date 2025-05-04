@@ -1,0 +1,91 @@
+Title: December 7th, 2023
+
+----
+
+Text: Checked in at Red Lion Square Gardens
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/6571b9c4d089513431d8c51b
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Red Lion Square Gardens
+    url:
+      - >
+        https://foursquare.com/v/4bc9cdc0fb84c9b6509d1b3e
+    latitude:
+      - '51.519262182179'
+    longitude:
+      - '-0.11885418069516'
+    street-address:
+      - Red Lion Sq
+    locality:
+      - London
+    region:
+      - Greater London
+    country-name:
+      - United Kingdom
+    postal-code:
+      - WC1
+  value: >
+    https://foursquare.com/v/4bc9cdc0fb84c9b6509d1b3e
+
+----
+
+Date: 2023-12-07 12:25:00
+
+----
+
+Uid: 4002
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: overcast-clouds
+
+----
+
+Temperature: 8°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: Jdt3RAnGMr0kzuBQ

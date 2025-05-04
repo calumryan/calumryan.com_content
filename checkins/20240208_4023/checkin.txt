@@ -1,0 +1,94 @@
+Title: February 8th, 2024
+
+----
+
+Text: Checked in at Bento Bab
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/65c4deaebafc9b421425d661
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Bento Bab
+    url:
+      - >
+        https://foursquare.com/v/5baa1ad092e7a9002c7cb65c
+      - https://www.bentobab.com
+    tel:
+      - 020 7998 8680
+    latitude:
+      - 51.515766
+    longitude:
+      - -0.072048
+    street-address:
+      - Commercial St
+    locality:
+      - London
+    region:
+      - Greater London
+    country-name:
+      - United Kingdom
+    postal-code:
+      - E1 6LP
+  value: >
+    https://foursquare.com/v/5baa1ad092e7a9002c7cb65c
+
+----
+
+Date: 2024-02-08 14:00:00
+
+----
+
+Uid: 4023
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: overcast-clouds
+
+----
+
+Temperature: 9°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: l1dcKjXYPFxK7oKn

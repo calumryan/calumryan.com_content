@@ -1,0 +1,95 @@
+Title: June 3rd, 2024
+
+----
+
+Text: Checked in at Piazza del Plebiscito
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/665c7fd80c2a371166b231df
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Piazza del Plebiscito
+    url:
+      - >
+        https://foursquare.com/v/4bac9bf5f964a52006fe3ae3
+      - >
+        http://www.turismoanapoli.it/visita-napoli/scorci-a-napoli.html
+    tel:
+      - "+39815808111"
+    latitude:
+      - '40.836498555021'
+    longitude:
+      - '14.248936755154'
+    street-address:
+      - Piazza del Plebiscito
+    locality:
+      - Naples
+    region:
+      - Campania
+    country-name:
+      - Italy
+    postal-code:
+      - "80132"
+  value: >
+    https://foursquare.com/v/4bac9bf5f964a52006fe3ae3
+
+----
+
+Date: 2024-06-02 16:20:00
+
+----
+
+Uid: 4110
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: few-clouds
+
+----
+
+Temperature: 19°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: v6Su7P1AIPxVglVD

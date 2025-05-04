@@ -1,0 +1,92 @@
+Title: April 1st, 2024
+
+----
+
+Text: Checked in at Tavelli
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/660abb390079d410606cf41e
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Tavelli
+    url:
+      - >
+        https://foursquare.com/v/4b54828af964a520efbd27e3
+      - http://www.tavelli.cl
+    tel:
+      - (2) 2584 1198
+    latitude:
+      - '-33.422106217889'
+    longitude:
+      - -70.61118948971
+    street-address:
+      - Av. Providencia 2124
+    locality:
+      - Providencia
+    region:
+      - Santiago Metropolitan
+    country-name:
+      - Chile
+  value: >
+    https://foursquare.com/v/4b54828af964a520efbd27e3
+
+----
+
+Date: 2024-04-01 10:50:00
+
+----
+
+Uid: 4065
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: clear-sky
+
+----
+
+Temperature: 19°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: gHEW6f9jll2MbSLv

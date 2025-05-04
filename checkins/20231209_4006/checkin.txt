@@ -1,0 +1,89 @@
+Title: December 9th, 2023
+
+----
+
+Text: Checked in at Meltdown
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/65745d8cda279e63e34039f9
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Meltdown
+    url:
+      - >
+        https://foursquare.com/v/60e5a441e001dd1d322ad41b
+    latitude:
+      - '53.336619828154'
+    longitude:
+      - '-6.2636800654037'
+    street-address:
+      - 15 Montague St
+    locality:
+      - Dublin 2
+    country-name:
+      - Ireland
+    postal-code:
+      - D02 AX68
+  value: >
+    https://foursquare.com/v/60e5a441e001dd1d322ad41b
+
+----
+
+Date: 2023-12-09 12:30:00
+
+----
+
+Uid: 4006
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: broken-clouds
+
+----
+
+Temperature: 11°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: 2gga9c32smjwskBq

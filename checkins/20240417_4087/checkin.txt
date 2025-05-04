@@ -1,0 +1,92 @@
+Title: April 17th, 2024
+
+----
+
+Text: Checked in at FELIX
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/661fee407f6c79528f9127c5
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - FELIX
+    url:
+      - >
+        https://foursquare.com/v/60439cff7f2b8d405d875fa9
+      - http://felixcafe.cl
+    tel:
+      - 9 7548 4482
+    latitude:
+      - -33.423753
+    longitude:
+      - -70.608548
+    street-address:
+      - Coyancura 2223, Local 8
+    locality:
+      - Providencia
+    region:
+      - Santiago Metropolitan
+    country-name:
+      - Chile
+  value: >
+    https://foursquare.com/v/60439cff7f2b8d405d875fa9
+
+----
+
+Date: 2024-04-17 11:45:00
+
+----
+
+Uid: 4087
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: clear-sky
+
+----
+
+Temperature: 25°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: 4HRsQWnp7GsilXFO

@@ -1,0 +1,95 @@
+Title: November 25th, 2023
+
+----
+
+Text: Checked in at Caffè Vergnano
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/6562055adf34184a46c7c14b
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Caffè Vergnano
+    url:
+      - >
+        https://foursquare.com/v/4f05928bbe7bf2206ee29cb5
+      - http://www.caffevergnano1882.co.uk
+      - https://twitter.com/cv1882
+    tel:
+      - 020 7242 7119
+    latitude:
+      - 51.518106
+    longitude:
+      - -0.111435
+    street-address:
+      - Staple Inn
+    locality:
+      - Greater London
+    region:
+      - Greater London
+    country-name:
+      - United Kingdom
+    postal-code:
+      - WC1V 7PX
+  value: >
+    https://foursquare.com/v/4f05928bbe7bf2206ee29cb5
+
+----
+
+Date: 2023-11-25 14:30:00
+
+----
+
+Uid: 3999
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: clear-sky
+
+----
+
+Temperature: 6°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: 6V2kEzK2a5LTpvoX

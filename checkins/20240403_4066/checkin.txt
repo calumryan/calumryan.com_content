@@ -1,0 +1,94 @@
+Title: April 3rd, 2024
+
+----
+
+Text: Checked in at Malandrino
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/660c955b34920900b22651f3
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Malandrino
+    url:
+      - >
+        https://foursquare.com/v/4b8525a1f964a5201e4e31e3
+      - http://www.malandrino.cl
+    tel:
+      - (32) 318 4827
+    latitude:
+      - '-33.043877856735'
+    longitude:
+      - '-71.628771142945'
+    street-address:
+      - Almirante Montt 532
+    locality:
+      - Valparaíso
+    region:
+      - Valparaíso
+    country-name:
+      - Chile
+    postal-code:
+      - "2340000"
+  value: >
+    https://foursquare.com/v/4b8525a1f964a5201e4e31e3
+
+----
+
+Date: 2024-04-02 20:30:00
+
+----
+
+Uid: 4066
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: clear-sky
+
+----
+
+Temperature: 20°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: Qi22oDnfOKM95BWv

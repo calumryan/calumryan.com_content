@@ -1,0 +1,94 @@
+Title: August 26th, 2024
+
+----
+
+Text: Checked in at William Morris Gallery Tea Room
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/66cc61a397b8ec34fd6e99cf
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - William Morris Gallery Tea Room
+    url:
+      - >
+        https://foursquare.com/v/51c4df2e7dd27e8ce8dd2369
+      - https://twitter.com/wmgtearoom
+    tel:
+      - 020 8496 4390
+    latitude:
+      - '51.591307034729'
+    longitude:
+      - '-0.020222374497635'
+    street-address:
+      - Lloyd Park, Forest Rd
+    locality:
+      - Walthamstow
+    region:
+      - Greater London
+    country-name:
+      - United Kingdom
+    postal-code:
+      - E17 4PP
+  value: >
+    https://foursquare.com/v/51c4df2e7dd27e8ce8dd2369
+
+----
+
+Date: 2024-08-26 12:05:00
+
+----
+
+Uid: 4131
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: broken-clouds
+
+----
+
+Temperature: 21°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: 05apQPJpAAJht36P

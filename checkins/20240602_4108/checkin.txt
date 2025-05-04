@@ -1,0 +1,94 @@
+Title: June 2nd, 2024
+
+----
+
+Text: Checked in at Teatro San Carlo
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/665c72cc9cb04c47bb43126c
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Teatro San Carlo
+    url:
+      - >
+        https://foursquare.com/v/4c1345a082a3c9b61241fbf8
+      - http://www.teatrosancarlo.it
+    tel:
+      - 081 797 2111
+    latitude:
+      - '40.837381355307'
+    longitude:
+      - '14.249129352421'
+    street-address:
+      - Via San Carlo, 98F
+    locality:
+      - Naples
+    region:
+      - Campania
+    country-name:
+      - Italy
+    postal-code:
+      - "80132"
+  value: >
+    https://foursquare.com/v/4c1345a082a3c9b61241fbf8
+
+----
+
+Date: 2024-06-02 15:25:00
+
+----
+
+Uid: 4108
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: broken-clouds
+
+----
+
+Temperature: 19°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: PJAUmdC6R7j4TP4i

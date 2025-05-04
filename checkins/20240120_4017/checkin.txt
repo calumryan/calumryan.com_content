@@ -1,0 +1,94 @@
+Title: January 20th, 2024
+
+----
+
+Text: Checked in at Doppio
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/65abdbc6de497628f8b5339c
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Doppio
+    url:
+      - >
+        https://foursquare.com/v/4f9bfc98e4b05baf78104e4f
+      - http://www.doppiocoffee.co.uk
+    tel:
+      - 020 7267 5993
+    latitude:
+      - '51.546218063412'
+    longitude:
+      - '-0.14189631906671'
+    street-address:
+      - 177 Kentish Town Road
+    locality:
+      - London
+    region:
+      - Greater London
+    country-name:
+      - United Kingdom
+    postal-code:
+      - NW1 8PD
+  value: >
+    https://foursquare.com/v/4f9bfc98e4b05baf78104e4f
+
+----
+
+Date: 2024-01-20 14:40:00
+
+----
+
+Uid: 4017
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: clear-sky
+
+----
+
+Temperature: 6°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: dMjy8JXwozb8QqBa

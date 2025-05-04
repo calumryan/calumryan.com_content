@@ -1,0 +1,87 @@
+Title: June 2nd, 2024
+
+----
+
+Text: Checked in at Caffè Moreno
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/665c2348ae0c5f31954da6c9
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Caffè Moreno
+    url:
+      - >
+        https://foursquare.com/v/4df5ddbec65bf55ee5336c18
+    latitude:
+      - '40.836334873918'
+    longitude:
+      - '14.221038519654'
+    locality:
+      - Naples
+    region:
+      - Campania
+    country-name:
+      - Italy
+  value: >
+    https://foursquare.com/v/4df5ddbec65bf55ee5336c18
+
+----
+
+Date: 2024-06-02 09:45:00
+
+----
+
+Uid: 4107
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: clear-sky
+
+----
+
+Temperature: 23°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: yXw6ESvhuSbJ3zUo

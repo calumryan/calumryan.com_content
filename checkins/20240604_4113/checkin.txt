@@ -1,0 +1,91 @@
+Title: June 4th, 2024
+
+----
+
+Text: Checked in at Antonio e Gigi Sorbillo
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/665ef67ca2d01b3e579ca8fd
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Antonio e Gigi Sorbillo
+    url:
+      - >
+        https://foursquare.com/v/58cfd7f44bc2f1351e0eb7b9
+    tel:
+      - "+39810331009"
+    latitude:
+      - 40.850556
+    longitude:
+      - 14.25565
+    street-address:
+      - Via dei Tribunali, 38
+    locality:
+      - Naples
+    region:
+      - Campania
+    country-name:
+      - Italy
+  value: >
+    https://foursquare.com/v/58cfd7f44bc2f1351e0eb7b9
+
+----
+
+Date: 2024-06-04 13:10:00
+
+----
+
+Uid: 4113
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: few-clouds
+
+----
+
+Temperature: 24°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: ZvANRDqp41p5Mkhl

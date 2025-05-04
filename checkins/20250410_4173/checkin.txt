@@ -1,0 +1,95 @@
+Title: April 10th, 2025
+
+----
+
+Text: Checked in at 10 Downing Street
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/67f6611c4d630c7c45273f81
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - 10 Downing Street
+    url:
+      - >
+        https://foursquare.com/v/4beaa62ab3352d7f656155d2
+      - http://www.number10.gov.uk
+      - https://twitter.com/number10gov
+    tel:
+      - 020 7270 3000
+    latitude:
+      - '51.503313265881'
+    longitude:
+      - '-0.12754440307617'
+    street-address:
+      - 10 Downing St
+    locality:
+      - London
+    region:
+      - Greater London
+    country-name:
+      - United Kingdom
+    postal-code:
+      - SW1A 2AA
+  value: >
+    https://foursquare.com/v/4beaa62ab3352d7f656155d2
+
+----
+
+Date: 2025-04-09 13:00:00
+
+----
+
+Uid: 4173
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: clear-sky
+
+----
+
+Temperature: 5°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: KDetl2qZVwXFDVGt

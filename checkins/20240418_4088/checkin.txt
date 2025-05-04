@@ -1,0 +1,95 @@
+Title: April 18th, 2024
+
+----
+
+Text: Checked in at Peumayén Ancestral Food
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/66216d5dd36b7b377361dcee
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Peumayén Ancestral Food
+    url:
+      - >
+        https://foursquare.com/v/5014d234e4b0cfd78b3120ba
+      - http://www.peumayenchile.cl
+      - https://twitter.com/restopeumayen
+    tel:
+      - "22473060"
+    latitude:
+      - '-33.432811599755'
+    longitude:
+      - '-70.634914649406'
+    street-address:
+      - Constitución 136
+    locality:
+      - Santiago
+    region:
+      - Santiago Metropolitan
+    country-name:
+      - Chile
+    postal-code:
+      - "750000"
+  value: >
+    https://foursquare.com/v/5014d234e4b0cfd78b3120ba
+
+----
+
+Date: 2024-04-18 15:00:00
+
+----
+
+Uid: 4088
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: clear-sky
+
+----
+
+Temperature: 29°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: mAhZ9KBODWwYAZ4a

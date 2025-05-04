@@ -1,0 +1,92 @@
+Title: November 20th, 2023
+
+----
+
+Text: Checked in at The Lookout
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/655bba901de18b16f44b2334
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - The Lookout
+    url:
+      - >
+        https://foursquare.com/v/64e74955213ea43f4d6845bf
+      - https://www.8bishopsgate.com/lookout
+    latitude:
+      - 51.513948
+    longitude:
+      - -0.083519
+    street-address:
+      - 50th Floor, 8 Bishopsgate
+    locality:
+      - London
+    region:
+      - Greater London
+    country-name:
+      - United Kingdom
+    postal-code:
+      - EC2N 4BQ
+  value: >
+    https://foursquare.com/v/64e74955213ea43f4d6845bf
+
+----
+
+Date: 2023-11-20 20:00:00
+
+----
+
+Uid: 3998
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: overcast-clouds
+
+----
+
+Temperature: 11°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: khaP22l277G3EcYn

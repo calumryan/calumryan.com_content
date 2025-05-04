@@ -1,0 +1,94 @@
+Title: March 8th, 2024
+
+----
+
+Text: Checked in at Trading Post Coffee Roasters
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/65eb268035f1691f2fb25ae8
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Trading Post Coffee Roasters
+    url:
+      - >
+        https://foursquare.com/v/58a1c725a19e9063d2a7651b
+      - http://tradingpostcoffee.co.uk
+    tel:
+      - 01273 911811
+    latitude:
+      - '50.822838788059'
+    longitude:
+      - '-0.14165601940649'
+    street-address:
+      - 36 Ship St
+    locality:
+      - Brighton
+    region:
+      - East Sussex
+    country-name:
+      - United Kingdom
+    postal-code:
+      - BN1 1AB
+  value: >
+    https://foursquare.com/v/58a1c725a19e9063d2a7651b
+
+----
+
+Date: 2024-03-08 14:55:00
+
+----
+
+Uid: 4042
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: clear-sky
+
+----
+
+Temperature: 8°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: doZPXZCk0JervQqS

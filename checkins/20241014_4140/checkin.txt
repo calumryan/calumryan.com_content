@@ -1,0 +1,92 @@
+Title: October 14th, 2024
+
+----
+
+Text: Checked in at The South Downs Social
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/670b9d11112bbe4f316c448f
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - The South Downs Social
+    url:
+      - >
+        https://foursquare.com/v/61cda603cf7c84428fa56cb5
+      - https://southdownssocial.com
+    tel:
+      - 01962 860220
+    latitude:
+      - '51.062584797674'
+    longitude:
+      - '-1.312336514263'
+    locality:
+      - Winchester
+    region:
+      - Hampshire
+    country-name:
+      - United Kingdom
+    postal-code:
+      - S O23
+  value: >
+    https://foursquare.com/v/61cda603cf7c84428fa56cb5
+
+----
+
+Date: 2024-10-13 11:15:00
+
+----
+
+Uid: 4140
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: light-rain
+
+----
+
+Temperature: 8°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: gHWg3GbjCLHjdren

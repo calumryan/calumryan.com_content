@@ -1,0 +1,95 @@
+Title: April 10th, 2025
+
+----
+
+Text: Checked in at The Old Truman Brewery
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/67f7b36d3c0a2049ccf4fdde
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - The Old Truman Brewery
+    url:
+      - >
+        https://foursquare.com/v/4ac518f3f964a520aeae20e3
+      - http://www.trumanbrewery.com
+      - https://twitter.com/trumanbrewery
+    tel:
+      - 020 7770 6008
+    latitude:
+      - '51.520609276973'
+    longitude:
+      - '-0.072410888966416'
+    street-address:
+      - 91 Brick Ln
+    locality:
+      - London
+    region:
+      - Greater London
+    country-name:
+      - United Kingdom
+    postal-code:
+      - E1 6QL
+  value: >
+    https://foursquare.com/v/4ac518f3f964a520aeae20e3
+
+----
+
+Date: 2025-04-10 13:05:00
+
+----
+
+Uid: 4174
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: broken-clouds
+
+----
+
+Temperature: 12°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: Jse1fDsI1j5CDkYV

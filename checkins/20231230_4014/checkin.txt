@@ -1,0 +1,95 @@
+Title: December 30th, 2023
+
+----
+
+Text: Checked in at Bravi Ragazzi
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/659021d65f556355a1d4ff26
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Bravi Ragazzi
+    url:
+      - >
+        https://foursquare.com/v/50ef3d24e4b00f0bd1d6fd81
+      - http://braviragazzipizzeria.co.uk
+      - https://twitter.com/braviragazzipiz
+    tel:
+      - 020 8769 4966
+    latitude:
+      - '51.430703955979'
+    longitude:
+      - '-0.12923747862792'
+    street-address:
+      - 2a SunnyHill Rd
+    locality:
+      - Streatham
+    region:
+      - Greater London
+    country-name:
+      - United Kingdom
+    postal-code:
+      - SW16 2UH
+  value: >
+    https://foursquare.com/v/50ef3d24e4b00f0bd1d6fd81
+
+----
+
+Date: 2023-12-30 14:00:00
+
+----
+
+Uid: 4014
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: broken-clouds
+
+----
+
+Temperature: 11°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: Rkg3Q58yw9k35NFr

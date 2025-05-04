@@ -1,0 +1,94 @@
+Title: December 23rd, 2024
+
+----
+
+Text: Checked in at Ole & Steen
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/6769602f4c997b1027a6b83d
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - 'Ole & Steen'
+    url:
+      - >
+        https://foursquare.com/v/6426e46dd10f8d768b6f92d2
+      - https://oleandsteen.co.uk
+    tel:
+      - 020 3319 6083
+    latitude:
+      - 51.410405
+    longitude:
+      - -0.305186
+    street-address:
+      - 14-16 Church St
+    locality:
+      - Kingston
+    region:
+      - Greater London
+    country-name:
+      - United Kingdom
+    postal-code:
+      - KT1 1RJ
+  value: >
+    https://foursquare.com/v/6426e46dd10f8d768b6f92d2
+
+----
+
+Date: 2024-12-23 13:05:00
+
+----
+
+Uid: 4153
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: clear-sky
+
+----
+
+Temperature: 7°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: CqZD7oOc5fBX1cI0

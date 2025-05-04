@@ -1,0 +1,95 @@
+Title: August 28th, 2024
+
+----
+
+Text: Checked in at The Tommyfield
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/66cf6cea903392380dc66cee
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - The Tommyfield
+    url:
+      - >
+        https://foursquare.com/v/4be06927652b0f47a8597211
+      - http://www.thetommyfield.com
+      - https://twitter.com/threecheerspubs
+    tel:
+      - 020 7735 1061
+    latitude:
+      - '51.488638295341'
+    longitude:
+      - '-0.11095424781907'
+    street-address:
+      - 185 Kennington Ln
+    locality:
+      - London
+    region:
+      - Greater London
+    country-name:
+      - United Kingdom
+    postal-code:
+      - SE11 4EZ
+  value: >
+    https://foursquare.com/v/4be06927652b0f47a8597211
+
+----
+
+Date: 2024-08-28 19:30:00
+
+----
+
+Uid: 4133
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: overcast-clouds
+
+----
+
+Temperature: 24°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: HZ5hKiYcL8yqSrqI

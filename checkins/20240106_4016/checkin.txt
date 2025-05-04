@@ -1,0 +1,90 @@
+Title: January 6th, 2024
+
+----
+
+Text: Checked in at Lockdown Bakehouse
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/659952b19e51dd4cf0719603
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Lockdown Bakehouse
+    url:
+      - >
+        https://foursquare.com/v/5fafc5600c57570033c97634
+      - http://lockdownbakehouse.com
+    latitude:
+      - 51.460488
+    longitude:
+      - -0.189726
+    locality:
+      - London
+    region:
+      - Greater London
+    country-name:
+      - United Kingdom
+    postal-code:
+      - SW18 1SN
+  value: >
+    https://foursquare.com/v/5fafc5600c57570033c97634
+
+----
+
+Date: 2024-01-06 13:15:00
+
+----
+
+Uid: 4016
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: broken-clouds
+
+----
+
+Temperature: 6°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: G2TNIgSzSdHwqK7J

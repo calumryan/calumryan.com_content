@@ -1,0 +1,94 @@
+Title: April 28th, 2024
+
+----
+
+Text: Checked in at Nikki's Bakery
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/662e43257eb31f7fbb05c643
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - "Nikki's Bakery"
+    url:
+      - >
+        https://foursquare.com/v/53999211498e40a9f66a87a5
+      - http://www.nikkisbakery.co.uk
+    tel:
+      - 020 3302 8230
+    latitude:
+      - '51.492780133153'
+    longitude:
+      - '-0.25552309378301'
+    street-address:
+      - 184 Chiswick High Road
+    locality:
+      - London
+    region:
+      - Greater London
+    country-name:
+      - United Kingdom
+    postal-code:
+      - W4 1PP
+  value: >
+    https://foursquare.com/v/53999211498e40a9f66a87a5
+
+----
+
+Date: 2024-04-28 13:40:00
+
+----
+
+Uid: 4091
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: light-rain
+
+----
+
+Temperature: 8°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: lVVEr7jTaJkqqGv4

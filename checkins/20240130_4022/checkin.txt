@@ -1,0 +1,94 @@
+Title: January 30th, 2024
+
+----
+
+Text: Checked in at DropShot Coffee
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/65b6461e3baa0c281c36c27c
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - DropShot Coffee
+    url:
+      - >
+        https://foursquare.com/v/5b20afaa2db4a9002c5a7006
+      - http://www.dropshotcoffee.co.uk
+    tel:
+      - 07445 673405
+    latitude:
+      - '51.443842002111'
+    longitude:
+      - '-0.2073723077774'
+    street-address:
+      - 281 Wimbledon Park Rd
+    locality:
+      - London
+    region:
+      - Greater London
+    country-name:
+      - United Kingdom
+    postal-code:
+      - SW19 6NW
+  value: >
+    https://foursquare.com/v/5b20afaa2db4a9002c5a7006
+
+----
+
+Date: 2024-01-28 12:20:00
+
+----
+
+Uid: 4022
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: overcast-clouds
+
+----
+
+Temperature: 8°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: B1r4kF0fSTX3BGBF

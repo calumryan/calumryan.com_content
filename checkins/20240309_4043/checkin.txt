@@ -1,0 +1,95 @@
+Title: March 9th, 2024
+
+----
+
+Text: Checked in at The Lord Nelson Inn
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/65eb56a5c3d48d769b207ccb
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - The Lord Nelson Inn
+    url:
+      - >
+        https://foursquare.com/v/4b058845f964a52068bb22e3
+      - http://lordnelsonbrighton.co.uk
+      - https://twitter.com/lordnelsonbn1
+    tel:
+      - 01273 695872
+    latitude:
+      - '50.828379005507'
+    longitude:
+      - '-0.13921647768783'
+    street-address:
+      - 36 Trafalgar St
+    locality:
+      - Brighton
+    region:
+      - East Sussex
+    country-name:
+      - United Kingdom
+    postal-code:
+      - BN1 4ED
+  value: >
+    https://foursquare.com/v/4b058845f964a52068bb22e3
+
+----
+
+Date: 2024-03-08 18:20:00
+
+----
+
+Uid: 4043
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: overcast-clouds
+
+----
+
+Temperature: 7°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: DrF6CFC4ebexCfI0

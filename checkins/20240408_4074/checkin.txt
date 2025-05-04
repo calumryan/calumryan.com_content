@@ -1,0 +1,94 @@
+Title: April 8th, 2024
+
+----
+
+Text: Checked in at Biblioteca Nacional de Chile
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/6614194d9b3473637abf4752
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Biblioteca Nacional de Chile
+    url:
+      - >
+        https://foursquare.com/v/4c1240e4583c9c74a0373fa4
+      - https://twitter.com/bnchile
+    tel:
+      - "23605310"
+    latitude:
+      - '-33.442454967126'
+    longitude:
+      - '-70.645766370698'
+    street-address:
+      - Alameda 651
+    locality:
+      - Santiago
+    region:
+      - Santiago Metropolitan
+    country-name:
+      - Chile
+    postal-code:
+      - "8320255"
+  value: >
+    https://foursquare.com/v/4c1240e4583c9c74a0373fa4
+
+----
+
+Date: 2024-04-08 12:20:00
+
+----
+
+Uid: 4074
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: clear-sky
+
+----
+
+Temperature: 23°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: Q6ZCgkwuiYhJvKW4
