@@ -1,0 +1,57 @@
+Title: Umbraad 2025
+
+----
+
+Text: **Talk title:** State of the accessible web
+
+----
+
+Date: 2025-05-15 10:00
+
+----
+
+Blink: 
+
+----
+
+Tags: speaker
+
+----
+
+Gallery: 
+
+----
+
+Date-start: 2025-05-15 11:00:00 +0100
+
+----
+
+Date-end: 2025-05-15 18:00:00 +0100
+
+----
+
+Timezone: BST
+
+----
+
+City: 
+
+----
+
+Location: Online
+
+----
+
+Speaker: 1
+
+----
+
+View-slides: 
+
+----
+
+View-video: 
+
+----
+
+Uuid: Q566cDJKqf6cRmsCN

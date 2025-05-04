@@ -50,4 +50,12 @@ Og-thumbnail: - file://tdEWRUYdrFBBoaxc
 
 ----
 
+Thumbnail: 
+
+----
+
+Thumbnail-text: Canal in Saltaire with backdrop of factory chimney
+
+----
+
 Uuid: yOhiAyZf8MxkhQUe

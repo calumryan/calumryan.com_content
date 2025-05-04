@@ -43,6 +43,10 @@ Gallery:
 
 ----
 
+Og-thumbnail-description: 
+
+----
+
 Og-thumbnail: - file://SWG9KfsalPNyOqzG
 
 ----

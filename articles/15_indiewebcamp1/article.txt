@@ -12,6 +12,11 @@ Thumbnail: /media/pages/posts/unsorted/indieweb.jpg
 
 ----
 
+Thumbnail text: IndieWebCamp Logo
+
+----
+
+
 Text:
 It's my second Indie Web Camp and this year sees a good mix of past and new attendees. The day's kicked off with intros from attendees on how they have or plan to implement Indie Web technologies over the weekend. Compared to last year the kind of websites we're creating are commonly moving away from PHP-based CMS (Content Management Systems) to use of static site generators: predominantly [Jekyll](http://jekyllrb.com/).
 
