@@ -8,7 +8,7 @@ svg: icon-cv
 
 Text:
 
-I'm a certified Web Accessibility Specialist, currently working full-time as an Interaction Designer for dxw making the web a better, more inclusive place. I code, write and speak publicly about web accessibility, user research, performance and front-end technologies.
+I'm a certified Web Accessibility Specialist, currently working full-time as a Senior Accessibility Specialist for the Government Digital Service, making the web a better, more inclusive place. I code, write and speak publicly about web accessibility, user research, performance and front-end technologies.
 
 ## Experienced with
 

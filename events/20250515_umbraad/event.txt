@@ -4,6 +4,16 @@ Title: Umbraad 2025
 
 Text: **Talk title:** State of the accessible web
 
+## Further reading & links:
+
+- [Fostering An Accessibility Culture](https://www.smashingmagazine.com/2025/04/fostering-accessibility-culture/)
+- [Accessibility and disability: UK research and statistics](https://business.scope.org.uk/accessibility-and-disability-facts-and-figures/)
+- [Inviqa Digital Accessibility Report 2020](https://business.scope.org.uk/inviqa-digital-accessibility-customer-experience-report/)
+- [DWP Accessibility Manual](https://accessibility-manual.dwp.gov.uk/)
+- [Request to join Champions of Accessibility Network](https://www.linkedin.com/groups/12499821/)
+- [Hassell Inclusion Training](https://www.hassellinclusion.com/hassell-inclusion-academy)
+
+
 ----
 
 Date: 2025-05-15 10:00
@@ -46,7 +56,7 @@ Speaker: 1
 
 ----
 
-View-slides: 
+View-slides: https://docs.google.com/presentation/d/1MXAs4_o4HDI_fQDiTlu7B0XM5VIzBfb-6peMfjkOOhU/
 
 ----
 
