@@ -6,7 +6,7 @@ Text: Pondering over possible upgrades to my site this weekend \#indiewebcamp
 
 ----
 
-Blink: 
+Permalink: 
 
 ----
 

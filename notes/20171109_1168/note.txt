@@ -6,7 +6,7 @@ Text: Dear @Meetup https://lab.io/articles/2017/11/08/dear-meetup/
 
 ----
 
-Blink: 
+Permalink: 
 
 ----
 

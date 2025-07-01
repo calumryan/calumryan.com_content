@@ -6,7 +6,7 @@ Text: I publish all my talk slides on my own website but have also started addin
 
 ----
 
-Blink: 
+Permalink: 
 
 ----
 

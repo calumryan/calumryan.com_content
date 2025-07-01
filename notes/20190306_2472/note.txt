@@ -10,7 +10,7 @@ Feature Image: monitor.jpg
 
 ----
 
-Blink: 
+Permalink: 
 
 ----
 

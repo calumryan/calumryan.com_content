@@ -6,7 +6,7 @@ Text: Putting CSS Grid into production and it works!
 
 ----
 
-Blink: 
+Permalink: 
 
 ----
 

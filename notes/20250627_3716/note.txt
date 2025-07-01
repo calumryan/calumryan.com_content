@@ -1,0 +1,75 @@
+Title: June 27th, 2025
+
+----
+
+Text: Today marks one year since I joined the Civil Service—what a year it’s been, with department changes and a new government along the way. Navigating digital accessibility challenges in such a large and evolving organisation hasn’t been easy, but I’m learning to value the small wins.
+
+----
+
+Locator:
+
+lat: 51.4214787
+lon: -0.2064027
+city: Wimbledon
+country: United Kingdom
+postcode: SW19 7NL
+
+----
+
+Date: 2025-06-27 10:40:00
+
+----
+
+Bluesky: publish
+
+----
+
+Mastodon: publish
+
+----
+
+Mastodon-fed: 
+
+----
+
+Uid: 3716
+
+----
+
+Weather-icon: scattered-clouds
+
+----
+
+Temperature: 22°C
+
+----
+
+Feature-images: 
+
+----
+
+Tags: work, anniversary, accessibility
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: YBLfOQZOwAYtQkCo

@@ -6,7 +6,7 @@ Text: \#ODCamp \#intro Front-ender / UX / sometimes talk about \#indieweb
 
 ----
 
-Blink: 
+Permalink: 
 
 ----
 

@@ -6,7 +6,7 @@ Text: Sending webmentions https://calumryan.com/learning/sending-webmentions/
 
 ----
 
-Blink: 
+Permalink: 
 
 ----
 

@@ -6,7 +6,7 @@ Text: What is the future of Front End Web Development? – @chriscoyier discusse
 
 ----
 
-Blink: 
+Permalink: 
 
 ----
 

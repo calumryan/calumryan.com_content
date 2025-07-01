@@ -6,7 +6,7 @@ Text: Goodbye to autoplay video backgrounds (in Safari at least) \#WWDC17
 
 ----
 
-Blink: 
+Permalink: 
 
 ----
 

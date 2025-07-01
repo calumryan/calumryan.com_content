@@ -6,7 +6,7 @@ Text: An introduction to CSS Grid by Charlotte Jackson http://www.lottejackson.c
 
 ----
 
-Blink: 
+Permalink: 
 
 ----
 

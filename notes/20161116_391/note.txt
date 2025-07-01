@@ -6,7 +6,7 @@ Text: Tested ServiceWorker implementation for my website over LieFi in Sevenoaks
 
 ----
 
-Blink: 
+Permalink: 
 
 ----
 

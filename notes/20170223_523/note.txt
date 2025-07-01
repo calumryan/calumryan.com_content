@@ -6,7 +6,7 @@ Text: How I implemented Micropub on my site https://calumryan.com/learning/getti
 
 ----
 
-Blink: 
+Permalink: 
 
 ----
 

@@ -1,0 +1,73 @@
+Title: June 6th, 2025
+
+----
+
+Text:
+
+One month until I travel by bike to a Belgian hotel near Lille (via train and ferry) to watch Le Tour's opening stages 🚴🏻‍♀️🇫🇷
+
+Any recommendations for a compact waterproof backpack suitable for 3 nights away? 🌦️🚴🏻‍♀️
+
+----
+
+Locator: 
+
+----
+
+Date: 2025-06-06 11:15:00
+
+----
+
+Bluesky: publish
+
+----
+
+Mastodon: publish
+
+----
+
+Mastodon-fed: 
+
+----
+
+Uid: 3715
+
+----
+
+Weather-icon: 
+
+----
+
+Temperature: 
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: gzTH9GVgcRY7yo80

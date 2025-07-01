@@ -6,7 +6,7 @@ Text: Provided some 1:1 guidance with a student on starting to learn HTML/CSS @C
 
 ----
 
-Blink: 
+Permalink: 
 
 ----
 

@@ -10,7 +10,7 @@ Feature Image: serviceworkers.png
 
 ----
 
-Blink: 
+Permalink: 
 
 ----
 

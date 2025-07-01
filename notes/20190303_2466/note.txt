@@ -6,7 +6,7 @@ Text: Dynamically filtering posts with @eleven_ty - such a quicker, tidier proce
 
 ----
 
-Blink: 
+Permalink: 
 
 ----
 

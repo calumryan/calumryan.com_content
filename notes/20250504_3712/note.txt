@@ -1,0 +1,77 @@
+Title: May 4th, 2025
+
+----
+
+Text: Back in Düsseldorf for Beyond Tellerrand once again! I made an impromptu stop at IndieWebCamp to assist with setting up the stream and finally have time to tackle accessibility improvements on my website.
+
+----
+
+Locator:
+
+lat: 51.2120848
+lon: 6.7556975
+number: "74"
+city: Dusseldorf
+country: Germany
+postcode: "40219"
+address: Gladbacher Straße
+
+----
+
+Date: 2025-05-04 16:35:00
+
+----
+
+Bluesky: publish
+
+----
+
+Mastodon: publish
+
+----
+
+Mastodon-fed: 
+
+----
+
+Uid: 3712
+
+----
+
+Weather-icon: clear-sky
+
+----
+
+Temperature: 13°C
+
+----
+
+Feature-images: - file://V79BWeX3tpyTO9vf
+
+----
+
+Tags: IndieWebCamp, accessibility, Germany
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: djtyb5Z2bzDlXxjG

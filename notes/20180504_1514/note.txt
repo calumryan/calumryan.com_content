@@ -6,7 +6,7 @@ Text: Onboard Eurostar @ St Pancras International - en route to \#indiewebcamp \
 
 ----
 
-Blink: 
+Permalink: 
 
 ----
 

@@ -6,7 +6,7 @@ Text: Attempting to research Global CSS-in-JS for @gatsbyjs with emotion-js. Ins
 
 ----
 
-Blink: 
+Permalink: 
 
 ----
 

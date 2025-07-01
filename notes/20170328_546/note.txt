@@ -6,7 +6,7 @@ Text: Preserving the permalink and responding with 410 response code on my websi
 
 ----
 
-Blink: 
+Permalink: 
 
 ----
 

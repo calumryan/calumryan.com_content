@@ -6,7 +6,7 @@ Text: Jekyll people: how do you setup bundle install on a post-receive hook?
 
 ----
 
-Blink: 
+Permalink: 
 
 ----
 

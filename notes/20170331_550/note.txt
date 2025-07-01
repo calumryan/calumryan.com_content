@@ -6,7 +6,7 @@ Text: Uninstalled Twitter native app. Installed Twitter \#PWA (for consumption).
 
 ----
 
-Blink: 
+Permalink: 
 
 ----
 

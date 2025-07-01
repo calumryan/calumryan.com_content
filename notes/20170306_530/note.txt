@@ -6,7 +6,7 @@ Text: Is there an efficient way to use feature detects for CSS Grid code possibl
 
 ----
 
-Blink: 
+Permalink: 
 
 ----
 

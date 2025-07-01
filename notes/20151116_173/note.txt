@@ -7,7 +7,7 @@ A few ideas for my talk + more people now implementing SSL successfully \#indiew
 
 ----
 
-Blink: 
+Permalink: 
 
 ----
 

@@ -6,7 +6,7 @@ Text: CMS accessibility is approached not just as a theme layer matter at Drupal
 
 ----
 
-Blink: 
+Permalink: 
 
 ----
 

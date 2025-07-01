@@ -6,7 +6,7 @@ Text: What's New In DevTools (Chrome 60) https://developers.google.com/web/updat
 
 ----
 
-Blink: 
+Permalink: 
 
 ----
 

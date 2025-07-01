@@ -6,7 +6,7 @@ Text: Slides from my talk last night on website usability testing @FrontEndLondo
 
 ----
 
-Blink: 
+Permalink: 
 
 ----
 

@@ -6,7 +6,7 @@ Text: Great practical way to learn CSS Grid ! http://cssgridgarden.com by .@thom
 
 ----
 
-Blink: 
+Permalink: 
 
 ----
 

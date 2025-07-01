@@ -6,7 +6,7 @@ Text: Getting to the point of why web accessibility matters and what's being don
 
 ----
 
-Blink: 
+Permalink: 
 
 ----
 

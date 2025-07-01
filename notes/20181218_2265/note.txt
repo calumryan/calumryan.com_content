@@ -6,7 +6,7 @@ Text: A handful of Flexbox properties which come in handy for fixing over-stretc
 
 ----
 
-Blink: 
+Permalink: 
 
 ----
 

@@ -6,7 +6,7 @@ Text: My second \#btconf Düsseldorf https://calumryan.com/blog/my-second-btconf
 
 ----
 
-Blink: 
+Permalink: 
 
 ----
 

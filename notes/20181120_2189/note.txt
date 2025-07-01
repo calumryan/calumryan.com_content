@@ -6,7 +6,7 @@ Text: Great things are discussed together, experimented with and built at IndieW
 
 ----
 
-Blink: https://css-tricks.com/push-and-ye-shall-receive/
+Permalink: https://css-tricks.com/push-and-ye-shall-receive/
 
 ----
 

@@ -6,7 +6,7 @@ Text: Making the case for progressive web apps over native apps - detailed and v
 
 ----
 
-Blink: 
+Permalink: 
 
 ----
 

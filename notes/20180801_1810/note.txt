@@ -6,7 +6,7 @@ Text: A week ago: &quot;Your parcel was delivered&quot; ..just not to my address
 
 ----
 
-Blink: 
+Permalink: 
 
 ----
 

@@ -6,7 +6,7 @@ Text: Quiet reading/writing time onboard the \#indieweb train to Nuremburg + \#n
 
 ----
 
-Blink: 
+Permalink: 
 
 ----
 

@@ -6,7 +6,7 @@ Text: Web dev folks I can highly recommend you user test your websites by using 
 
 ----
 
-Blink: 
+Permalink: 
 
 ----
 

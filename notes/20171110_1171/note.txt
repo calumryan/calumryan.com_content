@@ -6,7 +6,7 @@ Text: Make web performance part of the workflow for all involved on a project an
 
 ----
 
-Blink: 
+Permalink: 
 
 ----
 

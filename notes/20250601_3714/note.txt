@@ -1,0 +1,79 @@
+Title: June 1st, 2025
+
+----
+
+Text: Another beautiful birthday in a stunning city, where East meets West in Istanbul. Grateful for the sunshine, the views, and the amazing partner and photographer—thanks to Mena for capturing the magic!
+
+----
+
+Locator:
+
+lat: 41.006381
+lon: 28.9758715
+city: Istanbul
+country: Turkey
+postcode: "34122"
+
+----
+
+Date: 2025-06-01 17:25:00
+
+----
+
+Bluesky: publish
+
+----
+
+Mastodon: publish
+
+----
+
+Mastodon-fed: 
+
+----
+
+Uid: 3714
+
+----
+
+Weather-icon: clear-sky
+
+----
+
+Temperature: 25°C
+
+----
+
+Feature-images:
+
+- file://4dNFS1RwaljE1812
+- file://PUdXTNstE5qo6fSY
+- file://1ghO0FuvH5heupIX
+
+----
+
+Tags: birthday, travel, Turkey
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: fQ7TyhYUCkLpdaiI

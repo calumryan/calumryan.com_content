@@ -6,7 +6,7 @@ Text: A few words on Service Worker implementation success https://calumryan.com
 
 ----
 
-Blink: 
+Permalink: 
 
 ----
 

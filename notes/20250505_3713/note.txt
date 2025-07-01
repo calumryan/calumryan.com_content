@@ -1,0 +1,77 @@
+Title: May 5th, 2025
+
+----
+
+Text: Spring in Düsseldorf and it's a sunny day, it must be time for #btconf
+
+----
+
+Locator:
+
+lat: 51.223852
+lon: 6.8005967
+number: "30"
+city: Dusseldorf
+country: Germany
+postcode: "40233"
+address: Erkrather Straße
+
+----
+
+Date: 2025-05-05 11:00:00
+
+----
+
+Bluesky: publish
+
+----
+
+Mastodon: publish
+
+----
+
+Mastodon-fed: 
+
+----
+
+Uid: 3713
+
+----
+
+Weather-icon: few-clouds
+
+----
+
+Temperature: 11°C
+
+----
+
+Feature-images: - file://ZyhK4SLzZxFJPzPJ
+
+----
+
+Tags: 
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: TmSeXoeHnOuxljsJ

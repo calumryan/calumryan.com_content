@@ -6,7 +6,7 @@ Text: Slides from my \#PWA talk last night (first run) https://calumryan.com/tal
 
 ----
 
-Blink: 
+Permalink: 
 
 ----
 

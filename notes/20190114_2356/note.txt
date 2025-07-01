@@ -6,7 +6,7 @@ Text: Enjoying the use of IndieWeb-enabled readers like Monocle and combining th
 
 ----
 
-Blink: 
+Permalink: 
 
 ----
 

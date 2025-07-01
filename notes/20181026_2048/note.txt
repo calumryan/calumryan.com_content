@@ -6,7 +6,7 @@ Text: Attempting to work out again if my Micropub endpoint has stopped working o
 
 ----
 
-Blink: 
+Permalink: 
 
 ----
 

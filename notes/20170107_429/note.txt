@@ -6,7 +6,7 @@ Text: Test post to facebook
 
 ----
 
-Blink: 
+Permalink: 
 
 ----
 

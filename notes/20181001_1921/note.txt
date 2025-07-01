@@ -7,7 +7,7 @@ nudge.. https://github.com/calumryan/indieweb-guides/issues/1
 
 ----
 
-Blink: 
+Permalink: 
 
 ----
 

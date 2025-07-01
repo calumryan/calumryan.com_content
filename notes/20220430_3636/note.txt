@@ -42,7 +42,9 @@ Temperature: 14°C
 
 ----
 
-Feature-images: - zoomed.jpg
+Feature-images:
+
+- zoomed.jpg
 
 ----
 
@@ -67,7 +69,3 @@ Latitude:
 ----
 
 Longitude: 
-
-----
-
-Uuid: HLV6FJp9wPYXrpeW

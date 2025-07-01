@@ -6,7 +6,7 @@ Text: Split view/shrinking window size has been a standard feature in all major 
 
 ----
 
-Blink: 
+Permalink: 
 
 ----
 

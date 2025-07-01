@@ -6,7 +6,7 @@ Text: Attempting to purchase 4 Fahrten-Kurzstrecke the old way from an array of 
 
 ----
 
-Blink: 
+Permalink: 
 
 ----
 

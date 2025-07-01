@@ -6,7 +6,7 @@ Text: My slides from last night's fantastic @codeHarbour are up! https://speaker
 
 ----
 
-Blink: 
+Permalink: 
 
 ----
 

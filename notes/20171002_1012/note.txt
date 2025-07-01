@@ -6,7 +6,7 @@ Text: Running Edge/IE11 in VirtualBox on Mac super easy with free virtual machin
 
 ----
 
-Blink: 
+Permalink: 
 
 ----
 

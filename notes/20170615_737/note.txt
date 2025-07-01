@@ -6,7 +6,7 @@ Text: Strange load time delay/freeze for @Twitter Lite PWA following redesign, r
 
 ----
 
-Blink: 
+Permalink: 
 
 ----
 

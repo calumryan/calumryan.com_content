@@ -10,7 +10,7 @@ Feature Image: tempelhof.jpg
 
 ----
 
-Blink: 
+Permalink: 
 
 ----
 

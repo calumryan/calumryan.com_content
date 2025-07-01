@@ -6,7 +6,7 @@ Text: Here's how I added geolocation and live weather data linked to my posts â€
 
 ----
 
-Blink: 
+Permalink: 
 
 ----
 

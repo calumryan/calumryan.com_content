@@ -6,7 +6,7 @@ Text: Covfefe defined https://en.wikipedia.org/wiki/Covfefe
 
 ----
 
-Blink: 
+Permalink: 
 
 ----
 

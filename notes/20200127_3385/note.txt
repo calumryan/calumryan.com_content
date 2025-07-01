@@ -6,7 +6,7 @@ Text: My approach to conducting a web accessibility audit https://calumryan.com/
 
 ----
 
-Blink: 
+Permalink: 
 
 ----
 

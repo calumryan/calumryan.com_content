@@ -6,7 +6,7 @@ Text: Brilliant well presented, detailed talk introducing \#ServiceWorkers by @l
 
 ----
 
-Blink: 
+Permalink: 
 
 ----
 

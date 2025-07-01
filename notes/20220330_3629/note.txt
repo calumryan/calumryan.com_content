@@ -55,7 +55,3 @@ Latitude:
 ----
 
 Longitude: 
-
-----
-
-Uuid: HVjudfsZe9LmG4Te
