@@ -60,7 +60,7 @@ View-slides: https://docs.google.com/presentation/d/1MXAs4_o4HDI_fQDiTlu7B0XM5VI
 
 ----
 
-View-video: 
+View-video: https://www.youtube.com/watch?v=_5mseaSpSaY
 
 ----
 

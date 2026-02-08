@@ -1,0 +1,89 @@
+Title: November 21st, 2025
+
+----
+
+Text: Checked in at V&A Sackler Centre
+
+----
+
+Syndication: 
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - 'V&A Sackler Centre'
+    url:
+      - >
+        https://foursquare.com/v/4fb7d46ce4b00ec1acd4b16e
+    latitude:
+      - 51.497292
+    longitude:
+      - -0.173528
+    street-address:
+      - Cromwell Rd
+    locality:
+      - London
+    region:
+      - Greater London
+    country-name:
+      - United Kingdom
+  value: >
+    https://foursquare.com/v/4fb7d46ce4b00ec1acd4b16e
+
+----
+
+Date: 2025-11-21 18:45:00
+
+----
+
+Uid: 
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: clear-sky
+
+----
+
+Temperature: 1°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: thxsxoj2p1bkytd1

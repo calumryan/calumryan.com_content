@@ -1,4 +1,5 @@
 Title: Checkins
+Template: checkins
 
 ----
 
