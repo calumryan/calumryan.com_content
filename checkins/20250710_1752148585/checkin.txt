@@ -1,0 +1,93 @@
+Title: July 10th, 2025
+
+----
+
+Text: Checked in at Home Bargains
+
+----
+
+Syndication: 
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Home Bargains
+    url:
+      - >
+        https://foursquare.com/v/638a3cec2d393f1f7c12e572
+      - https://home.bargains
+      - https://twitter.com/homebargains
+    tel:
+      - 020 3375 9342
+    latitude:
+      - '51.430930659888'
+    longitude:
+      - '-0.19176185982681'
+    locality:
+      - London
+    region:
+      - Greater London
+    country-name:
+      - United Kingdom
+    postal-code:
+      - SW19 8UG
+  value: >
+    https://foursquare.com/v/638a3cec2d393f1f7c12e572
+
+----
+
+Date: 2025-07-10 12:35:00
+
+----
+
+Uid: 
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: few-clouds
+
+----
+
+Temperature: 28°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: ndjiqwgshqpy1qzn

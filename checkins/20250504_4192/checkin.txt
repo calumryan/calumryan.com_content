@@ -1,0 +1,95 @@
+Title: May 4th, 2025
+
+----
+
+Text: Checked in at U Heinrich-Heine-Allee
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/6817bbe27a92932c5e80f8fe
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - U Heinrich-Heine-Allee
+    url:
+      - >
+        https://foursquare.com/v/4b4d83d5f964a52066d326e3
+      - https://rheinbahn.de
+      - https://twitter.com/rheinbahn_info
+    tel:
+      - 0211 58201
+    latitude:
+      - '51.225861448984'
+    longitude:
+      - '6.7767839817677'
+    street-address:
+      - Heinrich-Heine-Allee
+    locality:
+      - Dusseldorf
+    region:
+      - North Rhine-Westphalia
+    country-name:
+      - Germany
+    postal-code:
+      - "40213"
+  value: >
+    https://foursquare.com/v/4b4d83d5f964a52066d326e3
+
+----
+
+Date: 2025-05-04 21:10:00
+
+----
+
+Uid: 4192
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: clear-sky
+
+----
+
+Temperature: 11°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: 2wAtxnfjg5aoYFgR

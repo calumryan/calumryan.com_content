@@ -86,3 +86,7 @@ Weather-icon: broken-clouds
 ----
 
 Temperature: 11°C
+
+----
+
+Uuid: 3r9tub1wribet2px

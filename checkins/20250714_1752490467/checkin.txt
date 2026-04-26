@@ -1,0 +1,93 @@
+Title: July 14th, 2025
+
+----
+
+Text: Checked in at Alcazaba de Málaga
+
+----
+
+Syndication: 
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Alcazaba de Málaga
+    url:
+      - >
+        https://foursquare.com/v/4e2aa4ce6284b96d7b7f176b
+    tel:
+      - 952 92 61 89
+    latitude:
+      - '36.721076085813'
+    longitude:
+      - '-4.4159889221191'
+    street-address:
+      - C. Alcazabilla, 2
+    locality:
+      - Málaga
+    region:
+      - Andalusia
+    country-name:
+      - Spain
+    postal-code:
+      - "29015"
+  value: >
+    https://foursquare.com/v/4e2aa4ce6284b96d7b7f176b
+
+----
+
+Date: 2025-07-14 12:55:00
+
+----
+
+Uid: 
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: clear-sky
+
+----
+
+Temperature: 30°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: xzu43azqxn7d4d8p

@@ -1,0 +1,94 @@
+Title: July 14th, 2025
+
+----
+
+Text: Checked in at La Barra Inka
+
+----
+
+Syndication: 
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - La Barra Inka
+    url:
+      - >
+        https://foursquare.com/v/6194189f0186a00f663e3ec9
+      - https://labarrainka.es
+    tel:
+      - 603 42 60 23
+    latitude:
+      - '36.722096899739'
+    longitude:
+      - '-4.4175550873148'
+    street-address:
+      - Calle de Santiago, 6
+    locality:
+      - Málaga
+    region:
+      - Andalusia
+    country-name:
+      - Spain
+    postal-code:
+      - "29015"
+  value: >
+    https://foursquare.com/v/6194189f0186a00f663e3ec9
+
+----
+
+Date: 2025-07-14 14:10:00
+
+----
+
+Uid: 
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: clear-sky
+
+----
+
+Temperature: 30°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: svkq35bor7drjy6z

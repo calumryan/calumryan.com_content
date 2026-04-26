@@ -1,0 +1,95 @@
+Title: August 23rd, 2025
+
+----
+
+Text: Checked in at Östermalms Saluhall
+
+----
+
+Syndication: 
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Östermalms Saluhall
+    url:
+      - >
+        https://foursquare.com/v/4ae16ee1f964a5201d8621e3
+      - https://www.ostermalmshallen.se
+      - https://twitter.com/ostermalmhallen
+    tel:
+      - 08-661 10 10
+    latitude:
+      - 59.33626
+    longitude:
+      - 18.07724
+    street-address:
+      - Humlegårdsgatan 5
+    locality:
+      - Stockholm
+    region:
+      - Stockholm
+    country-name:
+      - Sweden
+    postal-code:
+      - 114 46
+  value: >
+    https://foursquare.com/v/4ae16ee1f964a5201d8621e3
+
+----
+
+Date: 2025-08-23 13:35:00
+
+----
+
+Uid: 
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: broken-clouds
+
+----
+
+Temperature: 15°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: wxuqamesdqiwcfuc

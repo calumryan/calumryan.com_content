@@ -1,0 +1,92 @@
+Title: June 25th, 2025
+
+----
+
+Text: Checked in at Potter & Reid
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/685be7dd5f4e356a63f98150
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - 'Potter & Reid'
+    url:
+      - >
+        https://foursquare.com/v/6285f473d41d0f4d20e37c74
+      - http://potterandreid.com
+    latitude:
+      - '51.517600400745'
+    longitude:
+      - '-0.074627824866001'
+    street-address:
+      - 20-22 Toynbee Street
+    locality:
+      - London
+    region:
+      - Greater London
+    country-name:
+      - United Kingdom
+    postal-code:
+      - E1 7NE
+  value: >
+    https://foursquare.com/v/6285f473d41d0f4d20e37c74
+
+----
+
+Date: 2025-06-25 13:15:00
+
+----
+
+Uid: 4220
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: overcast-clouds
+
+----
+
+Temperature: 25°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: KLlLHs5jcMzWoMd2

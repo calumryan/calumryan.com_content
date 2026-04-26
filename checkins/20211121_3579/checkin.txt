@@ -84,3 +84,7 @@ Weather-icon: scattered-clouds
 ----
 
 Temperature: 7°C
+
+----
+
+Uuid: ei2ivvztxf5vp5tl

@@ -1,0 +1,95 @@
+Title: July 16th, 2025
+
+----
+
+Text: Checked in at La Jijonenca
+
+----
+
+Syndication: 
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - La Jijonenca
+    url:
+      - >
+        https://foursquare.com/v/4f7efff9e4b077c180cdd25b
+      - >
+        http://www.jijonenca.es/WEB/buscadortiendas.php
+    tel:
+      - 952 87 16 40
+    latitude:
+      - '36.742839357558'
+    longitude:
+      - '-5.1649912145081'
+    street-address:
+      - Carrera de Espinel 30
+    locality:
+      - Ronda
+    region:
+      - Andalusia
+    country-name:
+      - Spain
+    postal-code:
+      - "29400"
+  value: >
+    https://foursquare.com/v/4f7efff9e4b077c180cdd25b
+
+----
+
+Date: 2025-07-16 15:55:00
+
+----
+
+Uid: 
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: clear-sky
+
+----
+
+Temperature: 39°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: dwxpgfxybb1zpken

@@ -1,0 +1,94 @@
+Title: August 24th, 2025
+
+----
+
+Text: Checked in at Bullandö Krog
+
+----
+
+Syndication: 
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Bullandö Krog
+    url:
+      - >
+        https://foursquare.com/v/4bb5fb176edc76b06439301c
+      - http://www.bullandokrog.se
+    tel:
+      - 08-571 458 54
+    latitude:
+      - '59.297757091776'
+    longitude:
+      - '18.65008100771'
+    street-address:
+      - Bullandö Marina
+    locality:
+      - Värmdö
+    region:
+      - Stockholm
+    country-name:
+      - Sweden
+    postal-code:
+      - 139 56
+  value: >
+    https://foursquare.com/v/4bb5fb176edc76b06439301c
+
+----
+
+Date: 2025-08-24 13:40:00
+
+----
+
+Uid: 
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: broken-clouds
+
+----
+
+Temperature: 16°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: qgvbdhilz6ik8bt7

@@ -1,0 +1,95 @@
+Title: May 24th, 2025
+
+----
+
+Text: Checked in at Sodo Pizza Cafe
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/6831bb8c5ef1f54a348b6ea2
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Sodo Pizza Cafe
+    url:
+      - >
+        https://foursquare.com/v/56a4eb64498e1b60cca51204
+      - https://www.sodopizza.co.uk
+      - https://twitter.com/sodopizzalondon
+    tel:
+      - 020 8520 1244
+    latitude:
+      - '51.586425780623'
+    longitude:
+      - '-0.020638510291541'
+    street-address:
+      - 21 Hatherley Mews
+    locality:
+      - London
+    region:
+      - Greater London
+    country-name:
+      - United Kingdom
+    postal-code:
+      - E17 4QP
+  value: >
+    https://foursquare.com/v/56a4eb64498e1b60cca51204
+
+----
+
+Date: 2025-05-24 13:30:00
+
+----
+
+Uid: 4207
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: broken-clouds
+
+----
+
+Temperature: 19°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: KGcgUmjaF2yWcwsW

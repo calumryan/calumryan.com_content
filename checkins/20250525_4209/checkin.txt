@@ -1,0 +1,95 @@
+Title: May 25th, 2025
+
+----
+
+Text: Checked in at Ole & Steen
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/68330fe39f2ff4444932fda4
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - 'Ole & Steen'
+    url:
+      - >
+        https://foursquare.com/v/624b5415ba4b9f6426612d77
+      - https://oleandsteen.co.uk
+      - https://twitter.com/oleandsteenuk
+    tel:
+      - 020 3004 0283
+    latitude:
+      - '51.514458910344'
+    longitude:
+      - '-0.12594290173675'
+    street-address:
+      - 39-43 Neal St
+    locality:
+      - London
+    region:
+      - Greater London
+    country-name:
+      - United Kingdom
+    postal-code:
+      - WC2H 9QG
+  value: >
+    https://foursquare.com/v/624b5415ba4b9f6426612d77
+
+----
+
+Date: 2025-05-25 13:40:00
+
+----
+
+Uid: 4209
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: few-clouds
+
+----
+
+Temperature: 19°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: Ffe15ndLCgzxyJD1

@@ -1,0 +1,96 @@
+Title: July 25th, 2025
+
+----
+
+Text: Checked in at The George And Monkey
+
+----
+
+Syndication: 
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - The George And Monkey
+    url:
+      - >
+        https://foursquare.com/v/5b5218ee835c9a00390ed6f2
+      - https://www.georgeandmonkey.co.uk
+    tel:
+      - 020 7278 6210
+    latitude:
+      - '51.52991857494'
+    longitude:
+      - '-0.11026763767797'
+    street-address:
+      - >
+        68 Amwell Street, London, Greater
+        London, EC1R 1UU, United Kingdom
+    locality:
+      - London
+    region:
+      - Greater London
+    country-name:
+      - United Kingdom
+    postal-code:
+      - EC1R 1UU
+  value: >
+    https://foursquare.com/v/5b5218ee835c9a00390ed6f2
+
+----
+
+Date: 2025-07-25 16:35:00
+
+----
+
+Uid: 
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: overcast-clouds
+
+----
+
+Temperature: 26°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: 5c0ksvm2vgsbssuz

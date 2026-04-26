@@ -91,3 +91,7 @@ Weather-icon: clear-sky
 ----
 
 Temperature: 2°C
+
+----
+
+Uuid: zvdcnlxtivsxjkqh

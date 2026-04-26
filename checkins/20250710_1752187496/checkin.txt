@@ -1,0 +1,96 @@
+Title: July 10th, 2025
+
+----
+
+Text: Checked in at Málaga - Costa del Sol Airport (AGP) (Aeropuerto de Málaga - Costa del Sol)
+
+----
+
+Syndication: 
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - 'Málaga - Costa del Sol Airport (AGP) (Aeropuerto de Málaga - Costa del Sol)'
+    url:
+      - >
+        https://foursquare.com/v/4b8399a6f964a520f00a31e3
+      - >
+        https://www.aena.es/en/malaga-costa-del-sol.html
+      - https://twitter.com/aena
+    tel:
+      - 952 04 88 04
+    latitude:
+      - '36.676458258806'
+    longitude:
+      - '-4.4926091087717'
+    street-address:
+      - Av. del Comandante García Morato
+    locality:
+      - Málaga
+    region:
+      - Andalusia
+    country-name:
+      - Spain
+    postal-code:
+      - "29004"
+  value: >
+    https://foursquare.com/v/4b8399a6f964a520f00a31e3
+
+----
+
+Date: 2025-07-11 00:45:00
+
+----
+
+Uid: 
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: clear-sky
+
+----
+
+Temperature: 26°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: zz9a3hfc3lefxor8

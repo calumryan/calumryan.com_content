@@ -1,5 +1,4 @@
 Title: Checkins
-Template: checkins
 
 ----
 
@@ -7,4 +6,8 @@ Intro: This page lists all checkins
 
 ----
 
-svg: icon-location
+Svg: icon-location
+
+----
+
+Uuid: hdrnvhgkcdp20akc

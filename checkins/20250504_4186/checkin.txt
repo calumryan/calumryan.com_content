@@ -1,0 +1,94 @@
+Title: May 4th, 2025
+
+----
+
+Text: Checked in at Sattgrün am Hafen
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/68175ebab5468e16111eb377
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Sattgrün am Hafen
+    url:
+      - >
+        https://foursquare.com/v/52149ce211d2556da7c052cb
+      - https://www.sattgruen.com
+    tel:
+      - 0211 15923290
+    latitude:
+      - '51.215952567785'
+    longitude:
+      - '6.7589168508895'
+    street-address:
+      - Brückenstr. 12
+    locality:
+      - Dusseldorf
+    region:
+      - North Rhine-Westphalia
+    country-name:
+      - Germany
+    postal-code:
+      - "40211"
+  value: >
+    https://foursquare.com/v/52149ce211d2556da7c052cb
+
+----
+
+Date: 2025-05-04 14:35:00
+
+----
+
+Uid: 4186
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: few-clouds
+
+----
+
+Temperature: 15°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: UoTw15w2tuADw5Z4

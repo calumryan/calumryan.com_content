@@ -6,7 +6,7 @@ Text: Checked in at Brauhaus Rixdorf
 
 ----
 
-Feature Image: fsqReXsPE.jpg
+Feature-image: fsqReXsPE.jpg
 
 ----
 
@@ -34,7 +34,7 @@ Temperature:
 
 ----
 
-Weather Icon: 
+Weather-icon: 
 
 ----
 
@@ -46,4 +46,8 @@ Redirect: https://calumryan.com/note/1101
 
 ----
 
-UID: 1101
+Uid: 1101
+
+----
+
+Uuid: 8zwzpr91rudonuda

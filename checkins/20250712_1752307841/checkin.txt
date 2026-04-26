@@ -1,0 +1,95 @@
+Title: July 12th, 2025
+
+----
+
+Text: Checked in at Museo Picasso Málaga
+
+----
+
+Syndication: 
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Museo Picasso Málaga
+    url:
+      - >
+        https://foursquare.com/v/4c35a6e4213c2d7fa2653a5d
+      - http://www.museopicassomalaga.org
+      - https://twitter.com/mpicassom
+    tel:
+      - 952 12 76 00
+    latitude:
+      - '36.721662727096'
+    longitude:
+      - '-4.4184965695544'
+    street-address:
+      - C. San Agustín, 8
+    locality:
+      - Málaga
+    region:
+      - Andalusia
+    country-name:
+      - Spain
+    postal-code:
+      - "29015"
+  value: >
+    https://foursquare.com/v/4c35a6e4213c2d7fa2653a5d
+
+----
+
+Date: 2025-07-12 10:10:00
+
+----
+
+Uid: 
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: few-clouds
+
+----
+
+Temperature: 25°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: f3p4cuqis3zmhq3c

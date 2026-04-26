@@ -1,0 +1,91 @@
+Title: August 1st, 2025
+
+----
+
+Text: Checked in at Lockdown Bakehouse
+
+----
+
+Syndication: 
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Lockdown Bakehouse
+    url:
+      - >
+        https://foursquare.com/v/673727398d146e4c0614cde8
+    latitude:
+      - 51.441323
+    longitude:
+      - -0.187437
+    street-address:
+      - Garratt Lane
+    locality:
+      - London
+    region:
+      - Greater London
+    country-name:
+      - United Kingdom
+    postal-code:
+      - SW18 4HP
+  value: >
+    https://foursquare.com/v/673727398d146e4c0614cde8
+
+----
+
+Date: 2025-08-01 08:45:00
+
+----
+
+Uid: 
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: broken-clouds
+
+----
+
+Temperature: 16°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: kepnaiq1aalhthvw

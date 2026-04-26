@@ -89,3 +89,7 @@ Latitude:
 ----
 
 Longitude: 
+
+----
+
+Uuid: 6f1w07u5baadomuf

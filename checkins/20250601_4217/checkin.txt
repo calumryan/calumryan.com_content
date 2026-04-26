@@ -1,0 +1,87 @@
+Title: June 1st, 2025
+
+----
+
+Text: Checked in at Dolmabahce Sarayi Saltanat Kapisi
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/683c0fae9c128c4903d0ab06
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Dolmabahce Sarayi Saltanat Kapisi
+    url:
+      - >
+        https://foursquare.com/v/581c5578de98371fb91fbdcd
+    latitude:
+      - 41.040375
+    longitude:
+      - 29.000288
+    region:
+      - Istanbul
+    country-name:
+      - Turkey
+    postal-code:
+      - "34357"
+  value: >
+    https://foursquare.com/v/581c5578de98371fb91fbdcd
+
+----
+
+Date: 2025-06-01 11:30:00
+
+----
+
+Uid: 4217
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: clear-sky
+
+----
+
+Temperature: 25°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: VrOEazp3M4vW7jiX

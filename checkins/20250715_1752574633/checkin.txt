@@ -1,0 +1,94 @@
+Title: July 15th, 2025
+
+----
+
+Text: Checked in at Fundación Picasso - Museo Casa Natal
+
+----
+
+Syndication: 
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - 'Fundación Picasso - Museo Casa Natal'
+    url:
+      - >
+        https://foursquare.com/v/4d5279109b27721edb1ec246
+      - http://www.fundacionpicasso.es
+    tel:
+      - 951 92 60 60
+    latitude:
+      - '36.723936979445'
+    longitude:
+      - '-4.417680825766'
+    street-address:
+      - Plaza de la Merced, 15
+    locality:
+      - Málaga
+    region:
+      - Andalusia
+    country-name:
+      - Spain
+    postal-code:
+      - "29012"
+  value: >
+    https://foursquare.com/v/4d5279109b27721edb1ec246
+
+----
+
+Date: 2025-07-15 12:15:00
+
+----
+
+Uid: 
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: clear-sky
+
+----
+
+Temperature: 30°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: qhasikikk7m5rqxg

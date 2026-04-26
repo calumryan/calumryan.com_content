@@ -1,0 +1,92 @@
+Title: May 31st, 2025
+
+----
+
+Text: Checked in at Buhara Ocakbaşı & Restaurant
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/683b0898fda5c360290c8b71
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - 'Buhara Ocakbaşı & Restaurant'
+    url:
+      - >
+        https://foursquare.com/v/4d6502c73384a0935924a23c
+      - http://www.buhararestoran.com
+    tel:
+      - (0212) 527 51 33
+    latitude:
+      - '41.01036223805'
+    longitude:
+      - '28.975181144603'
+    street-address:
+      - Cağaloğlu
+    locality:
+      - Istanbul
+    region:
+      - Istanbul
+    country-name:
+      - Turkey
+  value: >
+    https://foursquare.com/v/4d6502c73384a0935924a23c
+
+----
+
+Date: 2025-05-31 16:50:00
+
+----
+
+Uid: 4213
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: broken-clouds
+
+----
+
+Temperature: 21°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: SyBf19aqMGc7BEvb

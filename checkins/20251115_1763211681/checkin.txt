@@ -1,0 +1,89 @@
+Title: November 15th, 2025
+
+----
+
+Text: Checked in at Khao Gaeng Thai
+
+----
+
+Syndication: 
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Khao Gaeng Thai
+    url:
+      - >
+        https://foursquare.com/v/57ac6670498efc73aae1464b
+    tel:
+      - 0113 345 1750
+    latitude:
+      - 53.797382
+    longitude:
+      - -1.5397036
+    locality:
+      - Leeds
+    country-name:
+      - United Kingdom
+    postal-code:
+      - LS2 7HZ
+  value: >
+    https://foursquare.com/v/57ac6670498efc73aae1464b
+
+----
+
+Date: 2025-11-15 13:00:00
+
+----
+
+Uid: 
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: fog
+
+----
+
+Temperature: 9°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: 5uqh50v5b6thzk8g

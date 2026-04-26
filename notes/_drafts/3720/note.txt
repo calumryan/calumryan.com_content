@@ -1,0 +1,57 @@
+Title: April 26th, 2026
+
+----
+
+Text: Test
+
+----
+
+Locator:
+
+lat: 51.6378462
+lon: 8.190976
+city: Ostinghausen
+region: North Rhine-Westphalia
+country: Germany
+countryCode: de
+osm: 1411084168
+
+----
+
+Date: 2026-04-26 00:00:00
+
+----
+
+Bluesky: 
+
+----
+
+Mastodon: 
+
+----
+
+Mastodon-fed: 
+
+----
+
+Uid: 3720
+
+----
+
+Weather-icon: 
+
+----
+
+Temperature: 
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Uuid: jwdntmxzhnkujgub

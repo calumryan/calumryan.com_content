@@ -1,0 +1,93 @@
+Title: August 17th, 2025
+
+----
+
+Text: Checked in at Duke of Clarence
+
+----
+
+Syndication: 
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Duke of Clarence
+    url:
+      - >
+        https://foursquare.com/v/4cdaebbbfc9737041dabcb05
+    tel:
+      - 020 8979 1402
+    latitude:
+      - '51.423116776222'
+    longitude:
+      - '-0.35599910713473'
+    street-address:
+      - 147 High St
+    locality:
+      - Hampton
+    region:
+      - Greater London
+    country-name:
+      - United Kingdom
+    postal-code:
+      - TW12 1NJ
+  value: >
+    https://foursquare.com/v/4cdaebbbfc9737041dabcb05
+
+----
+
+Date: 2025-08-17 13:35:00
+
+----
+
+Uid: 
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: clear-sky
+
+----
+
+Temperature: 25°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: wjy58cvk9gudmap5

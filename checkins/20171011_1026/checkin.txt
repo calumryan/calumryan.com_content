@@ -6,7 +6,7 @@ Text: Checked in at Fuggles. Campus Pils
 
 ----
 
-Feature Image: fsqIaCsOy.jpg
+Feature-image: fsqIaCsOy.jpg
 
 ----
 
@@ -34,7 +34,7 @@ Temperature:
 
 ----
 
-Weather Icon: 
+Weather-icon: 
 
 ----
 
@@ -46,4 +46,8 @@ Redirect: https://calumryan.com/note/1026
 
 ----
 
-UID: 1026
+Uid: 1026
+
+----
+
+Uuid: o6yjoeytm6odcua0

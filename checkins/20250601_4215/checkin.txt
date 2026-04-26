@@ -1,0 +1,94 @@
+Title: June 1st, 2025
+
+----
+
+Text: Checked in at Blue Mosque (Sultan Ahmet Camii)
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/683bf4f0a4bb9829b5b6bd83
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Blue Mosque (Sultan Ahmet Camii)
+    url:
+      - >
+        https://foursquare.com/v/4b753a2af964a520d4012ee3
+      - http://www.sultanahmetcamii.org
+    tel:
+      - (0212) 458 07 76
+    latitude:
+      - '41.006272356785'
+    longitude:
+      - '28.976490110962'
+    street-address:
+      - Sultan Ahmet Mah. At Meydanı Cad. No:7
+    locality:
+      - Fatih
+    region:
+      - Istanbul
+    country-name:
+      - Turkey
+    postal-code:
+      - "34122"
+  value: >
+    https://foursquare.com/v/4b753a2af964a520d4012ee3
+
+----
+
+Date: 2025-06-01 09:35:00
+
+----
+
+Uid: 4215
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: scattered-clouds
+
+----
+
+Temperature: 19°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: pgP8JkW8kB5uf3BI

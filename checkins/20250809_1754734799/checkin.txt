@@ -1,0 +1,95 @@
+Title: August 9th, 2025
+
+----
+
+Text: Checked in at Jane Austen's House
+
+----
+
+Syndication: 
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - "Jane Austen's House"
+    url:
+      - >
+        https://foursquare.com/v/4c24d2e8f1272d7ff8a483c5
+      - https://janeaustens.house
+      - https://twitter.com/janeaustenhouse
+    tel:
+      - 01420 83262
+    latitude:
+      - '51.133103082549'
+    longitude:
+      - '-0.98886545823516'
+    street-address:
+      - Winchester Rd
+    locality:
+      - Alton
+    region:
+      - Hampshire
+    country-name:
+      - United Kingdom
+    postal-code:
+      - GU34 1SD
+  value: >
+    https://foursquare.com/v/4c24d2e8f1272d7ff8a483c5
+
+----
+
+Date: 2025-08-09 11:20:00
+
+----
+
+Uid: 
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: broken-clouds
+
+----
+
+Temperature: 20°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: q1k4pip36txjltkw

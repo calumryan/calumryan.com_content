@@ -1,0 +1,96 @@
+Title: September 17th, 2025
+
+----
+
+Text: Checked in at John McIntyre Conference Centre
+
+----
+
+Syndication: 
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - John McIntyre Conference Centre
+    url:
+      - >
+        https://foursquare.com/v/4c852f1f2f1c236a504d5243
+      - >
+        http://www.edinburghfirst.co.uk/venues/john-mcintyre-conference-centre
+      - https://twitter.com/edinburghfirst
+    tel:
+      - 0131 651 2189
+    latitude:
+      - '55.939833870201'
+    longitude:
+      - '-3.1698057386134'
+    street-address:
+      - 18 Holyrood Park Road
+    locality:
+      - Edinburgh
+    region:
+      - City of Edinburgh
+    country-name:
+      - United Kingdom
+    postal-code:
+      - EH16 5AY
+  value: >
+    https://foursquare.com/v/4c852f1f2f1c236a504d5243
+
+----
+
+Date: 2025-09-17 14:25:00
+
+----
+
+Uid: 
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: broken-clouds
+
+----
+
+Temperature: 19°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: wryyad5kuetw9dos

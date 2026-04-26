@@ -93,3 +93,7 @@ Weather-icon: few-clouds
 ----
 
 Temperature: 8°C
+
+----
+
+Uuid: eger52ys5gt28dxx

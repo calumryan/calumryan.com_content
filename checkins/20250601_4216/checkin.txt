@@ -1,0 +1,83 @@
+Title: June 1st, 2025
+
+----
+
+Text: Checked in at Dolmabahçe Sarayı Meşk Salonu
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/683c1879ffe6d91d228dff1e
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Dolmabahçe Sarayı Meşk Salonu
+    url:
+      - >
+        https://foursquare.com/v/5a858bd547f8764d0b19d85a
+    latitude:
+      - '41.038894902205'
+    longitude:
+      - '29.000649384846'
+    country-name:
+      - Turkey
+  value: >
+    https://foursquare.com/v/5a858bd547f8764d0b19d85a
+
+----
+
+Date: 2025-06-01 12:10:00
+
+----
+
+Uid: 4216
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: clear-sky
+
+----
+
+Temperature: 25°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: 97GE69T3WWethAP3

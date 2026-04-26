@@ -1,0 +1,94 @@
+Title: November 9th, 2025
+
+----
+
+Text: Checked in at The Grocer at 15
+
+----
+
+Syndication: 
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - The Grocer at 15
+    url:
+      - >
+        https://foursquare.com/v/539c5573498e606f9b40694e
+      - http://www.thegrocershops.co.uk
+    tel:
+      - 01494 722925
+    latitude:
+      - 51.666216
+    longitude:
+      - -0.614726
+    street-address:
+      - 15 The Broadway
+    locality:
+      - Amersham
+    region:
+      - Buckinghamshire
+    country-name:
+      - United Kingdom
+    postal-code:
+      - HP7 0HL
+  value: >
+    https://foursquare.com/v/539c5573498e606f9b40694e
+
+----
+
+Date: 2025-11-09 11:40:00
+
+----
+
+Uid: 
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: broken-clouds
+
+----
+
+Temperature: 12°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: njr6jiqsx9nyekun

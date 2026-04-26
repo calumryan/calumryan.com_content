@@ -1,0 +1,89 @@
+Title: September 14th, 2025
+
+----
+
+Text: Checked in at Cafe Forum
+
+----
+
+Syndication: 
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Cafe Forum
+    url:
+      - >
+        https://foursquare.com/v/650d6b926e39141428d4c5a6
+    latitude:
+      - 51.564997
+    longitude:
+      - -0.133394
+    locality:
+      - London
+    region:
+      - Greater London
+    country-name:
+      - United Kingdom
+    postal-code:
+      - N19 5SE
+  value: >
+    https://foursquare.com/v/650d6b926e39141428d4c5a6
+
+----
+
+Date: 2025-09-14 15:00:00
+
+----
+
+Uid: 
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: moderate-rain
+
+----
+
+Temperature: 16°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: uii0uibsqsbq1apb

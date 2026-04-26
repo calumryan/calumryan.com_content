@@ -1,0 +1,94 @@
+Title: July 11th, 2025
+
+----
+
+Text: Checked in at Casa Lola
+
+----
+
+Syndication: 
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Casa Lola
+    url:
+      - >
+        https://foursquare.com/v/4c87967f51ada1cdb0094910
+      - https://tabernacasalola.com
+    tel:
+      - 952 22 38 14
+    latitude:
+      - '36.722065334976'
+    longitude:
+      - '-4.4189978705396'
+    street-address:
+      - C. Granada, 46
+    locality:
+      - Málaga
+    region:
+      - Andalusia
+    country-name:
+      - Spain
+    postal-code:
+      - "29015"
+  value: >
+    https://foursquare.com/v/4c87967f51ada1cdb0094910
+
+----
+
+Date: 2025-07-11 13:05:00
+
+----
+
+Uid: 
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: clear-sky
+
+----
+
+Temperature: 32°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: npf8rbqxeqbvxnm5

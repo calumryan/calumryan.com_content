@@ -6,7 +6,7 @@ Text: Checked in at Benito's Hat
 
 ----
 
-Feature Image: fsqbPsYfu.jpg
+Feature-image: fsqbPsYfu.jpg
 
 ----
 
@@ -34,7 +34,7 @@ Temperature:
 
 ----
 
-Weather Icon: 
+Weather-icon: 
 
 ----
 
@@ -46,4 +46,8 @@ Redirect: https://calumryan.com/note/1085
 
 ----
 
-UID: 1085
+Uid: 1085
+
+----
+
+Uuid: fpjigyddixd7lqda

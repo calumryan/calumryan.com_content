@@ -6,7 +6,7 @@ Text: Checked in at Aberdeen International Airport (ABZ)
 
 ----
 
-Feature Image: fsq0oVXXU.jpg
+Feature-image: fsq0oVXXU.jpg
 
 ----
 
@@ -34,7 +34,7 @@ Temperature:
 
 ----
 
-Weather Icon: 
+Weather-icon: 
 
 ----
 
@@ -46,4 +46,8 @@ Redirect: https://calumryan.com/note/958
 
 ----
 
-UID: 958
+Uid: 958
+
+----
+
+Uuid: 7add31fvguzboi2d

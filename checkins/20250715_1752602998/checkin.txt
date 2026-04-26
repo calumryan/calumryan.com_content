@@ -1,0 +1,94 @@
+Title: July 15th, 2025
+
+----
+
+Text: Checked in at Los Marangós
+
+----
+
+Syndication: 
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Los Marangós
+    url:
+      - >
+        https://foursquare.com/v/5cfaa616e65d0c002cc1761f
+      - https://losmarangos.grupomarangos.es
+    tel:
+      - 951 63 49 04
+    latitude:
+      - '36.722908325489'
+    longitude:
+      - '-4.4193487144691'
+    street-address:
+      - Calle Beatas, 23
+    locality:
+      - Málaga
+    region:
+      - Andalusia
+    country-name:
+      - Spain
+    postal-code:
+      - "29008"
+  value: >
+    https://foursquare.com/v/5cfaa616e65d0c002cc1761f
+
+----
+
+Date: 2025-07-15 20:10:00
+
+----
+
+Uid: 
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: clear-sky
+
+----
+
+Temperature: 29°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: metqgmt0bezitmle

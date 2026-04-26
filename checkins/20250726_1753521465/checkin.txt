@@ -1,0 +1,89 @@
+Title: July 26th, 2025
+
+----
+
+Text: Checked in at Cadence Clubhouse Cocking
+
+----
+
+Syndication: 
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Cadence Clubhouse Cocking
+    url:
+      - >
+        https://foursquare.com/v/6651cffdadff8d3f8cf826af
+    latitude:
+      - 50.943071
+    longitude:
+      - -0.758387
+    locality:
+      - Midhurst
+    region:
+      - West Sussex
+    country-name:
+      - United Kingdom
+    postal-code:
+      - GU29 0HT
+  value: >
+    https://foursquare.com/v/6651cffdadff8d3f8cf826af
+
+----
+
+Date: 2025-07-26 10:15:00
+
+----
+
+Uid: 
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: broken-clouds
+
+----
+
+Temperature: 19°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: t5mpy893pg8fzkay

@@ -1,0 +1,95 @@
+Title: July 17th, 2025
+
+----
+
+Text: Checked in at Museo de Málaga
+
+----
+
+Syndication: 
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Museo de Málaga
+    url:
+      - >
+        https://foursquare.com/v/585a973ed8e559219872512d
+      - >
+        http://www.museosdeandalucia.es/cultura/museos/MMA/index.jsp?redirect=S2_1.jsp
+    tel:
+      - 951 29 40 51
+    latitude:
+      - '36.72012729271'
+    longitude:
+      - '-4.4170669713778'
+    street-address:
+      - Plaza de la Aduana, s/n
+    locality:
+      - Málaga
+    region:
+      - Andalusia
+    country-name:
+      - Spain
+    postal-code:
+      - "29016"
+  value: >
+    https://foursquare.com/v/585a973ed8e559219872512d
+
+----
+
+Date: 2025-07-17 12:55:00
+
+----
+
+Uid: 
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: clear-sky
+
+----
+
+Temperature: 30°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: 7d0f1optaxiooham

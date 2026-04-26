@@ -1,0 +1,95 @@
+Title: May 31st, 2025
+
+----
+
+Text: Checked in at Tükkan Karaköy
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/683abb6a66d7036f85b434c2
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Tükkan Karaköy
+    url:
+      - >
+        https://foursquare.com/v/51a4feb07dd2bcb72f569484
+      - https://www.tukkan.com.tr
+      - https://twitter.com/tukkantr
+    tel:
+      - (0212) 245 31 31
+    latitude:
+      - '41.025324850734'
+    longitude:
+      - '28.979850187898'
+    street-address:
+      - 'Kemankeş Karamustafa Paşa Mahallesi Mumhane Caddesi No: 34'
+    locality:
+      - Beyoğlu
+    region:
+      - Istanbul
+    country-name:
+      - Turkey
+    postal-code:
+      - "34425"
+  value: >
+    https://foursquare.com/v/51a4feb07dd2bcb72f569484
+
+----
+
+Date: 2025-05-31 11:20:00
+
+----
+
+Uid: 4212
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: broken-clouds
+
+----
+
+Temperature: 22°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: 0cUI3Dxa4QEJxDkW

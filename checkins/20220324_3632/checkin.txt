@@ -55,9 +55,7 @@ Uid: 3632
 
 ----
 
-Feature-images:
-
-- apulia-edited.jpg
+Feature-images: - apulia-edited.jpg
 
 ----
 
@@ -90,3 +88,7 @@ Latitude:
 ----
 
 Longitude: 
+
+----
+
+Uuid: y1c6wz2ed4z3pirk

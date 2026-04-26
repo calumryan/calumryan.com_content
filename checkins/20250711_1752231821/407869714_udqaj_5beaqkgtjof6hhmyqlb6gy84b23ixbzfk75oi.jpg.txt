@@ -1,0 +1,29 @@
+Caption: 
+
+----
+
+Alt: 
+
+----
+
+Photographer: 
+
+----
+
+License: 
+
+----
+
+Link: 
+
+----
+
+Date: 2025-07-11 12:07
+
+----
+
+Uuid: r4ztvqwuwvgruby5
+
+----
+
+Template: feature_images

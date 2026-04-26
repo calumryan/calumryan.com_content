@@ -1,0 +1,96 @@
+Title: June 1st, 2025
+
+----
+
+Text: Checked in at Kronotrop Karaköy
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/683be755d472090967170f20
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Kronotrop Karaköy
+    url:
+      - >
+        https://foursquare.com/v/60ce3e2b9325eb0afd08d9ca
+      - https://www.kronotrop.com.tr
+    tel:
+      - 0850 460 7676
+    latitude:
+      - 41.02531
+    longitude:
+      - 28.979063
+    street-address:
+      - >
+        Kemankeş Karamustafa Paşa Mh. Karaali
+        Kaptan Sk. No:4
+    locality:
+      - Beyoğlu
+    region:
+      - Istanbul
+    country-name:
+      - Turkey
+    postal-code:
+      - "34425"
+  value: >
+    https://foursquare.com/v/60ce3e2b9325eb0afd08d9ca
+
+----
+
+Date: 2025-06-01 08:40:00
+
+----
+
+Uid: 4214
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: scattered-clouds
+
+----
+
+Temperature: 17°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: Rj8wnARLBYiEace2

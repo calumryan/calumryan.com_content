@@ -1,0 +1,95 @@
+Title: July 13th, 2025
+
+----
+
+Text: Checked in at Restaurante Puerta del Mar
+
+----
+
+Syndication: 
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Restaurante Puerta del Mar
+    url:
+      - >
+        https://foursquare.com/v/4d305d0182fd54816574b2a8
+      - >
+        https://mybakarta.com/MARISQUERIA-PUERTA-DE-MAR
+    tel:
+      - 952 96 60 87
+    latitude:
+      - '36.745309648575'
+    longitude:
+      - '-3.8757546688221'
+    street-address:
+      - Puerta del Mar
+    locality:
+      - Nerja
+    region:
+      - Andalusia
+    country-name:
+      - Spain
+    postal-code:
+      - "29780"
+  value: >
+    https://foursquare.com/v/4d305d0182fd54816574b2a8
+
+----
+
+Date: 2025-07-13 13:20:00
+
+----
+
+Uid: 
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: clear-sky
+
+----
+
+Temperature: 28°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: nqvjxj31puqtj97r

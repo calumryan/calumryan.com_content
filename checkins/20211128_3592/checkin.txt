@@ -80,3 +80,7 @@ Weather-icon: clear-sky
 ----
 
 Temperature: 2°C
+
+----
+
+Uuid: jbgx8sinu574smjo

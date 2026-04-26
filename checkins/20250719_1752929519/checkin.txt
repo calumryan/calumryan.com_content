@@ -1,0 +1,95 @@
+Title: July 19th, 2025
+
+----
+
+Text: Checked in at The Forge
+
+----
+
+Syndication: 
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - The Forge
+    url:
+      - >
+        https://foursquare.com/v/4c138369a1010f476ab04a18
+      - >
+        http://www.whitstablefishermanshuts.com/the-forge
+    tel:
+      - 07895 930504
+    latitude:
+      - '51.362149784311'
+    longitude:
+      - '1.0249101139634'
+    street-address:
+      - 1 Sea Wall
+    locality:
+      - Whitstable
+    region:
+      - Kent
+    country-name:
+      - United Kingdom
+    postal-code:
+      - CT5 1BX
+  value: >
+    https://foursquare.com/v/4c138369a1010f476ab04a18
+
+----
+
+Date: 2025-07-19 13:50:00
+
+----
+
+Uid: 
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: broken-clouds
+
+----
+
+Temperature: 21°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: svawwleh0lvrufqj

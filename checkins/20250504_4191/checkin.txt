@@ -1,0 +1,93 @@
+Title: May 4th, 2025
+
+----
+
+Text: Checked in at CHECK24
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/6817a1102eb3753d2a9098b7
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - CHECK24
+    url:
+      - >
+        https://foursquare.com/v/66d0a98c2c019c2068a9d199
+    tel:
+      - 089 24241234
+    latitude:
+      - 51.224877
+    longitude:
+      - 6.776745
+    street-address:
+      - Heinrich-Heine-Allee 53
+    locality:
+      - Dusseldorf
+    region:
+      - North Rhine-Westphalia
+    country-name:
+      - Germany
+    postal-code:
+      - "40213"
+  value: >
+    https://foursquare.com/v/66d0a98c2c019c2068a9d199
+
+----
+
+Date: 2025-05-04 19:15:00
+
+----
+
+Uid: 4191
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: few-clouds
+
+----
+
+Temperature: 13°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: 6573CdLYITS0Past

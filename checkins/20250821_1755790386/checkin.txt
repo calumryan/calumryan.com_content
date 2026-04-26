@@ -1,0 +1,97 @@
+Title: August 21st, 2025
+
+----
+
+Text: Checked in at Stockholm-Arlanda Airport (ARN) (Stockholm-Arlanda flygplats)
+
+----
+
+Syndication: 
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - >
+        Stockholm-Arlanda Airport (ARN)
+        (Stockholm-Arlanda flygplats)
+    url:
+      - >
+        https://foursquare.com/v/4af27980f964a520c2e721e3
+      - https://www.swedavia.se/arlanda
+      - https://twitter.com/arlanda
+    tel:
+      - 010-109 10 00
+    latitude:
+      - '59.65052793342'
+    longitude:
+      - '17.930974960327'
+    street-address:
+      - Arlandaleden
+    locality:
+      - Märsta
+    region:
+      - Stockholm
+    country-name:
+      - Sweden
+    postal-code:
+      - 190 45
+  value: >
+    https://foursquare.com/v/4af27980f964a520c2e721e3
+
+----
+
+Date: 2025-08-21 17:35:00
+
+----
+
+Uid: 
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: clear-sky
+
+----
+
+Temperature: 13°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: pspwppxtap5jjp2y

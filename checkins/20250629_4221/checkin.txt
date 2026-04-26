@@ -1,0 +1,91 @@
+Title: June 29th, 2025
+
+----
+
+Text: Checked in at Harrison’s Coffee
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/6860e6a0fb5f75639fd58049
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Harrison’s Coffee
+    url:
+      - >
+        https://foursquare.com/v/5de677aeef2a4900077787d3
+    tel:
+      - 07534 811220
+    latitude:
+      - 51.514357
+    longitude:
+      - -0.17529
+    locality:
+      - London
+    region:
+      - Greater London
+    country-name:
+      - United Kingdom
+    postal-code:
+      - W2 1JA
+  value: >
+    https://foursquare.com/v/5de677aeef2a4900077787d3
+
+----
+
+Date: 2025-06-29 08:10:00
+
+----
+
+Uid: 4221
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: overcast-clouds
+
+----
+
+Temperature: 20°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: iV4vy6dqsUWFYIbA

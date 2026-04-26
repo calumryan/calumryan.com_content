@@ -1,0 +1,97 @@
+Title: June 3rd, 2025
+
+----
+
+Text: Checked in at Istanbul Airport (IST) (İstanbul Havalimanı)
+
+----
+
+Syndication: https://www.swarmapp.com/user/407869714/checkin/683f0c86a968ba5fbb0a94e9
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - >
+        Istanbul Airport (IST) (İstanbul
+        Havalimanı)
+    url:
+      - >
+        https://foursquare.com/v/5bd6472831fd14002cdb2d97
+      - https://www.istairport.com
+      - https://twitter.com/igairport
+    tel:
+      - 444 1 442
+    latitude:
+      - '41.261968948036'
+    longitude:
+      - '28.742530345917'
+    street-address:
+      - Tayakadın Mah. Terminal Cad. No:1
+    locality:
+      - Arnavutköy
+    region:
+      - Istanbul
+    country-name:
+      - Turkey
+    postal-code:
+      - "34277"
+  value: >
+    https://foursquare.com/v/5bd6472831fd14002cdb2d97
+
+----
+
+Date: 2025-06-03 17:55:00
+
+----
+
+Uid: 4219
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: clear-sky
+
+----
+
+Temperature: 27°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: sWR9GfwTF0VJRcRE

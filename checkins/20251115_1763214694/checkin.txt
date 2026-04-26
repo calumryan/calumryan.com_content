@@ -1,0 +1,95 @@
+Title: November 15th, 2025
+
+----
+
+Text: Checked in at Leeds Kirkgate Market
+
+----
+
+Syndication: 
+
+----
+
+Locator: 
+
+----
+
+Location-data:
+
+- 
+  type:
+    - h-card
+  properties:
+    name:
+      - Leeds Kirkgate Market
+    url:
+      - >
+        https://foursquare.com/v/4b461664f964a520fc1526e3
+      - http://www.leedsmarkets.co.uk
+      - https://twitter.com/leedsmarkets
+    tel:
+      - 0113 214 5162
+    latitude:
+      - '53.797180703929'
+    longitude:
+      - '-1.5382403033395'
+    street-address:
+      - 28-34 George Street
+    locality:
+      - Leeds
+    region:
+      - Leeds
+    country-name:
+      - United Kingdom
+    postal-code:
+      - LS2 7HY
+  value: >
+    https://foursquare.com/v/4b461664f964a520fc1526e3
+
+----
+
+Date: 2025-11-15 13:50:00
+
+----
+
+Uid: 
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Weather-icon: fog
+
+----
+
+Temperature: 9°C
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 
+
+----
+
+Longitude: 
+
+----
+
+Uuid: bnvsoxod57tupgy0
