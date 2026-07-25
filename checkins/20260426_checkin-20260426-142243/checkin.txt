@@ -1,0 +1,76 @@
+Title: Sia Consulting
+
+----
+
+Text: Checked in at Sia Consulting
+
+----
+
+Syndication: 
+
+----
+
+Urls: 
+
+----
+
+Location-data:
+
+-
+  type:
+    - h-card
+  properties:
+    - ["Sia Consulting"]
+    - ["https://foursquare.com/v/69ec8dd02914be5a75673d3c"]
+    - [51.239155]
+    - [6.7792935]
+    - ["Germany"]
+  value: https://foursquare.com/v/69ec8dd02914be5a75673d3c
+
+----
+
+Address-data:
+
+-
+  type:
+    - h-adr
+  properties:
+    - [51.239155]
+    - [6.7792935]
+    - ["Germany"]
+
+----
+
+Date: 2026-04-26T15:22:43+02:00
+
+----
+
+Feature-images: 
+
+----
+
+Tags: 
+
+----
+
+Redirect: 
+
+----
+
+Feature-image: 
+
+----
+
+Alternative-text: 
+
+----
+
+Latitude: 51.239155
+
+----
+
+Longitude: 6.7792935
+
+----
+
+Uuid: 9qwovhkef6uamcfz
